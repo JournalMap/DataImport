@@ -35,16 +35,21 @@ try:      # Execute until/unless error encountered (most likely timeout with fet
             time.sleep(1)
             print "Checking BioStor article "+str(biostorID)+"."
             request = requests.get(urlbase+str(biostorID)+'.json')
-            json_data = request.json()
-            if json_data.get('error'): raise
-    
-            # 3.2 Check the json for coordinates
-            if json_data.get('geometry'):
-    
-                # 3.3 If coordinates, save json to local file and add ID number to list            
-                with open(outpath+'json/'+str(biostorID)+'.json','wb') as jsonFile:
-                    json.dump(json_data, jsonFile)            
-                updatelist.append(biostorID)
+            if request.status_code==200:   # traps for non-existent BioStor IDs
+                try:    # traps for returned content that isn't JSON
+                    json_data = request.json()
+                    if json_data.get('error'): raise
+            
+                    # 3.2 Check the json for coordinates
+                    if json_data.get('geometry'):
+            
+                        # 3.3 If coordinates, save json to local file and add ID number to list            
+                        with open(outpath+'json/'+str(biostorID)+'.json','wb') as jsonFile:
+                            json.dump(json_data, jsonFile)            
+                        updatelist.append(biostorID)
+                        print 'Found one with coordinates!!'
+                except:
+                    print 'Problem reading JSON for BioStorID '+str(biostorID)
     else:
         biostorID = recentID
 except:    # Write out the update list and the last record checked even if an error occurred

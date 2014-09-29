@@ -9,11 +9,12 @@ from time import sleep
 ## 0. setup pathways and constants
 
 urlbase = 'http://biostor.org/reference/'
-infile = '/Users/jason/Dropbox/JournalMap/scripts/DataImport/Biostor_import/biostor-geotagged_working.txt'
+infile = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/Biostor/BioStorUpdateList20140926.txt'
 outpath = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/BioStor/'
 saveJSON = 'TRUE'
-JSONfromWeb = 'TRUE'
-writetype = 'ab'  # use 'wb' for writing over the existing articles and locations CSV files and 'ab' for appending to existing files.
+JSONfromWeb = 'FALSE'
+writetype = 'wb'  # use 'wb' for writing over the existing articles and locations CSV files and 'ab' for appending to existing files.
+collectionkeyword = 'BioStor'  # Plant a keyword in imported articles so they can be easily added to a collection.
 
 ## 1. Fetch list of BioStor articles
 #biostorlist = [4,8,10,13,15,45,53,62,74,76,78,80,154,171,178,183,189,194,198,200,210,211,212,215,217,219,220,221,222,223,230,231,288,301,307,310,315,328,358,363,394,470,472,513,524,4057,11914,12706,13027,13052,20792,20843,40481,49862,49896,49897,52382,55117,55278,57096,62089,62348,63875,64602,64674,67469,74616,75201,95381,95413,97419,97424,99070,110264,110559,111685,112345,112365,113518,113617,113931,113932,115598,133692,135239,137036,137146,137612,140515,61,3227,95401,97273,99385,103506,103993,113849,116480,133074]
@@ -82,7 +83,7 @@ with open(outpath+'articles.csv','ab') as articlesCSV:
                 epage = pages[pages.find('-')+1:]
                 volisspg = vol+":"+pages
                 #articlelines.append([doi,journal,'',citation,title,year,first_author,authors,volisspg,vol,'',spage,epage,'','TRUE','','TRUE',url])
-                articlelines = [[doi,journal,'',citation,title,year,first_author,authors,volisspg,vol,'',spage,epage,'','TRUE','','TRUE',url]]
+                articlelines = [[doi,journal,'',citation,title,year,first_author,authors,volisspg,vol,'',spage,epage,collectionkeyword,'FALSE','','TRUE',url]]
                 articlewriter.writerows(articlelines)
                 
                 ## 3.5.  Grab the location info and write to locations array
@@ -90,7 +91,7 @@ with open(outpath+'articles.csv','ab') as articlesCSV:
                 featuretype = json_data['geometry'].get('type')
                 if locations and featuretype=='MultiPoint':  ## Dealing only with points for now (I think that's all BioStor has to date)
                     for location in locations:
-                        lat, lon = location[0], location[1]
+                        lat, lon = location[1], location[0]
                         #locationlines.append([doi,title,lon,lat,'','TRUE',str(location).strip('[]'),'Geographic Coordinate System (GCS)','FALSE','point','site','1','3','',''])
                         locationlines = [[doi,title,lon,lat,'','TRUE',str(location).strip('[]'),'Geographic Coordinate System (GCS)','FALSE','point','site','1','3','','']]
                         locationwriter.writerows(locationlines)
