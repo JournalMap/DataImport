@@ -21,15 +21,6 @@ pw = config_json['pw']
 fromaddr = config_json['fromaddr']
 toaddr = config_json['toaddr']
 
-#journallist = ['zookeys','phytokeys','biorisk','neobiota','jhr','ijm','compcytogen','subtbiol','natureconservation','mycokeys','zse','dez','nl','ab']
-#urlbase = 'http://bdj.pensoft.net/lib/journal_archive.php?journal='
-#outpath = '/Users/jason/Downloads/'
-#user = 'jakal14@gmail.com'
-#pw = 'asgyuckadibjqymu'
-#fromaddr = 'jakal14@gmail.com'
-#toaddr = 'jkarl@nmsu.edu'
-#toaddr = ['jkarl@nmsu.edu', 'jgillan@nmsu.edu']
-
 ## Fetch the last date the script was run
 with open(paramsfile,'rb') as pFile:
     param_json = json.load(pFile)
@@ -41,9 +32,10 @@ urldate = lastDate.replace('-','%2F')
 ## Grab any new content from Pensoft
 for journal in journallist:
     r = requests.get(urlbase+journal+'&date='+urldate)
-    output = open(outpath+journal+'-'+lastDate+'.zip', 'w')
-    output.write(r.content)
-    output.close()
+    if len(r.content)>14:
+        output = open(outpath+journal+'-'+lastDate+'.zip', 'w')
+        output.write(r.content)
+        output.close()
 
 
 ## Update the params file with the new date

@@ -8,9 +8,22 @@ import time
 
 # Setup 
 paramsfile = 'UpdateHistory.json'
-urlbase = 'http://biostor.org/reference/'
-outpath = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/BioStor/'
-outfilebase = 'BioStorUpdateList'
+configfile = 'BioStorUpdate.config'
+#urlbase = 'http://biostor.org/reference/'
+#outpath = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/BioStor/'
+#outfilebase = 'BioStorUpdateList'
+
+## Read the config file
+with open(configfile, 'rb') as pFile:
+    config_json = json.load(pFile)
+urlbase = config_json['urlbase']
+outpath = config_json['outpath']
+outfilebase = config_json['outfilebase']
+user = config_json['user']
+pw = config_json['pw']
+fromaddr = config_json['fromaddr']
+toaddr = config_json['toaddr']
+
 updatelist = []
 
 # 1. Grab the BioStor RSS feed and find the most recent article ID number
@@ -67,5 +80,21 @@ param_json['updates'].append(update)
     
 with open(paramsfile,'wb') as pFile:
     json.dump(param_json, pFile)
+
+# Send notification email
+msg = MIMEMultipart()
+msg['From'] = 'JournalMap <'+fromaddr+'>'
+msg['To'] = ', '.join(toaddr)
+msg['Subject'] = 'Auto Notification: New BioStor content ready for JournalMap import'
+body = "New BioStor articles with geographic coordinates have been identified and the JSON files downloaded to the XML Storage drive and are ready to be imported to JournalMap. \n\n This message was created automatically by SkyNet on behalf of JournalMap. You can't hide. There is no hope. JournalMap is taking over the world..."
+msg.attach(MIMEText(body,'plain'))
+text = msg.as_string()
+
+server = smtplib.SMTP('smtp.gmail.com','587')
+server.starttls()
+server.login(user,pw)
+server.sendmail(fromaddr,toaddr,text)
+server.quit()
+
 
 print "Finished!"
