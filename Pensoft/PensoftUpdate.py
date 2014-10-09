@@ -1,7 +1,6 @@
 ### PensoftUpdate.py
 ### Script for downloading and saving Pensoft content XML files from their API for a given date to present.
 
-
 import requests, time, json, smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText

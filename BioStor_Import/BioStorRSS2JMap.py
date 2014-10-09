@@ -2,7 +2,6 @@
 ## Importer to return ID numbers of recent BioStor articles that have geotagged locations
 ## Recent is defined as occurring since the last time this script was run (previous date is cached in a file)
 
-
 import feedparser, json, requests
 import time
 
