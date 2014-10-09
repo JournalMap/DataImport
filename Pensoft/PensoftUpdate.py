@@ -66,7 +66,7 @@ body = "New Pensoft articles have been downloaded to the XML Storage drive and a
 msg.attach(MIMEText(body,'plain'))
 text = msg.as_string()
 
-server = smtplib.SMTP('smtp.gmail.com:587')
+server = smtplib.SMTP('smtp.gmail.com','587')
 server.starttls()
 server.login(user,pw)
 server.sendmail(fromaddr,toaddr,text)
