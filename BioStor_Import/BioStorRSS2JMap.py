@@ -4,6 +4,8 @@
 
 import feedparser, json, requests, smtplib
 import time
+from email.MIMEMultipart import MIMEMultipart
+from email.MIMEText import MIMEText
 
 # Setup 
 paramsfile = 'UpdateHistory.json'
