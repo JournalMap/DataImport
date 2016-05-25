@@ -58,7 +58,7 @@ try:      # Execute until/unless error encountered (most likely timeout with fet
                     if json_data.get('geometry'):
             
                         # 3.3 If coordinates, save json to local file and add ID number to list            
-                        with open(outpath+'json/'+str(biostorID)+'.json','wb') as jsonFile:
+                        with open(outpath+'/json/'+str(biostorID)+'.json','wb') as jsonFile:
                             json.dump(json_data, jsonFile)            
                         updatelist.append(biostorID)
                         print 'Found one with coordinates!!'

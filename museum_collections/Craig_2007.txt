@@ -1,0 +1,2772 @@
+A molecular phylogeny of the groupers of the subfamily 
+Epinephelinae (Serranidae) with a revised classiﬁ cation of 
+the Epinephelini
+
+Matthew T. Craig** and Philip A. Hastings
+
+Scripps Institution of Oceanography, Marine Biology Research Division, 9500 Gilman Dr., La Jolla, CA 92093-0208, USA
+* Present address: Hawaii Institute of Marine Biology, P.O. Box 1346, Kaneohe, HI 96744, USA (e-mail: mtcraig@hawaii.edu)
+
+Received: September 20, 2005 / Revised: July 12, 2006 / Accepted: July 21, 2006
+
+Ichthyological
+
+Research
+
+©The Ichthyological Society of Japan 2007
+
+Ichthyol Res (2007) 54: 1–17
+DOI 10.1007/s10228-006-0367-x
+
+Abstract  The phylogenetic relationships among the ﬁ shes in the perciform tribe Epinephelini (Ser-
+ranidae) have long been poorly understood, in large part because of the numerous taxa that must be 
+considered and the large, circumtropical distribution of the group. In this study, genetic data from two 
+nuclear (Tmo-4C4 and histone H3) and two mitochondrial (16S and 12S) genes were gathered from 
+155 serranid and acanthomorph species as a means of developing a phylogenetic hypothesis using both 
+maximum-likelihood and -parsimony criteria. The maximum-parsimony analysis recovered 675 most 
+parsimonious trees of length 5703 steps (CI = 0.2523, HI = 0.7477, RI = 0.6582), and the maximum-
+likelihood analysis recovered 1 tree at −lnLikelihood = 28279.58341. These phylogenetic hypotheses 
+are discussed in light of previous morphological evidence to evaluate the evolutionary history of the 
+group and their implications for the currently recognized taxonomy. Our results question the mono-
+phyly of the Serranidae, as well as the genera Cephalopholis, Epinephelus, and Mycteroperca as cur-
+rently deﬁ ned. The Serranidae is monophyletic only with the exclusion of the genera Acanthistius and 
+Niphon. We propose a revised classiﬁ cation of the tribe Epinephelini that reﬂ ects the hypothesized 
+shared ancestry of the group and recognizes 11 genera: Alphestes, Cephalopholis, Dermatolepis, Epi-
+nephelus, Gonioplectrus, Hyporthodus (which is resurrected for 11 species of deep-bodied groupers), 
+Mycteroperca (including 7 species heretofore allocated to Epinephelus), Plectropomus, Saloptia, Triso, 
+and Variola.
+
+Key words  Epinephelus · Cephalopholis · Mycteroperca · Perciformes · Molecular phylogeny
+
+The family Serranidae is a group of carnivorous marine 
+
+ﬁ shes  that  inhabit  tropical  and  subtropical  waters 
+worldwide. Although more-recent systematic treatments of 
+the  family  have  provided  a  reasonable  classiﬁ cation,  the 
+family has traditionally been used as a convenient pigeon-
+hole  for  lower  percoid  ﬁ shes  whose  afﬁ nities  are  unclear. 
+Few studies exist that conﬁ dently place the Serranidae with-
+in the larger context of percoid relationships. Imamura and 
+Yabe (2002) proposed a novel placement of the Serranidae 
+within  a  new  perciform  suborder  Scorpaenoidei  that  in-
+cludes the Serranidae (as the Serranoidea) and the scorpae-
+noid  lineage  (as  the  Scorpaenoidea),  thus  separating  the 
+“scorpaenoid”  and  “cottoid”  scorpaeniform  lineages  into 
+two  separate  perciform  suborders.  Other  recent  studies 
+(e.g., Dettai and Lecointre, 2004, 2005; Smith and Wheeler, 
+2004)  were  unable  to  demonstrate  the  monophyly  of  the 
+Serranidae or conﬁ dently place it within the larger acantho-
+morph bush.
+
+Our understanding of relationships within the Serranidae 
+has  been  equally  tenuous.  Jordan  and  Eigenmann  (1890) 
+were the ﬁ rst to attempt to resolve the relationships within 
+the Serranidae by deﬁ ning six subfamilies: Serraninae, Epi-
+
+nephelinae,  Anthiinae,  Grammistinae,  Latinae,  and  Per-
+cichthyinae. Katayama (1959) provided a thorough review 
+of  the  Japanese  serranids,  recognizing  15  subfamilies  and 
+reorganizing the family, setting the stage for nearly all sub-
+sequent revisions. The ﬁ rst attempt to deﬁ ne a natural (phy-
+logenetic)  classiﬁ cation  of  the  family  came  with  Gosline 
+(1966), who restricted the Serranidae to Jordan and Eigen-
+mann’s  (1890)  Anthiinae,  Epinephelinae,  and  Serraninae. 
+Kendall (1976, 1979) agreed that Jordan and Eigenmann’s 
+(1890) Serraninae, Epinephelinae, and Anthiinae were nat-
+ural groups; however, he included the subfamily Grammisti-
+nae based on number and orientation of predorsal bones, 
+which are similar to those of the Epinephelinae of Jordan 
+and  Eigenmann  (1890).  Within  this  group,  Kendall  (1976, 
+1979)  included  Jordan  and  Eigenmann’s  (1890)  liopropo-
+mines  and  grammistids.  Gosline’s  hypothesis  of  a 
+restricted Serranidae was corroborated by Johnson (1983), 
+who  also  placed  Kendall’s  Grammistinae 
+the 
+Epi nephelinae.  Johnson  (1983)  diagnosed  a  monophyletic 
+Epinephelinae based upon the derived feature of loss of an 
+autogenous distal radial on the ﬁ rst dorsal-ﬁ n pterygiophore. 
+In  this  diagnosis,  Johnson  also  included  the  enigmatic 
+
+into 
+
+2 
+
+M.T. Craig and P.A. Hastings
+
+Niphon  spinosus,  which  he  hypothesized  to  be  the  sister-
+group of all other Epinephelinae. Johnson (1983, 1988) di-
+vided the Epinephelinae into the ﬁ ve tribes Niphonini, Epi-
+nephelini, Diploprionini, Liopropromini, and Grammistini, 
+while Baldwin and Johnson (1993) proposed relationships 
+among these tribes and demonstrated their monophyly.
+
+The  tribe  Epinephelini  (sensu  Johnson,  1983)  is  one  of 
+the most speciose percoid assemblages, with hypothesized 
+monophyly  comprising  more  than  150  species  (Nelson, 
+1994).  Johnson’s  (1983)  Epinephelini  includes  the  genera 
+Aethaloperca,  Alphestes,  Anyperodon,  Cephalopholis, 
+Cromileptes,  Dermatolepis,  Epinephelus,  Gonioplectrus, 
+Gracila, Mycteroperca, Paranthias, Plectropomus, Saloptia, 
+Triso, and Variola. Johnson’s Grammistini includes the gen-
+era  Aporops,  Grammistes,  Grammistops,  Pogonoperca, 
+Pseudogramma,  Rypticus,  and  Suttonia.  Johnson  (1983) 
+also  considered  Aulacocephalus,  Belonoperca,  and  Diplo-
+prion to be distinctive and allocated them to the tribe Dip-
+loprionini.  Johnson’s  (1983)  Liopropomini  includes  the 
+genera Liopropoma, Rainfordia, and Jeboehlkia, while his 
+Niphonini is monotypic and restricted to N. spinosus. Bald-
+win  and  Johnson  (1993)  reassigned  Jeboehlkia  from  the 
+Liopropomini to the Grammistini.
+
+Since  Johnson  (1983,  1988)  and  Baldwin  and  Johnson 
+(1993), few systematic studies have been undertaken to re-
+solve  the  relationships  or  conﬁ rm  the  monophyly  of  the 
+subfamily Epinephelinae or its included genera. Craig et al. 
+(2001)  presented  the  ﬁ rst  molecular  analysis  of  the  group 
+and  provided  evidence  for  a  monophyletic  Epinephelinae 
+and  a  paraphyletic  Cephalopholis  and  Epinephelus.  That 
+study, however, was a preliminary analysis and was based 
+on a limited number of taxa. In the current study, we used 
+DNA sequence data from two mitochondrial and two nu-
+clear  genes  from  155  species  of  serranids  and  other  acan-
+thomorphs as a means of expanding the study of Craig et 
+al.  (2001).  Herein,  we  (1)  show  that  the  Serranidae  as 
+currently deﬁ ned are polyphyletic; (2) discuss the interrela-
+tionships  of  the  various  tribes  within  the  subfamily  Epi-
+nephelinae;  (3)  demonstrate  the  paraphyly  of  the  genera 
+Cephalopholis, Epinephelus, and Mycteroperca as currently 
+deﬁ ned; and (4) discuss the nomenclatural implications of 
+these ﬁ ndings.
+
+Materials and Methods
+
+Specimens were collected in the ﬁ eld by various means in-
+cluding spear pole, hook-and-line, and anesthetic, or were 
+purchased from ﬁ sh markets at or near the collecting local-
+ity,  or  were  purchased  from  the  live  aquarium  trade.  Fin 
+clips,  gill  clips,  and/or  muscle  tissue  were  removed  from 
+each individual and stored in either 5× net solution (Craig 
+et al., 2001) or 70%–90% ethanol. When available, voucher 
+specimens  were  deposited  at  the  Scripps  Institution  of 
+Oceanography  Marine  Vertebrate  Collection  (Appendix 
+1).  Other  tissues  were  obtained  through  various  museum 
+collections  that  maintain  frozen  or  ethanol-preserved  col-
+lections or from local contacts. Institutional abbreviations 
+follow  Leviton  et  al.  (1985).  When  no  voucher  specimen 
+
+was available, a photo voucher was retained by the author 
+(M.T.C.) or the collector. One to 3 individuals per species 
+were  sequenced  depending  on  availability  to  assess  vari-
+ability  of  the  sequences  within  species.  The  individual  se-
+quences  were  inspected  for  signiﬁ cant  differences  and,  if 
+none or few were present, a consensus sequence was used 
+in the ﬁ nal analysis. Overall, tissue samples were obtained 
+for 155 species. Of these, we collected representatives of 24 
+of  the  30  epinepheline  genera  and  24  species  of  acantho-
+morph outgroups (see Appendix 1). Within the tribe Epi-
+nephelini, these included 68 of 99 species of  Epinephelus, 
+14 of 15 species of Mycteroperca, 16 of 22 species of Cepha-
+lopholis,  5  of  7  species  of  Plectropomus,  all  currently  de-
+scribed species of Alphestes, Dermatolepis, Paranthias, and 
+Variola, and the monotypic genera Aethaloperca, Anyper-
+odon, Cromileptes, Gracila, Saloptia, and Triso. The Liop-
+ropomini was represented by 2 species of Liopropoma, the 
+Diploprionini by Diploprion bifasciatum and Belonoperca 
+chabanaudi, and the Grammistini by species in the genera 
+Aporops,  Grammistes,  Pogonoperca,  Pseudogramma, 
+Rypticus, and Suttonia. The monotypic Niphonini was rep-
+resented  by  N.  spinosus.  Several  outgroups  were  selected 
+from  the  Acanthomorpha  as  few  molecular  studies 
+exist  that  conﬁ dently  place  the  Serranidae  within  the 
+larger  context  of  the  acanthomorph  tree.  The  parsimony 
+tree  was  rooted  with 
+the  beryciform  Hoplostethus 
+meditteraneus.
+
+Total DNA was isolated from tissues using the DNeasy 
+nucleic  acids  isolation  kit  (Qiagen,  Rockville,  MD,  USA) 
+following the manufacturer’s instructions. The polymerase 
+chain reaction (PCR) was used to amplify portions of two 
+mitochondrial  (16S  and  12S)  and  two  nuclear  (Tmo-4C4 
+and histone H3) genes (1838 bp). Primer pairs are listed in 
+Table 1. PCR reactions using 25 µl were prepared following 
+manufacturer’s  instructions  included  with  the  RedTaq 
+Readymix (Sigma-Aldrich, St. Louis, MO, USA) with the 
+addition  of  10 pmol  of  each  primer  and  5–50 ng  template 
+DNA. Following an initial denaturation at 94ºC for 1 min, 
+each reaction was subjected to 35 rounds of the following 
+thermal cycling conditions: 94ºC for 30 s, 46ºC for 30 s, and 
+72ºC for 1 min. PCR products were “cleaned” using Milli-
+pore Montage PCR cleanup plates following manufacturer’s 
+protocols.
+
+Sequence data were generated on a MegaBace 500 auto-
+mated  sequencer.  Sequence  reactions  were  prepared  fol-
+lowing manufacturer’s instructions for the ET Terminator 
+chemistry with the addition of 5 pmol primer [GE Health-
+care (formerly Amersham-Biosciences), Buckinghamshire, 
+UK]. Sequences were generated for both the forward and 
+reverse directions. In the event of ambiguous base calls or 
+heterozygosity  in  nuclear  genes,  bases  were  coded  using 
+IUPAC ambiguity codes in the ﬁ nal analysis. All sequences 
+were deposited in GenBank, and the accession numbers are 
+given in Appendix 1.
+
+Sequence data were edited for miscalls and/or polymor-
+phism using Sequencher version 4.2. Edited sequences were 
+aligned  using  Clustal  X  with  default  settings  (Thompson 
+et  al.,  1997).  The  alignment  was  visually  optimized  using 
+MacClade version 3.07 (Maddison and Maddison, 1997). A 
+
+Molecular phylogeny of groupers 
+
+3
+
+Table 1.  Sequencing and polymerase chain reaction (PCR) primers
+
+Primer name 
+
+Gene 
+
+Sequence 
+
+Reference
+
+16Sar-L 
+16Sbr-H 
+12Sa 
+12Sb 
+H3A-L 
+H3B 
+TMO-F1-5′ 
+TMO-R1-5′ 
+
+16S 
+16S 
+12S 
+12S 
+Histone III 
+Histone III 
+TMO4C4 
+TMO4C4 
+
+5′-cgcctgtttatcaaaaacat-3′ 
+5′-ccggtctgaactcagatcacgt-3′ 
+5′-aaactgggattatagaccccactat-3′ 
+5′-gagggtgacgggcggtctct-3′ 
+5′-atggctcgtaccaagcagacvgc-3′ 
+5′-atatccttrggcatratrgtgac-3′ 
+5′-cctccggccttcctaaaacctctc-3′ 
+5′-catcgtgctcctgggtgacaaagt-3′ 
+
+Palumbi (1996)
+Palumbi (1996)
+Palumbi (1996)
+Palumbi (1996)
+Colgan et al. (1998)
+Colgan et al. (1998)
+Streelman and Karl (1997)
+Streelman and Karl (1997)
+
+partition homogeneity test was used to determine the suit-
+ability of the four genes for use in a combined dataset. In 
+some instances, PCR failed to amplify one or more genes 
+for a particular taxon (see Appendix 1). In these instances, 
+data were treated as missing (“?”) in the ﬁ nal dataset.
+
+Phylogenetic  analyses  were  performed  using  PAUP* 
+4.0b10. Because of the large number of taxa and bases lead-
+ing to computational constraints, the parsimony ratchet of 
+Nixon (1999) was employed using the batch ﬁ le created by 
+PaupRat version 1b (Sikes and Lewis, 2001). Ten rounds of 
+the ratchet were each performed using default settings (200 
+ratchets). All trees with the lowest tree score were retained 
+from  each  ratchet.  Each  shortest  tree  was  found  to  have 
+identical length and topology; thus, one representative tree 
+was submitted to PAUP*4.0b10 for a ﬁ nal round of branch 
+swapping (TBR). Finally, a consensus of all most parsimo-
+nious  trees  was  created  in  PAUP*4.0b10.  Similarly,  the 
+likelihood  ratchet  was  implemented  in  PAUP*  using  the 
+batch  ﬁ le  created  by  Vos  (2003).  The  program  Modeltest 
+version 3.6 (Posada and Crandall, 1998) was used to deter-
+mine which model of nucleotide substitution best explained 
+the  data  using  Aikake  information  criteria  (AIC).  Ten 
+rounds of the likelihood ratchet were performed using de-
+fault  settings  except  that  the  HKY85+I+G  substitution 
+model was used as determined by Modeltest version 3.6. All 
+trees with the best likelihood score were retained. For the 
+parsimony  analysis,  gaps  were  treated  as  a  “ﬁ fth  base.” 
+Relative  support  at  nodes  was  evaluated  using  the  boot-
+strap as implemented in PAUP*4.0b10 using 1000 replicates 
+and saving a maximum of 1000 trees per replicate for the 
+parsimony  analysis.  Computational  constraints  prohibited 
+bootstrapping of the likelihood dataset.
+
+Results
+
+Overall, 1900 bases were sequenced from the mitochondrial 
+16S, 12S, and the nuclear Tmo-4C4 and histone H3 genes. 
+In nearly all cases, within-species variability was negligible 
+(<0.5%).  Sixty-two  bases  could  not  be  aligned  unambigu-
+ously and were deleted. Of the ﬁ nal 1838 bases, 1011 were 
+constant, 176 were parsimony uninformative, and 651 were 
+parsimony informative. The partition homogeneity test did 
+not support the combination of the four gene datasets (P = 
+0.01); however, this test has been shown to produce incon-
+sistent results when used with molecular data, particularly 
+
+when variable rates of evolution among genes are apparent 
+(Dolphin et al., 2000). As these nuclear and mtDNA genes 
+are most certainly evolving at different rates, we chose to 
+combine the datasets for the ﬁ nal analyses. The ten rounds 
+of the parsimony ratchet algorithm found 7 trees of length 
+5703 steps [consistency index (CI) = 0.2523, homoplasy in-
+dex  (HI)  =  0.7477,  retention  index  (RI)  =  0.6582].  These 
+trees were identical, and a ﬁ nal round of branch swapping 
+on 1 of them found 675 equally parsimonious trees. A strict 
+consensus  of  these  675  trees  is  presented  in  Fig.  1.  The 
+maximum-likelihood (ML) algorithm found 1 tree with only 
+minor  differences  in  topology  from  the  parsimony  trees 
+(–lnLikelihood = 28279.58341; Fig. 2).
+
+Both tree construction methods found similar topologies 
+with only minor differences at deeper nodes, most notably 
+the placement of Liopropoma (see Discussion). Some dif-
+ferences were also apparent at tip clades, most of which re-
+ﬂ ected  the  increased  resolution  afforded  by  ML  analyses. 
+Both  analyses  supported  a  monophyletic  Serranidae  with 
+the exclusion of the genera Acanthistius and Niphon, while 
+the maximum-parsimony (MP) analysis supported serranid 
+monophyly  with  the  addition  of  Cirrhitus  (Cirrhitidae). 
+Both  analyses  also  supported  the  monophyly  of  the  Epi-
+nephelinae  with  the  exclusion  of  Niphon.  The  genus  Epi-
+nephelus  formed  two  distinct  clades  in  both  ML  and  MP 
+analyses. Separated by a clade containing the genus Mycte-
+roperca and several species currently allocated to Epineph-
+elus, the two main Epinephelus clades reﬂ ect a paraphyletic 
+nature  for  the  genus  as  currently  diagnosed.  The  genus 
+Cephalopholis  also  formed  two  distinct,  monophyletic 
+groups  with  the  addition  of  species  currently  allocated  to 
+Paranthias,  Gracila,  and  Aethaloperca.  The  genera  Al-
+phestes and Dermatolepis formed two clades that were sister 
+to  one  another.  Saloptia  formed  a  sister  relationship  to  a 
+monophyletic Plectropomus. Variola was found to be mono-
+phyletic, while the monotypic Triso occupied a position that 
+was sister to Epinephelus and Mycteroperca in the MP anal-
+ysis, yet embedded within a basal grouper clade in the ML 
+analysis.
+
+Discussion
+
+The  genetic  data  gathered  here  from  both  nuclear  and 
+mitochondrial  genes  support  the  previously  hypothesized 
+paraphyly  of  the  genera  Cephalopholis,  Epinephelus,  and 
+
+Fig. 1.  Strict consensus of 675 most parsimonious trees of length 5703 steps (CI = 0.2523, HI = 0.7477, RI = 0.6582) for 155 species of acantho-
+morph ﬁ shes. Numbers above nodes are bootstrap values based on 1000 replicates. Proposed generic designations are shown at right
+
+Molecular phylogeny of groupers 
+
+5
+
+Fig. 2.  Maximum-likelihood tree (–lnLikelihood = 28279.58341) for 155 species of acanthomorph ﬁ shes. Proposed generic designations are shown 
+at right
+
+6 
+
+M.T. Craig and P.A. Hastings
+
+Mycteroperca (Craig et al., 2001). The data also support a 
+monophyletic  Serranidae  only  with  the  exclusion  of  the 
+genera Niphon and Acanthistius. Maximum-parsimony cri-
+teria yielded a monophyletic Serranidae with the inclusion 
+of Cirrhitus, a result inconsistent with other recent molecu-
+lar  studies  (e.g.,  Dettai  and  Lecointre,  2005;  Smith  and 
+Wheeler,  2004)  that  was  not  recovered  in  our  maximum-
+likelihood analysis. There is no other evidence to support 
+the  inclusion  of  Cirrhitus  in  the  Serranidae,  and  we  con-
+clude that the maximum-parsimony result may be a conse-
+quence of long-branch attraction. Our results also suggest 
+that  the  American  groupers  do  not  form  a  monophyletic 
+group  as  hypothesized  by  Smith  (1971),  and  that  the 
+subgenera  of  Epinephelus  designated  by  him  are  not 
+monophyletic.
+
+Limits  of  the  Serranidae.  The  Serranidae  was  deﬁ ned 
+and diagnosed by Johnson (1983) based on the presence of 
+three reductive specializations (absence of a posterior uro-
+neural,  absence  of  the  procurrent  spur,  and  absence  of  a 
+third preural cartilage) and one derived feature (presence 
+of three opercular spines). Johnson (1983) also provided the 
+ﬁ rst  phylogenetic  (cladistic)  analysis  aiming  to  determine 
+relationships among serranid ﬁ shes including the Epineph-
+elinae. In that study, Johnson (1983) presented morphologi-
+cal  data  supporting  a  monophyletic  Serranidae  and  Epi-
+nephelinae. That study also placed the enigmatic N. spino-
+sus  as  a  primitive  sister-group  to  all  other  epinephelines 
+based on a single reductive character, loss of an autogenous 
+distal  radial  in  the  ﬁ rst  dorsal-ﬁ n  pterygiophore.  The 
+presence  of  three  opercular  spines  in  Niphon  added 
+weight to its placement in the Serranidae. Further corrobo-
+rative  evidence  came  upon  examination  of  the  larvae  of 
+Niphon,  which  possess  a  modiﬁ cation  of  the  dorsal-ﬁ n 
+pterygiophores, similar to the condition seen in other epi-
+nephelines,  which  is  presumably  an  aid  in  supporting  the 
+elongate larval dorsal-ﬁ n spine typical of larvae of the sub-
+family  (Johnson,  1988).  Before  this,  the  relationships  of 
+Niphon were controversial. Jordan (1923) placed Niphon in 
+a  monotypic  family,  yet  most  subsequent  authors  treated 
+Niphon  as  a  serranid  with  uncertain  afﬁ nities  (e.g.,  Berg, 
+1940;  Katayama,  1959;  McCully,  1961;  Norman,  1966; 
+Greenwood et al., 1966). Gosline (1966), however, removed 
+Niphon from the Serranidae and placed it within the Per-
+cichthyidae,  based  in  part  on  the  presence  of  a  serrated 
+lacrimal, which is not present in the Serranidae. Greenwood 
+(1977)  hypothesized  that  Niphon  would  eventually  be 
+placed into a group with close afﬁ nities to Gosline’s (1966) 
+Percichthyidae. Otero (2005) discussed morphological simi-
+larities between Niphon and members of the Latidae, pre-
+senting some evidence for the removal of this genus from 
+the Serranidae.
+
+Although the third opercular spine in Niphon and associ-
+ated  larval  characters  discussed  by  Johnson  (1983,  1988) 
+would  seem  to  indicate  a  close  afﬁ nity  to  the  Serranidae 
+(especially  the  Epinephelinae),  other  morphological  evi-
+dence,  combined  with  the  genetic  data  herein,  does  not 
+support its inclusion in the Serranidae. Although relatively 
+uncommon  among  percoids,  three  opercular  spines  are 
+present in some non-serranids, including the epigonid Sphy-
+
+raenops,  and  two  trachinids  (Echiichthys  and  Trachinus; 
+Johnson, 1983). Additionally, the three-spine condition in 
+Niphon only superﬁ cially resembles that in serranids such 
+as Paralabrax. In Niphon, the three spines are elongate and 
+thin, forming distinct projections from the posterior margin 
+of the opercle. In Paralabrax and other serranids, it is often 
+difﬁ cult to establish the presence of all three spines, espe-
+cially the ventralmost, as they more closely resemble broad 
+ﬂ anges than distinct projections.
+
+Other morphological characters distinguish Niphon from 
+the  Serranidae.  The  dorsal  ﬁ n  of  serranids  typically  has 
+fewer than 11 spinous rays; among Johnson’s (1983) serra-
+nids,  only  Niphon  and  Acanthistius  possess  13  dorsal-ﬁ n 
+spines  (Acanthistius  may  have  11–13  dorsal-ﬁ n  spines; 
+Heemstra and Heemstra, 2004). Although extremely vari-
+able in some percoids, vertebral number also sets Niphon 
+apart  from  other  serranids.  Most  serranids  have  24  verte-
+brae  (the  subfamily  Anthiinae  and  Acanthistius  have  26; 
+Nelson,  1994;  Johnson,  1983);  however,  Niphon  has  30. 
+Last, Greenwood (1977) indicated that in Niphon the “cau-
+dal  skeleton  is  virtually  identical  with  that  in  the  percich-
+thyids.”  He  based  this  conclusion  on  the  presence  of  two 
+uroneurals (serranids have only one, due to either a loss of 
+one or a fusion of two elements). Although these uroneu-
+rals are fused in Niphon (Greenwood, 1977; Johnson, 1983), 
+this condition may represent an autapomorphy if the typical 
+serranid condition is indeed the result of a loss of the second 
+element. Although we have not attempted to polarize the 
+morphological characters just discussed, they may support 
+exclusion  of  Niphon  from  the  Serranidae  upon  further 
+investigation.
+
+Our genetic data place Niphon in a clade including Acan-
+thistius and members of the Percidae (see Fig. 1). Although 
+we do not propose a close relationship between Niphon and 
+the percids, these results indicate that the genus should not 
+be  considered  a  serranid.  It  is  likely  that  additional  sam-
+pling of acanthomorphs will reveal the true afﬁ nities of Ni-
+phon. Indeed, additional genetic data (Smith and Craig, in 
+preparation) place Niphon in a clade that includes relatively 
+distant acanthomorphs.
+
+The afﬁ nities of Acanthistius are even less clear. Placed 
+in the Epinephelinae by Jordan and Eigenmann (1890), and 
+later in the Serraninae (Johnson, 1983; Kendall, 1984), the 
+genus has most recently been regarded as a member of the 
+Anthiinae  (Heemstra  and  Randall,  1986;  Meisler,  1987; 
+Heemstra  and  Heemstra,  2004).  Although  Meisler  (1987) 
+provided  some  morphological  evidence  for  the  placement 
+of Acanthistius within the Anthiinae, he noted that its place-
+ment within the Serranidae remained tenuous. Members of 
+this  genus  do  possess  three  moderate  opercular  spines 
+and  some  reductive  specializations  that  characterize  the 
+Serranidae. However, they, similar to Niphon, have greater 
+numbers  of  dorsal-ﬁ n  spines  (11–13)  and  vertebrae  (26; 
+Johnson,  1983;  Nelson,  1994).  Although  an  expanded 
+morphological analysis of basal percomorphs is needed to 
+establish  the  polarity  of  these  morphological  characters, 
+results from our genetic analysis predict that further study 
+will demonstrate that the afﬁ nities of Acanthistius, as well 
+as those of Niphon, lie outside the Serranidae.
+
+Molecular phylogeny of groupers 
+
+7
+
+Relationships  within  the  Serranidae.  Beginning  with 
+Jordan and Eigenmann (1890), three subfamilies of serranid 
+ﬁ shes  have  long  been  recognized:  Anthiinae,  Epinepheli-
+nae, and Serraninae. Our genetic data corroborate a mono-
+phyletic subfamily Epinephelinae (sensu lato) with the ex-
+clusion of Niphon and Acanthistius (see above). Although 
+the anthiine and serranine representatives included in our 
+analysis  are  both  monophyletic,  greater  taxonomic  sam-
+pling within these lineages is needed to adequately test their 
+monophyly.
+
+Relationships between the subfamilies of the Serranidae 
+are  not  well  corroborated.  In  their  hypothesis  based  on 
+morphology, Baldwin and Johnson (1993) recognized that 
+their  interrelationships  were  largely  unresolved,  yet  pre-
+sented some evidence that the Anthiinae are sister to the 
+Epinephelinae  and  that  the  Serraninae  are  sister  to  these 
+two.  However,  their  hypothesis  of  interrelationships  was 
+based upon the supposition that Acanthistius and Trachy-
+poma are primitive anthiines and that Niphon represents a 
+primitive epinepheline. Our molecular analysis presents an 
+alternative  hypothesis  of  relationships  among  these  sub-
+families, suggesting that the Serraninae and Anthiinae have 
+a sister-group relationship and that this clade is sister to the 
+Epinephelinae (see Figs. 1, 2). The exclusion of Acanthistius 
+and Niphon from the Serranidae (as indicated in the data 
+presented here) necessitates a reinterpretation of Baldwin 
+and  Johnson’s  (1993)  data,  because  the  polarity  of  many 
+characters  would  be  based  on  genera  outside  the  family. 
+Our data, however, do corroborate a monophyletic subfam-
+ily Epinephelinae (sensu lato) with the exclusion of Niphon 
+and Acanthistius (see foregoing discussion).
+
+Relationships  within  the  Epinephelinae.  Recent  au-
+thors have recognized four tribes within the Epinephelinae 
+in addition to the Niphonini (discussed earlier). Our genetic 
+data support the monophyly of the Epinephelini as well as 
+that  of  the  remaining  tribes.  Baldwin  and  Johnson  (1993) 
+evaluated relationships of the tribes within the Epinepheli-
+nae  based  on  a  cladistic  analysis  of  morphological  data. 
+They  hypothesized  that  the  Grammistini  are  sister  to  the 
+Liopropomini, the Diploprionini are sister to these two, and 
+the  Epinephelini  are  sister  to  all  three.  Our  genetic  data 
+support their hypothesis, with the Epinephelini and Diplo-
+prionini  +  Grammistini  +  Liopropomini  forming  two  dis-
+tinct,  monophyletic  lineages  in  the  ML  analysis.  A  close 
+relationship between the Liopropomini and the grammistin 
++ diploprionin clades has been hypothesized based on mor-
+phological data (Kendall, 1979; Johnson, 1983). In our MP 
+analysis,  the  Liopropomini  is  sister  to  the  soapﬁ sh  tribes 
+Diploprionini,  Grammistini,  and  Epinephelini,  whereas  in 
+the  ML  analysis  the  Liopropomini  are  nested  within  the 
+soapﬁ shes. These alternative hypotheses for the placement 
+of  the  Liopropomini  are  largely  unresolveable  in  the  cur-
+rent  analyses  yet  support  a  close  relationship  among  the 
+Liopropmini, Grammistini, and Diploprionini.
+
+The placement of the Liopropomini poses an interesting 
+question  regarding  the  evolution  of  the  skin  toxin  gram-
+mistin, which is present in both soapﬁ sh tribes (Diplopro-
+nini  and  Grammistini).  The  chemical  properties  of  this 
+toxin  have  been  discussed  in  detail  (Randall  et  al.,  1971; 
+
+Oshima  et  al.,  1974;  Shiomi  et  al.,  2000;  Sugiyama  et  al., 
+2005). Baldwin and Johnson (1993) noted that those species 
+traditionally  called  soapﬁ shes  (Grammistes,  Grammistops, 
+Pogonoperca,  and  Rypticus)  not  only  have  grammistin  in 
+epidermal  cells,  but  also  in  specialized  dermal  glands,  a 
+feature unique to them. They hypothesized that the epider-
+mal  toxin  was  independently  derived  in  the  Grammistini 
+and  Diploprionini,  with  a  subsequent  loss  within  some 
+members  of  the  Grammistini  (Aporops,  Pseudogramma, 
+and Suttonia lack the toxin). The presence of dermal toxin 
+cells  in  the  Grammistini  is  unique.  Our  ML  data  support 
+this  scenario.  However,  our  MP  analysis, 
+in  which 
+Liopropoma occupies a sister relationship to all other epi-
+nepheline  tribes,  suggests  that  the  skin  toxin  grammistin 
+evolved in the ancestor of the liopropomins and the (gram-
+mistin  +  diploprionin)  +  epinephelin  clade  and  was 
+lost  twice,  once  within  the  Grammistini  and  once  in  the 
+ancestor  of  the  Epinephelini.  The  inclusion  of  species 
+and genera within the Liopropomini and Grammistini that 
+were not represented in this study (Jeboehlkia, Bathyanth-
+ias, and Rainfordia) may serve to clarify the relationships 
+within  this  tribe  and  thus  the  evolution  of  the  skin  toxin 
+grammistin.
+
+Relationships within the Epinephelini.  To date, no hy-
+pothesis of relationships within the Epinephelini has been 
+presented that adequately represents the large number of 
+its included taxa. Craig et al. (2001) presented a preliminary 
+analysis based on molecular data and hypothesized its para-
+phyly,  and  Maggio  et  al.  (2005)  provided  a  hypothesis  of 
+relationships for some eastern Atlantic species of Epineph-
+elus  and  Mycteroperca.  Those  studies,  however,  severely 
+undersampled the Epinephelini. Our analysis of molecular 
+data  supports  a  monophyletic  tribe  Epinephelini  sensu 
+Johnson (1983); however, it also supports a rearrangement 
+of the taxonomy within this tribe.
+
+Leis (1986) discussed the larval development of Plectro-
+pomus and attempted to assign character polarity for sev-
+eral  features  based  on  earlier  studies  of  the  ontogenetic 
+development  of  other  epinepheline  larvae.  In  his  conclu-
+sions, he indicated that the genus Plectropomus was most 
+likely the sister-group of the remainder of the Epinephelini 
+based (in no small part) on the development of the spina-
+tion in the dorsal ﬁ n. Leis (1986) and Johnson (1988) con-
+cluded  that  the  8-  or  9-spine  condition  is  plesiomorphic 
+within the Epinephelinae (thus, 10 or 11 spines are apomor-
+phic). Leis (1986) also found that in Cephalopholis the ﬁ rst 
+8 spines are formed directly, while the 9th is formed indi-
+rectly by the transformation of the anteriormost dorsal soft 
+ray. In grouper species with more than 9 spinous rays, the 
+anteriormost  2  soft  rays  of  the  larvae  develop  into  spines 
+(Kendall,  1979).  Leis  (1986)  concluded  that  the  indirect 
+transformation of soft rays into spines led to the increased 
+number  of  spines  seen  in  the  genera  Alphestes,  Anyper-
+odon,  Cromileptes,  Epinephelus,  and  Dermatolepis.  Our 
+molecular analysis supports the hypothesis that the 8- and/
+or 9-dorsal-ﬁ n spine conﬁ guration is indeed plesiomorphic 
+within the Epinephelini, as all genera with 8 and 9 spines 
+(Aetheloperca, Cephalopholis, Gracila, Paranthias, Plectro-
+pomus,  Saloptia,  and  Variola)  occupy  basal  positions  in 
+
+8 
+
+M.T. Craig and P.A. Hastings
+
+both the ML and MP analyses (see Figs. 1, 2). Our data also 
+support  the  hypothesis  of  Leis  (1986)  that  Plectropomus, 
+along with its close ally Saloptia, is the sister-group to the 
+remaining Epinephelini.
+
+The placement of Epinephelus acanthistius of the eastern 
+Paciﬁ c  within  Cephalopholis  by  earlier  authors  was  based 
+in large part on the presence of nine dorsal-ﬁ n spines in this 
+species.  Craig  et  al.  (2001)  demonstrated  that  this  species 
+clearly belongs within Epinephelus, implying a reversal of 
+the ﬁ n-spine condition. The absence of the transformation 
+of the anteriormost soft ray(s) apparently represents such 
+a reversal in Epinephelus acanthistius. The transformation 
+of  the  dorsal-ﬁ n  ray  series  in  species  of  Epinephelus  with 
+ten spines (Epinephelus analogus, Epinephelus exsul, Epi-
+nephelus  nigritus)  is  unclear;  however,  these  species  are 
+clearly nested within the Epinephelus lineage (Smith, 1971; 
+Heemstra and Randall, 1993; Craig et al., 2001; see Figs. 1, 
+2) implying that this is a derived condition.
+
+The  nine-spined  groupers  in  the  genera  Aethaloperca, 
+Cephalopholis, and Gracila have long been assumed to be 
+closely allied (Randall, 1964; Smith-Vaniz et al., 1988). Ran-
+dall (1964) erected the genus Gracila for the species Cepha-
+lopholis  albomarginata  Fowler  and  Bean,  1930.  In  that 
+study, Randall (1964) indicated that although there was a 
+close relationship between Gracila and Cephalopholis, the 
+species  albomarginata  did  not  belong  in  Cephalopholis 
+based on its shorter head and semipelagic behavior. Smith 
+(1954) elevated the subgenus Aethaloperca for the species 
+Perca rogaa, to which he also allocated albomarginata. Ran-
+dall  (1964)  removed  albomarginata  from  Smith’s  Aethe-
+loperca  based  on  differences  in  the  dorsal  proﬁ le  of  the 
+head (Aethaloperca having a much steeper proﬁ le) and pro-
+portional  body  depth  (Aethaloperca  being  much  deeper 
+bodied). Katayama (1974) placed a second species, Gracila 
+okinawae (= polleni) into Gracila based largely on its trun-
+cate  caudal  ﬁ n,  a  condition  that  is  shared  with  Gracila 
+albomarginata. Smith-Vaniz et al. (1988) provided a rede-
+scription of the species albomarginata and polleni and chose 
+to  follow  Randall’s  (1964)  allocation  of  albomarginata  to 
+Gracila while refuting Katayama’s placement of polleni and 
+placing it in Cephalopholis. Heemstra and Randall (1993) 
+also  reported  that  Aethaloperca,  Gracila,  Cephalopholis, 
+and Paranthias share trisegmental pterygiophores, a char-
+acter  absent  in  many  other  serranid  genera.  Interestingly, 
+our  genetic  analyses  indicate  a  sister-species  relationship 
+between Cephalopholis polleni and Gracila albomarginata, 
+supporting Katayama’s (1974) hypothesis of relationships. 
+However, his allocation of both species to Gracila may have 
+been  ill  advised  (see  following).  Additionally,  the  steeply 
+sloping  forehead  of  Aethaloperca  rogaa  is  similar  to  that 
+seen  in  Cephalopholis  igarashiensis  and  all  species  of  the 
+somewhat distantly related genus Dermatolepis, indicating 
+that this character is variable within the Epinephelinae and 
+may not be a reliable indicator of relationships.
+
+Our  genetic  analysis  indicates  a  monophyletic  lineage 
+including Aethaloperca, Cephalopholis, Gracila, and Paran-
+thias. The presence of nine spines in all four genera supports 
+this  relationship,  and  the  development  of  these  spines  in 
+larvae  thus  far  examined  indicates  their  homology  (dis-
+
+cussed in detail in Leis, 1986, and Craig et al., 2001). This 
+result is not surprising as these genera share other morpho-
+logical synapomorphies in addition to nine dorsal-ﬁ n spines. 
+McCully (1961) surveyed the scalelets in the posterior ﬁ eld 
+among members of the Epinephelinae. He found that in all 
+genera with fewer than ten dorsal-ﬁ n spines (except Plec-
+tropomus),  the  scales  have  the  ﬁ rst  scalelet  fused  to  the 
+structures  anterior  to  it.  In  genera  with  more  than  ten 
+dorsal-ﬁ n spines (except Alphestes and Dermatolepis), the 
+ﬁ rst scalelet is rarely fused to the main portion of the scale. 
+Although Cephalopholis and Aethaloperca retain the plesi-
+omorphic fused scalelet, Gracila exhibits the derived state 
+of  a  free  ﬁ rst  scalelet  (Smith-Vaniz  et  al.,  1988).  The  re-
+maining morphological characters that have been examined 
+(neurocranial  structure,  morphometrics,  robustness  of  ﬁ n 
+spines, and shape of pectoral ﬁ n) appear either uninforma-
+tive or represent autapomorphic states (e.g., the pectoral ﬁ n 
+in Aethaloperca is uniquely asymmetrical) and thus may not 
+be  useful  for  establishing  relationships.  Our  genetic  data 
+indicate that A. rogaa and G. albomarginata are nested well 
+within Cephalopholis and consequently should be included 
+in that genus. This ﬁ nding implies that the unique morphol-
+ogy  of  these  species  was  derived  from  an  ancestor  with  a 
+body form typical of species of Cephalopholis, but this hy-
+pothesis needs to be tested with a thorough analysis of ad-
+ditional  morphological  characters  for  these  and  related 
+groupers.
+
+Similarly, our genetic data indicate that both species of 
+the  genus  Paranthias  are  nested  within  the  Cephalopholis 
+(sensu  lato)  clade,  supporting  previous  hypotheses  of  a 
+close relationship between these two genera (Smith, 1966; 
+Craig  et  al.,  2001).  The  unique,  semipelagic  lifestyle  of 
+Paranthias  has  led  to  several  morphological  innovations 
+apparently convergent on those seen in the subfamily An-
+thiinae (and shared by Gracila) and has led to its recogni-
+tion as a genus independent of Cephalopholis. Several mor-
+phological and ontogenetic characters (e.g., development of 
+dorsal-ﬁ n  spines,  presence  of  epineural  ribs  on  vertebrae 
+1–9) exist, however, that support the inclusion of Paranthias 
+within Cephalopholis, and they have been discussed in de-
+tail  elsewhere  (Heemstra  and  Randall,  1993;  Craig  et  al., 
+2001). Additionally, the ability of Paranthias furcifer to hy-
+bridize with Cephalopholis fulva may indicate a close rela-
+tionship  (Smith,  1966;  Craig  et  al.,  2001;  Bostrom  et  al., 
+2002). Sibley (1957) argued that hybridization should indi-
+cate evolutionary relatedness; species should lose this abil-
+ity as they diverge along evolutionary pathways. It is worth 
+considering, however, that the ability to interbreed, if treat-
+ed  as  a  character  in  a  phylogenetic  (cladistic)  framework, 
+should represent a plesiomorphic state, and hence is phylo-
+genetically uninformative until it is lost and is then treated 
+as autapomorphy (Rosen, 1979). Nevertheless, we believe 
+that the ability to interbreed indicates a close relationship 
+between members of Cephalopholis and Paranthias, a con-
+clusion  consistent  with  our  genetic  data.  It  is  therefore 
+necessary  to  include  the  species  Paranthias  colonus  and 
+Paranthias furcifer with the remaining species of Cephalo-
+pholis  to  recognize  only  monophyletic  taxa.  Although  it 
+may be argued that to do this fails to recognize the remark-
+
+Molecular phylogeny of groupers 
+
+9
+
+able  evolutionary  change  associated  with  the  semipelagic 
+lifestyle of these two species, it provides a taxonomic scheme 
+that reﬂ ects the shared ancestry of the group and ﬁ ts well 
+within a cladistic framework. In summary, we include the 
+species A. rogaa, G. albomarginata, P. colonus, and P. fur-
+cifer within the genus Cephalopholis.
+
+The only grouper species with a low number of dorsal-ﬁ n 
+spines (eight) not included in our study is the Spanish Flag, 
+Gonioplectrus hispanus. The relationships of Gonioplectrus 
+within the Epinephelini remain unclear. Kendall and Fahay 
+(1979) described the larvae of Gonioplectrus, and indicated 
+its placement within the Epinephelinae, and Johnson (1983) 
+placed  it  within  the  Epinephelini.  The  presence  of  a  low 
+dorsal-ﬁ n spine count and epineural ribs on vertebrae 1–9 
+would  seem  to  indicate  a  close  relationship  to  the  genera 
+Plectropomus or Cephalopholis. In the absence of compara-
+tive genetic material, we retain Gonioplectrus as a distinct 
+genus within the Epinephelini.
+
+This  study  conﬁ rms  the  monophyly  of  the  genera  Al-
+phestes and Dermatolepis and their sister-group relationship 
+(Craig et al., 2001, 2004). Smith-Vaniz et al. (1988) reported 
+that  the  smooth  scales  of  Alphestes  and  Dermatolepis  are 
+unique compared to those of all other epinephelines. Ad-
+ditionally,  all  species  in  these  genera  have  a  high  dorsal 
+proﬁ le of the head; however, this character occurs in other 
+members of the subfamily (e.g., Cephalopholis sonnerati, C. 
+igarashiensis, and Cromileptes altivelis). Alphestes spp. are 
+unique in possessing a single, antrorse spine at the corner 
+of  the  preopercle  (also  present  in  Gonioplectrus)  and  in 
+having  larvae  with  an  extremely  rugose  neurocranium 
+(Johnson and Keener, 1984; Heemstra and Randall, 1993). 
+Although Smith (1971) demoted Alphestes and Dermatole-
+pis to subgeneric status, subsequent treatments recognized 
+these lineages at the generic level (Heemstra and Randall, 
+1993;  Craig  et  al.,  2001)  consistent  with  results  from  this 
+study. Craig et al. (2004) discussed their interrelationships 
+in detail.
+
+A surprising result of both the ML and MP analyses was 
+the indication of a close relationship between Epinephelus 
+cifuentesi, Epinephelus drummondhayi, Triso dermopterus, 
+and  the  Alphestes  +  Dermatolepis  clade.  The  afﬁ nities  of 
+Triso  have  been  considered  unclear  (e.g.,  Heemstra  and 
+Randall,  1993).  Our  data  clearly  suggest  that  despite  its 
+morphological similarity to  Paranthias, this genus is more 
+closely allied with Alphestes and Dermatolepis. Epinephelus 
+cifuentesi and E. drummondhayi appear to lie within Epi-
+nephelus  (sensu  lato)  based  on  their  overall  morphology. 
+However, in light of the molecular data here, it is necessary 
+to  either  include  them  under  one  taxonomic  unit  encom-
+passing the Alphestes + Dermatolepis clade and Triso or to 
+treat  them  as  independent  taxonomic  units.  Given  the 
+placement of Triso in the parsimony analysis, we continue 
+to recognize it as a monotypic genus. The situation is more 
+complicated  in  E.  cifuentesi  and  E.  drummondhayi,  and 
+clearly more data are necessary, both molecular and mor-
+phological, to clarify these relationships. We therefore re-
+tain these species in Epinephelus pending further study.
+
+In our genetic analysis, all species currently allocated to 
+Mycteroperca  are  closely  allied  (see  Figs.  1,  2).  However, 
+
+the  presence  of  species  currently  placed  in  Epinephelus 
+(Epinephelus  albomarginatus,  Epinephelus  caninus,  Epi-
+nephelus  costae,  Epinephelus  goreensis,  Epinephelus  mar-
+ginatus,  Epinephelus  morrhua,  and  Epinephelus  radiatus) 
+nested  among  traditional  members  of  the  genus  renders 
+Mycteroperca  (sensu  Heemstra  and  Randall,  1993)  para-
+phyletic. Traditionally, Mycteroperca and Epinephelus are 
+considered as closely related. Species within Mycteroperca 
+are regarded as distinct from Epinephelus because of their 
+elongate body form and the presence of 10–12 soft anal-ﬁ n 
+rays (Epinephelus species typically have 8 or 9; Rosenblatt 
+and Zahuranec, 1967; Smith 1971; Heemstra and Randall, 
+1993). Most of the species currently allocated to Epinephe-
+lus  that  form  a  clade  with  Mycteroperca  species  have  8–9 
+anal-ﬁ n  rays,  a  character  heretofore  used  to  justify  their 
+placement within Epinephelus. Our analysis indicates that 
+the number of anal-ﬁ n rays alone is not a reliable indicator 
+of relationships.
+
+No comprehensive phylogenetic treatment exists for the 
+genus Mycteroperca. Cervigón and Velasquez (1966) exam-
+ined  the  Venezuelan  species,  Rosenblatt  and  Zahuranec 
+(1967)  discussed  the  taxonomy  of  the  eastern  Paciﬁ c 
+members, Smith (1971) treated the American species, and 
+Heemstra (1991) discussed relationships among the Mycte-
+roperca rubra species group. Maggio et al. (2005) discussed 
+the relationships of Mycteroperca fusca and M. rubra, and 
+Craig et al. (2001) discussed genetic relationships among 7 
+of 15 species within the genus based on molecular data. The 
+present study thus represents the most thorough sampling 
+of  the  genus  to  date.  To  retain  a  classiﬁ cation  reﬂ ecting 
+monophyly, we hereby consider the species E. marginatus, 
+E.  costae,  E.  caninus,  E.  goreensis,  E.  albomarginata,  E. 
+morrhua, and E. radiatus to be members of Mycteroperca. 
+This placement, although not currently supported by mor-
+phological synapomorphies, provides the basis for a more 
+detailed morphological study of Mycteroperca.
+
+The remaining species currently in Epinephelus form two 
+distinct clades. The ﬁ rst clade represents species that have 
+previously been allocated to the Epinephelus niveatus spe-
+cies group (Smith, 1971). Smith (1971) hypothesized close 
+relationships among the species Epinephelus ﬂ avolimbatus, 
+Epinephelus  mystacinus,  Epinephelus  nigritus,  and  Epi-
+nephelus niveatus, but did not examine the eastern Paciﬁ c 
+species  Epinephelus  exsul  and  treated  the  eastern  Paciﬁ c 
+Epinephelus niphobles as a synonym of the western Atlantic 
+E.  niveatus.  Heemstra  and  Randall  (1993)  recognized  the 
+speciﬁ c status of the latter pair. Our genetic analysis sup-
+ports  the  monophyly  of  the  niveatus  species  group  with 
+the  addition  of  the  species  E.  acanthistius  and  E.  exsul  of 
+the eastern Paciﬁ c, Epinephelus ergastularias, Epinephelus 
+octofasciatus,  and  Epinephelus  septemfasciatus  of  the 
+Indo-Paciﬁ c, and Epinephelus quernus from the Hawaiian 
+archipelago.
+
+All species within the niveatus species group are charac-
+terized by having a much deeper body than the remaining 
+Epinephelus species. This character is particularly evident 
+in juveniles, which have a disk-shaped body (Fig. 3). Both 
+juveniles and adults of the remaining species of Epinephelus 
+and  Mycteroperca  have  juveniles  and  adults  with  a  much 
+
+10 
+
+Fig. 3.  Juvenile specimens of the 
+Epinephelus niveatus species 
+complex (A) and the Epineph-
+elus fasciatus complex (B). 
+[Pictures are reproduced by 
+permission of the author 
+(P.C.H.) from Heemstra and 
+Randall (1993)]
+
+M.T. Craig and P.A. Hastings
+
+more elongate body form (Fig. 3). Additionally, all species 
+in the niveatus group share a characteristic drab brown or 
+olive coloration that may or may not include several dark 
+bars  along  the  body.  The  niveatus  species  group  is  also 
+characterized by having pelvic ﬁ ns that insert immediately 
+below or in front of the pectoral insertion, whereas the re-
+maining Epinephelus species and all Mycteroperca species 
+have pelvic ﬁ ns that insert below or behind the pectoral in-
+sertion. In members of the niveatus species group, the ar-
+ticulation between the cleithrum and the coracoid forms an 
+elongate,  triangular  foramen.  In  the  remaining  species  of 
+Epinephelus (sensu stricto) and Mycteroperca, this foramen 
+is distinctly rounded at the same articulation in both adults 
+and juveniles. In other species of the subfamily (e.g., Cepha-
+lopholis spp.) this articulation forms the circular foramen; 
+thus, the elongate shape serves as a synapomorphy for those 
+species in the E. niveatus clade.
+
+The members of the niveatus species group thus represent 
+a monophyletic lineage that is distinct from the remaining 
+species of Epinephelus. In this light, it is apparent that the 
+members of this complex should be considered as a unique 
+genus.  Consequently,  we  allocate  the  species  within  the 
+clade  to  the  oldest  available  generic  name  for  one  of  its 
+members, Hyporthodus.
+
+One troublesome aspect of the phylogenetic hypothesis 
+recovered  in  our  analysis  lies  within  the  niveatus  species 
+group.  The  lack  of  a  sister-group  relationship  between  E. 
+niphobles of the eastern Paciﬁ c and E. niveatus of the west-
+ern Atlantic is surprising given that these two species, con-
+sidered by some authors to be conspeciﬁ c because of their 
+extremely similar morphology, have long been considered 
+as  transisthmian  geminates  (Jordan,  1908;  Smith,  1971; 
+Heemstra  and  Randall,  1993).  The  niveatus  lineage  does 
+include a conﬁ rmed geminate pair, E. exsul of the eastern 
+
+Molecular phylogeny of groupers 
+
+11
+
+Paciﬁ c and E. nigritus of the western Atlantic. Our results 
+may be confounded by the relatively small genetic distance 
+between species in this clade, which may inhibit the ability 
+of  our  analyses  to  resolve  their  relationships  with  the  ge-
+netic markers herein employed.
+
+The remaining species of Epinephelus form a monophy-
+letic group designated the E. fasciatus species group (Craig 
+et al., 2001), which also includes the monotypic genera Any-
+perodon  and  Cromileptes.  This  clade  is  characterized  by 
+the typically slender-bodied species of Epinephelus whose 
+pelvic-ﬁ n  insertion  is  below  or  behind  the  pectoral-ﬁ n 
+insertion.
+
+Within  this  clade,  there  are  some  monophyletic  species 
+groups  whose  afﬁ nities  have  been  discussed  based  largely 
+on color pattern (e.g., the reticulated groupers of Heemstra 
+and Randall, 1993). The reticulated species examined here 
+(Epinephelus  hexagonatus,  Epinephelus  macrospilos,  Epi-
+nephelus maculatus, Epinephelus melanostigma, Epinephe-
+lus merra, Epinephelus spilotoceps) form a clade along with 
+Epinephelus fasciatus, Epinephelus tauvina, and Epinephe-
+lus retouti. Heemstra and Randall (1993) stated that the ju-
+veniles of  E.  tauvina are often confused with members of 
+the reticulated groupers, and the color pattern of E. tauvina, 
+along with the molecular data presented, clearly support its 
+inclusion in the reticulated groupers. Epinephelus fasciatus 
+is the type species for the genus Epinephelus, and although 
+the  color  pattern  of  that  species  and  of  E.  retouti  do  not 
+clearly  place  it  with  the  reticulated  groupers,  its  inclusion 
+in the clade is supported by high bootstrap support based 
+on our genetic data.
+
+The  inclusion  of  the  morphologically  distinct  Anyper-
+odon and Cromileptes within the fasciatus species group was 
+unexpected, although not surprising. The diagnoses of these 
+genera  reﬂ ect  uniquely  derived  features,  or  autapomor-
+phies,  which  are  phylogenetically  uninformative.  In  this 
+light,  it  seems  most  prudent  based  on  the  genetic  data  to 
+include these species within Epinephelus.
+
+New Generic Classiﬁ cation for the Epinephelini
+
+One of the central tenets of phylogenetic systematics is the 
+designation  of  monophyletic  groups  and  a  nomenclatural 
+system that reﬂ ects groups with shared ancestry (Forey et 
+al., 1992). While basing nomenclatural decisions solely on 
+molecular data is not ideal, we have highlighted previously 
+described morphological characters and provided new char-
+acters where possible that may be phylogenetically informa-
+tive when considered within the context of character states 
+in appropriate outgroups. In light of the genetic and mor-
+phological data at hand, we herein present a reclassiﬁ cation 
+for genera within the tribe Epinephelini that reﬂ ects a strict, 
+cladistic interpretation of these data (Appendix 2). Several 
+previously recognized genera were found to be monophy-
+letic only with the addition of various morphologically dis-
+tinct taxa that have been placed in monotypic genera. The 
+genera  Alphestes,  Dermatolepis,  Gonioplectrus,  Plectropo-
+mus,  Saloptia,  and  Variola  remain  as  currently  deﬁ ned  in 
+Heemstra and Randall (1993). Appendix 2 provides a list of 
+
+currently recognized species of epinepheline ﬁ shes. Unsam-
+pled  species  are  referred  to  the  most  appropriate  genus 
+incertae  sedis  based  on  a  qualitative  assessment  of  their 
+overall morphology and in accordance with previous classi-
+ﬁ cations, especially those of Heemstra and Randall (1993). 
+Although certain genera within this scheme may be consid-
+ered undiagnosable based on the current knowledge of the 
+group’s  morphology, 
+it  will  undoubtedly  provide  a 
+heretofore-unrecognized  starting  point  to  evaluate  both 
+previously  discussed  and  new  morphological  characters. 
+This  revised  taxonomy  thus  represents  a  framework  that 
+may be used to create a sensible taxonomic scheme which 
+reﬂ ects the evolution of this diverse group of marine ﬁ shes.
+
+institutions  and 
+
+individuals  provided 
+Acknowledgments  Several 
+funds facilitating this research: California Sea Grant, American Muse-
+um of Natural History Lerner–Gray Fund for Marine Research, Amer-
+ican Society of Ichthyologists and Herpetologists Raney Fund, Beyster 
+Family  Fund,  UC  Mexus,  Carl  and  Laura  Hubbs  Fellowship,  Near-
+shore Marine Fish Research Program (CSUN), Scripps Institution of 
+Oceanography  Graduate  Department  and  Marine  Biology  Research 
+Division,  University  of  California  at  San  Diego  (UCSD)  Academic 
+Senate, and the Vantuna Research Group. Numerous individuals also 
+aided in the collection of specimens and/or organization of collecting 
+trips for this research: L. Allen, E. Ballesteros, R. Chapman, T. Chan, 
+B. Erisman, G. Fairclough, S. Fennessy, P. Heemstra, H. Ishimori, P. 
+Lyons, T. Maggio, M. McGrouther, G. Menezes, M. Nishida, D. Pon-
+della II, M. Rivera, D.R. Robertson, E. Sala, Wm. L. Smith, P. Wirtz, 
+R. Vetter, Y. Yamanoue, T. Yoshino, F. Young, and others whom we 
+most  certainly  have  overlooked.  We  would  like  to  thank  M.  Miya 
+(Tokyo Natural History Museum) and C. Klepadlo and H.J. Walker, 
+Jr. (SIO) for their curatorial assistance. The Australian Museum and 
+University of Kansas Natural History Museum donated tissue samples. 
+We are grateful to P.C. Heemstra, J.E. Randall, and R.H. Rosenblatt 
+for  critical  reviews  of  earlier  versions  of  this  manuscript.  We  thank 
+W.L. Smith (AMNH) and three anonymous reviewers for their excel-
+lent  reviews  of  this  manuscript.  We  would  also  like  to  thank  the 
+dissertation  committee  of  MTC  for  guidance  and  use  of  laboratory 
+facilities: R. Burton, N. Knowlton, R. Rosenblatt, and K. Roy.
+
+Literature Cited
+
+Baldwin  CC,  Johnson  GD  (1993)  Phylogeny  of  the  Epinephelinae 
+
+(Teleostei: Serranidae). Bull Mar Sci 52:240–283
+
+Berg LS (1940) Classiﬁ cation of ﬁ shes, both recent and fossil. Trav Inst 
+
+Zool Acad Sci USSR 5:87–517
+
+Bostrom  MA,  Collette  BB,  Luckhurst  BE,  Reece  KS,  Graves  JE 
+(2002)  Hybridization  between  two  serranids,  the  coney  (Cephalo-
+pholis fulva) and the creole-ﬁ sh (Paranthias furcifer), at Bermuda. 
+Fish Bull 100:651–661
+
+Cervigón  MF,  Velasquez  E  (1966)  Las  especies  del  genero  Myctero-
+perca  de  las  costas  de  Venezuela  (Pisces-Serranidae).  Mem  Soc 
+Cienc Nat LaSalle 26:77–143
+
+Colgan DJ, McLauchlan A, Wilson GDF, Livingston SP, Edgecombe 
+GD, Macaraenas J, Casis G, Gray MR (1998) Histone III and U2 
+snRNA  DNA  sequences  and  arthropod  evolution.  Aust  J  Zool 
+46:419–437
+
+Craig MT, Pondella DJ II, Hafner JC, Franck JPC (2001) On the status 
+of the serranid ﬁ sh genus Epinephelus: evidence for paraphyly based 
+on 16S rDNA sequences. Mol Phylogenet Evol 19:121–130
+
+12 
+
+M.T. Craig and P.A. Hastings
+
+Craig MT, Hastings PA, Pondella DJ II (2004) Speciation in the Cen-
+tral  American  Seaway:  the  importance  of  taxon  sampling  in  the 
+identiﬁ cation of geminate species pairs. J Biogeogr 31:1085–1091
+
+Richardson  SL  (eds)  Ontogeny  and  systematics  of  ﬁ shes.  Special 
+publication  1.  American  Society  of  Ichthyologists  and  Herpetolo-
+gists, Lawrence, KS, pp 499–510
+
+Craig MT, Bartsch P, Wirtz P, Heemstra PC (2007) Redescription and 
+revalidation  of  Alphestes  afer  (Bloch  1793)  as  an  amphi-Atlantic 
+grouper species (Perciformes; Serranidae). Cybium (in press)
+
+Kendall AW Jr, Fahay MP (1979) Larvae of the serranid ﬁ sh Gonio-
+plectrus hispanus with comments on its relationships. Bull Mar Sci 
+29:117–121
+
+Dettai A, Lecointre G (2004) In search of the notothenioid (Teleostei) 
+
+relatives. Antarct Sci 16:71–85
+
+Dettai A, Lecointre G (2005) Further support for the clades obtained 
+by multiple molecular phylogenies in the acanthomorph bush. C R 
+Biol 328:674–689
+
+Dolphin K, Belshaw R, Orme CDL, Quicke DLJ (2000) Noise and in-
+congruence:  interpreting  results  of  the  incongruence  length  differ-
+ence test. Mol Phylogenet Evol 17:401–406
+
+Forey  PL,  Humphries  CJ,  Kitching  IL,  Scotland  RW,  Siebert  DJ, 
+Williams  DM  (1992)  Cladistics:  a  practical  course  in  systematics. 
+Clarendon Press, Oxford
+
+Gosline WA (1966) The limits of the ﬁ sh family Serranidae, with notes 
+
+on other lower percoids. Proc Calif Acad Sci 33:91–111
+
+Greenwood PH (1977) A review of the family Centropomidae (Pisces, 
+Perciformes):  an  appendix.  Bull  Br  Mus  (Nat  Hist)  Zool 
+31:297–301
+
+Greenwood PH, Rosen DE, Weitzman SH, Myers GE (1966) Phyletic 
+studies of teleostean ﬁ shes, with a provisional classiﬁ cation of living 
+forms. Bull Am Mus Nat Hist 131:339–455
+
+Heemstra  PC  (1991)  A  taxonomic  revision  of  the  eastern  Atlantic 
+
+Leis  JM  (1986)  Larval  development  in  four  species  of  Indo-Paciﬁ c 
+coral  trout  Plectropomus  (Pisces,  Serranidae:  Epinephelinae)  with 
+an  analysis  of  relationships  of  the  genus.  Bull  Mar  Sci  38:525–
+552
+
+Leviton AE, Gibbs RH Jr, Heal E, Dawson CE (1985) Standards in 
+herpetology  and  ichthyology.  Part  I.  Standard  symbolic  codes  for 
+institutional  resource  collections  in  herpetology  and  ichthyology. 
+Copeia 1985:802–832
+
+Maddison DR, Maddison WP (1997) MacClade V. 4.06. Sinauer Asso-
+
+ciates, Sunderland, MA
+
+Maggio  T,  Andaloro  F,  Hemida  F,  Arculeo  M  (2005)  A  molecular 
+analysis of some eastern Atlantic grouper from the Epinephelus and 
+Mycteroperca genus. J Exp Mar Biol Ecol 321:83–92
+
+McCully HH (1961) The comparative anatomy of the scales of serranid 
+
+ﬁ shes. PhD dissertation. Stanford University, Palo Alto, CA
+
+Meisler  MR  (1987)  Limits  and  relationships  of  serranine  seabasses, 
+with revisions of Serranus and Mentiperca (Pisces: Serranidae). PhD 
+dissertation. University of Southern California, Los Angeles
+
+Nelson JS (1994) Fishes of the world, 3rd edn. Wiley, New York
+Nixon KC (1999) The parsimony ratchet, a new method for rapid par-
+
+groupers (Pisces: Serranidae). Bol Mus Munic Funchal 43:5–71
+
+simony analysis. Cladistics 15:407–414
+
+Heemstra  PC,  Heemstra  E  (2004)  Coastal  ﬁ shes  of  southern  Africa. 
+South  African  Institute  for  Aquatic  Biodiversity  and  National 
+Inquiry Service Centre, Grahamstown, South Africa
+
+Norman JR (1966) A draft synopsis of the orders, families and genera 
+of recent ﬁ shes and ﬁ sh-like vertebrates. British Museum (Natural 
+History), London
+
+Heemstra PC, Randall JE (1986) Serranidae. In: Smith MM, Heemstra 
+PC (eds) Smith’s sea ﬁ shes. Macmillan South Africa, Johannesburg
+Heemstra PC, Randall JE (1993) Groupers of the world. FAO Fisher-
+
+Oshima Y, Shiomi K, Hashimoto Y (1974) Comparison of grammistin 
+from  four  species  of  grammistid  ﬁ shes.  Bull  Jpn  Soc  Sci  Fish 
+40:223–230
+
+ies synopsis no. 125, vol 16. FAO, Rome
+
+Imamura H, Yabe M (2002) Demise of the Scopaeniformes (Actinop-
+erygii:  Percomorpha):  an  alternative  phylogenetic  hypothesis.  Bull 
+Fac Fish Hokkaido Univ 53:107–128
+
+Johnson GD (1983) Niphon spinosus: a primitive epinepheline serra-
+nid, with comments on the monophyly and intrarelationships of the 
+Serranidae. Copeia 1983:777–787
+
+Johnson GD (1988) Niphon spinosus, a primitive epinepheline serra-
+nid: corroborative evidence from the larvae. Jpn J Ichthyol 35:7–18
+Johnson GD, Keener P (1984) Aid to identiﬁ cation of American grou-
+
+per larvae. Bull Mar Sci 34:106–134
+
+Jordan DS (1908) The law of geminate species. Am Nat 42:73–80
+Jordan DS (1923) A classiﬁ cation of ﬁ shes including families and gen-
+era  as  far  as  known.  Stanford  Univ  Publ  Univ  Ser  Biol  Sci 
+2:77–243
+
+Jordan DS, Eigenmann CH (1890) A review of the genera and species 
+of Serranidae found in the waters of America and Europe. Bull US 
+Fish Com VIII(1888):329–441
+
+Katayama M (1959) Studies on the serranid ﬁ shes of Japan (1). Bull 
+
+Fac Educ Yamaguchi Univ 8:103–180
+
+Katayama M (1974) Serranid ﬁ shes of the Okinawa Islands (II). Bull 
+
+Fac Educ Yamaguchi Univ 24:99–112
+
+Kendall AW Jr (1976) Predorsal and associated bones in serranid and 
+
+grammistid ﬁ shes. Bull Mar Sci 26:585–592
+
+Otero O (2005) Anatomy, systematics and phylogeny of both recent 
+and fossil latid ﬁ shes (Teleostei, Perciformes, Latidae). Zool J Linn 
+Soc 141:81–133
+
+Palumbi  S  (1996)  Nucleic  acids  II:  The  polymerase  chain  reaction. 
+In:  Hillis  DM,  Moritz  C,  Maple  BK  (eds)  Molecular  systematics. 
+Sinauer, Sunderland, pp 205–248
+
+Posada D, Crandall KA (1998) Modeltest: testing the model of DNA 
+
+substitution. Bioinformatics 14:817–818
+
+Randall JE (1964) Notes on the groupers of Tahiti, with description of 
+
+a new serranid ﬁ sh genus. Pac Sci 18:281–296
+
+Randall JE, Aida K, Hibiya T, Mitsuura N, Kamiya H, Hashimoto Y 
+(1971) Grammistin, the skin toxin of soapﬁ shes and its signiﬁ cance 
+in the classiﬁ cation of the Grammistidae. Publ Seto Mar Biol Lab 
+19:157–190
+
+Rosen DR (1979) Fishes from the uplands and intermontane basins of 
+Guatemala:  revisionary  studies  and  comparative  geography.  Bull 
+Am Mus Nat Hist 162:269–375
+
+Rosenblatt RH, Zahuranec BJ (1967) The Eastern Paciﬁ c groupers of 
+the  genus  Mycteroperca,  including  a  new  species.  Cal  Fish  Game 
+53:228–245
+
+Shiomi K, Igarashi T, Yokota H, Nagashima Y, Ishida M (2000) Isola-
+tion  and  structures  of  grammistins,  peptide  toxins  from  the  skin 
+secretion  of 
+sexlineatus.  Toxicon 
+38:91–103
+
+soapﬁ sh  Grammistes 
+
+the 
+
+Kendall AW Jr (1979) Morphological comparisons of North American 
+seabass  larvae  (Pisces:  Serranidae:).  NOAA  Tech  Rep  Circ 
+428:1–50
+
+Kendall AW Jr (1984) Serranidae: development and relationships. In: 
+Moser HG, Richards WJ, Cohen DM, Fahay MP, Kendall AW Jr, 
+
+Sibley CG (1957) The evolutionary and taxonomic signiﬁ cance of sex-
+
+ual dimorphism and hybridization of birds. Condor 59:161–191
+
+Sikes  DS,  Lewis  PO  (2001)  Beta  software,  V.  1.  PAUPRat:  PAUP* 
+implementation  of  the  parsimony  ratchet.  Dept.  of  Ecology  and 
+Evolutionary Biology, University of Connecticut, Storrs, CT
+
+Molecular phylogeny of groupers 
+
+13
+
+Smith CL (1954) Four rare serraniform ﬁ shes from east Africa. Ann 
+
+Mag Nat Hist (Ser 12) 7:925–933
+
+Smith  CL  (1966)  Menephorus  Poey,  a  serranid  genus  based  on  two 
+hybrids  of  Cephalopholis  fulva  and  Paranthias  furcifer,  with  com-
+ments  on  the  systematic  placement  of  Paranthias.  Am  Mus  Novit 
+2276:1–11
+
+Smith  CL  (1971)  A  revision  of  the  American  groupers:  Epinephelus 
+
+and allied genera. Bull Am Mus Nat Hist 146:1–241
+
+Smith WL, Wheeler WC (2004) Polyphyly of the mail-cheeked ﬁ shes 
+(Teleostei: Scorpaeniformes): evidence from mitochondrial and nu-
+clear sequence data. Mol Phylogenet Evol 32:627–646
+
+Smith-Vaniz  WF,  Johnson  GD,  Randall  JE  (1988)  Redescription  of 
+Gracila albomarginata (Fowler and Bean) and Cephalopholis polleni 
+(Bleeker)  with  comments  on  the  generic  limits  of  selected  Indo-
+
+Paciﬁ c groupers (Pisces: Serranidae: Epinephelinae). Proc Acad Nat 
+Sci Phila 140:1–23
+
+Streelman JT, Karl SA (1997) Reconstructing labroid evolution with 
+
+single-copy nuclear DNA. Proc R Soc Lond 264:1011–1020
+
+Sugiyama  N,  Araki  M,  Ishida  M,  Nagashima  Y,  Shiomi  K  (2005) 
+Further isolation and characterization of grammistins from the skin 
+secretion  of  the  soapﬁ sh  Grammistes  sexlineatus.  Toxicon  45:595–
+601
+
+Thompson JD, Gibson TJ, Plewniak, F, Jeanmougin, F, Higgins DG 
+(1997) The CLUSTAL_X windows interface: ﬂ exible strategies for 
+multiple sequence alignment aided by quality analysis tools. Nucleic 
+Acids Res 25:4876–4882
+
+Vos RA (2003) Accelerated likelihood surface exploration: the likeli-
+
+hood ratchet. Syst Biol 52:368–373
+
+Appendix 1.  Species included in this analysis, voucher specimen numbers, and GenBank accession numbers for data gathered in the current 
+study
+
+Species 
+
+n 
+
+Voucher number 
+
+16S 
+
+12S 
+
+TMO4C4 
+
+H III
+
+Epinephelini
+Aethaloperca rogaa 
+Alphestes afer 
+A. immaculatus 
+A. multiguttatus 
+Anyperodon leucogrammicus 
+Cephalopholis argus 
+C. boenak 
+C. cruentata 
+C. cyanostigma 
+C. formosa 
+C. fulva 
+C. igarashiensis 
+C. leopardus 
+C. miniata 
+C. nigri 
+C. nigripinnis 
+C. panamensis 
+C. polleni 
+C. sonnerati 
+C. taeniops 
+C. urodeta 
+Cromileptes altivelis 
+Dermatolepis dermatolepis 
+D. inermis 
+D. striolata 
+Epinephelus acanthistius 
+E. adscencionis 
+E. aeneus 
+E. akaara 
+E. albomarginata 
+E. amblycephalus 
+E. analogus 
+E. andersoni 
+E. areolatus 
+E. awoara 
+E. bleekeri 
+E. bruneus 
+E. caeruleopunctatus 
+E. caninus 
+
+2 
+2 
+1 
+2 
+3 
+2 
+2 
+2 
+1 
+1 
+2 
+2 
+1 
+1 
+1 
+1 
+3 
+1 
+2 
+2 
+1 
+3 
+2 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+3 
+1 
+
+SIO 02-138 
+SIO 03-49 
+SIO 00-92 
+SIO 00-95 
+SIO 64-235 
+PV, D.R. Robertson 
+SIO 02-138 
+SIO 04-192 
+SIO 04-191 
+SIO 04-191 
+SIO 00-146 
+SIO 02-138 
+PV, D.R. Robertson 
+SIO 64-235 
+SIO 04-39 
+SIO 04-67 
+SIO 00-92 
+SIO 04-191 
+SIO 64-235 
+SIO 04-39 
+SIO 02-139 
+SIO 02-141 
+SIO 64-235 
+PV, MTC 
+PV, D.R. Robertson 
+SIO 00-142 
+SIO 00-145 
+PV, P. Wirtz 
+R. Chapman 
+PV, S. Fennesey 
+SIO 64-228 
+SIO 00-185 
+SIO 04-60 
+SIO 00-235 
+SIO 02-137 
+PV, MTC 
+PV, MTC 
+SIO 02-139 
+PV, E. Sala 
+
+AY947565 
+AY314003 
+AF297290 
+AF297305 
+AF297306 
+AY947555 
+AY947598 
+AF297323 
+AY947594 
+AY947603 
+AF297292 
+AY947599 
+AY947560 
+AF297321 
+AY947604 
+AY947605 
+AF297313 
+AY947627 
+AF297307 
+AY947589 
+AF297325 
+AY947628 
+AF297317 
+AY314005 
+AY314004 
+AF297318 
+AF297314 
+AY947593 
+AY947600 
+AY947590 
+AY731070 
+AF297302 
+AY947592 
+AY731076 
+AY947558 
+AY947626 
+AY947562 
+AY947563 
+AY947585 
+
+AY949367 
+AY313982 
+AY313980 
+AY313981 
+AY949379 
+AY949357 
+AY949325 
+AY949385 
+AY949389 
+AY949370 
+AY949395 
+AY949326 
+AY949327 
+AY949400 
+AY949451 
+AY949382 
+AY949396 
+AY949371 
+AY949404 
+AY949387 
+AY949408 
+AY949328 
+AY313984 
+AY313979 
+AY313989 
+AY949376 
+AY949381 
+AY949441 
+AY949442 
+AY949378 
+AY949434 
+AY949330 
+AY949383 
+AY949391 
+AY949331 
+AY949366 
+AY949399 
+AY949374 
+AY949428 
+
+AY949225 
+AY313992 
+AY313994 
+AY313991
+ 
+AY949223 
+AY949293 
+AY949266 
+AY949290 
+AY949291 
+AY949282 
+AY949292 
+AY949323 
+AY949318 
+AY949279 
+AY949280 
+AY949272 
+AY949278 
+AY949297 
+ 
+AY949277 
+AY949286 
+AY313988 
+AY313987 
+AY313989 
+ 
+AY949284 
+AY949226 
+ 
+AY949298 
+AY949312 
+AY949220 
+AY949315 
+ 
+AY949227 
+ 
+AY949228 
+AY949229 
+AY949294
+
+AY949552
+AY949455
+AY949456
+
+AY949577
+AY949472
+AY949520
+AY949533
+AY949517
+AY949588
+AY949589
+AY949457
+AY949473
+AY949523
+AY949581
+AY949504
+AY949531
+AY949553
+AY949534
+AY949498
+AY949538
+AY949500
+AY949536
+AY949573
+AY949474
+AY949590
+AY949487
+AY949476
+AY949569
+AY949477
+AY949513
+AY949499
+AY949478
+AY949479
+AY949576
+AY949554
+AY949555
+AY949580
+
+14 
+
+Appendix 1.  Continued
+
+M.T. Craig and P.A. Hastings
+
+Species 
+
+n 
+
+Voucher number 
+
+16S 
+
+12S 
+
+TMO4C4 
+
+H III
+
+E. chlorostigma 
+E. cifuentesi 
+E. clippertonensis 
+E. coioides 
+E. corrallicola 
+E. costae 
+E. cyanopodus 
+E. daemelii 
+E. diacanthus 
+E. drummondhayi 
+E. ergastularius 
+E. exsul 
+E. fasciatomaculosus 
+E. fasciatus 
+E. ﬂ avocaeruleus 
+E. ﬂ avolimbatus 
+E. fuscogutattus 
+E. guttatus 
+E. goreensis 
+E. hexagonatus 
+E. howlandi 
+E. itajara 
+E. labriformis 
+E. lanceolatus 
+E. macrospilos 
+E. maculatus 
+E. malabaricus 
+E. marginatus 
+E. melanostigma 
+E. merra 
+E. miliaris 
+E. morio 
+E. morrhua 
+E. multinotatus 
+E. mystacinus 
+E. nigritus 
+E. niphobles 
+E. niveatus 
+E. octofasciatus 
+E. ongus 
+E. polyphekadion 
+E. quernus 
+E. quoyanus 
+E. radiatus 
+E. retouti 
+E. rivulatus 
+E. septemfasciatus 
+E. spilotoceps 
+E. striatus 
+E. tauvina 
+E. trimaculatus 
+E. tukula 
+E. undulosus 
+E. undulostriatus 
+Gracila albomarginata 
+Mycteroperca acutirostris 
+M. bonaci 
+M. fusca 
+
+2 
+2 
+2 
+2 
+2 
+1 
+2 
+1 
+1 
+2 
+2 
+2 
+2 
+1 
+1 
+1 
+1 
+2 
+1 
+2 
+3 
+1 
+3 
+2 
+1 
+1 
+2 
+2 
+2 
+2 
+1 
+2 
+2 
+2 
+2 
+1 
+1 
+2 
+2 
+3 
+2 
+2 
+1 
+2 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+2 
+1 
+1 
+1 
+1 
+1 
+2 
+
+PV, D.R. Robertson 
+SIO 00-138 
+SIO 00-186 
+SIO 64-235 
+PV, MTC 
+PV, E. Sala 
+SIO 02-138, AMS I.39542007 
+PV 
+PV, MTC 
+SIO 00-152 
+AMS I.39542007 
+SIO 02-21 
+PV, MTC 
+SIO 64-235 
+SIO 04-67 
+SIO 00-150 
+AMS I.42844005 
+SIO 00-140 
+PV, G. Menenzes 
+AMNH 120080 
+SIO 02-139 
+SIO 00-185 
+SIO 00-137 
+SIO 04-191 
+SIO 02-141 
+SIO 02-138, AMS I.42844011 
+SIO 02-140 
+SIO 04-62 
+SIO 02-138 
+SIO 02-141 
+PV, D.R. Robertson 
+SIO 00-145 
+SIO 02-137 
+PV, D.R. Robertson 
+SIO 00-138 
+SIO 
+SIO 64-235 
+SIO 00-151 
+SIO 02-138 
+SIO 02-138 
+SIO 02-141 
+PV, M. Rivera 
+R. Chapman 
+SIO 02-141 
+SIO 02-139 
+SIO 02-141 
+SIO 02-137 
+PV, D.R. Robertson 
+SIO 00-146 
+SIO 02-138 
+R. Chapman 
+R. Chapman 
+SIO 64-235 
+PV, D.R. Robertson 
+PV, MTC 
+PV, R. Chapman 
+SIO 00-145 
+PV, P. Wirtz 
+
+AY731075 
+AF297295 
+AY731077 
+AY947608 
+AY947568 
+AY947596 
+AY731074 
+AY947635 
+AY947619 
+AF297317 
+AY947606 
+AY947556 
+AY947622 
+AF297319 
+AY947607 
+AF297293 
+AY947561 
+AF297299 
+AY947621 
+AY947623 
+AY947620 
+AF297294 
+AF297296 
+AY947588 
+AY731072 
+AY731068 
+AY947609 
+AY947595 
+AY947633 
+AY947629 
+AY947634 
+AF297324 
+AY947630 
+AY428594 
+AF297304 
+AF297297 
+AF297309 
+AF297310 
+AY947564 
+AY947566 
+AY947569 
+AY947570 
+AY731073 
+AY947602 
+AY947625 
+AY947586 
+AY947559 
+AY731069 
+AF297311 
+AY731067 
+AY731071 
+AY947557 
+AF297326 
+AY947636 
+AY947582 
+AY947591 
+AF297315 
+AY947597 
+
+AY949407 
+AY949397 
+AY949332 
+AY949333 
+AY949334 
+AY949368 
+AY949335 
+AY949453 
+AY949406 
+AY313985 
+AY949432 
+AY949358 
+AY949398 
+AY949401 
+AY949384 
+AY949336 
+AY949415 
+AY949437 
+AY949438 
+AY949380 
+AY949414 
+AY949337 
+AY426252 
+AY949377 
+AY949416 
+AY949338 
+AY949390 
+AY949369 
+AY949339 
+AY949427 
+AY949418 
+AY949425 
+AY949340 
+AY426252 
+AY949341 
+AY949405 
+AY949342 
+AY949343 
+AY949388 
+AY949344 
+AY949431 
+AY949429 
+AY949394 
+AY949430 
+AY949345 
+AY949410 
+AY949346 
+AY949440 
+AY949433 
+AY949347 
+AY949403 
+AY949443 
+AY949409 
+AY949454 
+AY949348 
+AY949411 
+AY949449 
+AY949448 
+
+AY949231 
+AY949209 
+AY949304 
+AY949295 
+AY949232 
+AY949296 
+AY949233 
+ 
+AY949274 
+AY313993 
+AY949230 
+AY949222 
+AY949324 
+ 
+AY949316 
+AY949269 
+AY949234 
+AY949281 
+AY949305 
+AY949319 
+AY949317 
+AY949235 
+AY949236 
+AY949237 
+AY949238 
+AY949313 
+AY949275 
+AY949239 
+AY949240 
+AY949288 
+AY949299 
+AY949322 
+AY949287 
+AY425675 
+AY949307 
+AY949309 
+AY949241 
+AY949262 
+AY949242 
+AY949243 
+AY949244 
+AY949245 
+AY949285 
+AY949301 
+AY949246 
+AY949224 
+AY949247 
+AY949321 
+AY949283 
+AY949248 
+AY949264 
+AY949249 
+AY949302 
+ 
+AY949250 
+AY949251 
+AY949270 
+AY949252 
+
+AY949508
+AY949480
+AY949521
+AY949518
+AY949459
+AY949506
+AY949460
+AY949587
+AY949549
+AY949541
+AY949575
+AY949461
+AY949579
+AY949524
+AY949585
+AY949528
+AY949510
+AY949545
+AY949551
+AY949462
+AY949583
+AY949592
+AY949566
+AY949463
+AY949481
+AY949482
+AY949544
+AY949483
+AY949591
+AY949515
+AY949516
+AY949484
+AY949464
+AY949567
+AY949485
+AY949532
+AY949584
+AY949535
+AY949501
+AY949496
+AY949509
+AY949465
+AY949502
+AY949519
+AY949466
+AY949458
+AY949568
+AY949564
+AY949539
+AY949467
+AY949486
+AY949507
+AY949505
+AY949586
+AY949574
+AY949514
+AY949546
+AY949489
+
+Molecular phylogeny of groupers 
+
+Appendix 1.  Continued
+
+15
+
+Species 
+
+n 
+
+Voucher number 
+
+16S 
+
+12S 
+
+TMO4C4 
+
+H III
+
+M. interstitialis 
+M. jordani 
+M. microlepis 
+M. olfax 
+M. phenax 
+M. prionura 
+M. rosacea 
+M. rubra 
+M. tigris 
+M. venenosa 
+M. xenarcha 
+Paranthias colonus 
+P. furcifur 
+Plectropomus areolatus 
+P. laevis 
+P. leopardus 
+P. maculatus 
+P. oligocanthus 
+Saloptia powelli 
+Triso dermopterus 
+Variola albimarginata 
+V. louti 
+Niphonini
+Niphon spinosus 
+Diploprionini
+Belonoperca chabanaudi 
+Diploprion bifasciatum 
+Liopropomini
+Liopropoma eukrines 
+Liopropoma carmabi 
+Grammistini
+Aporops sp. 
+Grammistes sexlineata 
+Pseudogramma polyacantha 
+Pseudogramma gregoryi 
+Pogonoperca punctata 
+Rypticus nigripinnis 
+Suttonia sp. 
+Anthiine outgroups
+Anthias cf anthias 
+Hemanthias leptus 
+Hemanthias peruanus 
+Pronotogrammus multifasciatus 
+Pseudanthias squamipinnis 
+Serranine outgroups
+Centropristes striata 
+Cratinus agassizii 
+Diplectrum paciﬁ cum 
+Paralabrax nebulifer 
+Serranus tigrinis 
+Serranidae incertae sedis
+Acanthistius ocellatus 
+Other outgroups
+Cirrhitus rivulatus 
+Etheostoma blennioides 
+Gymnodraco acuticeps 
+Haemulon plumieri 
+Hoplostethus medditeraneus 
+
+2 
+2 
+2 
+2 
+2 
+1 
+2 
+3 
+2 
+2 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+2 
+2 
+
+2 
+
+1 
+2 
+
+1 
+1 
+
+1 
+1 
+2 
+2 
+1 
+1 
+1 
+
+1 
+1 
+1 
+2 
+2 
+
+1 
+1 
+1 
+2 
+1 
+
+1 
+
+1 
+1 
+1 
+1 
+1 
+
+SIO 
+SIO 00-144 
+SIO 00-148 
+SIO 00-89 
+SIO 00-145 
+PV, D. J. Pondella 
+SIO 00-92 
+PV, T. Maggio 
+UKNHM-BRC T104 
+SIO 00-147 
+SIO UN-CAT 
+SIO 00-89 
+SIO 00-125 
+PV, MTC 
+SIO 64-236 
+AMS I.42844017 
+SIO 64-235 
+PV, MTC 
+SIO 02-139 
+AMS I.41217002 
+SIO 02-138 
+SIO 04-191 
+
+SIO 00-174 
+
+SIO 04-191 
+SIO 04-191 
+
+SIO 01-11 
+PV, MTC 
+
+UKNHM-BRC T804 
+PV, MTC 
+UKNHM-BRC T695, T696 
+UKNHM-BRC T100, T155 
+SIO 64-235 
+SIO 00-182 
+UKNHM-BRC T805 
+
+PV, G. Menezes 
+MTC 
+SIO 00-185 
+SIO 00-139 
+SIO 04-51 
+
+UCLA W97-22 
+LACM 47328-1 
+PV, D.J. Pondella 
+SIO 00-97 
+SIO 01-127 
+
+AY947632 
+AF297329 
+AF297312 
+AF317512 
+AF297303 
+AY947583 
+AF297300 
+AY947587 
+AY947574 
+AF297291 
+AY947637 
+AF297301 
+AY947584 
+AY947613 
+AY947614 
+AF297298 
+AF297320 
+AY947615 
+AY947631 
+AY947601 
+AY947567 
+AY947577 
+
+AY949359 
+AY949435 
+AY949373 
+AY949360 
+AY949450 
+AY949361 
+AY949350 
+AY949364 
+AY949452 
+AY949419 
+AY949445 
+AY949351 
+AY949372 
+AY949447 
+AY949444 
+AY949352 
+AY949423 
+AY949386 
+AY949375 
+AY949365 
+AY949412 
+AY949363 
+
+AY949221 
+AY949303 
+AY949253 
+AY949276 
+AY949265 
+AY949254 
+AY949268 
+AY949255 
+AY949217 
+AY949273 
+ 
+ 
+AY949263 
+AY949267 
+AY949320 
+AY949211 
+ 
+AY949300 
+ 
+AY949260 
+AY949261 
+AY949219 
+
+AY949556
+AY949522
+AY949490
+AY949537
+AY949548
+AY949557
+AY949540
+AY949468
+AY949560
+AY949527
+AY949571
+AY949491
+AY949595
+AY949565
+AY949542
+AY949525
+AY949570
+AY949547
+AY949578
+AY949469
+AY949495
+AY949494
+
+AY947575 
+
+AY949420 
+
+AY949210 
+
+AY949596
+
+AY947580 
+AY947576 
+
+AY949422 
+AY949329 
+
+ 
+AY949214 
+
+AY949561
+AY949475
+
+AY947581 
+AY947579 
+
+AY949426 
+AY949349 
+
+AY949208 
+AY949310 
+
+AY949488
+AY949558
+
+AY947573 
+AY539050 
+AY947512 
+AY947571 
+AF297322 
+AY947578 
+AY947618 
+
+AY947617 
+AY947611 
+AY947610 
+AF297330 
+AY947624 
+
+AY072667 
+AY072668 
+AY072669 
+AF297328 
+AY072688 
+
+AY949356 
+AY949413 
+AY949362 
+AY949417 
+AY949353 
+AY949402 
+AY949355 
+
+AY949446 
+AY949392 
+AY949393 
+AY949354 
+AY949436 
+
+AY949271 
+AY539458.1 
+AY949212 
+AY949213 
+AY949218 
+AY949258 
+AY949311
+
+ 
+AY539459.1 
+AY949306 
+AY949257 
+AY949308 
+
+AY072656.1 
+AY072647.1 
+AY072663 
+AY072662 
+AY072659.1 
+
+AY949216 
+AY949289 
+AY949215 
+AY313990 
+AY949259 
+
+AY949471
+AY949572
+AY949493
+AY949492
+AY949582
+AY949593
+
+AY949550
+AY949512
+AY949594
+AY949511
+AY949543
+
+AY949530
+AY949526
+AY949529
+AY949497
+AY949503
+
+AMS I.42844022 
+
+AY947612 
+
+AY949421 
+
+AY949314 
+
+AY949470
+
+Wm. L. Smith 
+Wm. L. Smith 
+Wm. L. Smith 
+Wm. L. Smith 
+Wm. L. Smith 
+
+AY539059.2 
+AY539054.2 
+AY539064.2 
+AY539057.2 
+AY538968.2 
+
+x 
+AY372771.1 
+U90413 
+x 
+AY141335 
+
+AY539467.1 
+AY539462.1 
+AY539472.1 
+AY539465.1 
+AY539384 
+
+AY539268.1
+AY539263.1
+AY539273.1
+AY539266
+AY539177
+
+16 
+
+Appendix 1.  Continued
+
+Species 
+
+Lepidotrigla spinosa 
+Morone saxatilis 
+Perca ﬂ avescens 
+Pleurogrammos azonus 
+Polyprion americanus 
+Scorpaena gutatta 
+Stereolepis gigas 
+Trachinus draco 
+
+M.T. Craig and P.A. Hastings
+
+n 
+
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+
+Voucher number 
+
+16S 
+
+12S 
+
+TMO4C4 
+
+H III
+
+Wm. L. Smith 
+Wm. L. Smith 
+Wm. L. Smith 
+SIO 01-34 
+AMS I.42844002 
+Wm. L. Smith 
+SIO 03-74 
+Wm. L. Smith 
+
+AY539001.2 
+AY539046.2 
+AY539055.2 
+AY539012 
+AY947616 
+AY538984.2 
+AY072683.1 
+AY539068.2 
+
+x 
+x 
+x 
+AY949439 
+AY949424 
+x 
+AY072666 
+AY141378.1 
+
+ 
+AY539454.1 
+AY539463.1 
+AY539424.1 
+AY949256 
+AY539400.1 
+ 
+AY539476.1 
+
+AY539210.1
+AY539255.1
+AY539264.1
+AY949563
+AY949562
+AY539193.1
+AY949559
+AY539277.1
+
+x indicates sequence available but not yet deposited in GenBank; blanks indicate no sequence available; PV, photo voucher
+Taxonomy follows traditional scheme (e.g., Heemstra and Randall, 1993); institutional abbreviations follow Leviton et al. (1985)
+
+Appendix  2.  Proposed  classiﬁ cation  for  the  ﬁ shes  of  the 
+tribe Epinephelini based on molecular data. For a complete 
+list of synonyms, see Heemstra and Randall (1993). Species 
+not included in our genetic analysis are listed under insertae 
+sedis within the most appropriate genus based on a qualita-
+tive assessment of their overall morphology and in accor-
+dance with previous classiﬁ cations, especially Heemstra and 
+Randall (1993).
+
+Genus Dermatolepis Gill
+
+Type  species:  Dermatolepis  punctatus  Gill  (=  Epinephelus 
+dermatolepis Boulenger; replacement name for D. punc-
+tatus preoccupied in Epinephelus by Holocentrus puncta-
+tus  Bloch).  Type 
+locality:  Cape  San  Lucas,  Baja 
+California.
+
+Included species: D. dermatolepis (Boulenger), D. inermis 
+
+(Valenciennes), D. striolata (Playfair).
+
+Genus Alphestes Bloch and Schneider
+
+Type species: Epinephelus afer Bloch (by subsequent des-
+ignation  of  Jordan  and  Swain).  Type  locality:  Guinea 
+(Craig et al., 2007).
+
+Included species: A. afer (Bloch), A. immaculatus Breder, 
+
+A. multiguttatus (Günther).
+
+Genus Cephalopholis Bloch and Schneider
+
+Type  species:  Cephalopholis  argus  Bloch  and  Schneider. 
+
+Type locality: East Indies.
+
+(Valenciennes),  C.  cruentata 
+
+Included species: C. albomarginata (Fowler and Bean), C. 
+argus Bloch and Schneider, C. boenak (Bloch), C. colo-
+nus 
+(Lacepéde),  C. 
+cyanostigma  (Valenciennes),  C.  formosa  (Shaw  and 
+Nodder), C. fulva (Linnaeus), C. furcifer (Valenciennes), 
+C. igarashiensis Katayama, C. leopardus (Lacepéde), C. 
+miniata  (Forsskål),  C.  nigri  (Günther),  C.  nigripinnis 
+(Valenciennes in Cuvier and Valenciennes), C. panamen-
+sis  (Steindachner),  C.  polleni  (Bleeker),  C.  rogaa 
+(Forsskål), C. sonnerati (Valenciennes), C. taeniops (Va-
+lenciennes), C. urodeta (Schneider).
+
+Species  incertae  sedis:  C.  aitha  Randall  and  Heemstra, 
+C.  aurantia  (Valenciennes),  C.  hemistiktos  (Rüppell), 
+C.  microprion  (Bleeker),  C.  oligosticta  Randall  and 
+Ben-Tuvia,  C.  sexmaculata  (Rüppel),  C.  spiloparaea 
+(Valenciennes).
+
+Genus Epinephelus Bloch
+
+Type species: Epinephelus marginalis Bloch (= E. fasciatus 
+(Forsskål)  designated  under  the  plenary  powers  of  the 
+IZCN, Opinion 93). Type locality: Red Sea.
+
+fasciatomaculosus 
+
+Included  species:  E.  adscensionis  (Osbeck),  E.  aeneus 
+(Geoffroy  Saint-Hiliaire),  E.  akaara  (Temminck  and 
+Schlegel),  E.  altivelis  (Valenciennes),  E.  amblycephalus 
+(Bleeker),  E.  analogus  Gill,  E.  areolatus  (Forsskål),  E. 
+awoarra (Temminck and Schlegel), E. bleekeri (Vaillant), 
+E.  brunneus  Bloch,  E.  caeruleopunctatus  (Bloch),  E. 
+chabaudi  (Castlenau),  E.  chlorostigma  (Valenciennes), 
+E.  clippertonensis  Allen  and  Robertson,  E.  coioides 
+(Hamilton),  E.  corallicola  (Valenciennes),  E.  cyanopo-
+dus  (Richardson),  E.  daemelii  (Günther),  E.  diacanthus 
+(Valenciennes),  E. 
+(Peters),  E. 
+fasciatus (Forsskål), E. ﬂ avocaeruleus (Lacepéde), E. fus-
+cogutattus (Forsskål), E. guttatus (Linnaeus), E. hexago-
+natus  (Forster),  E.  howlandi  (Günther),  E.  itajara 
+(Lichtenstein),  E.  labriformis  (Jenyns),  E.  lanceolatus 
+(Bloch),  E.  leucogrammicus  (Valenciennes),  E.  macro-
+spilos  (Bleeker),  E.  maculatus  (Bloch),  E.  malabaricus 
+(Bloch and Schneider), E. melanostigma Schultz, E. mer-
+ra Bloch, E. miliaris (Valenciennes), E. morio (Valenci-
+ennes),  E.  multinotattus  (Peters),  E.  ongus  (Bloch),  E. 
+polyphekadion  (Bleeker),  E.  quoyanus  (Valenciennes), 
+E. retouti Bleeker, E. rivulatus (Valenciennes), E. spilo-
+toceps Schultz, E. striatus (Bloch), E. tauvina (Forsskål), 
+E.  trimaculatus  (Valenciennes),  E.  tukula  Morgans,  E. 
+undulostriatus  (Peters),  E.  undulosus  (Quoy  and 
+Gaimard).
+
+Molecular phylogeny of groupers 
+
+17
+
+Species incertae sedis: E. andersoni Boulenger, E. bilobatus 
+Randall  and  Allen,  E.  bontoides  (Bleeker),  E.  chloro-
+cephalus (Valenciennes), E. cifuentesi Grove and Laven-
+berg in Heemstra and Randall, E. drummondhayi Goode 
+and  Bean,  E.  epistictus  (Temminck  and  Schlegel),  E. 
+erythrurus (Valenciennes), E. faveatus (Valenciennes), E. 
+gabriellae  Randall  and  Heemstra,  E.  heniochus  Fowler, 
+E. indistinctus Randall and Heemstra, E. irroratus (For-
+ster), E. latifasciatus (Temminck and Schlegel), E. lebre-
+tonianus (Hombron and Jacquinot), E. longispinis (Kner), 
+E. magniscuttis Postel, Fourmanoir, and Guézé, E. poe-
+cilonotus (Temminck and Schlegel), E. polylepis Randall 
+and  Heemstra,  E.  polystigma  (Bleeker),  E.  posteli  For-
+manoir and Crosnier, E. sexfasciatus (Valenciennes), E. 
+socialis (Günther), E. stictus Randall and Allen, E. stoliz-
+kae (Day), E. suborbitalis Amaoka and Randall, E. sum-
+mana  (Forsskål),  E.  timorensis  Randall  and  Allen,  E. 
+trophis Randall and Allen, E. tuamotoensis Fourmanoir.
+
+Genus Gonioplectrus Gill
+
+Type species: Plectropoma hispanum Cuvier. Type locality: 
+
+Martinique.
+
+Included species: G. hispanus (Cuvier).
+
+Genus Hyporthodus Gill
+
+Type species: Hyporthodus ﬂ avicauda [=Epinephelus nivea-
+tus (Valenciennes in Cuvier and Valenciennes)] Type lo-
+cality: Newport, Rhode Island.
+
+Included species: H. niveatus (Valenciennes), H. niphobles 
+(Gilbert  and  Starks),  H.  exsul  (Fowler),  H.  acanthistius 
+(Gilbert), H. ﬂ avolimbatus (Poey), H. mystacinus (Poey), 
+H. septemfasciatus (Thunberg), H. octofasciatus (Grifﬁ n), 
+H.  nigritus  (Holbrook),  H.  ergastularias  (Whitley),  H. 
+quernus (Seale).
+
+Species incertae sedis: H. darwinensis (Randall and Heem-
+stra),  H.  haifensis  (Ben-Tuvia),  H.  perplexus  (Randall, 
+Hoese, and Last).
+
+Genus Mycteroperca Gill
+
+Type species: Serranus olfax Jenyns (by subsequent desig-
+
+nation of Gill, 1866). Type locality: Galápagos Islands.
+
+Included  species:  M.  acutirostris  (Valenciennes),  M.  al-
+bomarginata (Boulenger), M. bonaci (Poey), M. caninus 
+(Valenciennes), M. cidi Cervigón, M. costae (Steindach-
+ner), M. fusca (Lowe), M. goreensis (Valenciennes), M. 
+interstialis  (Poey),  M.  jordani  (Jenkins  and  Evermann), 
+M. marginatus (Lowe), M. microlepis (Goode and Bean), 
+M. morrhua (Valenciennes), M. olfax (Jenyns), M. phenax 
+Jordan  and  Swain,  M.  prionura  Rosenblatt  and  Zahur-
+anec, M. radiatus (Day), M. rosacea (Streets), M. rubra 
+(Bloch),  M.  tigris  (Valenciennes),  M.  venenosa  (Lin-
+naeus), M. xenarcha Jordan.
+
+Genus Plectropomus Oken
+
+Type  species:  Bodianus  maculatus  Bloch  (by  subsequent 
+designation of Jordan, Tanaka, and Snyder). Type local-
+ity:  Japan  (probably  erroneously  reported  for  Java; 
+Heemstra and Randall, 1993).
+
+Included species: P. areolatus Rüppell, P. laevis (Lacepède), 
+P. leopardus (Lacepède), P. maculatus (Bloch), P. oligo-
+canthus  Bleeker,  P.  pessuliferus  Fowler,  P.  punctatus 
+Quoy and Gaimard.
+
+Genus Saloptia Smith
+
+Type  species:  Saloptia  powelli  Smith.  Type  locality:  Cook 
+
+Islands.
+
+Included species: S. powelli Smith.
+
+Genus Triso Randall, Johnson, and Lowe
+
+Type species: Serranus dermopterus Temminck and Schle-
+
+gel. Type locality: Nagasaki, Japan.
+
+Included 
+
+species:  T.  dermopterus 
+
+(Temminck  and 
+
+Schlegel).
+
+Genus Variola Swainson
+
+Type  species:  Variola  longipinna  Swainson  (=Perca  louti 
+
+Forsskål by monotypy). Type locality: Indian Ocean.
+
+Included  species:  V.  albimarginata  Baissac,  V. 
+
+louti 
+
+(Forsskål)
+
+

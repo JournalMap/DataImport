@@ -1,0 +1,606 @@
+J Appl Genet 46(4), 2005, pp. 381-385
+
+Molecular identification of hairtail species (Pisces: Trichiuridae)
+based on PCR-RFLP analysis
+of the mitochondrial 16S rRNA gene
+
+Anirban Chakraborty1, Futoshi Aranishi2, Yukio Iwatsuki2
+
+1 The United Graduate School of Agricultural Sciences, Kagoshima University, Japan
+2 Division of Fishery Sciences, Faculty of Agriculture, Miyazaki University, Japan
+
+Abstract. A rapid PCR-RFLP analysis was designed to identify 3 closely related species of hairtails: Trichiurus
+lepturus, T. japonicus, and Trichiurus sp. 2, basing on partial sequence data (600 bp) of the mitochondrial DNA
+encoding the 16S ribosomal RNA (16S rRNA) gene. Restriction digestion analysis of the unpurified PCR
+products of these 3 species, using EcoRI and VspI endonucleases, generated reproducible species-specific
+restriction patterns showing 2 fragments (250 bp and 350 bp) for T. lepturus in EcoRI digestion and 2 fragments
+(196 bp and 404 bp) for T. japonicus in VspI digestion, whereas no cleavage was observed for Trichiurus sp. 2
+in both EcoRI and VspI digestions. The PCR-RFLP technique developed in this study proved to be a rapid,
+reliable and simple method that enables easy and accurate identification of these 3 closely related species of
+the genus Trichiurus.
+
+Key words: 16S rRNA, hairtails, species identification, PCR-RFLP, Trichiuridae.
+
+Introduction
+
+The family Trichiuridae (hairtails or cutlassfishes),
+which comprises 9 genera and 32 species, are gener-
+ally benthopelagic on continental shelves and slopes
+and distributed in tropical to warm temperate waters
+(Nakamura and Parin 1993). The taxonomic classifi-
+cation of members of the genus Trichiurus is con-
+fusing, because of their similar body shape and
+coloration. They have long been considered as
+“one variable species” (Tucker 1956), and
+Trichiurus lepturus (type locality: South Carolina,
+North America) was considered a single and valid
+circum-global species in the most recent FAO re-
+view by Nakamura and Parin (1993). Two species
+of hairtails – Trichiurus japonicus and Trichiurus
+sp. 2 – are most frequently and abundantly caught
+hairtails
+(Nakabo 2002)
+and our recent genetic study involving the genetic
+divergence and phylogenetic analysis of the par-
+
+in Japanese waters
+
+tial 16S rRNA gene showed that T. lepturus,
+T. japonicus and Trichiurus sp. 2 are indeed 3 sep-
+arate valid species (Chakraborty et al. in press).
+Morphologically, these 3 species look very similar
+except for coloration of the dorsal fin (yellow in
+Trichiurus sp. 2 and white in both T. lepturus
+and T. japonicus) and length of the tail (very long
+in T. japonicus, medium in T. lepturus and short in
+Trichiurus sp. 2). Although morphological fea-
+tures are sufficient for species identification in
+fresh specimens, it is difficult to identify the spe-
+cies origin in processed products, such as fresh
+and frozen fillets, since many of the distinguishing
+morphological features are no longer detectable
+after processing. In Japan, hairtail fillets are
+mainly marketed as fresh or frozen; the fresh ones
+are usually used for raw consumption called
+“sashimi”, while the frozen fillets are used for ei-
+ther boiled or grilled products (Mochijuki 1997).
+Trichiurus sp. 2 enjoys a higher consumer prefer-
+
+Received: July 12, 2005. Revised: September 14, 2005. Accepted: September 15, 2005.
+Correspondence: A. Chakraborty, Miyazaki University, United Graduate School of Agricultural Sciences, Kagoshima
+University, 1-1 Gakuen-kibanadai-nishi, Miyazaki 889-2192, Japan, e-mail: kga303u@student.miyazaki-u.ac.jp
+
+382
+
+A. Chakraborty et al.
+
+ence and commercially fetches a higher price than
+T. japonicus because of its better meat quality.
+
+1998; Sebastio et al. 2001; Aranishi et al.
+2005a, b).
+
+and
+
+phylogenetic
+
+estimation
+
+of
+
+followed
+
+by
+
+In recent years, DNA-based studies involving
+PCR amplification of nuclear and mitochondrial
+DNA,
+genetic
+divergences from the sequence data, are being
+used to discriminate between closely related
+species (Bourdy et al. 2003; Karaiskou et al. 2003;
+Mabuchi et al. 2003), with regard to their
+taxonomic
+classification.
+However, in the case of processed products, most
+molecular biological methods used to verify
+species identity are based on PCR amplification of
+a
+to
+the simplicity, specificity and sensitivity (Palumbi
+1996) and one such promising method is
+polymorphism
+restriction
+analysis
+(PCR-RFLP).
+This method provides a simpler alternative to
+costly DNA sequencing techniques and has been
+widely used for species identification of many
+closely related species of fish (Quinteiro et al.
+
+length
+PCR products
+
+of DNA due
+
+polymorphic
+
+portion
+
+fragment
+
+of
+
+The present study was undertaken to develop
+a simple, rapid and accurate method based on
+PCR-RFLP analysis of
+the 600-bp fragment
+encoding the mitochondrial 16S rRNA gene, for
+identification of 3 closely related and morpholo-
+gically similar species of hairtails.
+
+Materials and methods
+
+Hairtail samples
+
+Tissue samples of T. japonicus and Trichiurus sp. 2
+from various parts of Japan were collected from
+10 individual specimens each, while for T. lepturus,
+tissue samples were obtained from 15 individual
+specimens caught off the western Atlantic coast of
+America and Brazil. Details of the samples, indi-
+cating the collection date and localities, are given
+in Table 1.
+
+Table 1. Specimens used for RFLP analysis, with date of collection and localities
+
+Species
+
+Locality
+
+Trichiurus sp. 2
+
+T. japonicus
+
+T. lepturus
+
+Miyazaki, Japan
+Okinawa, Japan
+Okinawa, Japan
+Okinawa, Japan
+Okinawa, Japan
+Okinawa, Japan
+Miyazaki, Japan
+Miyazaki, Japan
+Miyazaki, Japan
+Okinawa, Japan
+
+Nagasaki, Japan
+Nagasaki, Japan
+Nagasaki, Japan
+Nagasaki, Japan
+Nagasaki, Japan
+Chiba, Japan
+Chiba, Japan
+Chiba, Japan
+Miyazaki, Japan
+Miyazaki, Japan
+
+off Atlantic coast, USA
+off Atlantic coast, USA
+off Atlantic coast, USA
+off Pascagoula, Gulf of Mexico, USA
+off Brownsville, Gulf of Mexico, USA
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+off Brazil
+
+Date of
+
+collection
+
+07.04.1999
+20.12.1999
+20.12.1999
+20.12.1999
+20.12.1999
+07.11.1999
+07.12.2002
+17.09.1999
+17.09.1999
+11.11.2000
+
+18.10.1999
+18.10.1999
+18.10.1999
+18.10.1999
+18.10.1999
+20.08.2002
+20.08.2002
+20.08.2002
+07.12.2002
+28.10.2002
+
+12.09.1994
+12.09.1994
+10.03.1995
+16.11.2001
+17.06.2002
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+28.10.2004
+
+Catalogue
+
+number
+
+MUFS 17608
+MUFS 17756
+MUFS 17757
+MUFS 17758
+MUFS 17759
+MUFS 17760
+MUFS 21660
+MUFS 22242
+MUFS 22243
+MUFS 22247
+
+MUFS 18237
+MUFS 18240
+MUFS 18242
+MUFS 18245
+MUFS 18397
+MUFS 20254
+MUFS 20256
+MUFS 22093
+MUFS 22094
+MUFS 22246
+
+KU 1206
+KU 1224
+KU 1529
+KU 3900
+KU 5078
+MUFS(T) 01
+MUFS(T) 02
+MUFS(T) 03
+MUFS(T) 04
+MUFS(T) 05
+MUFS(T) 06
+MUFS(T) 07
+MUFS(T) 08
+MUFS(T) 09
+MUFS(T) 10
+
+MUFS = Miyazaki University, Fishery Sciences; T = Tissue Collection; KU = Kansas University
+
+PCR-RFLP identification of hairtails
+
+383
+
+DNA extraction, PCR amplification
+and sequencing
+
+Total DNA was extracted using a DNeasy Tissue
+kit (Qiagen, Tokyo, Japan) from muscle tissues
+preserved in 99.5% ethanol, according to the man-
+ufacturer’s protocols. The partial 16S rRNA gene
+(600 bp) was amplified using the following primers:
+L2510 (5’-GCCTGTTTA ACAAAAACAT-3’) and
+H3059 (5’-CGGTCTG AACTCAGATCACGT- 3’)
+(Miya and Nishida, 1996). PCR amplification was
+carried out in a 25-µL reaction volume containing
+1X Taq DNA polymerase reaction buffer (Bioneer,
+Korea), 5 µM of each dNTP (Bioneer, Korea),
+0.40 µM of each primer, 0.125 U Taq DNA poly-
+merase (Bioneer, Korea), and 1 µL of DNA tem-
+plate in a Techgene thermocycler
+(TC 312,
+Techne, UK). The thermal cycling profile was as
+follows: 94oC for 5 min, followed by 35 cycles of
+denaturation at 94oC for 30 s, annealing at 55oC for
+30 s and extension at 72oC for 1 min, with a final
+extension for 5 min at 72oC. The PCR products
+were electrophoresed on a 1.0% agarose gel,
+stained with ethidium bromide (0.5 µg mL–1),
+and visualized under a UV transilluminator in
+a Digi Doc-It System (UVP, BioImaging system,
+USA).
+
+Double-stranded DNA products were purified by
+Microcon 100 (Millipore, USA), and nucleotide se-
+quences were determined by direct sequencing using
+a Big Dye Terminator v 3.1 Cycle Sequencing Kit
+(Applied Biosystems, USA) in a PRISM 310 Ge-
+netic Analyzer (Applied Biosystems, USA), fol-
+lowing manufacturer’s instructions. Primers used
+were the same as those for PCR amplification.
+
+Identification of restriction sites
+
+in Trichiurus sp. 2 and T.
+
+The sequence analysis data showed unique sites
+for 2 restriction enzymes, EcoRI and VspI among
+the 3 species. The restriction enzyme EcoRI pro-
+duced 2 fragments of 250 bp and 350 bp in
+T. lepturus, whereas its restriction site was not
+present
+japonicus.
+The other restriction enzyme VspI produced 2
+fragments of 196 bp and 404 bp in T. japonicus,
+but
+in
+Trichiurus sp. 2 and T. lepturus. All the individual
+specimens from each of the 3 species were used to
+verify the sequence polymorphism of the mitochon-
+drial 16S rRNA gene, and no mutation was observed
+at the recognition sites of both restriction enzymes.
+
+restriction site was not present
+
+its
+
+RFLP analysis
+
+Restriction digestion of the PCR products for
+the partial 16S rRNA gene from the 3 species was
+
+carried out using EcoRI (Fermentas, Lithuania)
+and VspI (Fermentas, Lithuania) endonucleases
+separately in a 10-µL reaction mixture containing
+1 × Buffer O+ (Fermentas, Lithuania), 5 µL of
+unpurified PCR products, and 5 units of each
+endonuclease at 37oC for 1 h. A 5-µL sample of
+the reactant was run on a 2.0% agarose gel and vi-
+sualized as described above.
+
+Results and discussion
+
+Figure 1 compares the aligned sequences of
+the partial 16S rRNA gene of Trichiurus
+sp. 2 (AB200990), T.
+japonicus (AB200989)
+and T. lepturus (AB201821), which enables iden-
+tification of these 3 species. Direct digestion of
+the PCR products separately with EcoRI and VspI
+resulted in species-specific restriction patterns.
+They corresponded to the expected profiles as de-
+scribed above and using EcoRI, fragments of
+around 250 bp and 350 bp were seen in T. lepturus
+while an uncut fragment of around 600 bp was
+seen in both Trichiurus sp. 2 and T. japonicus
+(Figure 2). In the case of VspI, fragments of
+around 200 bp and 400 bp were seen in
+T. japonicus while an uncut fragment of around
+600 bp was seen in Trichiurus sp. 2 and T. lepturus
+(Figure 2).
+
+In order
+
+supermarkets
+
+to verify the usefulness of
+
+this
+PCR-RFLP technique, fillet samples of hairtails
+imported from various countries (like Indonesia,
+Oman, Pakistan, Thailand and Canada) were pur-
+chased from various
+in Japan
+and analyzed for species identification by this
+technique. Restriction digestion with both EcoRI
+and VspI showed that the samples obtained from
+Indonesia, Oman, Pakistan and Thailand belonged
+to Trichiurus sp. 2 (an uncut fragment of around
+600 bp seen after restriction digestion with both
+EcoRI and VspI), while the samples from Canada
+belonged to T. lepturus (fragments of 250 bp
+and 350 bp seen after EcoRI digestion but an uncut
+fragment after VspI digestion). Representative re-
+sults of the PCR-RFLP analysis of the fillets are
+shown in Figure 3.
+
+The RFLP results for the commercial fillets
+were further verified by direct sequencing of
+the PCR products from representative fillet sam-
+ples. The fillet samples from Indonesia, Oman, Pa-
+kistan and Thailand, identified as Trichiurus sp. 2,
+showed a high homology of more than 99% with
+Trichiurus sp. 2 (AB200990), with mutations at
+
+384
+
+A. Chakraborty et al.
+
+Figure 1. Alignment of DNA sequences of the partial mitochondrial 16S rRNA gene from Trichiurus sp. 2, T. japonicus,
+
+and T. lepturus. VspI and EcoRI sites are shown in boxes.
+
+both EcoRI and VspI sites. In the case of fillet sam-
+ples from Canada, sequencing of the representa-
+tive samples showed a high homology of more
+than 99% with T.
+lepturus, with presence of
+the EcoRI site and absence of the VspI site.
+
+The RFLP data obtained in this study attest to
+the mistaken identity of hairtail species in se-
+quence data submitted to the GenBank. The data-
+base shows 3 partial 16S rRNA sequences
+(AY16492, AY216493 and AY216494) submitted
+as T. lepturus haplotypes. However, the restriction
+pattern
+sequences
+(AY216492, AY216493 and AY216494) was
+identical
+japonicus (presence of
+
+to that of T.
+
+submitted
+
+for
+
+these
+
+3
+
+the VspI site but absence of the EcoRI site). More-
+over, the sequence similarity of these 3 sequences
+to T. japonicus was higher than 99%. The similar
+restriction pattern and high sequence similarity of
+these 3 submitted sequences with T. japonicus se-
+quences proved that the submitted sequences were
+in fact from T. japonicus, and not from T. lepturus.
+The PCR-RFLP analysis using EcoRI and VspI re-
+striction enzymes can easily and effectively iden-
+tify the 3 species without any need of sequencing
+or phylogenetic analysis. The PCR-RFLP protocol
+developed in this study proved to be a simple, reli-
+able, rapid and cost-effective method, requiring
+minimum experimental setup and enabling accu-
+
+PCR-RFLP identification of hairtails
+
+385
+
+Aranishi F, Okimoto T, Okhubo M, Izumi S, 2005b.
+Molecular
+spicy
+Pollack roe products by PCR-RFLP analysis.
+J Food Sci 70: 235–238.
+
+identification of commercial
+
+Bourdy P, Heurtebise S, Lapegue S,
+
+2003.
+Mitochondrial and nuclear DNA sequence variation
+of presumed Crassostrea gigas and Crassostrea
+angulata specimens: A new oyster species in Hong
+Kong? Aquaculture 228: 15–25.
+
+Chakraborty A, Aranishi F, Iwatsuki Y, 2006. Genetic
+differences among three species of
+the genus
+Trichiurus (Perciformes: Trichiuridae) based on
+mitochondrial DNA analysis.
+Ichthyol Res
+(in press).
+
+Karaiskou N, Apostolidis AP, Triantafyllidis A,
+Kouvatsi A, Triantaphyllidis C, 2003. Genetic
+identification and phylogeny of three species of
+the genus Trachurus based on mitochondrial DNA
+analysis. Mar Biotechnol 5: 493–504.
+
+Mabuchi K, Okuda N, Kokita T, Nishida M, 2003.
+Genetic comparison of
+two color-morphs of
+Apogon properuptus from southern Japan. Ichthyol
+Res 50: 293–296.
+
+Miya M, Nishida M, 1996. Molecular phylogenetic per-
+spective on the evolution of the deep-sea fish genus
+Cyclothone (Stomiiformes: Gonostoma- tidae). Ich-
+thyol Res 43: 375–398.
+
+Mochijuki K, 1997. Pictorial encyclopedia of fish
+
+and shellfish. Kashiwa-Shobo Publ: 247-248.
+
+Nakamura I, Parin NV, 1993. FAO Species Catalogue.
+Vol. 15. Snake mackerels and cutlassfishes of
+the world (families Gempylidae and Trichiuridae).
+An annotated and illustrated catalogue of the snake
+mackerels, snoeks, escolars, gemfishes, sackfishes,
+domine, oilfish,
+scabbardfishes,
+hairtails and frostfishes known to date. FAO, Rome.
+
+cutlassfishes,
+
+Nakabo T, 2002. Family Trichiuridae. In: Nakabo T, ed.
+Fishes of Japan with pictorial keys to the species.
+Tokai University Press: 1749–1750.
+
+Palumbi SR, 1996. Nucleic acid II: the polymerase
+chain reaction. In: Hillis DM, Moritz C, Mable BK,
+eds. Molecular Systematics. Sunderland, Sinauer
+Associates.
+
+Quinteiro J, Sotelo CG, Rehbein H, Pryde SE,
+Perez-Martin RI, Rey-Mendez M, Mackie IM, 1998.
+Use of mtDNA direct polymerase chain reaction
+(PCR) sequencing and PCR-restriction fragment
+length polymorphism methodologies in species iden-
+tification of canned tuna. J Agric Food Chem 46:
+1662–1669.
+
+Sebastio P, Zanelli P, Neri TM, 2001. Identification
+of anchovy (Engraulis encrasicholus L.) and gilt sar-
+dine (Sardinella aurita) by polymerase chain reac-
+tion, sequence of their mitochondrial cytochrome b
+gene and restriction analysis of polymerase chain re-
+action products in semipreserves. J Agric Food Chem
+49: 1194–1199.
+
+Tucker DW, 1956. Studies on trichiuroid fishes.
+A preliminary revision of the family Trichiuridae.
+Bull Brit Mus Nat Hist Zool 4: 73–130.
+
+Figure 2. PCR-RFLP analysis of the partial 16S rRNA
+gene from Trichiurus sp. 2 (Tsp.2), T. japonicus (Tj),
+and T.
+PCR amplification and RFLP
+analysis indicate the PCR products and those after
+restriction digestion using EcoRI and VspI, respectively.
+
+lepturus (Tl).
+
+M = molecular weight ladder.
+
+Figure 3. PCR-RFLP analysis of the partial 16S rRNA
+gene from imported fillet samples from Indonesia (In),
+Oman (Om), Pakistan (Pk), Thailand (Th) and Canada
+(Ca). PCR amplification and RFLP analysis indicate
+the PCR products and those after restriction digestion
+using EcoRI and VspI, respectively. M = molecular
+
+weight ladder.
+
+rate identification of these closely related species
+of hairtails.
+
+Acknowledgements. We are most grateful to Andrew
+C. Bentley and Edward O. Wiley (Biodiversity Re-
+search Center and Natural History Museum, University
+of Kansas, USA) and J.K. Dooley (Department of Biol-
+ogy, Adelphi University, USA) for providing tissue
+samples of Trichiurus lepturus specimens. This study
+was supported in part by Sasakawa Research Grant
+from the Japanese Science Society (No. 17–215),
+awarded to the first author.
+
+REFERENCES
+
+Aranishi F, Okimoto T, Izumi S, 2005a. Identification
+of gadoid species (Pieces, Gadidae) by PCR-RFLP
+analysis. J Appl Genet 46: 69–73.
+
+

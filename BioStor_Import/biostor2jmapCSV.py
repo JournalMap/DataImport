@@ -9,8 +9,8 @@ from time import sleep
 ## 0. setup pathways and constants
 
 urlbase = 'http://biostor.org/reference/'
-infile = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/Biostor/BioStorUpdateList20140926.txt'
-outpath = '/Users/jason/Dropbox/JournalMap/Journal_Map_Data/BioStor/'
+infile = '/Users/jason/Downloads/BioStorUpdateList20150217.txt'
+outpath = '/Users/jason/Downloads/'
 saveJSON = 'TRUE'
 JSONfromWeb = 'FALSE'
 writetype = 'wb'  # use 'wb' for writing over the existing articles and locations CSV files and 'ab' for appending to existing files.

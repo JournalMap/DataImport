@@ -1,0 +1,1497 @@
+Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+Contents lists available at SciVerse ScienceDirect
+
+Molecular Phylogenetics and Evolution
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / y m p e v
+
+Evolutionary history of frogﬁshes (Teleostei: Lophiiformes: Antennariidae):
+A molecular approach
+
+Rachel J. Arnold
+
+⇑
+, Theodore W. Pietsch
+
+School of Aquatic and Fishery Sciences, University of Washington, Campus Box 355020, Seattle, WA 98105-5020, USA
+Burke Museum of Natural History and Culture, University of Washington, Campus Box 355020, Seattle, WA 98105-5020, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Fishes of the family Antennariidae (order Lophiiformes) are primarily shallow-water benthic forms found
+in nearly all tropical and subtropical oceans and seas of the world, with some taxa extending into tem-
+perate waters. Despite an earlier attempt based on morphology, no previous hypothesis of intergeneric
+relationships of the Antennariidae exists. To resolve phylogenetic relationships within the Antennariidae,
+and to test the validity of species groups within Antennarius, DNA sequences from the mitochondrial 16S
+and cytochrome oxidase c subunit 1 (COI) genes, and nuclear recombination activating gene 2 (RAG2), for
+25 described and four undescribed antennariid species, representing 10 of 12 known genera and one
+undescribed genus, were unambiguously aligned and analyzed using Bayesian and maximum likelihood
+methods. The markers were partitioned and analyzed for substitution saturation and only the third codon
+position of COI (COI-3) was found to have reached saturation. However, analysis of both datasets, one
+with the saturated data and one without, differed only slightly. All molecular analyses recovered two
+major clades, one comprised of Fowlerichthys, Antennarius, Histrio, and Antennatus; and another contain-
+ing Rhycherus, Antennariidae gen. et sp. nov., Kuiterichthys, Phyllophryne, Echinophryne, Tathicarpus,
+Lophiocharon, and Histiophryne. Evidence is presented to illustrate a correlation between phylogeny, geo-
+graphic distribution, and reproductive life history. The results of these analyses provide the ﬁrst hypoth-
+esis of evolutionary relationships within the Antennariidae.
+
+Ó 2011 Elsevier Inc. All rights reserved.
+
+Article history:
+Received 13 May 2011
+Revised 15 September 2011
+Accepted 17 September 2011
+Available online 2 October 2011
+
+Keywords:
+Teleostei
+Lophiiformes
+Antennarioidei
+Antennariidae
+Antennariinae
+Histiophryninae
+Fowlerichthys
+Antennarius
+Histrio
+Antennatus
+Nudiantennarius
+Rhycherus
+Kuiterichthys
+Phyllophryne
+Echinophryne
+Tathicarpus
+Lophiocharon
+Histiophryne
+Allenichthys
+Frogﬁshes
+Phylogenetics
+Geographic distribution
+Evolutionary history
+Reproduction
+
+1. Introduction
+
+The lophiiform suborder Antennarioidei constitutes a morpho-
+logically diverse assemblage of taxa, nearly all of which are later-
+ally compressed, shallow to moderately deepwater, benthic
+forms with a host of common names including frogﬁshes, sea-
+mice, sea-toads, warty anglerﬁshes, and handﬁshes. The 20 genera
+and approximately 63 extant species are distributed among four
+families (Pietsch and Grobecker, 1987; Pietsch et al., 2009b): the
+⇑ Corresponding author at: School of Aquatic and Fishery Sciences, University of
+
+Washington, Campus Box 355020, Seattle, WA 98105-5020, USA.
+
+E-mail addresses: schoenrj@uw.edu (R.J. Arnold), twp@uw.edu (T.W. Pietsch).
+
+1055-7903/$ - see front matter Ó 2011 Elsevier Inc. All rights reserved.
+doi:10.1016/j.ympev.2011.09.012
+
+Brachionichthyidae, containing ﬁve genera and 14 species (Last
+and Gledhill, 2009; Carnevale and Pietsch, 2010); the monotypic
+Lophichthyidae (Pietsch, 1981); the Tetrabrachiidae, containing
+two genera and two species (Pietsch, 1981; Pietsch et al., 2009b);
+and the Antennariidae, containing 12 genera (Figs. 1 and 2) and
+approximately 46 extant species (Pietsch and Grobecker, 1987).
+They are part of a much larger assemblage of teleost ﬁshes called
+the Lophiiformes, characterized most strikingly by the structure
+of the ﬁrst dorsal-ﬁn spine (illicium), placed on or near the tip of
+the snout and modiﬁed to serve as a luring apparatus for attracting
+prey, and gill openings narrowly constricted to form tube-like
+structures that open posteriorly behind the base of the pectoral
+ﬁn that facilitate jet-propulsive locomotion.
+
+118
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+Fig. 1. Representative taxa of the Antennariidae: (A) Fowlerichthys scriptissimus (photo by Y. Susaki); (B) Antennarius maculatus (photo by D. Harasti); (C) Histrio histrio (photo
+by D. Cook); (D) Antennatus tuberosus (photo by D. Harasti); (E) Nudiantennarius subteres (after Smith and Radcliffe, in Radcliffe, 1912); (F) Rhycherus ﬁlamentosus (photo by J.
+Peake); (G) Gen. et sp. nov. (photo by R. Arnold) and (H) Kuiterichthys furcipilis (photo by R. Kuiter).
+
+Fishes of the family Antennariidae are found in nearly all trop-
+ical and subtropical oceans and seas of the world, with some taxa
+extending into temperate waters. They are distinguished from spe-
+cies of other antennarioid families by the presence of an enlarged
+third dorsal-ﬁn spine (and associated pterygiophore), as well as a
+shortened body and a sigmoid vertebral column (see Pietsch,
+1981, ﬁgs. 12, 33–35, 41, 1984; Pietsch and Grobecker, 1987).
+Antennariids are primarily benthic, sit-and-wait, cryptic predators
+that blend in nearly perfectly with almost any combination of
+substrate and structure. Several species appear to mimic sponges
+(e.g., Antennarius pictus and Antennarius commerson; Wickler,
+1968; Pietsch and Grobecker, 1978) while others look nearly iden-
+tical to sea urchins (e.g., Astropyga radiata; Schneidewind, 2005).
+Although generally sedentary, frogﬁshes employ several modes of
+
+locomotion. One such mode, a unique tetrapod-like locomotion,
+is at the heart of myths surrounding the amphibious nature of
+these animals, which date back three centuries (Pietsch and
+Grobecker, 1987). The ability to remain out of water for an ex-
+tended period of time (as many as 3 days) and to move about the
+substrate was ﬁrst reported by Renard (1719) and later accepted
+as truth by a number of prominent naturalists (e.g., Valenciennes,
+1837; Swainson, 1838; see also Pietsch, 1984; Pietsch and
+Grobecker, 1987). Frogﬁshes use their jointed, arm- and hand-like
+pectoral ﬁns in conjunction with the pelvic ﬁns to accomplish a
+kind of locomotion that resembles a ‘‘walk’’ in typical tetrapod-like
+fashion. However, the ability to remain out of water for any length
+of time, let alone move about without the buoyancy provided by
+seawater, is severely restricted. ‘‘A living frogﬁsh removed from
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+119
+
+Fig. 2. Representative taxa of the Antennariidae: (A) Phyllophryne scortea (photo by R. Arnold); (B) Echinophryne crassispina (photo by J. Lewis); (C) Tathicarpus butleri (photo
+by M. Maddern); (D) Lophiocharon lithinostomus (photo by N. DeLoach); (E) Histiophryne psychedelica (photo by D. Hall) and (F) Allenichthys glauerti (photo by A. Storrie).
+
+an aquarium and placed on a ﬂat surface cuts a rather poor ﬁgure,
+its body more or less immobile and spreading out pancake-like un-
+der its own weight’’ (Pietsch and Grobecker, 1987, p. 345).
+
+The Antennariidae has had a long and complex taxonomic his-
+tory, beginning with the ﬁrst illustration of a frogﬁsh supplied to
+Johannes de Laet by an unknown Dutchman dating sometime prior
+to the year 1630. The ﬁrst notable contribution to frogﬁsh biology
+was that of Albertus Seba, published in the ﬁrst volume of his Loc-
+upletissimus Rerum Naturalium Thesaurus of 1734. Seba, like many
+of his contemporaries, believed that antennariids were anuran
+amphibians and classiﬁed them with true frogs, referring to them
+as Rana Piscatrix, or ‘‘ﬁshing frog.’’
+
+The ﬁrst serious study of antennariid ﬁshes was undertaken
+by the French naturalist Philibert Commerson. His manuscripts
+and drawings were incorporated by Lacepède in the latter’s His-
+toire Naturelle des Poissons (1798). A full treatment of the group
+was published by Valenciennes (1837) in the twelfth volume of
+the Histoire Naturelle des Poissons. Although Günther (1861) ﬁrst
+recognized the problems inherent in frogﬁsh systematics, an at-
+tempt to revise the family on a worldwide basis did not appear
+until the monograph of Schultz in 1957, and then another mono-
+graph by Le Danois (1964). However, until Pietsch (1984) re-
+viewed the family, there were 165 nominal species placed in
+some 31 nominal genera and subgenera, the descriptive prolifer-
+ation resulting in an extremely confusing nomenclature that in-
+volved well over 350 different
+combinations of generic,
+
+subgeneric, speciﬁc, and varietal names for what was then recog-
+nized as 40 valid species. Pietsch (1984) split the most diverse
+antennariid genus, Antennarius, into six species groups (Fig. 3):
+the A. biocellatus group, A. nummifer group, A. ocellatus group,
+A. pauciradiatus group, A. pictus group, and A. striatus group. In
+addition, Pietsch (1984) provided geographic distributions, depth
+ranges, and the ﬁrst taxonomic keys. His cladistic analysis of
+morphological characters, however, did not produce a fully re-
+solved hypothesis of relationships within the family. In particu-
+lar, monophyly for the 24 species of Antennarius was not
+established and no group of two or more genera was found to
+possess any convincing synapomorphy that did not also occur
+within lophiiform taxa lying outside the group in question.
+
+The lack of phylogenetic insight drawn from morphological data
+required that some other dataset, namely molecular sequence data,
+be analyzed to address the evolutionary relationships of the Anten-
+nariidae. To this end, sequences were assembled from 25 described
+and four undescribed antennariid species representing 10 of 12
+known genera and one undescribed genus. A dataset of 1709 bps
+from the genes 16S, cytochrome oxidase c subunit 1 (COI), and
+recombination activation gene 2 (RAG2) were analyzed using
+Bayesian and maximum likelihood methods to address the interge-
+neric relationships of the family and to test the validity of the spe-
+cies groups of Antennarius hypothesized by Pietsch (1984). The
+results of this study provide the ﬁrst hypothesis of evolutionary
+relationships within the Antennariidae.
+
+120
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+Fig. 3. Representative taxa of Antennarius species groups: (A) Antennarius commerson (photo by D. Grobecker); (B) Antennarius indicus (photo by J. Groomer); (C) Antennarius
+striatus (photo by D. Harasti); (D) Antennarius striatus (photo by Y. Otsuka); (E) Antennarius biocellatus (photo by J. Gawron) and (F) Antennarius pauciradiatus (photo by M.
+Oldﬁeld).
+
+2. Materials and methods
+
+2.1. Taxon sampling
+
+Because the monophyletic status of the Antennariidae has been
+demonstrated previously (Pietsch, 1981), and because the purpose
+of this study was to determine intergeneric relationships and not
+to test monophyly of the family, only two genera of the purported
+sister family Tetrabrachiidae (Pietsch, 1981; Pietsch et al., 2009b),
+Dibrachichthys and Tetrabrachium, were included as outgroup taxa.
+This strategy minimizes the potential occurrence of substitution
+saturation present in datasets representing highly divergent taxa.
+DNA sequences were analyzed from 31 species including two
+outgroup taxa and 47 individual antennariids from 10 of the 12
+currently recognized genera (Table 1). An undescribed species
+from New South Wales, Australia, which represents a new
+genus, was also included. Nudiantennarius, a monotypic genus rep-
+resented by only four specimens in collections worldwide, and
+Allenichthys, a monotypic genus endemic to Western Australia,
+were not included because tissues were unavailable. All polytypic
+genera, except Antennarius, were assumed to be monophyletic.
+Representatives of four of the six species groups of Antennarius
+
+(Pietsch, 1984), the A. nummifer group, A. ocellatus group, A. pictus
+group, and A. striatus group, were included in this study. The A.
+biocellatus group, consisting of one species, and the A. pauciradiatus
+group, comprising two species, were not included because tissues
+were unavailable.
+
+For the following species, data were generated from tissue sam-
+ples from more than one individual: A. pictus (Shaw), A. striatus
+(Shaw), Antennatus tuberosus (Cuvier), Histrio histrio (Linnaeus),
+Histiophryne cryptacanthus (Weber), Kuiterichthys furcipilis (Cuvier),
+Lophiocharon lithinostomus (Jordan and Richardson), Phyllophryne
+scortea (McCulloch and Waite), Rhycherus ﬁlamentosus (Castelnau),
+and Tathicarpus butleri Ogilby. For all other species, one individual
+was included in the data set. Voucher specimens have been re-
+tained for all samples. A complete list of taxa, catalog numbers
+for vouchers and tissues, and GenBank accession numbers are pre-
+sented in Table 1.
+
+2.2. DNA extractions, PCR ampliﬁcation, and sequencing
+
+Genomic DNA was extracted from approximately 25 mg of eth-
+anol-ﬁxed skeletal muscle or ﬁn tissue using a Qiagen DNeasy tis-
+sue extraction kit. Both mitochondrial and nuclear DNA were used
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+121
+
+Table 1
+Tissue and voucher specimens of tetrabrachiids and antennariids used to generate sequence data, with corresponding GenBank accession numbers for each gene: 16S, COI, and
+RAG2.
+
+Taxon
+
+Genus
+
+Dibrachichthys
+Tetrabrachium
+
+Antennariidae
+Fowlerichthys
+
+Antennatus
+
+Antennarius
+
+Histrio
+
+Tathicarpus
+
+Lophiocharon
+
+Histiophryne
+
+Rhycherus
+
+Kuiterichthys
+
+Phyllophryne
+
+Echinophryne
+
+Species
+
+melanurus
+ocellatum
+ocellatum
+gen. et sp. nov
+radiosus
+scriptissimus
+nummifer
+rosaceus
+sanguineus
+coccineus
+tuberosus
+tuberosus
+striatus
+striatus
+striatus
+striatus
+striatus
+striatus
+hispidus
+indicus
+commerson
+multiocellatus
+pictus
+pictus
+maculatus
+histrio
+histrio
+butleri
+butleri
+butleri
+lithinostomus
+trisignatus
+trisignatus
+cryptacanthus
+cryptacanthus
+psychedelica
+sp. 1
+sp. 2
+sp. 3
+ﬁlamentosus
+ﬁlamentosus
+ﬁlamentosus
+furcipilis
+furcipilis
+scortea
+scortea
+scortea
+scortea
+crassispina
+mitchellii
+
+Voucher
+
+Catalog number
+
+QM I.38226
+UW 049710-1
+UW 049710-2
+AMS I.43749
+UW 112080
+UW 112642
+RUSI 65251
+QM I.38177
+UW 118813
+AMS I.33711.038
+UW 115750
+UW 118814
+UW 112081
+UW 112082
+UW 118815
+UW 117695-3
+WAM 32906.001
+WAM 32906.001
+UW 117828
+UW 118818
+UW 117686
+UW 117826
+NMV I.41297
+UW 115878
+UW 117687
+KU 29308
+NMV I.40230
+WAM 32904.001
+WAM 32903.001
+QM I.38191
+UW 115749
+UW 115748
+ASIZ P0070179
+UW 117821
+UW 117818
+NCIP 6377
+UW 118820
+SAM F11719
+QM I.38176
+AMS I.41560.001
+NMV A29238.011
+NMV A22333
+AMS I.41007.001
+SAM 10476
+WAM 32905.001
+SAM F11721
+SAM F11722
+NMV 29226
+SAM F11544
+NMV A25508.002
+
+16S
+
+COI
+
+RAG2
+
+GQ981534
+GQ981536
+GQ981535
+GQ981549
+GQ981539
+GQ981538
+GQ981573
+GQ981572
+GQ981561
+GQ981571
+GQ981562
+GQ981563
+FJ219602
+GQ981564
+GQ981565
+GQ981568
+GQ981569
+GQ981570
+GQ981567
+GQ981566
+GQ981579
+GQ981578
+GQ981581
+GQ981580
+GQ981577
+GQ981576
+GQ981575
+GQ981547
+GQ981546
+GQ981548
+FJ219604
+FJ219603
+GQ981540
+GQ981542
+GQ981541
+FJ219601
+GQ981543
+GQ981545
+GQ981544
+GQ981552
+GQ981553
+GQ981554
+GQ981550
+GQ981551
+GQ981555
+GQ981557
+GQ981556
+GQ981558
+GQ981559
+GQ981560
+
+FJ224367
+FJ224370
+FJ224371
+GU188506
+GU188481
+GU188480
+GU188492
+GU188493
+GU188487
+GU188486
+GU188518
+GU188517
+FJ219609
+GU188496
+GU188497
+GU188498
+GU188500
+GU188499
+GU188495
+GU188494
+GU188488
+GU188482
+GU188484
+GU188485
+GU188483
+GU188490
+GU188491
+GU188502
+GU188503
+GU188501
+FJ219611
+FJ219610
+GU188511
+GU188512
+GU188513
+FJ219608
+GU188514
+GU188515
+GU188516
+GU188505
+GU188476
+GU188478
+GU188477
+GU188504
+GU188507
+FJ224369
+GU188508
+GU188509
+GU188510
+FJ224368
+
+GU188519
+GU188565
+GU188564
+GU188561
+GU188542
+GU188541
+GU188520
+GU188524
+GU188526
+GU188525
+GU188527
+GU188528
+FJ219616
+GU188535
+GU188539
+GU188540
+GU188538
+GU188537
+GU188536
+GU188534
+GU188533
+GU188532
+GU188531
+GU188530
+GU188529
+GU188522
+GU188523
+GU188551
+GU188550
+GU188549
+FJ219618
+FJ219617
+GU188543
+GU188545
+GU188546
+FJ219615
+GU188544
+GU188547
+GU188548
+GU188558
+GU188560
+GU188559
+GU188563
+GU188562
+GU188555
+GU188556
+GU188557
+GU188554
+GU188552
+GU188553
+
+because, ultimately, the mitochondrial genome is a single linked
+locus that can provide just one perspective on the evolutionary his-
+tory of species (Zhang and Hewitt, 2003; Ballard and Whitlock,
+2004) and is often inadequate for phylogenetic analyses (Chan
+and Levin, 2005). Aliquots (2.0 ll) of genomic DNA were used as
+template in all polymerase chain reactions (PCR) to amplify dou-
+ble-stranded DNA product from two mitochondrial genes, 16S
+and cytochrome oxidase c subunit 1 (COI), and one nuclear gene,
+recombination activating gene 2 (RAG2). All PCR reactions were
+carried out using a Peltier Thermal Cycler (PT-225), each with a to-
+tal volume of 25 ll with the following concentrations of reagents:
+2 ll of genomic DNA isolate, 1.25 ll of each 10 lM primer, 2.5 ll of
+10X buffer, 1.25 ll of 25 mM MgCl2, 0.625 ll of 8 mM premixed
+deoxynucleotide triphosphates, and 1.0 U of Biolase Taq Polymer-
+ase (Bioline).
+
+The universal primer pair 16Sar and 16Sbr (Palumbi, 1996) was
+used to PCR amplify an approximately 650 base pair (bp) fragment
+
+of the mitochondrial rDNA gene 16S using the following protocol:
+initial denaturation at 94 °C for 2 min followed by 30 cycles of
+denaturation at 94 °C for 30 s, annealing at 56 °C for 30 s, and
+extension at 72 °C for 45 s. After a ﬁnal extension step at 72 °C
+for 10 min, all samples were held at 4 °C.
+
+An approximately 700 bp fragment of the 50 region of the pro-
+tein-coding mitochondrial COI gene was PCR ampliﬁed with pri-
+mer pairs COI5562f and COI6284r
+(Pietsch et al., 2009a).
+Ampliﬁcation of the COI gene for one species, A. tuberosus, was
+problematic and a new reverse primer was designed using se-
+quences of antennariids ampliﬁed with the initial primer pair.
+These sequences were aligned in MUSCLE (multiple sequence com-
+parison by log-expectation, Edgar, 2004) and 21 bp sequences were
+copied from a conserved region at the 30 ends of the gene: COIr 50-
+CRG CYT STT CRA ATG TGT GRT-30. Using these primer pairs, the
+COI gene was ampliﬁed utilizing the same protocol for 16S ampli-
+ﬁcation, except for the annealing temperature that was 52–54 °C.
+
+122
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+Primer pair RAG2-f2 and RAG2-r3 (Westneat and Alfaro, 2005)
+was used to PCR amplify an approximately 490 bp fragment from
+the protein-coding region of RAG2 using the touchdown thermocy-
+cle protocol (Palumbi, 1996). All samples were then held at 4 °C.
+PCR products were visualized on 1–2% agarose gels and bands of
+the target fragment length were cut directly from the gel and
+cleaned using QIAquick Gel Extraction Kit (Qiagen). Forward and
+reverse sequences were generated at
+the High-Throughput
+Genomics Unit (HTGU), Department of Genome Sciences, Univer-
+sity of Washington, Seattle.
+
+2.3. Sequence editing, alignment, and substitution saturation
+
+All forward and reverse chromatographs were aligned in GENE-
+IOUS (Drummond et al., 2007) and checked against each other for
+base pair calls. Instances of heterozygosity (overlapping peaks of
+equal strength) for the RAG2 sequences were coded according to
+the IUPAC ambiguity code. None of the heterozygous sites coded
+for alternative amino acids.
+
+All sequences were aligned using MUSCLE (Edgar, 2004) as
+implemented in GENEIOUS (Drummond et al., 2007) using the full
+gap penalty. 16S fragments were further aligned manually accord-
+ing to the proposed secondary structure of Polyipnus matsubarai
+16S rRNA, reference sequence GenBank D89739 (Miya and Nishida,
+1998). Sequences were trimmed according to the reference. The ﬁ-
+nal length was 521 bps (246 phylogenetically informative sites),
+with 330 bps of loop region and 191 bps of stem region.
+
+The two protein coding loci, COI and RAG2, were also aligned
+against reference sequence. To check the reading frame for COI, se-
+quences were aligned against a known sequence of Antennarius
+avalonis (GenBank DQ027984.1), and the sequences were trimmed
+to a ﬁnal length of 699 bps (229 phylogenetically informative
+sites). RAG2 sequences were aligned against a known sequence
+of Balistes capriscus (GenBank DQ874786.1) to conﬁrm the reading
+frame as well as determine the presence of indels (insertions or
+deletions). No indels were found. The ﬁnal length of the RAG2 frag-
+ment was 489 bps (130 informative sites).
+
+Sequences of variable lengths introduced cells of missing data
+in the ﬁnal matrix. These sites were coded as ambiguous for all
+analyses. All sequences were deposited in GenBank; their accession
+numbers and corresponding whole specimen vouchers are listed in
+Table 1.
+
+Nucleotide substitution saturation was examined in DAMBE
+(Xia and Xie, 2001) using corrected genetic distances plotted
+against transitions and transversions for all pairwise comparisons
+among taxa. 16S stems and loops as well as ﬁrst, second, and third
+codon positions of COI and RAG2 were analyzed separately. Sec-
+ond-order polynomial curves were ﬁt to the data, and saturation
+was established when the curve reached a plateau.
+
+2.4. Phylogenetic analyses
+
+To determine phylogenetic relationships and the effect of the
+saturated data on topology and clade support, Bayesian and
+
+Fig. 4. Fifty percentage majority rule phylogeny of the Antennariinae, from trees sampled in the posterior, generated from Bayesian analyses with the saturated data (third
+codon position of COI). Branch lengths are measured in expected substitutions per site and are proportional to length. Numbers above nodes are posterior probabilities and
+numbers below nodes are bootstrap proportions from 500 pseudoreplicates used from maximum likelihood analysis; an asterisk indicates a posterior probability of 1.00 or a
+bootstrap percentage of 100.
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+123
+
+maximum likelihood analyses of two datasets were performed. The
+ﬁrst dataset included all sequences produced for 16S stems, 16S
+loops, COI, and RAG2; the other differed only in the removal of
+the third codon position of COI, which was saturated with substi-
+tutions. To determine which nucleotide substitution model was
+most appropriate, 16S stems, 16S loops, the ﬁrst and second codon
+positions of COI (COI-12), all codon positions of COI (COI-123), and
+RAG2 were analyzed separately using ModelTest 3.7 (Posada and
+Crandall, 1998) under the Akaike Information Criterion (AIC).
+Those models were used in all further phylogenetics analyses. All
+Bayesian analyses were carried out in MrBayes 3.1.2 (Huelsenbeck
+and Ronquist, 2001; Ronquist and Huelsenbeck, 2003) and each
+dataset was partitioned to accommodate differences among genes
+and the stem and loop regions of the 16S gene fragment. The par-
+titions are summarized as follows: K80 + I + G for 16S stems, SY-
+M + I + G for 16S loops, TrN + I + G for COI-12, TIM + I + G for COI-
+123, and TrN + I for RAG2. Sequences were partitioned in Mesquite
+(Maddison and Maddison, 2009), and all partitions unlinked.
+
+For analyses of both datasets, the default setting of ﬂat priors for
+the transition/transversion rate ratio, branch length, alpha param-
+eter of the gamma distribution for rate heterogeneity, proportion
+of invariant sites, base frequencies, and tree topology parameters
+
+were all used except for the 16S stems and 16S loops partitions
+that had ﬁxed nucleotide frequencies. To ensure convergence,
+5,000,000 generations were run with two replicates, each with four
+simultaneous chains, three hot, one cold, with trees sampled every
+100 generations. Stationarity was achieved, as indicated by the
+standard deviation of split frequencies and examination of a graph
+of posterior probability versus replicates. Of the resulting 50,001
+trees, 12,500 were discarded as burn-in. A 50% majority rule con-
+sensus tree was constructed of the post burn-in trees.
+
+Concatenated datasets (one with COI-12 and one with COI-123)
+were used for the maximum likelihood (ML) analyses in PHYML
+(Guiden and Gascuel, 2003) as implemented in GENEIOUS
+(Drummond et al., 2007) utilizing the GTR + I + G model of nucleo-
+tide substitution. This model was chosen because it is all-inclusive,
+containing the ﬁve parameters estimated by the HKY model. Boot-
+strapping of the datasets was carried out with 500 pseudorepli-
+cates, and all node values for the ML trees are represented as the
+proportion of replicates in which that clade was recovered. In all
+ML and Bayesian analyses, Tetrabrachium ocellatum was designated
+as the outgroup, resulting in rooted phylogenetic trees with a poly-
+tomy at the base. Gene trees were also analyzed separately using
+maximum likelihood analysis with 100 bootstrap pseudoreplicates.
+
+Fig. 5. Fifty percentage majority rule phylogeny of the Histiophryninae, from trees sampled in the posterior, generated from Bayesian analyses with the saturated data (third
+codon position of COI). Branch lengths are measured in expected substitutions per site and are proportional to length. Numbers above nodes are posterior probabilities and
+numbers below nodes are bootstrap proportions from 500 pseudoreplicates used from maximum likelihood analysis; an asterisk indicates a posterior probability of 1.00 or a
+bootstrap percentage of 100.
+
+124
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+Nucleotide substitution models for the gene trees are summarized
+as follows: GTR + I + G for 16S, TIM + I + G for COI, and TrN + I for
+RAG2.
+
+3. Results
+
+3.1. The effects of substitution saturation on clade support and
+topology
+
+As expected, loop mutations and synonymous changes were
+in the greatest abundance; however, only the third codon posi-
+tion of COI reached saturation. To evaluate the effect of the sat-
+urated data on tree topologies and clade support, two datasets
+(one with the saturated data and one without) were analyzed
+and compared.
+
+Of the 1709 sites included in the total evidence data set, 662
+were variable, with the saturated sites providing 35% of the infor-
+mative sites. With the exception of the A. pictus group, the exclu-
+sion of the saturated data from further phylogenetic analysis did
+not change tree topology. In the Bayesian analysis (BA) tree utiliz-
+ing saturated data (Figs. 4 and 5), A. maculatus is sister to A. multio-
+cellatus (Posterior Probability P = 0.98), and they as a group are
+sister to A. pictus (P = 1.00). In the BA tree excluding the saturated
+data (Figs. 6 and 7), A. maculatus is sister to A. pictus (P = 1.00), and
+they as a group are sister to A. multiocellatus (P = 1.00). Clade sup-
+port values were affected only slightly by the removal of the satu-
+rated data; in six instances, decreased posterior probabilities (PPs)
+
+were found in the Bayesian tree that excluded the saturated data,
+but usually from 1.00 to P0.93, and in three instances PPs in-
+creased in support 60.09.
+
+It is evident that PPs and bootstrap values at some nodes are
+discordant. It is possible that this is caused by the concatenation
+of the data. Partitioning the genes, including the stems and loops
+regions of 16S, with their own gamma distribution and alpha
+parameter allows for a better ﬁt. It is likely that an appropriate par-
+titioning scheme for the ML analyses would reduce the effects of
+the saturation and noise in the reconstruction of those nodes with
+low bootstrap supports.
+
+3.2. Phylogenetic relationships within the family Antennariidae
+
+Two major clades were recovered in both analyses (Figs. 4–7),
+the ﬁrst composed of the subfamily Antennariinae, containing gen-
+era Fowlerichthys (resurrected from the synonymy of Antennarius),
+Antennarius, Histrio, and Antennatus; and a sister clade, subfamily
+Histiophryninae, containing the remaining genera Rhycherus,
+Antennariidae gen. et sp. nov., Kuiterichthys, Phyllophryne, Echin-
+ophryne, Tathicarpus, Lophiocharon, and Histiophryne. The Histioph-
+ryninae is deﬁned as including all members of the Antennariidae
+that have lost the mesopterygoid and epural. Within the Anten-
+nariinae (Figs. 4 and 6), Antennarius was rendered paraphyletic
+(requiring resurrection and recognition of Fowlerichthys Barbour,
+1941, to contain the former members of the Antennarius ocellatus
+group sensu Pietsch and Grobecker, 1987:111). At the same time,
+
+Fig. 6. Fifty percentage majority rule phylogeny of the Antennariinae, from trees sampled in the posterior, generated from Bayesian analyses without the saturated data (third
+codon position of COI). Branch lengths are measured in expected substitutions per site and are proportional to length. Numbers above nodes are posterior probabilities and
+numbers below nodes are bootstrap proportions from 500 pseudoreplicates used from maximum likelihood analysis; an asterisk indicates a posterior probability of 1.00 or a
+bootstrap percentage of 100.
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+125
+
+Antennatus was recovered nested within the Antennarius nummifer
+group, requiring reallocation of all members of the latter (as recog-
+nized by Pietsch and Grobecker, 1987), resulting in a much ex-
+panded Antennatus. While it is tempting to erect subgenera to
+separate Antennatus sensu stricto from the former members of the
+A. nummifer group, such action is postponed until more detailed
+analysis of this assemblage is possible.
+
+sp. nov., Kuiterichthys, Phyllophryne, and Echinophryne. Tathicarpus
+was recovered as sister to a clade containing Lophiocharon and His-
+tiophryne. Phyllophryne and Echinophryne were recovered as sister
+taxa, as were Kuiterichthys and Antennariidae gen. et sp. nov. These
+two groups and Rhycherus were recovered in a polytomy. Tathicar-
+pus is recovered as sister to a clade containing Lophiocharon and
+Histiophryne.
+
+The A. pictus group was recovered as monophyletic, but Fowle-
+richthys (=the A. ocellatus group) was found to be monophyletic
+only to the exclusion of A. indicus, a species recovered as sister of
+the monophyletic A. striatus group. The A. pictus group was sister
+to the A. striatus group, together forming the sister group of the
+genus Histrio. The A. pictus group, A. striatus group, and Histrio com-
+prise a clade sister of the now expanded Antennatus. Fowlerichthys
+was recovered as sister to all species groups of Antennarius plus
+Antennatus and Histrio, and is
+the
+Antennariinae.
+
+lineage of
+
+the basal
+
+The Histiophryninae was subdivided into two groups (Figs. 5
+and 7), the ﬁrst containing Tathicarpus, Lophiocharon, and Histioph-
+ryne; and the second consisting of Rhycherus, Antennariidae gen. et
+
+3.3. A comparison of gene trees
+
+With the exception of unresolved clades, gene trees did not dif-
+fer notably in topology. In fact, all intergeneric relationships recov-
+ered in the combined data set were in agreement with all gene
+trees except in the case of RAG2, in which an individual of K. furcip-
+ilis was recovered as sister of Antennariidae gen. et sp. nov., while a
+different specimen of K. furcipilis was recovered as the sister to
+them. While unresolved in the combined data set analyses, both
+the RAG2 and 16S gene trees recovered Rhycherus as basal to the
+sister genera Phyllophryne and Echinophryne. In the 16S gene tree,
+with the exception of A. commerson, the A. pictus group was
+
+Fig. 7. Fifty percentage majority rule phylogeny of the Histiophryninae, from trees sampled in the posterior, generated from Bayesian analyses without the saturated data
+(third codon position of COI). Branch lengths are measured in expected substitutions per site and are proportional to length. Numbers above nodes are posterior probabilities
+and numbers below nodes are bootstrap proportions from 500 pseudoreplicates used from maximum likelihood analysis; an asterisk indicates a posterior probability of 1.00
+or a bootstrap percentage of 100.
+
+126
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+recovered as sister to a clade containing the remaining species of
+Antennarius, Antennatus, and Histrio, while in the combined data
+set it was recovered as sister to the A. striatus group, and included
+A. commerson.
+
+4. Discussion
+
+4.1. Morphological evidence
+
+While Pietsch (1984) and Pietsch and Grobecker (1987) were
+not able to resolve relationships within the Antennariidae, mor-
+phological characters found in their studies correspond with clades
+recovered in this study. For instance, within the Antennariinae,
+Fowlerichthys has a unique combination of 20 vertebrae and ﬁve
+bifurcate pelvic-ﬁn rays, while members of the second clade
+(Antennatus, Histrio, A. pictus group, and A. striatus group) have
+19 vertebrae and one bifurcate pelvic-ﬁn ray. Members of the His-
+tiophryninae (Figs. 5 and 7) have lost the mesopterygoid and epur-
+al, a point which also led Pietsch (1984) and Pietsch and Grobecker
+(1987) to conclude that this lineage likely forms a monophyletic
+group. Lophiocharon and Histiophryne were recovered as sister
+groups and are the only antennariids that have lost pharyngobran-
+chial I (this element is also absent in brachionichthyids and some
+ogcocephalids; Pietsch, 1984; Pietsch and Grobecker, 1987).
+
+4.2. Phylogenetic position of Fowlerichthys
+
+As seen in Figs. 4 and 6, Fowlerichthys (containing remnants of
+the previously recognized A. ocellatus group; sensu Pietsch and Gro-
+becker, 1987) was recovered as the sister group of the paraphyletic
+genus Antennarius. The members of this species group, F. avalonis,
+F. ocellatus, F. radiosus, F. senegalensis, and F. scriptissimus (exclud-
+ing A. indicus), share a character unique among lophiiforms in hav-
+ing all ﬁve pelvic-ﬁn rays bifurcate (all other antennariids have
+four simple and one bifurcate rays). They also have 20 vertebrae
+while nearly all other antennariids examined within the Anten-
+nariinae have 19 (the two exceptions noted by Pietsch (1984) are
+a single specimen of A. striatus, having 18 vertebrae, and a single
+specimen of A. commerson, with 20 vertebrae). Furthermore, F.
+radiosus has an unusual early life-history stage called the ‘‘scuta-
+tus’’ prejuvenile form. This stage is characterized by a pair of
+shield-like bony extensions of the cranium that reach beyond the
+level of the opercular bones, and an expansion of the anterior mar-
+gin of the bones of the suspensorium (see Pietsch and Grobecker,
+1987, Figs. 43 and 44). This early life-history stage was so strange,
+in fact, that it was originally described as a new genus and species,
+Kanazawaichthys scutatus, by Schultz (1957), and only later shown
+by Hubbs (1958) to be the prejuvenile of F. radiosus (see Pietsch
+and Grobecker, 1987). Although a similar morphological adapta-
+tion in closely related species was expected, Pietsch (1984) found
+nothing comparable upon examination of a 19.0-mm SL F. ocellatus
+and 12.0-mm SL F. avalonis. However, Adams (1960) found that in
+Histrio histrio, 10.0-mm SL marked the transition from postlarva to
+juvenile and by 15.5-mm SL the specimens had taken on full adult
+appearances. While larval antennariids are not rare in collections,
+rapid metamorphosis from larvae to adult may severely limit the
+number of available prejuveniles for examination.
+
+Even without knowing which species pass through the scutatus
+prejuvenile form, Fowlerichthys is markedly different from all other
+species of Antennarius, Antennatus, and Histrio. For the reasons dis-
+cussed above, the genus Fowlerichthys Barbour (1941), type species
+F. ﬂoridanus (a junior synonym of A. radiosus Garman, 1896), is ap-
+plied to the previously recognized A. ocellatus group (excluding A.
+indicus, see below).
+
+4.3. Phylogenetic position of Antennarius indicus
+
+With the exception of the placement of A. indicus, all species of
+Antennarius included in this study were recovered within the same
+species groups of Antennarius hypothesized by Pietsch (1984). A.
+indicus was recovered as the basal species of Fowlerichthys (previ-
+ously the A. ocellatus group) in the morphological study by Pietsch
+(1984), while it is here recovered as sister to the A. striatus group
+(Figs. 4 and 6).
+
+Some characters of A. indicus overlap with the diagnostic fea-
+tures of Fowlerichthys and the A. striatus group. For example, the
+membrane behind the second dorsal-ﬁn spine is divided into
+naked dorsal and ventral portions by a dense cluster of dermal
+denticles in Fowlerichthys, while this division is absent in the A.
+striatus group. Specimens of A. indicus usually lack a divided mem-
+brane behind the second dorsal-ﬁn spine, or at most, it is only
+weakly divided (Pietsch, 1984). In Fowlerichthys, the ventral por-
+tion of the membrane usually extends posteriorly, dividing the de-
+pressed area between the bases of the second and third dorsal-ﬁn
+spines and nearly reaches to the base of the third; the membrane
+behind the second dorsal-ﬁn spine in A. indicus terminates dis-
+tinctly anterior to the third dorsal-ﬁn spine, as it does in the A. stri-
+atus group. The anterior end of the pterygiophore of the illicium
+nearly always extends anteriorly beyond the symphysis of the
+upper jaw in the A. striatus group, a feature thought to be unique
+among lophiiforms by Pietsch and Grobecker (1987). Despite the
+fact that specimens of A. indicus have never been recognized as
+having an overhanging pterygiophore, all specimens examined in
+this study have pterygiophores extending anteriorly beyond the
+symphysis of the upper jaw.
+
+The pigment pattern of A. indicus also overlaps with both spe-
+cies groups. Fowlerichthys has 1–3 darkly pigmented ocelli on each
+side of the body while the A. striatus group lacks ocelli; A. indicus
+generally has 2–3 ocelli. The A. striatus group usually has darkly
+pigmented streaks or elongate blotches on the body (Fig. 3C) with
+similar markings on the soft-dorsal, caudal, and anal ﬁns. However,
+markings are completely absent in some specimens, while recent
+unpublished photographs depict specimens that have blotchy,
+somewhat circular markings (Fig. 3D). Elongate blotches also occur
+along the posterior margin of the soft-dorsal and anal ﬁns of A.
+indicus (Fig. 3B). Furthermore, A. striatus, A. hispidus, and A. indicus
+all have numerous darkly pigmented blotchy markings on the pec-
+toral and pelvic ﬁns (Fig. 3B D). These markings do not occur in
+any other member of Fowlerichthys.
+
+Meristics support inclusion of A. indicus in the A. striatus group
+as well. Most or all of the rays of the dorsal ﬁn, and all ﬁve rays of
+the pelvic ﬁn, are bifurcate in Fowlerichthys (the latter feature un-
+ique among the Lophiiformes), except for A. indicus, for which only
+the posteriormost two or three are bifurcate. Members of the A.
+striatus group have as many as four of the posteriormost dorsal-
+ﬁn rays bifurcate. All members of Fowlerichthys have 20 vertebrae
+except A. indicus, which has only 19 vertebrae. All members of the
+A. striatus group, and all members of other species groups of Anten-
+narius, have 19 vertebrae, with the exception of a single specimen
+of A. striatus, noted to have 18 vertebrae, and a single specimen of
+A. commerson, noted to have 20 vertebrae (Pietsch and Grobecker,
+1987).
+
+Pietsch (1984) stated that A. indicus is the ‘‘least specialized
+member’’ of his A. ocellatus group (=Fowlerichthys), and that the
+remaining ﬁve species form a monophyletic assemblage on the ba-
+sis of having all ﬁve rays of the pelvic ﬁn, and most or all of the rays
+of the dorsal ﬁn, bifurcate, and having relatively high vertebral and
+dorsal-ﬁn ray counts. Whereas A. indicus shares characteristics
+with both species groups, most characters exclude it from Fowle-
+richthys and support the molecular analyses for inclusion in the
+A. striatus group. These include an overhanging pterygiophore of
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+127
+
+the illicium, 19 vertebrae, only the posteriormost pelvic-ﬁn ray
+bifurcate, elongated blotches on the dorsal and anal ﬁns, and the
+membrane behind the second dorsal-ﬁn spine lacking a clear divi-
+sion of distinct clusters of dermal spinules. A. indicus is, therefore,
+removed from Fowlerichthys and placed within the A. striatus
+group.
+
+4.4. Interrelationships of the A. striatus group
+
+A single specimen of Antennarius hispidus, acquired through the
+aquarium trade, but purportedly collected in Indonesia, rendered
+A. striatus paraphyletic (Figs. 4 and 6). Tissues from A. striatus orig-
+inated from three geographic locations: off the Louisiana coast in
+the Gulf of Mexico, US; Tosa Bay, Ko¯ chi Prefecture, Japan; and Ex-
+mouth Gulf, Western Australia. Until Pietsch and Grobecker (1987)
+placed 28 nominal forms within the synonymy of A. striatus, the
+Western Atlantic population had been recognized as A. scaber
+and much of the known material from the Western Paciﬁc as A. tri-
+dens. The molecular analyses suggest that these previously synon-
+ymized species do in fact represent distinct species. However, a
+number of authors have reported an excess of silent substitutions
+in mtDNA, providing strong evidence of selection on mitochondria
+or mitochondrial cellular interactions (reviewed by Gerber et al.
+2001), and in many instances mtDNA is probably not selectively
+neutral (Ballard and Kreitman, 1995; Gerber et al., 2001; Rand,
+2001; Ballard and Whitlock, 2004; Ballard and Rand, 2005). Be-
+cause the tips of the tree are based primarily on mtDNA, and
+although there is some support from the nuDNA for A. hispidus ren-
+dering A. striatus paraphyletic, more evidence is needed from faster
+evolving nuclear markers, in particular, before these populations
+can be deﬁnitively recognized as distinct.
+
+4.5. Phylogenetic position of Antennatus
+
+Antennatus was introduced by Schultz (1957), but the type spe-
+cies, Antennatus strigatus, was originally described as a member of
+the genus Antennarius by Gill (1863). The only characters that dif-
+ferentiate members of Antennatus from those of Antennarius are the
+absence of a pseudobranch and the lack of small naked areas be-
+tween the pores of the acoustico-lateralis system (Pietsch and Gro-
+becker, 1987). However, it shares with members of the A. nummifer
+group a smaller maximum body size compared to most other spe-
+cies groups of Antennarius (the A. pauciradiatus group being a nota-
+ble exception), and the second dorsal-ﬁn spine free, not connected
+to the head by a membrane. Within the Antennariinae, Antennarius
+coccineus, A. sanguineus, A. bermudensis, and all species of Antenna-
+tus (as recognized by Pietsch and Grobecker, 1987) lack a caudal
+peduncle, the membranous posteriormost margin of the soft-dor-
+sal and anal ﬁns being connected to the body at the base of the out-
+ermost rays of the caudal ﬁn. Of those species included in the
+molecular analyses, all form a clade whose members make up
+the A. nummifer group and the genus Antennatus (Figs. 4 and 6).
+All molecular analyses place the A. nummifer group and Antennatus
+in a group sister to a clade consisting of Histrio and the remaining
+species groups of Antennarius. Therefore, the A. nummifer group is
+hereby removed from the genus Antennarius. Because it is already
+in use, the generic designation Antennatus Schultz, 1957, is applied
+to this group. Members of Antennatus fall conveniently into two
+groups: the A. tuberosus group (new name), comprised of A. tubero-
+sus, A. strigatus, A. ﬂagellatus, and A. linearis, have relatively thick
+skin, short close-set dermal denticles, all rays of the caudal ﬁn
+bifurcate, and a shorter, smaller caudal ﬁn; and members of the
+A. nummifer group, comprised of A. nummifer, A. coccineus, A.
+
+bermudensis, A. sanguineus, A. duescus, A. analis, A. dorehensis, and
+A. rosaceus, with a darkly pigmented basidorsal spot nearly always
+present, dorsal ﬁn with as many as six (usually only three) poste-
+riormost rays bifurcate, and the posterior surface of the second
+dorsal spine usually devoid of dermal denticles (Pietsch and Gro-
+becker, 1987).
+
+Histrio is retained by the removal of the A. ocellatus and A.
+nummifer groups. Several characters, including exceptionally long
+pelvic ﬁns (length greater than 25% SL), two cutaneous cirri on
+the mid-dorsal line of the snout between symphysis of premaxilla
+and base of illicium, and a pseudo-pelagic lifestyle (Pietsch and
+Grobecker, 1987), require that Histrio be recognized as distinct
+from the A. pictus, A. striatus, A. pauciradiatus, and A. biocellatus
+groups.
+
+4.6. Phylogenetic positions of the A. pauciradiatus and A. biocellatus
+groups
+
+The A. pauciradiatus and A. biocellatus groups have characters
+unique to the Antennariidae: in the monotypic A. biocellatus group,
+the second dorsal spine is free, not connected to the head by mem-
+brane, nearly always straight and tapering distally to a point; and,
+most peculiarly, the ability to live in brackish and even fresh
+waters (Pietsch and Grobecker, 1987); members of the A. paucirad-
+iatus group are paedomorphic forms that reach a maximum length
+of only 40 mm; in addition, they have a membranous connection of
+the third dorsal-ﬁn spine to the soft dorsal ﬁn (Pietsch and Grobec-
+ker, 1987). There are no known morphological characters that
+unite either of these groups with any other species group of Anten-
+narius, nor to Fowlerichthys, Histrio, or Antennatus (including the A.
+nummifer group). Vertebral counts (19) along with four simple and
+one bifurcate pelvic-ﬁn rays suggest their placement somewhere
+within the lineage containing Antennarius, Antennatus, and Histrio
+(Figs. 4 and 6), but until adequate morphological and/or molecular
+data are analyzed, their placement within this lineage remains un-
+known and designated incertae sedis.
+
+4.7. Phylogenetic position of Nudiantennarius
+
+Nudiantennarius was not included in the molecular analyses be-
+cause tissue was unavailable. A combination of morphological and
+meristic characters, including presence of the mesopterygoid and
+epural, 19 vertebrae, and a single bifurcate pelvic-ﬁn ray (Pietsch,
+1984) suggests its position in the lineage containing Antennarius,
+Antennatus, and Histrio within the Antennariinae (Figs. 4 and 6). Be-
+yond this, its placement is unresolved and designated herein as
+Antennariinae incertae sedis.
+
+4.8. Phylogenetic position of Allenichthys
+
+Although Allenichthys was not included in the molecular analy-
+ses, its ovarian morphology and endemism in Western Australia,
+usually above about 35°S latitude, suggests its placement within
+the Histiophryninae (Figs. 5 and 7), in the clade containing Tathi-
+carpus, Lophiocharon, and Histiophryne (see Section 4.10, below).
+A single record of Allenichthys from South Australia, captured near
+Port Lincoln, on 9 January 1967, is likely a result of dispersal via the
+Leeuwin and Zeehan currents. The Leeuwin Current ﬂows down
+and around the Western Australian coast where it meets the Zee-
+han Current, which ﬂows along the continental slope from the
+Great Australian Bight to Tasmania. The combination of the Leeu-
+win and Zeehan currents can bring tropical species well into south-
+ern coastal waters (Gomon et al., 2008).
+
+128
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+4.9. Revised classiﬁcation of the Antennariidae
+
+Family Antennariidae Gill, 1863
+
+Subfamily Antennariinae
+
+Genus Fowlerichthys Barbour, 1941
+
+Fowlerichthys avalonis (Jordan and Starks, 1907), new
+
+combination
+
+Fowlerichthys ocellatus (Bloch and Schneider, 1801),
+
+new combination
+
+Fowlerichthys radiosus (Garman, 1896), new
+
+combination
+
+Fowlerichthys scriptissimus (Jordan, 1902), new
+
+combination
+
+Fowlerichthys senegalensis Cadenat, 1959
+
+Genus Antennarius Daudin, 1816
+Antennarius pictus group Pietsch, 1984
+Antennarius commerson (Latreille, 1804)
+Antennarius pardalis (Valenciennes, 1837)
+Antennarius pictus (Shaw, 1794)
+Antennarius maculatus (Desjardins, 1840)
+Antennarius multiocellatus (Valenciennes, 1837)
+Antennarius striatus group Pietsch, 1984
+
+Antennarius hispidus (Bloch and Schneider, 1801)
+Antennarius indicus Schultz, 1964
+Antennarius striatus (Shaw, 1794)
+
+Antennarius pauciradiatus group Pietsch, 1984
+
+Antennarius pauciradiatus Schultz, 1957
+Antennarius randalli Allen, 1970
+
+Antennarius biocellatus group Pietsch, 1984
+
+Antennarius biocellatus (Cuvier, 1817)
+
+Genus Histrio Fischer, 1813
+
+Histrio histrio (Linnaeus, 1758)
+Genus Antennatus Schultz, 1957
+Antennatus tuberosus group, new
+
+Antennatus ﬂagellatus Ohnishi et al., 1997
+Antennatus linearis Randall and Holcom, 2001
+Antennatus strigatus (Gill, 1863)
+Antennatus tuberosus (Cuvier, 1817)
+
+Antennatus nummifer group, new
+
+Antennatus analis (Schultz, 1957), new combination
+Antennatus bermudensis (Schultz, 1957), new
+
+combination
+
+Antennatus coccineus (Lesson, 1831), new combination
+Antennatus dorehensis (Bleeker, 1859), new
+
+combination
+
+Antennatus duescus (Snyder, 1904), new combination
+Antennatus nummifer (Cuvier, 1817), new combination
+Antennatus rosaceus (Smith and Radcliffe, 1912), new
+
+combination
+
+Antennatus sanguineus (Gill, 1863), new combination
+
+Genus Nudiantennarius Schultz, 1957
+
+Nudiantennarius subteres (Smith and Radcliffe, 1912)
+
+Subfamily Histiophryninae
+
+Genus Rhycherus Ogilby, 1907
+
+Rhycherus ﬁlamentosus (Castelnau, 1872)
+Rhycherus gloveri Pietsch, 1984
+
+Antennariidae genus and species novum
+Genus Kuiterichthys Pietsch, 1984
+
+Kuiterichthys furcipilis (Cuvier, 1817)
+
+Genus Phyllophryne Pietsch, 1984
+
+Phyllophryne scortea (McCulloch and Waite, 1918)
+
+Genus Echinophryne McCulloch and Waite, 1918
+
+Echinophryne crassispina (McCulloch and Waite, 1918)
+Echinophryne mitchellii (Morton, 1897)
+Echinophryne reynoldsi Pietsch and Kuiter, 1984
+
+Genus Tathicarpus Ogilby, 1907
+
+Tathicarpus butleri Ogilby, 1907
+Genus Lophiocharon Whitley, 1933
+
+Lophiocharon hutchinsi Pietsch, 2004
+Lophiocharon lithinostomus (Jordan and Richardson,
+
+1908)
+
+Lophiocharon trisignatus (Richardson, 1844)
+
+Genus Histiophryne Gill, 1863
+
+Histiophryne bougainvilli (Valenciennes, 1837)
+Histiophryne cryptacanthus (Weber, 1913)
+Histiophryne maggiewalker Arnold and Pietsch, 2011
+Histiophryne psychedelica Pietsch et al., 2009a
+
+Genus Allenichthys Pietsch, 1984
+
+Allenichthys glauerti (Whitley, 1944)
+
+4.10. Life history and geographic distribution
+
+The Antennariinae, containing Fowlerichthys, Antennarius, Histri-
+o, and Antennatus, has a relatively wide geographic distribution,
+with all genera found circumglobally throughout the tropics and
+subtropics. The Histiophryninae, containing Rhycherus, Antennarii-
+dae gen. et sp. nov., Kuiterichthys, Phyllophryne, Echinophryne,
+Tathicarpus, Lophiocharon, and Histiophryne, is restricted to the
+Indo-Australian Archipelago, a region that extends from Taiwan
+to Tasmania, including all of the inland seas and islands of the Phil-
+ippines, Indonesia, New Guinea, the Solomons, and the continent of
+Australia. Within the Histiophryninae, the clade containing Rhy-
+cherus, Kuiterichthys, Antennariidae gen. et sp. nov., Phyllophryne,
+and Echinophryne is restricted to temperate waters of Australia, be-
+low approximately 30°S latitude. The second clade, containing
+Tathicarpus, Lophiocharon, and Histiophryne, extends from the Phil-
+ippines to approximately 35°S latitude, except for Histiophryne,
+which ranges from Taiwan to the temperate waters of southern
+Australia.
+
+Reproductive life history also differs considerably between the
+two clades: the Antennariinae has double scroll-shaped ovaries de-
+scribed in detail by Rasquin (1958; see also Pietsch and Grobecker,
+1987, pl. 10, Fig. 161), while the Histiophryninae has an entirely
+different type of ovary. In addition, each ovarian type corresponds
+to a different life history: members of the Antennariinae are broad-
+cast spawners and go through a distinct larval stage, while those of
+the Histiophryninae undergo direct development and display vari-
+ous degrees of parental care. The details of ovarian morphology,
+life history, and associated behavior will be described in a future
+publication.
+
+Acknowledgments
+
+This work was supported by the Dorothy T. Gilbert Ichthyology
+Research Fund through the School of Aquatic and Fishery Sciences,
+and in part by National Science Foundation Grant DEB-0314637,
+T.W. Pietsch, principal investigator. We are extremely grateful to
+all the individuals who provided tissue and loans of whole speci-
+mens, and/or helped with the procurement of specimens for DNA
+analyses, including Greg Arnold, Janine Baker, Andy Bentley, Diane
+Bray, Jason Coombs, Roxanne Fea, Ralph Foster, Brian Gim, Martin
+Gomon, Dave Harasti, Rob Harcourt, Amanda Hay, Barry Hutchin-
+son, Jeff Johnson, Helen Larson, Mark McGrouther, Misaki Miya,
+
+R.J. Arnold, T.W. Pietsch / Molecular Phylogenetics and Evolution 62 (2012) 117–129
+
+129
+
+Sue Morrison, Katherine Maslenikov, Phil Mercurio, Audrey Pang,
+Sally Reader, and Bill Watson. For guidance during data acquisition
+and analysis, we acknowledge the help provided by Zachary Bald-
+win, Chris Kenaley, and Dawn Roje. We also thank Lorenz Hauser,
+Chris Kenaley, Kevin Tang, and Graham Young for providing helpful
+critiques of the manuscript.
+
+References
+
+Adams, J.A., 1960. A contribution to the biology and postlarval development of the
+sargassum ﬁsh, Histrio histrio (Linnaeus), with a discussion of the Sargassum
+complex. Bull. Mar. Sci. Gulf Carib. 10 (1), 55–82.
+
+Ballard, J.W.O., Kreitman, M., 1995. Is mitochondrial DNA a strictly neutral marker?
+
+Trends Ecol. Evol. 10, 85–88.
+
+Ballard, J.W.O., Rand, D.M., 2005. The population biology of mitochondrial DNA and
+
+its phylogenetic implications. Ann. Rev. Ecol. Evol. Syst. 36, 621–642.
+
+Ballard,
+
+J.W.O., Whitlock, M.C., 2004. The incomplete natural history of
+
+mitochondria. J. Mol. Ecol 13, 729–744.
+
+Barbour, T., 1941. Notes on pediculate ﬁshes. Proc. New Engl. Zool. Club 19, 7–14.
+Carnevale, G., Pietsch, T.W., 2010. Eocene handﬁshes from Monte Bolca, with
+description of a new genus and species, and a phylogeny of the family
+Brachionichthyidae (Teleostei, Lophiiformes). Zool. J. Linn. Soc. 160 (4), 621–
+647.
+
+Chan, K.M.A., Levin, S.A., 2005. Leaky prezygotic isolation and porous genomes,
+
+rapid introgression of maternally inherited DNA. Evolution 59 (4), 720–729.
+
+Drummond, A.J., Kearse, M., Heled, J., Moir, R., Thierer, T., Ashton, B., Wilson, A.,
+Stones-Havas, S., 2007. GENEIOUS, vol. 3.7. Biomatters Ltd., Auckland, New
+Zealand.
+
+Edgar, R.C., 2004. MUSCLE, multiple sequence alignment with high accuracy and
+
+high throughput. Nucleic Acids Res. 32, 1792–1797.
+
+Garman, S., 1896. Report on the ﬁshes collected by the Bahama Expedition, of the
+State University of Iowa, under Professor C.C. Nutting in 1893. Bull. Lab. Nat.
+Hist., St. Univ. Iowa 4 (1), 76–93.
+
+Gerber, A.S., Loggins, R., Kumar, S., Dowling, T.E., 2001. Does non-neutral evolution
+shape observed patterns of DNA variation in animal mitochondrial genomes?
+Rev. Genet. 35, 539–566.
+
+Gill, T.N., 1863. Descriptions of some new species of Pediculati, and on the
+
+classiﬁcation of the group. Proc. Natl. Acad. Sci., Philadelphia 15, 88–92.
+
+Gomon, M., Bray, D., Kuiter, R., 2008. Fishes of Australia’s Southern Coast. Reed New
+
+Holland, Chatswood, New South Wales.
+
+Guiden, S., Gascuel, O., 2003. PhyML – a simple, fast, and accurate algorithm to
+estimate large phylogenies by maximum likelihood. Syst. Biol. 52 (5), 696–704.
+Günther, A.C.L.G., 1861. Catalogue of the Acanthopterygian Fishes in the Collection
+of the British Museum, vol. 3. Trustees of the British Museum, London,
+xxv + 586pp.
+
+Hubbs, C.L., 1958. Dikellorhynchus and Kanazawaichthys, nominal ﬁsh genera
+interpreted as based on prejuveniles of Malacanthus and Antennarius,
+respectively. Copeia 1958 (4), 282–285.
+
+Huelsenbeck, J.P., Ronquist, F., 2001. MrBayes, Bayesian inference of phylogenetic
+
+trees. Bioinformatics 17, 754–755.
+
+Lacepède, B., 1798. Histoire Naturelle des Poissons, vol. 1. Plassan, Paris, 532pp.
+Last, P.R., Gledhill, D.C., 2009. A revision of the Australian handﬁshes (Lophiiformes,
+Brachionichthyidae), with descriptions of three new genera and nine new
+species. Zootaxa 2252, 1–77.
+
+Le Danois, Y., 1964. Étude anatomique et systématique des Antennaires, de l’Ordre
+des Pédiculates. Mém. Mus. Natl. d’Histoire Naturelle, Paris, n.s., Série A,
+Zoologie 31 (1), 1–162.
+
+Maddison, W.P., Maddison, D.R., 2009. Mesquite, a Modular System for Evolutionary
+
+Analysis. Version 2.6 <http://mesquiteproject.org>.
+
+Miya, M., Nishida, M., 1998. Molecular phylogeny and evolution of the deep-sea ﬁsh
+
+genus Sternoptyx. Mol. Phylog. Evol. 10, 11–22.
+
+Palumbi, S.R., 1996. Nucleic acids II: the polymerase chain reaction. In: Hillis, D.M.,
+Moritz, C., Mable, B.K. (Eds.), Molecular Systematics, second ed. Sinauer
+Associates, Sunderland, Massachusetts, p. 228.
+
+Pietsch, T.W., 1981. The osteology and relationships of the anglerﬁsh genus
+Tetrabrachium, with comments on lophiiform classiﬁcation. U.S. Fish. Bull. 79
+(3), 387–419.
+
+Pietsch, T.W., 1984. The genera of frogﬁshes (Family Antennariidae). Copeia 1984
+
+(1), 27–44.
+
+Pietsch, T.W., Grobecker, D.B., 1978. The compleat angler: aggressive mimicry in an
+
+antennariid anglerﬁsh. Science 201, 369–370.
+
+Pietsch, T.W., Grobecker, D.B., 1987. Frogﬁshes of
+
+the World: Systematics,
+Zoogeography, and Behavioral Ecology. Stanford Univ. Press, Stanford,
+California.
+
+Pietsch, T.W., Arnold, R.J., Hall, D.J., 2009a. A bizarre new species of frogﬁsh of the
+from Ambon and Bali,
+
+genus Histiophryne (Lophiiformes: Antennariidae)
+Indonesia. Copeia 2009 (1), 37–45.
+
+Pietsch, T.W., Johnson, J., Arnold, R.J., 2009b. A new genus and species of the
+shallow-water anglerﬁsh family Tetrabrachiidae (Teleostei: Lophiiformes:
+Antennarioidei) from Australia and Indonesia. Copeia 2009 (3), 483–493.
+
+Posada, D., Crandall, K.A., 1998. Modeltest: testing the model of DNA substitution.
+
+Bioinformatics 14, 817–818.
+
+Rand, D.M., 2001. The Units of Selection on Mitochondrial DNA. Ann. Rev. Ecol. Syst.
+
+32, 415–448.
+
+Rasquin, P., 1958. Ovarian morphology and early embryology of the pediculate
+
+ﬁshes Antennarius and Histrio. Bull. Am. Mus. Nat. Hist. 114 (4), 331–371.
+
+Renard, L., 1719. Poissons, ecrevisses et crabs, de diverses couleurs et ﬁgures
+extraordinaires, que l’on trouve autour des Isles Moluques, et sur les côtes des
+Terres Australes. . .. Histoire des plus rares curiositez de la Mer des Indes.
+Reinier and Josué Ottens, Amsterdam: 2 vols. in 1, 4pp, +43 pls., 2pp, +57 pls.,
++index.
+
+Ronquist, F., Huelsenbeck, J.P., 2003. MRBAYES 3: Bayesian phylogenetic inference
+
+under mixed models. Bioinformatics 19, 1572–1574.
+
+Schneidewind, F., 2005. A frogﬁsh (Antennarius sp.) as a mimic of sea urchins: a new
+form of mimicry in the family Antennariidae. J. Ichthy. Aquat. Biol. 10 (1), 23–
+28.
+
+Schultz, L.P., 1957. The frogﬁshes of the family Antennariidae. Proc. US Natl. Mus.
+
+107, 47–105.
+
+Smith, J.L.B., Radcliffe, L., 1912. Scientiﬁc Results of the Philippine Cruise of the
+Fisheries Steamer ‘‘Albatross’’, 1907–1910. No. 16. In: Radcliffe, L. (Ed.), New
+Pediculate Fishes From the Philippine Islands and Contiguous Water. Proc. US
+Nat. Mus., 42, 199–214.
+
+Swainson, W., 1838. On the Natural History and Classiﬁcation of Fishes, Amphibians
+and Reptiles or Monocardian Animals, vol. 1. Longman, Orme, Brown, Green and
+Longmans, London, 368pp.
+
+Valenciennes, A., 1837. Des Chironectes (Chironectes, Cuv., Antennarius, Comm.). In:
+Cuvier, G., Valenciennes, A. (Eds.), Histoire Naturelle des Poissons, vol. 12.
+Levrault, Paris and Strasbourg, pp. 389 437.
+
+Westneat, M.W., Alfaro, M.E., 2005. Phylogenetic relationships and evolutionary
+
+history of the reef-ﬁsh family Labridae. Mol. Phylogen. Evol 36, 370–390.
+
+Wickler, W., 1968. Mimicry in Plants and Animals. McGraw-Hill, New York.
+Xia, X., Xie, Z., 2001. DAMBE: data analysis in molecular biology and evolution. J.
+
+Hered. 92, 371–373.
+
+Zhang, D.X., Hewitt, G.M., 2003. Nuclear DNA analyses in genetic studies of
+
+populations: practice, problems and prospects. Mol. Ecol. 12, 563–584.
+
+

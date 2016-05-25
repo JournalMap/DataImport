@@ -1,0 +1,1384 @@
+Zootaxa 1663: 47–57   (2007) 
+www.mapress.com/zootaxa/
+
+Copyright © 2007  ·  Magnolia Press
+
+ISSN 1175-5326  (print edition)
+
+ZOOTAXA
+
+ISSN 1175-5334 (online edition)
+
+A new species of Psilorhynchus (Teleostei: Psilorhynchidae) from the Ataran 
+River Basin, Myanmar, with comments on the generic name Psilorhynchoides
+
+KEVIN W. CONWAY1 & MAURICE KOTTELAT2 
+1Department of Biology, Saint Louis University, 3507 Laclede Avenue, St. Louis, MO 63109, USA. E-mail: conwaykw@gmail.com
+2Route de la Baroche 12, Case Postale 57, 2952 Cornol, Switzerland & Raffles Museum of Biodiversity Research, Department of Bio-
+logical Sciences, 6 Science Drive 2 #03-01, National University of Singapore, Singapore 119260. E-mail: mkottelat@dplanet.ch
+
+Abstract
+
+Psilorhynchus robustus, new species, is described from the Ataran River drainage, Myanmar. It is distinguished by the
+presence of a large dark blotch situated posterodorsal to opercle opening, the upper lip separated from the rostral cap by
+a shallow groove, and 9 branched dorsal-fin rays. The status of Psilorhynchoides Yazdani, Singh & Rao is discussed. 
+
+Key words: Cypriniformes, Psilorhynchidae, Psilorhynchus, taxonomy, Myanmar
+
+Introduction
+
+Members of the genus Psilorhynchus McClelland are small cypriniform fishes  with arched backs and  flat-
+tened ventral surfaces, which are common inhabitants of the streams of the Ganges-Brahmaputra drainage of
+Bangladesh, India, Eastern Nepal and adjacent China and the Irrawaddy drainage in northern Myanmar and
+southwestern Yunnan (Rainboth, 1983; Vishwanath & Manojkumar, 1995). Seven species of Psilorhynchus
+are recognized: P. sucatio (Hamilton, 1822), P. balitora (Hamilton, 1822), P. homaloptera Hora and Mukerji,
+1935, P. pseudecheneis Menon and Datta, 1964, P. gracilis Rainboth, 1983, P. microphthalmus Vishwanath
+and Manojkumar, 1995 and P. arunachalensis (Nebeshwar, Bagra & Das, 2007). Herein, we describe a new
+species of Psilorhynchus from the headwaters of the Ataran River basin, Myanmar.
+
+Material and methods
+
+Measurements and counts generally follow Hubbs & Lagler (1958). Measurements were taken on the left side
+with digital callipers to the nearest 0.1 mm. Our counts and measurements differ from Rainboth (1983) in sev-
+eral aspects and thus values provided here may not be strictly comparable with that work. In particular, we
+prefer to count the small posteriormost ray of the dorsal and anal fins articulating with the same pterygiophore
+as the preceding ray as one (vs. counting the last two unbranched rays articulating with the same pterygio-
+phore in the dorsal and anal fins as one) and measure head length (HL) in the traditional fashion, from the tip
+of the snout to the posterior most point of the opercle (following Hubbs and Lagler, 1958). Selected specimens
+were cleared and doubled stained (c&s) for bone and cartilage study (Taylor and van Dyke, 1985). All fin ray
+counts, excluding those provided for P. microphthalmus and P. arunachalensis, were confirmed through the
+examination of cleared and stained specimens. Vertebral counts are based on c&s specimens and include the
+four Weberian centra. Values for the recently described P. arunachalensis are taken from Nebeshwar et al.
+
+Accepted by L. Page: 21 Oct. 2007; published: 17 Dec. 2007
+
+ 47
+
+(2007)  as  this  species  is  still  known  only  from  the  type  series,  and  thus  unavailable  for  study.  Collection
+abbreviations follow Leviton et al. (1985), except for IHB, Institute of Hydrobiology, Wuhan, and CMK, col-
+lection of the second author.
+
+Comparative material: Psilorhynchus balitora. AMNH 13811, 14 (4 c&s), 33.8–42.2 mm SL; Myan-
+mar:  Upper  Myanmar,  Chindwin  River,  Irawaddy  River  Drainage.  AMNH  15767,  1,  49.0  mm  SL;  India:
+Assam, Naga Hills, Keleki Stream, Emilomi. BMNH 1932.9.19.4–6, 3, 43.7–44.5 mm SL; India: West Ben-
+gal,  Siliguri.  OSUS  15545,  1,  36.0  mm  SL;  Nepal:  Chitawan,  Buri  Rapti  Khola  River  at  Sauraha.  OSUS
+16471, 1, 20.7 mm SL; Nepal: Chitawan, Narayani River at Narayangarh. OSUS 16589, 2, 24.0, 25.0 mm SL;
+Nepal: Nawalparasi, Narayani River, upstream from Tiger Tops tended Camp. UMMZ 244782, 15 (3 c&s),
+25.8–41.3 mm SL; India: West Bengal, Kartowoa River at Barrage in Ambari, Brahmaputra River Drainage.
+UMMZ 244849, 13, 24.5–36.5 mm SL; India: West Bengal, Tista River at Tista Barrage, Brahmaputra River
+Drainage. 
+
+Psilorhynchus gracilis. AMNH 43097, 5 (1 c&s), 20–34.5 mm SL; Bangladesh: Dinajpur Province, Mah-
+anada River at Tetulia, in close vicinity of the dak bungalow. FMNH 94285, paratypes, 5, 30.5–38.1 mm SL;
+Bangladesh: Dinajur Province: Mahananda River at Tetulis, in close vicinity of the Dak Bungalow. UMMZ
+205345, 5 (3 c&s), 34.5–40.0 mm SL; Bangladesh: Rangpur, Ghaghat River, 4mi East of Rangpur on Badar-
+gani Road, Brahmaptura River Draininage. 
+
+Psilorhynchus homaloptera. IHB 32501010001101, more than 100 specimens, 28 examined, 35.2–48.7
+mm SL. IHB 74VII2094, 1, 93.9 mm SL. IHB 74VII2095, 1, 84.6 mm SL. KIZ 7409005, 1, 44.1 mm SL. KIZ
+7409006, 1, 43.3 mm SL. KIZ 7409007, 1, 40.2 mm SL. KIZ 7409008, 1, 39.5 mm SL. KIZ 409009, 1, 44.4
+mm SL; China: Tibet Autonomous Region: Yarlung Zangbo Jiang River, Motuo County, Brahmaputra River
+Drainage. USNM 327772, 1, 66 mm SL; India, Manipur. 
+
+Psilorhynchus microphthalmus. NSMP-T 46803, paratype, 1, 59.0 mm SL; India: Manipur, 85 km south
+
+of Imaphal, Mombi, Manipur River.
+
+Psilorhynchus  pseudecheneis.  BMNH  1958.9.1.10,  2,  65.5–103.5  mm  SL;  Nepal:  Dhankuta  District,
+Mewa Khola. KU 29517, 37 (3 c&s), 44.3–78.3 mm SL; Nepal: Sankhuwasabha, Arun River at confluence of
+Num and Kokta Rivers, 1 hour walk East of Num. KU 29519, 12 (3 c&s), 32.6–36.0 mm SL; Nepal: Sankhu-
+wasbha/Bhojpur, Arun River at Manakaamana, 1 hour walk upstream from Tumlimgtar. USUM 327771, 2,
+72.0–78.7 mm SL; India: Dudh Kosi. USNM 327772, 1, 64.6 mm SL; India: Manipur. 
+
+Psilorhynchus sucatio. AMNH 19648, 2 (1c&s), 28.3, 34.3 mm SL; India: West Bengal: Darjeeling Dis-
+trict, Sevoke River. AMNH 43096, 5 (2 c&s), 13.7–17.6 mm SL; Bangladesh: Dinajur District, Tangam River
+at Thakurhaon, 200 yards upstream from bridge on road to sugar refinery. BMNH 1932.9.19.1–3, 3, 64.7–66.7
+mm  SL;  India:  West  Bengal:  Siliguri.  BMNH  1985.9.16-35-38,  4,  48.5–52.7  mm  SL;  Nepal:  Chitwan
+National Park, Naryani River. CAS 50289, 40 (6 c&s), 14–52.8 mm SL; Nepal: Chitawan Valley, Reu River
+near confluence with Rapti River. FMNH 93596, 4, 43.5–63.8 mm SL; Bangladesh: Rangapani Khal, creek, 6
+km north north west of Jaintapur on Sylhet Shillong Highway. FMNH 94284, 5, 17.1–19.0 mm SL; Bang-
+ladesh: Dinajur District: Mahananda through Purnahaba, Tangam River at Thakurgaon, 200 yards from bridge
+on road to sugar refinery. OSUS 16679, 1, 39.5 mm SL; Nepal: Chitawan, Khoyeri Khola River, 10 km east of
+Nerayengarh  on  Raj  Marg  Hwy.  OSUS  15957,  5,  45.1–54.5  mm  SL;  Nepal:  Sunsari,  Sapta  Koshi  River,
+Bought at fish market in Itahari. OSUS 16588, 1, 53.5 mm SL; Nepal: Nawalparasi, Narayani River, upstream
+from Tiger Tops Tented Camp. OSUS 15546, 1, 34.4 mm SL; Nepal: Chitawan, Buri Rapta Khola River at
+Saurcha. OSUS 16148, 1, 46.6 mm SL; Nepal: Nahalparasi, Marayoni River at Lainda Ghat. OSUS 15840, 2,
+21.5,  27.0  mm  SL;  Nepal:  Nawalparasi,  Narayani  River  at  Tribeni  Ghat  (above  Tribeni  Barrage).  OSUS
+15782, 2,  32.4, 36 mm SL;  Nepal:  Chitawan,  Khageri:  Khola  R, 12 km  east  of Nerayengarh  on  Raj Marg
+Hwy. UMMZ 205346, 47, 19.2–55.5 mm SL; Bangladesh; Rangpur, Ghaghat River, 6 km east of Rangpur on
+Badargani  road,  Brahmaputra  River  Drainage.  USNM  231694,  5,  14.7–19.6  mm  SL:  Bangladesh:  Dinajur
+District: Tangam River at Thakurgaon, 200 yards upstream from bridge on road to sugar refinery, Mahananda
+
+48  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+CONWAY & KOTTELAT
+
+Drainage.  USNM  274788,  1,  53.9  mm  SL;  Nepal:  Royal  Chitwan  Park,  River  running  past  Gaida  Game
+Lodge, upstream of junction with Rapi River. USNM 274804, 13, 28.4–48.7 mm SL; Nepal: Royal Chitwan
+Park, forest stream draining in to Rapi River. 
+
+Psilorhynchus robustus, new species
+Figure 1
+
+Holotype. ZRC 51111, 60.3 mm SL; Myanmar: Kayin [Karen] State: stream “Chon Son” between Kyondaw
+and Phadaw, about 20km northwest of Payathouzu (at border with Thailand). K. Kubota, December 2002.
+
+Paratypes.  CMK  17773,  1,  54.8  mm  SL;  same  data  as  holotype;  ZRC  51113,  10;  53.3–66.1  mm  SL;
+
+CMK 17941, 32 (3 cleared and stained); 49.1–68.1 mm SL; same data as holotype, March 2003.
+
+Diagnosis: Psilorhynchus robustus is most similar to P. gracilis and  P. balitora in overall body shape,
+meristics and colour pattern. It is distinguished from both species by the presence of a large dark blotch situ-
+ated posterodorsally to opercle opening, extending along lateral-line scales 3–6 (vs. absence) and in having
+upper lip separated from the rostral cap by a shallow groove (vs. upper lip separated from rostral cap by a deep
+groove). It is further distinguished from P. gracilis by a greater mouth width (28–31 % HL vs. 20–25), head
+width (67–73 % HL vs. 56–61), head depth (55–58 % HL vs. 46–50), pre-pelvic distance (53–56 % SL vs.
+47–50), pre-anal distance (78–83 % SL vs. 76–79), and caudal peduncle width (5–6 % SL vs. 3–4). Psilorhyn-
+chus robustus is distinguished from P. arunachalensis, P. homaloptera, P. microphthalmus, P. pseudecheneis
+and P. sucatio in having 9 branched dorsal fin rays (vs. 8). It is further distinguished from P. microphthalmus,
+P. arunachalensis, P. homaloptera and P. pseudecheneis by the lower number of unbranched pectoral rays (5
+vs. 7 in P. microphthalmus, 8–9 in P. arunachalensis and P. homaloptera and 9–10 in P. pseudecheneis) and
+lateral  line  scales  (32–34  vs.  39–40  in  P.  microphthalmus,  42–44  in  P.  arunachalensis,  43–44  in  P.  homa-
+loptera  and  46–48  in  P.  pseudecheneis)  and  from  P.  homaloptera  and  P.  pseudecheneis  by  a  greater  body
+depth (19–23 % SL vs. 10–15 in P. homaloptera and 13–16 in P. pseudecheneis) and head depth (55–58 % HL
+vs. 41–45.5 in P. homaloptera and 38–42 in P. pseudecheneis). 
+
+Description: General body shape as in Figure 1. Morphometric and meristic data are listed in Tables 1–2.
+Body high, greatest depth at dorsal-fin origin. Dorsal profile arched, rising gradually to dorsal-fin origin, slop-
+ing steeply towards caudal peduncle. Ventral profile straight, from lower jaw to caudal-fin base. 
+
+Dorsal fin with iii. 9 rays. Anal fin with ii.6 rays. Branched caudal-fin rays 8-9+8-9 (8+8 in holotype),
+dorsal procurrent rays 5 or 6, ventral procurrent rays 6. Pelvic-fin rays ii.7 pectoral-fin rays v.11–12. Total
+number of vertebrae 34–35, consisting of 18+16(1) or 19+16(1).
+
+Head and eye large, mouth inferior, snout rounded, ventral surface bordered by a deep longitudinal groove
+on each side. Rostral cap and upper lip fused, separated only by a narrow, shallow groove. Lower jaw covered
+by a thick squarish 'cushion' that can be folded backwards. 'Cushion' composed of two adnate tissue layers: a
+deeper layer, the lower lip, smooth, not continuous with upper lip around corner of mouth; and a superficial
+layer, papillated, thick, continuous with skin of isthmus and connected with rostral cap by a narrow strip of
+skin around corner of mouth, extended posteriorly and broadened as a flat, slightly papillated skin fold at pos-
+terolateral most corner of mouth (Fig. 2a). Large pre-epiphysial and post-epiphysial fontanelle. Five infraor-
+bital  bones  (IO1-5);  IO1-3  platelike;  IO4-5  reduced  in  width,  comprised  of  sensory  canal  only.  Gill
+membranes joined to isthmus. Fifth ceratobranchial with 4 needle-like pharyngeal teeth, arranged in a single
+row. Swimbladder coated by thick peritoneal tunic, posterior chamber greatly reduced. Anterior chamber par-
+tially enclosed in a bony capsule formed anteriorly by lateral process of the 2nd vertebral centrum and laterally
+by the outer arm of the os suspensorium. 
+
+Paired fins horizontally placed. Pectoral fin almost reaching horizontal through dorsal-fin orgin. Pelvic-
+fin  origin  posterior  to  dorsal-fin  origin,  insertion  opposite  3rd  branched  dorsal-fin  ray.  Anus  positioned
+
+NEW PSILORHYNCHUS
+
+ Zootaxa 1663  © 2007 Magnolia Press  ·  49
+
+FIGURE 1. Psilorhynchus robustus, holotype, ZRC 51111, 60.3 mm SL. Myanmar: Ataran drainage. A. lateral view; B.
+dorsal view; C. ventral view; D. close-up of mouth.
+
+50  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+CONWAY & KOTTELAT
+
+FIGURE 2. Mouth of: A. Psilorhynchus robustus, CMK 17941, 60.0 mm SL; B. P. balitora, UMMZ 244849, 35.0 mm
+SL; C. P. gracilis, UMMZ 205345, 33.0 mm SL; D. P. sucatio, UMMZ 205346, 56.5 mm SL; E. P. pseudecheneis, KU
+29517, 37.0 mm SL; F. P. homaloptera, USNM 327772, 66.0 mm SL. Scale bars equal to 1 mm. Abbreviations: LL,
+lower lip; RC, rostral cap; SF, posterolateral skin fold; UL, upper lip. Rostral cap misshapen anteriorly in E and F. 
+
+between pelvic fins. Caudal fin emarginated, upper lobe slightly longer than lower lobe. Scales large, 32–34
+along lateral line, plus 1–2 on base of caudal fin. 3.5/1/2 transverse scale rows from dorsal-fin origin to pelvic-
+fin origin, 10 around caudal peduncle. Scales absent from ventral surface between pectoral fins.
+
+Coloration: In alcohol body background olive. Scales on flanks and dorsal surface edged with dark pig-
+ment. Dark pigment between pores of lateral line, forming an indistinct lateral streak. Occiput and dorsal sur-
+face of snout dark. Dorsal surface between occiput and dorsal-fin origin with one or two indistinct saddles.
+Five prominent dark saddles along dorsal surface between dorsal-fin origin and caudal-fin base, first situated
+at dorsal-fin origin, second between insertions of branched dorsal-fins rays 6–9, third between dorsal-fin and
+
+NEW PSILORHYNCHUS
+
+ Zootaxa 1663  © 2007 Magnolia Press  ·  51
+
+anal-fin origin, fourth directly above anal fin and fifth situated anterior to caudal-fin base. Large dark blotch
+on flank, situated posterodorsal to opercle opening, extending across lateral line scales 3–6. Unbranched pec-
+toral-fin rays and base of dorsal-fin rays edged with dark pigment. Caudal fin with irregular dark patterning.
+Peritoneal lining silvery, speckled with dark melanophores.
+
+Distribution: Definitively known from headwaters of the Ataran basin in Myanmar (Fig. 3). See Kottelat
+
+(2003, 2004) for a more detailed description of the basin. 
+
+Etymology: From the Latin adjective robustus, meaning strong or robust, in allusion to the overall robust
+
+appearance of this species.
+
+FIGURE 3. Ataran and lower Salween drainages, showing type locality of Psilorhynchus robustus.
+
+52  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+CONWAY & KOTTELAT
+
+TABLE 1. Morphometric data for Psilorhynchus robustus (holotype and 10 paratypes), P. balitora (n = 10), P. gracilis (n
+= 9), P. homaloptera (n = 36), P. pseudecheneis (n = 10) and P. sucatio (n = 10). 
+
+P. robustus
+Holo-
+type
+60.3
+
+Range
+
+40.1–
+68.1
+
+Mean SD
+
+P. balitora 
+Range
+
+Mean SD
+
+P. gracilis
+range
+
+Mean SD
+
+30.5–45.2
+
+34.5–43.0
+
+18.8–
+22.7
+20.1–
+22.0
+47.2–
+48.9
+20.0–
+21.8
+53.3–
+55.7
+78.5–
+82.7
+61.5–
+63.8
+18.2–
+20.1
+9.3–13.9
+
+20.4
+
+1.3
+
+16.5–24.6 19.9
+
+2.9
+
+14.8–18.8 16.9
+
+1.6
+
+21.4
+
+1.0
+
+20.5–24.4 22.2
+
+1.3
+
+20.2–21.9 21
+
+0.6
+
+48.2
+
+0.8
+
+47.0–51.8 49.7
+
+1.6
+
+46.2–49.9 47.9
+
+1.4
+
+21.6
+
+0.8
+
+19.0–24.1 21.3
+
+1.6
+
+19.8–22.6 20.9
+
+1.0
+
+53.3
+
+1.5
+
+51.0–58.2 54.2
+
+2.6
+
+47.5–50.6 48.7
+
+1.2
+
+81.0
+
+1.5
+
+77.0–86.0 81.6
+
+2.4
+
+76.3–79.6 77.5
+
+1.7
+
+62.9
+
+1.0
+
+59.5–65.9 62.5
+
+2.2
+
+54.0–59.8 57.4
+
+1.6
+
+19.1
+
+1.3
+
+16.8–21.7 18.9
+
+1.7
+
+19.1–22.1 20.8
+
+1.0
+
+11.3
+
+1.5
+
+10.4–12.8 11.6
+
+0.7
+
+12.1–15.2 13.2
+
+1.1
+
+7.5–8.4
+
+7.8
+
+4.6–6.8
+
+5.5
+
+0.4
+
+0.9
+
+7.4–9.3
+
+3.6–5.8
+
+8.2
+
+4.6
+
+0.6
+
+0.7
+
+7.2–8.1
+
+2.6–3.5
+
+7.4
+
+3.2
+
+0.4
+
+0.3
+
+24.7–
+26.1
+18.8–
+20.6
+13.1–
+15.4
+
+19.6–
+23.4
+
+67.2–
+72.7
+55.2–
+58.4
+33.3–
+35.9
+52.8–
+54.7
+37.9–
+43.7
+28.0–
+31.0
+
+25.2
+
+0.7
+
+22.4–26.7 24.5
+
+1.4
+
+20.9–23.4 22.3
+
+0.9
+
+20.0
+
+0.5
+
+16.8–20.9 19.3
+
+1.4
+
+16.8–20.6 18.2
+
+1.1
+
+14.4
+
+1.1
+
+13.6–16.8 15.4
+
+1.1
+
+12.3–16.6 14.5
+
+1.5
+
+21.5
+
+1.7
+
+18.0–25.3 22.2
+
+2.5
+
+19.9–25.2 22.3
+
+1.6
+
+70
+
+56
+
+1.8
+
+0.8
+
+69.6–79.0 73.9
+
+2.6
+
+56.6–61.6 59.0
+
+1.8
+
+58.2–63.2 60.7
+
+2.5
+
+46.3–50.0 48.6
+
+1.2
+
+34.5
+
+0.9
+
+26.9–34.2 30.3
+
+2.6
+
+29.3–32.9 31.6
+
+1.2
+
+53.5
+
+0.9
+
+42.3–48.3 46.2
+
+2.5
+
+44.7–49.4 46.3
+
+1.8
+
+40.6
+
+2.1
+
+39.8–45.5 42.6
+
+1.8
+
+34.6–38.5 36.1
+
+1.7
+
+29.0
+
+1.1
+
+29.0–33.3 31.5
+
+2.5
+
+20.5–25.6 23.0
+
+1.8
+
+Standard length
+
+In percents of SL
+Body depth
+
+Head length 
+
+22.7
+
+22.0
+
+Pre-dorsal length
+
+48.9
+
+Pre-pectoral 
+length
+Pre-pelvic length
+
+21.8
+
+52.7
+
+Pre-anal length
+
+78.5
+
+Distance from 
+snout to anus
+Distance from 
+anus to anal fin
+Caudal-peduncle 
+length
+Caudal-peduncle 
+depth
+Caudal-peduncle 
+width
+Pectoral–fin 
+length
+Pelvic-fin length
+
+Length of last 
+unbranched anal 
+ray
+Length of last 
+unbranched dor-
+sal ray
+In percents of HL
+Head width
+
+Head depth
+
+Eye diameter
+
+59.7
+
+19.2
+
+13.9
+
+7.9
+
+6.8
+
+24.7
+
+20.6
+
+15.0
+
+23.2
+
+68.4
+
+55.2
+
+35.5
+
+Snout length
+
+?53.7
+
+Interorbital width
+
+37.9
+
+Mouth width
+
+29.5
+
+NEW PSILORHYNCHUS
+
+ Zootaxa 1663  © 2007 Magnolia Press  ·  53
+
+...continued.
+
+Table 1 continued.
+
+P. homaloptera
+Range
+35.2–93.9
+
+Mean SD
+
+from
+
+18.1–22.9 21.3
+
+11.2–14.6 13.0
+
+from
+
+18.2–23.6 21.5
+
+44.0–49.0 46.1
+75.1–82.1 77.9
+53.0–57.2 54.8
+
+10.6–14.9 13.5
+18.4–21.1 19.7
+49.3–51.9 50.9
+16.8–21.2 18.9
+
+Standard length
+In percents of SL
+Body depth
+Head length
+Pre-dorsal length
+Pre-pectoral
+length
+Pre-pelvic length
+Pre-anal length
+Distance 
+snout to anus
+Distance 
+anus to anal fin
+Length  of  caudal
+peduncle
+Depth  of  caudal-
+peduncle
+Length  of  caudal
+peduncle
+Pectoral–fin
+length
+Pelvic-fin length
+Length  of 
+last
+unbranched  anal
+ray
+Length  of 
+last
+unbranched  dor-
+sal ray
+In percents of HL
+72.2–77.6 75.6
+Head width
+41.0–45.5 43.2
+Head depth
+17.2–21.0 19.2
+Eye diameter
+Snout Length
+50.0–56.4 53.0
+Interorbital width 45.8–48.8 47.3
+Mouth width
+35.2–38.5 36.1
+
+18.0–22.4 20.2
+12.5–15.7 14.5
+
+24.1–29.0 26.6
+
+5.0–6.4
+
+5.8
+
+2.3–4.0
+
+3.3
+
+0.9
+0.8
+1.1
+1.2
+
+1.5
+1.7
+1.2
+
+1.4
+
+1.0
+
+0.4
+
+0.4
+
+1.3
+
+1.0
+1.0
+
+1.5
+
+1.5
+1.4
+1.0
+2.4
+0.9
+0.9
+
+P. pseudecheneis
+Range
+62.0–76.5
+
+Mean SD
+
+13.3–15.7
+18.4–20.4
+47.0–50.2
+13.5–16.2
+
+43.0–44.8
+78.6–83.0
+53.2–55.7
+
+14.5
+19.2
+47.7
+14.4
+
+44.8
+80.8
+54.5
+
+0.8
+0.7
+1.0
+0.8
+
+1.2
+1.3
+0.9
+
+P. sucatio
+Range
+41.0–65.7
+
+15.6–20.5
+19.8–22.3
+45.7–48.9
+19.6–23.0
+
+47.9–51.8
+77.7–81.0
+55.2–57.8
+
+Mean SD
+
+17.8
+21.1
+46.9
+21.3
+
+48.9
+79.0
+56.4
+
+1.8
+0.8
+1.1
+0.9
+
+1.3
+1.3
+1.0
+
+25.5–27.0
+
+26.2
+
+0.7
+
+21.7–24.6
+
+23.0
+
+0.9
+
+11.0–13.5
+
+12.1
+
+0.9
+
+13.2–15.8
+
+15.0
+
+0.9
+
+5.8–6.9
+
+6.3
+
+0.3
+
+5.1–7.4
+
+6.3
+
+0.8
+
+2.8–3.6
+
+3.3
+
+0.3
+
+3.0–4.6
+
+3.7
+
+0.6
+
+25.9–27.8
+
+26.8
+
+0.7
+
+16.4–21.2
+
+18.4
+
+18.1–21.0
+11.8–13.6
+
+19.6
+13.2
+
+0.9
+0.7
+
+16.7–21.7
+11.1–14.9
+
+18.4
+12.9
+
+1.5
+
+18.9–21.6
+
+20.2
+
+1.0
+
+24.1–29.2
+
+25.9
+
+1.7
+
+77.3–81.0
+38.3–42.0
+14.1–16.7
+50.0–57.0
+47.6–52.3
+33.1–36.7
+
+80.1
+39.6
+15.5
+54.2
+50.2
+35.3
+
+1.5
+1.5
+1.0
+2.0
+1.6
+1.2
+
+59.1–64.4
+39.5–44.6
+23.9–26.7
+48.4–54.0
+48.1–53.8
+22.5–26.2
+
+61.8
+41.9
+25.1
+51.7
+51.1
+24.4
+
+2.0
+2.0
+0.9
+1.7
+1.9
+1.2
+
+Discussion
+
+The genus Psilorhynchus was created by McClelland (1839) for the species described by Hamilton (1822) as
+Cyprinus balitora and C. sucatio. Hora (1920) first revised the genus, though he did not have access to P.
+sucatio. He later split Psilorhynchus (Hora, 1921a), creating the new genus Parapsilorhynchus for the species
+P. tentaculatus, and redescribed P. sucatio based on fresh material (Hora, 1921b). Since Hora’s revision sev-
+eral authors have further defined the genus (Mukerji, 1933; Jayaram, 1981; Rainboth, 1983; Yazdani et al.,
+1990). 
+
+54  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+CONWAY & KOTTELAT
+
+TABLE 2. Meristic data for Psilorhynchus robustus (holotype plus 10 paratypes), P. balitora (n = 10), P. gracilis (n = 9),
+P. homaloptera (n = 36), P. pseudecheneis (n = 10) and P. sucatio (n = 10).  ‘-‘ indicates that values are not available.
+
+Dorsal-fin rays
+Anal-fin rays
+Branched caudal-fin 
+rays
+Pelvic-fin rays
+Pectoral-fin rays
+Lateral-line scales 
+Scales between dorsal 
+and pelvic fins
+Circumpeduncular 
+scales
+Abdominal vertebrae
+Caudal vertebrae
+Total vertebrae
+
+P. robustus P. balitora
+iii.9 
+ii.6
+8–9+8–9
+
+iii.9
+ii.6
+7–8+7–8
+
+P. gracilis
+iii.9
+iii.6
+9+8 
+
+P. microphthalmus P. sucatio P. homaloptera P. pseudecheneis
+ii.8
+ii.6
+8+7
+
+ii.8
+ii.6
+9+8
+
+ii.8
+ii.6
+9+8
+
+ii.8
+ii.6
+9+8
+
+ii.7
+v.11–12
+32–34
+3.5/1/2.
+
+ii.7
+vi-vii.10–11
+32–34
+3.5/1/2.
+
+ii.7
+
+ii.7
+iv–v.11–13 vii.10
+39–40
+33–34
+3.5/1/2.
+3.5/1/2.
+
+ii.7
+iv.8–9
+32–35
+3.5/1/2.
+
+ii.7
+viii–ix.10–12
+43–44
+4/1/2.
+
+ii.7
+ix–x.10–12
+46–48
+4/1/2.
+
+10
+
+10
+
+18–19
+16
+34–35
+
+16–18
+15–16
+31–34
+
+10
+
+17
+17
+34
+
+10
+
+-
+-
+-
+
+10
+
+10
+
+18–19
+16–18
+34–37
+
+-
+-
+-
+
+8
+
+23–25
+24–25
+47–50
+
+The new species, P. robustus, can be assigned to the genus Psilorhynchus (sensu Rainboth, 1983) based
+on the following combination of characters: back arched, ventral surface flattened; mouth small and inferior;
+barbels absent; gill-membranes joined broadly to isthmus with aperture extending ventrally to base of pectoral
+fin; paired fins inserted horizontally; scales large, 32–34 in lateral line; dorsal fin with iii.9 rays, anal fin with
+iii.6  rays,  pectoral  with  v.11–12  rays,  pelvic fin  with ii.7  rays; 5th  ceratobranchial  with 4  pharyngeal teeth,
+arranged  in  a  single  row;  pre-epiphysial  fontanel  present;  posterior  swimbladder  chamber  greatly  reduced,
+anterior chamber partially enclosed in a bony capsule formed anteriorly by the lateral process of the 2nd verte-
+bral centrum and laterally by the outer arm of the os suspensorium (= 4th pleural rib of other authors).
+
+Though  the  interrelationships  within  the  genus  Psilorhynchus  are  currently  unknown,  the  new  species
+appears to be more closely related to those species of Psilorhynchus with a papillated skin fold at the postero-
+lateral most corner of the mouth (Fig. 2), specifically P. balitora, P. gracilis and P. sucatio. Of these three spe-
+cies, P. robustus is most similar in terms of meristics to P. balitora and P. gracilis (Table 2) as both have 9
+branched dorsal-fin rays and 3 unbranched anal-fin rays (vs. 8 and 2, respectively). 
+
+Based  on  examination  of  the  four  Indian  species  available  to  them  (P.  balitora,  P.  homaloptera,  P.
+pseudecheneis, P. sucatio), Yazdani et al., (1990) divided the species of Psilorhynchus into two genera, Psilo-
+rhynchus  sensu  stricto  and  Psilorhynchoides  for  the  inclusion  of  P.  homaloptera  (type  species)  and  P.
+pseudecheneis. This decision was based on a number of differences that they observed between the external
+appearance of P. homaloptera and P. pseudecheneis, and P. balitora and P. sucatio, and in the osteology of P.
+homaloptera and P. balitora, including: body flattened anteriorly and compressed laterally towards posterior
+half of the body in Psilorhynchoides (vs. body more or less spindle shaped with distinct convexity of the dor-
+sal profile with peak at dorsal-fin origin in Psilorhynchus); broad based paired fins, well spread out horizon-
+tally (vs. narrow based, not so much spread out horizontally); small eyes (vs. eyes fairly large); scales absent
+on chest (vs. present); 8–10 unbranched pectoral-fin rays (vs. 4–6); lateral line scales numbering above 40 (vs.
+32–33, as counted by Yazdani et al.); skull broad (vs. long and slender); supraethmoid fossa (= post-epiphys-
+ial fontanelle) present in P. homaloptera (vs. absent in P. balitora); ethmoid-frontal fontanelle (= pre-epiphys-
+ial fontanelle) long and slender in P. homaloptera (vs. short and broad in P. balitora); dorsal ribs of second
+and fourth vertebrae forming a bony capsule enclosing the anterior swim bladder chamber in P. homaloptera
+(vs. dorsal ribs of second and fourth vertebrae just folded with lateral openings); urohyal thick and catapult
+shaped with forked anterior tips in P. homaloptera (vs. urohyal a more compact shaft-like structure with ante-
+rior tips only a little forked in P. balitora); lateral foramen present on postero-lateral border of basipterygium
+in P. homaloptera (vs. absent in P. balitora).
+
+NEW PSILORHYNCHUS
+
+ Zootaxa 1663  © 2007 Magnolia Press  ·  55
+
+TABLE 3. Summary of characters used by Yazdani et al. (1990) to distinguish the genus Psilorhynchoides from Psilo-
+rhynchus and their distribution across 7 species of Psilorhynchus. 1 taken from Chen, 1981; 2 from Yazdani et al., 1990.
+
+P. robustus P. balitora P. gracilis
+
+Scales on chest
+
+Lateral-line scales
+Unbranched pectoral-fin 
+rays
+Skull
+Pre-epiphysial fontanelle
+
+absent
+
+32–34
+5
+
+broad
+long/slen-
+der
+
+Post-epiphysial fontanelle present
+
+Anterior swimbladder 
+chamber
+
+free
+
+present/
+absent
+32–34
+4
+
+broad
+short/
+broad
+present/
+absent
+free
+
+absent
+
+33–34
+4–5
+
+broad
+long/slender
+
+present
+
+enclosed in 
+bone
+
+Urohyal condition
+
+shaft-like
+
+shaft-like
+
+shaft-like
+
+Lateral foramen of basip-
+terygium
+
+absent
+
+absent
+
+absent
+
+P. microphthal-
+mus
+absent
+
+39–40
+7
+
+P. sucatio
+
+present/
+absent
+32–35
+4
+
+P. homa-
+loptera
+absent
+
+43–44
+8–9
+
+P. pseudeche-
+neis
+absent
+
+46–48 
+9–10
+
+-
+-
+
+-
+
+-
+
+-
+
+-
+
+broad
+long/slender
+
+broad1
+long/slender1
+
+broad 
+long/slender 
+
+absent
+
+present1
+
+present
+
+free
+
+shaft-like
+
+present
+
+free1/enclosed 
+in bone2
+catapolt-
+shaped2
+present
+
+free
+
+catapolt-
+shaped
+present
+
+The placement of P. homaloptera and P. pseudecheneis within a separate genus appears to have been fol-
+lowed only by Nelson (1994, 2006) and Nebeshwar et al. (2007), with other authors retaining them in Psilo-
+rhynchus.  Though  characters  of  osteology  featured  prominently  in  Yazdani  et  al.’s  characterization  of
+Psilorhynchoides, they only examined the osteology of a few specimens (number unknown) representing only
+two  species,  one  for  each  genus  (P.  homaloptera  for  Psilorhynchoides  and  P.  balitora  for  Psilorhynchus).
+Based on observations of a large number of cleared and stained specimens, representing 5 species (P. balitora,
+P. gracilis, P. pseudecheneis, P. robustus, P. sucatio), encompassing a greater geographic range than material
+examined by Yazdani et al. (Nepal, India, Bangladesh & Myanmar vs. India) it is clear that the characters used
+to  define the  genus Psilorhynchoides  are not  restricted to P.  homaloptera and P.  pseudecheneis but  have a
+mosaic distribution within Psilorhynchus (summarised in Table 3). Though it is true that P. homaloptera and
+P. pseudecheneis exhibit a more elongate body and a higher number of unbranched pectoral-fin rays and lat-
+eral line scales than all other species of Psilorhynchus (Tables 1–3), we prefer to retain these species within
+Psilorhynchus pending the outcome of a forthcoming phylogenetic analysis (Conway, in prep.).
+
+The earlier eastern extent of the range of Psilorhynchus was the Irrawaddy drainage. The discovery of the
+genus in the Ataran drainage leaves a gap as there is no published record from the Salween drainage, located
+between the previous two. The presence of Psilorhynchus is expected in the Salween, and indeed we have
+information that suggests that the genus is present in its tributary Mae Nam Moei, but this awaits specimen-
+based confirmation. 
+
+Acknowledgments
+
+We are pleased to thank Katsuma Kubota for the gift of the material of the new species. We thank B. Brown,
+R.  Arrindell  (AMNH),  D.  Nelson  (UMMZ),  D.  Catania  (CAS),  J.  Maclaine,  O.  Crimmen,  P.  Campbell
+(BMNH), A. Bentley (KU), T. Echelle (OSUS), J. Williams (USNM) and G. Shinohara (NSMP-T) for the loan
+of specimens and S. He, E. Zhang (IHB), J. Yang, X. Chen (KIZ), P. Willink and K. Swagel (FMNH) for per-
+mission to examine material under their care. Extended thanks to D. Nelson, D. Catania and A. Bentley for the
+permission  to  clear  and  stain  specimens  of  Psilorhynchus.  KWC  would  like  to  thank  R.  L.  Mayden,  Saint
+
+56  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+CONWAY & KOTTELAT
+
+Louis University and the National Science Foundation’s Cypriniformes Tree of Life Initiative as part of the
+NSF Assembling the Tree of Life Initiative (DEB 0431326) for financial support.
+
+Literature cited
+
+Hamilton, F. (1822) An Account of the Fishes found in the River Ganges and its Branches. Archibald Constatable and
+
+Co., Edinburgh, Scotland, 405 pp.
+
+Hora, S.L. (1920) Revision of the Indian Homalopteridae and of the genus Psilorhynchus (Cyprinidae). Records of the
+
+Indian Museum, 19, 195–215.
+
+Hora, S.L. (1921a) Notes on fishes in the Indian Museum. I. On a new genus of fish closely resembling Psilorhynchus,
+
+McClelland. Records of the Indian Museum (Calcutta), 22, 13–17.
+
+Hora, S.L. (1921b). Notes on the fishes of the Indian Museum. XXXIII. On some new or rare species of fish from the
+
+Eastern Himalayas. Records of the Indian Museum, 22, 731–744.
+
+Hubbs, C.L. & Lagler. K.F. (1958) Fishes of the Great Lakes Region. Cranbrook Institute of Science Bulletin 26, Bloom-
+
+field Hills, Michigan, 213 pp.
+
+Jayaram, K.C. (1981) The Freshwater Fishes of India, Pakistan, Bangladesh, Burma and Sri Lanka. Zoological Survey
+
+of India, Calcutta, 475 pp., pls. 1–13.
+
+Kottelat, M. (2003) Parambassis pulcinella, a new species of glassperch (Teleostei: Ambassidae) from the Ataran River
+Basin (Myanmar), with comments on the family-group names Ambassidae, Chandidae and Bogodidae. Ichthyologi-
+cal Exploration of Freshwaters, 14, 9–18.
+
+Kottelat, M. (2004) Botia kubotai, a new species of loach (Teleostei: Cobitidae) from the Ataran River basin (Myanmar),
+
+with comments on botiine nomenclature and diagnosis of a new genus. Zootaxa, 401, 1–18.
+
+Leviton, A.E., Gibbs, R.H.Jr., Heal E. & Dawson, C.E. (1985) Standards in herpetology and ichthyology: Part I. Standard
+
+symbolic codes for institutional resource collections in herpetology and ichthyology. Copeia, 1985, 802–832.
+
+McClelland, J. (1839) Indian Cyprinidae. Asiatic Researches, 19, 217–471.
+Mukerji, D.D. (1933) Report on Burmese fishes collected by Lt. Col. R. W. Burton from the tributary streams of Mall
+
+Hka River of the Myitkyna district (Upper Burma). Journal of the Bombay Natural History Society, 36, 812–831.
+
+Nebeshwar, K., Bagra, K. & Das, D.N. (2007) A new species of the cyprinoid genus Psilorhynchoides Yazdani et al.
+
+(Cypriniformes: Psilorhynchidae) from Arunachal Pradesh, India. Zoo’s Print Journal, 22, 2632–2636.
+
+Nelson, J.S. (1994) Fishes of the World, 3rd edn. Wiley, New York, 600 pp.
+Nelson, J.S. (2006) Fishes of the World, 4th edn. Wiley, New York, 601 pp.
+Rainboth, W.J. (1983) Psilorhynchus gracilis, a new cyprinoid fish from the Gangetic lowlands. Proceedings of the Cal-
+
+ifornia Academy of Sciences, 43, 67–76.
+
+Taylor, W.R. & Van Dyke G.C. (1985) Revised procedures for staining and clearing small fishes and other vertebrates for
+
+bone and cartilage study. Cybium, 9, 107–119. 
+
+Vishwanath,  W.  &  Manojkumar,  W.  (1995)  Fishes  of  the  cyprinoid  genus  Psilorhynchus  McClelland  from  Manipur,
+
+India, with description of a new species. Japanese Journal of Ichthyology, 42, 249–253.
+
+Yazdani,  G.M.,  Singh  D.F.  &  Rao,  M.B.  (1990)  Psilorhynchoides,  a  new  genus  for  the  cyprinid  fish,  Psilrohynchus
+homaloptera Hora & Mukerji and P. pseudecheneis Menon & Data, with a definition of the subfamily Psilorhynchi-
+nae (Cyprinidae). Matsya, 15/16, 14–20.
+
+NEW PSILORHYNCHUS
+
+ Zootaxa 1663  © 2007 Magnolia Press  ·  57
+
+58  ·  Zootaxa 1663  © 2007 Magnolia Press
+
+

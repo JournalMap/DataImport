@@ -1,0 +1,1906 @@
+Revista de Biología Marina y Oceanografía
+Vol. 45, S1: 635-657, diciembre 2010
+Article
+
+The Clupeocephala re-visited: Analysis of characters
+
+and homologies
+
+Re-evaluación de Clupeocephala: Análisis de caracteres y homologías
+
+Gloria Arratia1,2
+
+1Biodiversity Research Center, The University of Kansas, Dyche Hall, Lawrence, Kansas 66045-7561, U.S.A. garratia@ku.edu
+2Department of Geology, Field Museum of Natural History, Chicago, Illinois, U.S.A.
+
+Resumen.- Se revisan los caracteres que soportan la monofilia de la cohorte Clupeocephala -el clado más grande de
+Teleostei-. La re-evaluación de estos caracteres demuestra que: 1) varios de ellos no son únicos, contradiciendo  inter-
+pretaciones  previas,  sino  que  son  homoplasias  que  se  presentan  también  en  grupos  ajenos  a  clupeocéfalos  (e.g.,
+†crossognátidos  y  osteoglosomorfos),  2)  otros  están  ausentes  en  clupeocéfalos  basales,  3)  algunos  son  variables  en
+clupeocéfalos,  4)  otros  son,  aparentemente,  caracteres  errados  y  5)  algunos  de  esos  caracteres,  en  la  forma  en  que
+fueron descritos, no son homólogos. El presente estudio muestra que la monofilia de Clupeocephala está soportada por
+varios caracteres que no son ambiguos. Tres de ellos son aparentemente caracteres derivados únicos (osificación tem-
+prana  del  autopalatino,  arteria  hioidea  perforando  el  hipohial  ventral,  placa  dentaria  del  último  faringobranquial  o
+cartilaginoso faringobranquial 4 resultan del crecimiento de una placa y no de la fusión de varias de ellas) y siete son
+homoplásticos pero son interpretados como adquiridos independientemente en cada uno de los linajes en que se presen-
+tan  (e.g.,  presencia  de  anguloarticular,  retroarticular  excluído  de  la  faceta  articular  para  el  cuadrado,  ausencia  de
+placas  dentarias  en  faringobranquial  1  y  presencia  de  seis  o  menos  hipurales).  Un  caracter  previamente  interpretado
+como una sinapomorfía de clupeocéfalos es propuesto como una posible sinapomorfía de euteleósteos (arco neural del
+centro ural 1 [terminología poliural] atrofiado o ausente). Además, los resultados obtenidos revelan la necesidad de más
+estudios morfológicos, ontogenéticos y filogenéticos que incluyan numerosas especies de elopomorfos, osteoglosomorfos
+y  clupeocéfalos,  tanto  primitivos  como  avanzados,  para  entender  el  significado  y  distribución  de  los  caracteres
+homoplásticos y testar aquellos que se consideran como únicos en la evolución de ciertos grupos de teleósteos.
+
+Palabras  clave:  Peces,  Teleostei,  monofilia,  sinapomorfias,  homoplasias
+
+Abstract.- The characters supporting the monophyly of Clupeocephala are revised. The re-evaluation of these characters
+demonstrates that: 1) several characters as previously interpreted, are not unique, but homoplastic occurring elsewhere
+in non clupeocephalans (e.g., †crossognathiforms and osteoglossomorphs); 2) other characters are absent in most basal
+clupeocephalans; 3) some are variably present in basal clupeocephalans; 4) other characters seem to be wrong; and 5)
+several characters as previously defined, represent ambiguous homologies. Nevertheless, the present study reveals that
+the monophyly of Clupeocephala is supported by several unambiguous characters. Three of them are, apparently, uniquely
+derived  novelties  (early  ossification  of  autopalatine;  hyoidean  artery  piercing  ventral  hypohyal;  toothplate  of  last
+pharyngobranchial  or  pharyngobranchial  cartilage  4  corresponds  to  growth  of  only  one  toothplate),  and  seven  are
+homoplastic,  but  are  interpreted  here  as  independently  acquired  in  the  different  teleostean  subgroups  where  they
+occur  (e.g.,  anguloarticular  present;  retroarticular  excluded  from  articular  facet  for  quadrate;  toothplates  on
+pharyngobranchial 1 absent; six or fewer hypurals present). One character previously interpreted as a clupeocephalan
+synapomorphy  (neural  arch  of  ural  centrum  1  [polyural  terminology]  reduced  or  lost)  is  proposed  as  a  euteleostean
+synapomorphy. Additionally,  the  results  reveal  the  need  for  further  developmental,  morphological,  ontogenetic  and
+phylogenetic  studies,  including  many  basal  and  advanced  elopomorph,  osteoglossomorph,  and  clupeocephalan  species,
+to  understand  the  meaning  and  distribution  of  the  homoplastic  characters  and  to  test  those  interpreted  as  unique
+novelties  of  teleostean  subgroups.
+
+Key  words:  Fishes,  Teleostei,  monophyly,  synapomorphies,  homoplasies
+
+INTRODUCTION
+The teleostean cohort Clupeocephala is an extant fish group
+erected  by  Patterson  &  Rosen  (1977)  to  contain  the
+subcohorts Clupeomorpha (e.g., engraulids, clupeids) and
+Euteleostei (e.g., catfishes, salmonids, galaxiids, atherinids,
+percoids)  (Fig.  1).  The  current  interpretation  of  the
+
+Clupeocephala,  however,  includes  the  subcohorts
+Ostarioclupeomorpha (Arratia 1996a, 1997) or Otocephala
+(Johnson  &  Patterson  1996)  (ostariophysans  plus
+clupeomorphs; see Nelson 2006, p. 127) and Euteleostei
+(Fig.  2).  This  new  hypothesis  that  includes  the
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+635
+
+ostarioclupeomorphs as sister to the euteleosts is supported
+by morphological (e.g., Johnson & Patterson 1996, Arratia
+1997,  1999)  and  molecular  (e.g.,  Inoue  et  al.  2001)
+evidence, but see Li et al. (2008; Fig. 3), where the cohort
+Clupeocephala appears in an unresolved position along with
+elopomorphs (non-monophyletic) and osteoglossomorphs.
+The Clupeocephala is the largest group among Teleostei
+because it includes most teleosts (Fig. 4) with the exception
+of elopomorphs, osteoglossomorphs, and extinct (†) basal
+teleosts belonging to groups such as the †Leptolepididae,
+the  †Crossognathiformes  (previously  considered  a
+clupeoceplahan  group  by  Taverne  1989,  but  recently
+interpreted as a basal teleostean clade by Arratia 2008a),
+and the †Ichthyodectiformes.
+
+The  large  group  Clupeocephala  has  a  long
+evolutionary history that can be traced back to the Upper
+Jurassic of Europe -about 153 million years ago-  with
+fossil taxa such as †Leptolepides, †Orthogonikleithrus,
+and †Tischlingerichthys (Arratia 1997:  figs. 39, 40, 49,
+50, 55, 56). However, Peng et al. (2006) recent molecular
+studies proposed the varying ages of divergence of 307
+million  years  (Paleozoic:  Carboniferous)  for  the
+clupeocephalans  and  of  282  million  years  (Paleozoic:
+Permian) for the ostarioclupeomorphs.
+
+The name Clupeocephala was used first by Greenwood
+(1973) for clupeomorphs only. The creation of the cohort
+Clupeocephala was based on five characters (Patterson &
+Rosen 1977: 126). Later, Taverne (1989) and Arratia (1997,
+1999,  2008a)  modified,  added  and/or  deleted  a  few
+characters. Arratia (1997, 1998) discussed these characters
+and  demonstrated  that  some  of  them  are  not  unique  to
+Clupeocephala  or  represent  incorrect  observations  (see
+"Analysis of characters"). An additional problem is that the
+inclusion of certain fossils -e.g., †crossognathiforms-and
+new information on extant fishes change the interpretation
+of a few characters previously thought to be as uniquely
+derived clupeocephalan synapomorphies (Arratia 2008a, see
+below).  The  main  problem  involving  several  of  these
+characters is that they are based on conflicting or assumed
+homologies where a common ancestry has been assumed
+or they represent a homology hypothesis that is unsupported
+by a phylogeny (see comments in Arratia 1998, 2004), an
+issue  that  is  not  unique  to  clupeocephalans,  but  a
+shortcoming  of  many  characters  supporting  different
+phylogenetic levels of actinopterygians (see comments in
+Schultze & Arratia 1989, Arratia & Schultze 1991, 1992,
+Arratia 1996b, 1999, 2004, 2008b, Cloutier & Arratia 2004,
+Schultze 2008, Wiley 2008).
+
+636 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+Within  the  frame  of  the  Tree  of  Life  project
+"Collaborative Research: Systematics of Cypriniformes,
+Earth’s Most Diverse Clade of Freshwater Fishes", I have
+had the opportunity to study day-to-day ontogenetic series
+of cypriniforms, other ostariophysans, clupeomorphs and
+basal euteleosts and discovered that some characters that
+are currently interpreted as clupeocephalan synapomorphies
+are not present in some of the basal clupeocephalans or
+have  conflicting  interpretations.  The  main  goal  of  this
+contribution is to re-evaluate the clupeocephalan characters
+in  light  of  new  data  and  to  propose  an  emended
+characterization of the group. To fulfill this goal, the study
+is  focused  at  the  basal  clupeocephalan  level  (e.g.,
+Clupeomorpha,  Ostariophysi,  Protacanthopterygii)  and
+includes evidence of both fossil and extant fish groups. It
+is accepted here that some of the clupeocephalan characters
+may have been lost in more advanced forms.
+
+MATERIAL  AND  METHODS
+Most of the extant fishes included in this study are cleared
+and stained (cl&st) for both cartilage and bone following a
+procedure described in Arratia & Schultze (1992). Others
+are prepared as dry skeletons (skl). Some of the fossil (†)
+
+Figure  1.  Phylogenetic  hypothesis  of  teleostean  relationships
+(crown  group)  after  Patterson  &  Rosen  (1977),  based  on
+morphological  characters. Ages  of  oldest  fossils  of  each  lineage
+are  added  /  Hipótesis  de  relaciones  filogenéticas  de  teleósteos
+(crown group) según Patterson & Rosen (1977), basada en caracteres
+morfológicos. Se agrega la edad de los fósiles más antiguos
+
+fishes were mechanically prepared, whereas others were
+acid  prepared  according  to  the  technique  described  in
+Toombs & Rixon (1959). Most of the studied material has
+been  prepared  by  the  author. The  ontogenetic  series  of
+Cycleptus elongatus was cleared and stained [by J. Engeman
+(University of South Dakota, Vermillion)]. Small specimens
+were  studied  and  photographed  under  an  Olympus®
+microscope with normal optic, face contrast and polarized
+light with a Nikon® camera attachment. Larger specimens
+were studied under a Leica® MZ9 stereomicroscope with
+both a Leica digital camera attachment and camera lucida
+attachment. The size of the specimens is given only for the
+extant  material  (SL:  standard  length;  NL:  notochordal
+length)
+
+INSTITUTIONAL ABBREVIATIONS AND  SPECIMENS STUDIED
+The study includes a vast number of specimens deposited
+in different museums all over the world. Only the material
+that  is  mentioned  and/or  used  in  descriptions  and
+illustrations is listed.
+
+The  studied  material  is  catalogued  in  the  following
+institutions: AMNH, American Museum of Natural History,
+New York, U.S.A.; ANSP, Academy of Natural Sciences,
+Philadelphia, Pennsylvania, U.S.A.; BGHan, Bundesanstalt
+
+für Geowissenschaften und Rohstoffe, Niedersächsisches
+Landesamt  für  Bodenforschung,  Hannover,  Germany;
+BSPG, Bayerische Staatssammlung für Paläontologie und
+historische Geologie, Munich, Germany; CAS, CAS(SU),
+California Academy of Sciences, San Francisco, California,
+U.S.A.;  DMNH,  Denver  Museum  of  Natural  History,
+Denver,  Colorado,  U.S.A.;  FMNH,  Field  Museum  of
+Natural History, Chicago, Illinois, U.S.A.; GOE, Institut
+und  Museum  für  Geologie  und  Paläontologie,  Georg-
+August Universität, Göttingen, Germany; JFBM, James
+Ford Bell Museum – Ichthyology Collection, Saint Paul,
+Minnesota;  JME, Jura Museum, Naturwissenschaftliche
+Sammlungen, Eichstätt, Germany; KUMNH, University of
+Kansas,  Natural  History  Museum,  Division  of  Fishes,
+Lawrence, Kansas, U.S.A.; KUVP, University of Kansas,
+Natural  History  Museum,  Division  of  Vertebrate
+Paleontology,  Lawrence,  Kansas,  U.S.A.;  LBUCH,
+Laboratorio de Biología, Universidad de Chile, Santiago,
+Chile (all of these specimens will be deposited in the Museo
+Nacional de Historia Natural, Santiago, Chile); LACM,
+Division of Paleontology, Los Angeles County Museum,
+Los Angeles,  U.S.A.;  MB,  Collection  of  Fossil  Fishes,
+Museum für Naturkunde der Humboldt Universität, Berlin,
+Germany;  MCSNB,  Museo  Civico  di  Scienze  Naturali
+"Enrico  Caffi",  Bergamo,  Italy;  MCZ,  Museum  of
+
+Figure  2.  Hypothesis  of  teleostean  relationships  (crown  group)
+after Arratia  (1997,  1999)  based  on  morphological  characters  /
+Hipótesis  de  relaciones  filogenéticas  de  teleósteos  (crown  group)
+según Arratia (1997, 1999), basada en caracteres morfológicos
+
+Figure  3.  Hypothesis  of  teleostean  relationships  (crown  group)
+after Li et al. (2008) based on molecular evidence / Hipótesis de
+relaciones filogenéticas de teleósteos (crown group) según Li et al.
+(2008) basada en evidencia molecular
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+637
+
+Figure 4. Diagrammatic representation of the main teleostean lineages such as elopomorphs (A), osteoglossomorphs (B) and clupeocephalans
+(C-F).  Clupeocephalans  are  represented  by  clupeomorphs  (C),  ostariophysans  (D),  protacanthopterygians  (E),  and  neoteleosts  (F)  (after
+Arratia  2000b)  /  Representacion  diagramática  de  los  linajes  principales  de  teleósteos  tales  como  los  elopomorfos  (A),  osteoglosomorfos  (B)  y
+clupeocéfalos  (C-F).  Los  clupeocéfalos  están  representados  por  clupeomorfos  (C),  ostariofisos  (D),  protacantopterigios  (E)  y  neoteleósteos  (F)
+(según Arratia  2000b)
+
+Comparative  Zoology,  Harvard  University,  Cambridge,
+Massachusetts, U.S.A.; MNHN-Stgo., Museo Nacional de
+Historia Natural, Santiago, Chile; MRAC, Musée Royale
+de l’Afrique Centrale, Tervuren, Belgium; OS, Department
+of Fisheries and Wildlife, College of Agriculture Sciences,
+Oregon State University, Corvallis, Oregon, U.S.A.; Pi,
+Institut  und  Museum  für  Geologie  und  Paläontologie,
+Georg-August  Universität, Tübingen,  Germany;  ROM,
+Royal Ontario Museum, Toronto, Canada; SIO, Scripps
+Institution of Oceanography, University of California, La
+Jolla,  California,  U.S.A.;  Slg.  Innsb.:  Paläontologische
+Sammlungen,  Universität  Innsbruck, Austria;  SMNH,
+Swedish Museum of Natural History, Stockholm, Sweden;
+SMNS, Staatliches  Museum  für  Naturkunde,  Stuttgart,
+
+Germany; TCWC, Texas Cooperative Wildlife Collection,
+Department of Wildlife and Fisheries Science, Texas A&M
+University, College Station, Texas, U.S.A.; TU, Tulane
+Museum,  New  Orleans,  U.S.A.;  UAVP,  University  of
+Alberta, Laboratory of Vertebrate Paleontology, Alberta,
+Canada;  UCLA,  Department  of  Biology,  University  of
+California at Los Angeles, Los Angeles, U.S.A; UF, Florida
+Museum  of  Natural  History,  Florida,  U.S.A;  UNC,
+University of North Carolina, Institute of Marine Sciences,
+Morehead City, North Carolina, U.S.A.; UMMZ, University
+of Michigan, Museum of Zoology, Ann Arbor, Michigan,
+U.S.A.  and  USNM,  United  States  National  Museum,
+Smithsonian Institution, Washington D.C., U.S.A.
+
+638 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+SPECIMENS  STUDIED
+
+†"Pholidophoriformes": †Eurycormus speciosus: BSPG AS
+V510 and BSPG 1960 XVIII 106; JM SOS 2339 and JM
+SOS 2341. †Pholidophorus bechei: FMNH 2137, MB f.
+3504,  and  SMNS  P  944.  †Pholidophorus  latiusculus:
+MCSNB  4302,  MCSNB  4303b,  MCSNB  4346a,  and
+MCSNB  4723;  Slg.  Innsb  115.  †Siemensichthys
+macrocephalus: BSPG AS I 1134; JME SOS 2812; MB.
+f.7007 and MB. f.7008a, MB. f. 7008b.
+
+†Leptolepididae: †Leptolepis coryphaenoides: BGHan
+1931-4, BGHan 1956-8, BGHan 1957-2, BGHan 1957-5,
+and BGHan 1960 (acid prepared specimens); GOE uncat.,
+many disarticulated specimens; SEM preparation of many
+disarticulated bones.
+
+†Crossognathiformes: †Chongichthys dentatus: LBUCH
+021778a,  LBUCH  021778b,  LBUCH  15-010277a,  and
+LBUCH 15-010277b. †Domeykos profetaensis: LBUCH
+12-260972a, LBUCH 12-260972b, LBUCH 01277-13a,
+and  LBUCH  01277-13b.  †Protoclupea  atacamensis:
+LBUCH  1-250277a.  †Protoclupea  chilensis:  R-396a,
+R396b;  LBUCH  190179a  and  LBUCH  190179b.
+†Varasichthys ariasi: LBUCH 16-260972a, LBUCH 16-
+260972b,  LBUCH  012378a,  LBUCH  020778a,  and
+LBUCH 020778b.
+
+†Ichthyodectiformes: †Allothrissops mesogaster: JME
+SOS 1941/17a; FMNH-PF UC 2021 and FMNH-PF UC
+2082; SMNH P 976, SMNH P 2925, and SMNH P 7733.
+†Pachythrissops propterus: BSPG 1986 XXIII 154; JME
+SOS 741; MB. f. 3505. †Thrissops cf. †T. formosus: JME
+SOS 3024. †Thrissops  subovatus:  JME  SOS  1953/14a.
+†Thrissops cf. T. subovatus: JME SOS 2557.
+
+ELOPOMORPHA
+
+†Anaethalion angustus: JME SOS 2271, JME 2259, JM
+SOS  2260,  JM  SOS  2261a,  and  JM  SOS  2261b.
+†Anaethalion angustissimus: JME SOS 2271, Pi F 891, Pi
+1074/1, Pi 1074/2, and PiY 1930. †Anaethalion knorri: JME
+SOS 2267a, JM SOS 2267b, JME SOS 2270, and JM SOS
+2282.
+
+Albula vulpes: AMNH 56840, skl, ±292 mm SL; AMNH
+56743, skl, ±300 mm SL; and AMNH 56878, skl, ±305
+mm SL; UCLA W58-96, 2 cl&st, 195 and 220 mm SL;
+UCLA W49-122, 5 cl&st, 46.7, 54.6, 63.5, 72.7, and 88.8
+mm SL; UCLA W 49-122, 4 cl&st, leptocephalous larvae.
+Anguilla rostrata: KUMNH 5029, 6 cl&st, 50, 50.4, 53.8,
+55, 82.5, and 103 mm SL.  Elops affinis: SIO 69-167, 1
+cl&st, 121 mm SL; UCLA W 50-29, 4 cl&st., 121.3, 128.4,
+
+157, and 165 mm SL. Elops hawaiensis: CAS(SU) 35105,
+partially disarticulated skl, braincase of about 90 mm length;
+OS 5105, 2 cl&st leptocephalous larvae, 26.7 and 32.5 mm
+SL. Elops saurus: ANSP 147401, 2 cl&st, 97.8 and 99.1
+mm SL; CAS(SU) 10847, skl, ±395 mm SL; TCWC 0503.1,
+5 cl&st, 24.0, 24.0, 26, 30.0, and 35.0 mm SL; TCWC
+0782.1, 3 cl&st., 35.7, 43, and 46.4 mm SL; TCWC 2452.2,
+5 cl&st, 60.1, 97.3, 107, 110,4 and 154 mm SL; UF 20180,
+head skl, braincase about 70 mm length; UMMZ 189366,
+partially disarticulated skl, braincase 71 mm length. UNC
+82/8, 2 cl&st, 57 and 76 mm SL.  Megalops atlanticus:
+AMNH 211541 head only, skl, braincase about 255 mm
+length and AMNH 211544 head only, skl, braincase about
+190 mm length; UF 208605, 4 cl&st; UF 171286, 5 cl&st,
+26.3, 27.8, 29.1, 29.8, 40.5 mm SL; UF 208605, 5 cl&st,
+25.5, 31, 32.7, 41.1, and 44.5 mm SL; UF 208780, 3 cl&st,
+85, 90.4, and 122.5 mm SL. Megalops cyprinoides: CAS
+35104, skl., ±460 mm SL; CAS 145216, 2 cl&st, 17.5 mm
+and 34.5 mm SL.
+
+OSTEOGLOSSOMORPHA
+
+†Lycoptera davidi: LACM 4959-122316 and LACM 4959-
+122317; SMNH P 6553. †Lycoptera cf. L. sinensis: FMNH
+1291a and FMNH 1291b.  Hiodon alosoides: JFBM 43312,
+1 skl, ±400 mm SL; JFBM 43306, 1 skl, ±380 mm SL;
+KUMNH  7618,  7  cl&st,  from  22.0  to  56.0  mm  SL;
+KUMNH 9618, 7 cl&st, between 22 to 55 mm SL; KUMNH
+3 cl&st, 68, 70, and 72 mm SL; KUMNH 9661, 2 cl&st, 59
+and 67 mm SL; KUMNH 13993, 2 cl&st, 200 and 305 mm
+SL. Hiodon tergisus: KU 9662, 3 cl&st, 48.6, 51.8, and
+55.7 mm SL.  Osteoglossum ferrerai: KUMNH 22650, 1
+cl&st, 52.3 mm SL. Pantodon buchholzi: KUMNH 22651,
+1 cl&st, 50 mm SL.
+
+CLUPEOCEPHALA
+
+Clupeomorpha:  Alosa  chrysochloris:  KUMNH  9634,  2
+cl&st, 43.7 and 54.3 mm SL. Anchoa mitchilli: KUMNH
+7494, 2 cl&st, disarticulated specimens; KUMNH 17183,
+2 cl&st, disarticulated specimens.  Brevoortia  patronus:
+KUMNH 15113, 5 cl&st, disarticulated specimens. Coilia
+nasus: KUMNH 40362, 33 cl&st (15 larvae between 10.2
+and  22.7  mm  SL;  9  between  16.6  and  30.1  mm  SL;  9
+specimens between 63.5 and 103.1 mm SL). Denticeps
+clupeoides: MRAC M.T. 76-32-P-4915-932, 1 cl&st, 29.1
+mm SL; MRAC M.T. 76-44-P-7, 1 cl&st, 18.5 mm SL.
+Dorosoma cepedianum: KUMNH 12100, 3 cl&st, 30.5, 67,
+and 71.6 mm SL; KUMNH 16167, 1 cl&st, 46.9 mm SL;
+KUMNH  21801,  169  cl&st  (100  sps.  from  8  mm
+notochordal length (NL) to 15 mm SL and 69 sps. from
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+639
+
+13.9  to  29.5  mm  SL).  Dorosoma  petenense:  KUMNH
+956994, 2 cl&st, 27.3 and 34.5 mm SL. Engraulis ringens:
+KUMNH  19347,  10  cl&st,  disarticulated  specimens.
+Ethmidium  maculatus:  KUMNH  19349,  2  cl&st,
+disarticulated  large specimens.  Jenkinsia lamprotaenia:
+KUMNH 40364, 10 cl&st, from 34.5 to 49.1 mm SL. Lile
+stolifera: KUMNH 5411, 3 cl&st, 29.5, 45.6, and 52.2 mm
+SL; UCLA 58-307, 3 cl&st, 71.7, 80, and 88.1 mm SL.
+Sardinops sagax: KUMNH 19345, 6 cl&st larvae, 14 to 19
+mm SL, and 4 cl&st disarticulated large specimens.
+
+Ostariophysi: †Tischlingerichthys viohli: JME Moe 8.
+Aspius aspius: ROM 52742, 4 cl&st, 26.7, 35.8, 51.8, and
+59.8 mm SL; NRM 56968, 5 cl&st, 34.6, 39.8, 46.9, 49.3,
+and 50.3 mm SL. Astyanax sp.: KUMNH 20099, 6 cl&st,
+between 19.9 and 18.8 mm SL. Barbatula barbatula: ROM
+49713, 5 cl&st, 49.8, 60.9, 64.1, 66, and 75 mm SL. Brycon
+argenteus: KUMNH 10543, 2 cl&st, disarticulated bones.
+Carpiodes carpio: KUMNH 21807, 24 cl&st, 13.3 to 42.3
+mm SL. Carpiodes microstomus: FMNH 35171, 4 cl&st,
+34.8, 38.8, 40.5, and 45.7 mm SL. Catostomus commersoni:
+JFBM 11495, 7 cl&st, from 22.3 to 31 mm SL; JFMB
+41727, skl, ±278 mm SL; KUMNH 38655, +100 cl&st,
+between 12 to 21.3 mm SL.  Chanos chanos: CAS(SU)
+35075, 1 skl, disarticulated, braincase of 148 mm length;
+KUNHM 39848 to 39894, day-to-day series of about 200
+specimens from about 4 mm to 10 mm NL and from 7.0 to
+83.5 mm SL; KUMNH 40365, 2 skl, 370 and 376 mm SL
+and 4 cl&st, 150, 180, 330, and 400 mm SL. SIO 80-199, 7
+cl&st, from 16.1 to 44.5 mm SL. Chanodictis mongolicus:
+USNM, 2 cl&st, 112.6 and 136 mm SL. Cobitis lutheri:
+KUMNH 38976, 2 cl&st, 55.6 and 81.5 mm SL.  Cycleptus
+elongatus:  KUMNH  40695,  1  cl&st,  148  mm  SL;  TU
+200816, day to day ontogenetic series, 13 cl&st studied here,
+between  7.1  to  20.8  mm  SL.  Cyprinus  carpio:  FMNH
+42392, 1 cl&st, 85.5 mm SL; KUMNH 3739, 1 cl&st, 80.0
+mm SL; JFMB, skl, ±354 mm SL. Danio rerio: KUMNH
+uncat., 10 cl&st; KUMNH 40245, day-to-day ontogenetic
+series of about 100 specimens, between 9 to 27.9 mm SL.
+Diplomystes nahuelbutaensis: MNHN-Sto uncat., 4 cl&st,
+150 to 180 mm SL.  Diplomystes viedmensis: FMNH 58004,
+2 cl&st, 80.5 and 91.7 mm SL. Gonorynchus abbreviatus:
+CAS  30993,  1  cl&st,  150  mm  SL;  FMNH  76476,
+disarticulated specimen. Hemiculter leuciscus: MCZ 32394,
+2  cl&st,  90.8  and  97.2  mm  SL.  Labeo  batesi:  USNM
+303704,  4  cl&st,  89.7,  95,  195.5,  and  197.4  mm  SL.
+Lepidomeda mollispinus: KUMNH 11768, 20 cl&st, from
+54.8 to 68.7 mm SL.  Misgurnus anguillicaudatus: FMNH
+57343,  5  cl&st,  47,  50.1,  50.7,  53,  and  80.5  mm  SL;
+KUMNH 21447, 2 cl&st, 96.2 and 100.3 mm SL. Notropis
+atherinoides: FMNH 72149, 20, cl&st, from 20.2 to 55.5
+
+640 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+mm SL. Noturus exilis: KUMNH 17229a, 10 cl&st larvae,
+from 12.0 to 10 mm SL. Opsariichthys bidens: CAS(SU)
+32512,  2  cl&st,  81.9  and  117.6 mm SL.  Opsariichthys
+uncirostris: KUMNH 21448, 4 cl&st, 25, 29.6, 36.6, and
+70.4 mm SL.  Parabramis pekinensis:  USNM  86494,  5
+cl&st, 49, 50.5, 54.7, 58.5, and 59.1 mm SL. Sabanajewa
+balcanica: FMNH 63814, 3 cl&st, 33.9, 36.8, and 58 mm
+SL. Semonotilus atromaculatus: KUMNH 12594, 5 cl&st,
+39, 41, 42, 42, 45, and 47 mm SL. Squalibarbus curriculus:
+AMNH 10890, 2 cl&st, 112.6 and 136 mm SL. Xenocharax
+spilurus: CAS(SU) 15639, 2 cl&st, 74.7 and 92 mm SL.
+Only a few cypriniforms are listed here from more than
+150 species with cl&st specimens included in the Tree of
+Life of Cypriniformes.
+
+Euteleostei: †Erichalcis arcta: UAVP 8598, UAVP 8602,
+UAVP 8606, and UAVP 8612.  †Humbertia sp.: DMNH
+2518-1. †Leptolepides haerteisi: JME SOS 2473, JM SOS
+2474, and JME SOS 2554. †Leptolepides sprattiformis:
+FMNH-PF 10984 and FMNH-PF 10986; JME SOS 2956;
+KUVP 60722 and KUVP 96128; SMNH P 1891, SMNS P
+1894, SMNS 55106, and SMNS 55928. †Orthogonikleithrus
+hoelli:  JME SOS 2301, JME SOS 2632, JME SOS 3954,
+JME SOS 3955, and JME 3956. †Orthogonikleithrus leichi:
+JME SOS 2301 and JM SOS 2632. †Orthogonikleithrus
+sp.: JME ETT 30 and JME ETT 216. Argentina sialis: SIO
+66-4, 3 cl&st, 119, 140, and 121.2 mm SL. SIO CR 5208, 4
+cl&st, 3 larvae of 9.0 to 14 mm NL, and 1 sp. 13.5 mm SL.
+Esox americanus: KUMNH 17864, 4 cl&st, 82.7, 89.5, 112,
+and 123 mm SL. Esox lucius: KUMNH 19092, disarticulated
+skl, lower jaw 120 mm length. Esox niger: KUMNH 21374,
+disarticulated skl, braincase 63 mm length. Oncorhynchus
+mykiss: KUMNH 12463, 7 cl&st, from 28.0 to 43 mm SL;
+KUMNH 21936, 20 cl&st, 290 to 300 mm SL; OS uncat.,
+day-to-day ontogenetic series of about 200 cl&st, from 13
+mm NL to 73 mm SL. Prosopium cilindraceous: KUMNH
+15471,  2  cl&st,  300  and  310  mm  SL.  Prosopium
+williamsoni: KUMNH 11817, 13 cl&st, 12 larvae between
+20 and 33.6 mm SL and 1 sp. of 230 mm SL. Thymallus
+arcticus: KUMNH 15419, 3 cl&st, 151, 166, and 177 mm
+SL. For other salmonids see list of material in Arratia &
+Schultze (1992). Umbra limi: KUMNH 10370, 6 cl&st,
+22.5, 26.3, 27, 27.8, 52, and 54.4 mm SL.
+
+RESULTS
+
+ANALYSIS OF CHARACTERS
+
+The morphological characters are presented according to
+body  regions. A  short  introduction  of  each  character  is
+presented first. A description and analysis of the character
+
+follows, ending in a new interpretation and evaluation where
+necessary.
+
+PALATOQUADRATE
+
+"Autopalatine bone ossifies early in ontogeny" (Arratia &
+Schultze 1991, Arratia 1999, 2008a).
+
+As far as it is known, the autopalatine bone begins to
+ossify  in  the  pars  autopalatina  of  the  palatoquadrate
+cartilage early in ontogeny in all clupeocephalans where
+the early development of bones is known. For instance, in
+the gonorynchiform Chanos chanos the bone appears as a
+thin perichondral ossification at about 15.5 mm SL and from
+that moment on it ossifies very quickly (Fig. 5A; Arratia
+1992: fig. 4B; Arratia & Bagarinao 2009, p. 88, fig. 3). In
+the cyprinid, Danio rerio, the autopalatine begins to ossify
+at  7.6  mm  SL  (Cubbage  &  Mabee  1996).  In  another
+cyprinid, Barbus barbus, the autopalatine begins to ossify
+at about 14 mm SL (Vandewalle et al. 1992). The bone is
+ossified  at  25  mm  SL  in  the  cyprinid  Opsariichthys
+uncirostris  (KUMNH  21448).  In  the  catostomid
+Catostomus commersoni the autopalatine begins to ossify
+at 15.9 mm SL and the ossification invades the cartilage
+and also spreads away from the cartilage around its anterior
+end at 19.6 mm SL (Engenman et al. 2009). In another
+catostomid, Cycleptus elongatus, the ossification of the
+autopalatine begins earlier and in specimens around 15 mm
+SL the bone is almost completely ossified at its middle
+region (TU 200816; Fig. 5B). In the siluriform Diplomystes
+camposensis, the autopalatine is partially ossified at 23 mm
+SL; it is almost completely ossified at 28 mm SL (Arratia
+1992: fig. 16A-C). In Ictalurus punctatus the autopalatine
+begins to ossify at 11.7 mm SL, and in specimens of 14-
+14.5 mm SL the bone is almost totally ossified (Arratia 1991,
+p. 50-51). In Noturus exilis the autopalatine is ossified in
+specimens of 13.6 mm SL (Arratia 1992, p. 51, fig. 32A).
+In the perciform Sparus aurata the autopalatine begins to
+ossify at 7.4 mm SL (Faustino & Power 2001). Similar
+observations  have  been  obtained  from  a  variety  of
+clupeocephalans, such as the esociform Esox (Jollie 1984),
+the  salmonid  Oncorhynchus  mykiss,  the  clupeomorphs
+Coilia nasus  and  Dorosoma cepedianum  (Fig.  5C),  the
+perciforms Percichthys and Percilia (pers. obser.), Dentex
+dentex (Koumoundouros et al. 2000), and Lates calcifer
+(Kohno et al. 1996). In contrast, the autopalatine begins to
+ossify late in ontogeny (juveniles / subadults) (Fig. 5D-F)
+in more basal fishes where the development is known, e.g.,
+Amia calva (Arratia & Schultze 1991, Grande & Bemis
+1998).  Even  in  large  specimens  the  bone  is  mainly  a
+chondroid element or a hard fibrocartilage. The autopalatine
+
+is represented mainly by cartilage and begins to ossify in
+specimens of about 90 mm SL in Elops (Arratia & Schultze
+1991:  23-24;  Fig.  5E,  F  herein).  In  large  specimens  of
+elopiforms (e.g., Elops saurus, Megalops cyprinoides) and
+albuliforms  (e.g.,  Albula  vulpes),  the  autopalatine  is
+composed of a thin superficial ossification surrounding a
+mass of cartilage and chondroid bone in different stages of
+ossification.  Osteoglossomorphs  lack  an  autopalatine
+ossification (e.g., Taverne 1977, Arratia & Schultze 1991,
+Hilton  2002),  with  a  few  exceptions  such  as  Heterotis
+niloticus  and  Scleropages  leichardti  (other  species  of
+Scleropages lack an autopalatine; Ridewood 1905, Taverne
+1998).
+
+This  character  is  poorly  known  for  fossils  due  to
+preservation  conditions  (e.g.,  lack  of  preservation  of
+cartilage or other soft tissues, or the palatine region may be
+covered by lateral bones such as maxilla, antorbital, and
+first  infraorbital  bone). Although,  early  developmental
+stages of fossil clupeocephalans are available (e.g., many
+young  specimens  of  the  euteleosts  †Leptolepides  and
+†Orthogonikleithrus deposited in JME), they are poorly
+known.
+
+ The late ossification of the autopalatine (as in Amia and
+elopiforms)  has  been  confirmed  for  certain  non-
+clupeocephalan fossils (see Arratia & Tischlinger 2010:
+character 35). Although this character is represented by
+many question marks in the coding of the fossil forms, the
+parsimony analysis interprets this character state as present
+in the fossil clupeocephalans included in the phylogenetic
+analysis.
+
+Thus, the early ossification of the autopalatine versus its
+late ossification (in basal forms) is, according to the available
+information, a unique character of clupeocephalans.
+
+LOWER JAW
+
+The evolution of the teleostean lower jaw involves some
+major  changes  of  evolutionary  importance  that  are
+interpreted  as  synapormorphies  at  different  levels  of
+Teleostei. For instance, loss of coronoid and surangular
+bones are synapomorphies of the crown-group Teleostei or
+Teleocephala (De Pinna 1996). When fossils are included,
+the loss of coronoid bones stands as a synapomorphy of
+†Pholidophorus bechei plus more advanced teleosts, and
+the loss of the surangular is interpreted as a synapomorphy
+of †Leptolepis coryphaenoides plus more advanced teleosts
+(Arratia 1999). The lateral position of the posterior opening
+of the mandibular canal in the angular is a synapomorphy
+shared by osteoglossomorphs plus clupeocephalans (Arratia
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+641
+
+Figure 5. A. Early ossification of the autopalatine in clupeocephalans illustrated in Chanos chanos in lateral view (SIO 80-199; specimen
+of 44.5 mm SL). B. Cycleptus elongatus in medial view (TU 200816; specimen of 15.8 mm SL). C. Dorosoma cepedianum in lateral view
+(KU  21801,  specimen  of  23  mm  SL).  D.  Megalops  atlanticus  in  lateral  view  (FU  208605,  specimen  of  44.5  mm  SL).  E.  Elops  saurus  in
+lateral view (TCWC 2452.2; specimen of 107 mm SL). F. Elops saurus in lateral view (TCWC 2453.2, specimen of 154 mm SL) illustrating
+the  non-clupeocephalan  condition  where  the  autopalatine  begins  to  ossify  late  in  ontogeny.  Upper  jaw  and  anterior  infraorbitals  were
+removed  (A,  D,  and  E)  to  facilitate  observation  of  pars  autopalatina  or  autopalatine  (indicated  by  arrows).  Chanos  and  Megalops
+represent marine fishes that may reach over 1 m in length. Scales = 1 mm / A. Osificación temprana del hueso autopalatino en clupeocéfalos
+tales  como  Chanos  chanos  en  vista  lateral  (SIO  80-199;  espécimen  de  44,5  mm  LS).  B.  Cycleptus  elongatus  en  vista  media  (TU  200816;
+espécimen  de  15,8  mm  LS).  C.  Dorosoma  cepedianum  en  vista  lateral  (KU  21801,  espécimen  de  23  mm  LS).  D.  Megalops  atlanticus  en  vista
+lateral (FU 208605, espécimen de 44,5 mm LS). E. Elops saurus en vista lateral (TCWC 2452.2; espécimen de 107 mm LS). F. Elops saurus en vista
+lateral (TCWC 2453.2, espécimen de 154 mm LS) ilustrando la condición no-clupeocéfala en la cual el autopalatino osifica tardiamente en la
+ontogenia.  La  mandíbula  superior  e  infraorbitales  anteriores  fueron  removidos  (A,  D  y  E)  para  facilitar  la  visibilidad  de  la  pars  autopalatina
+(indicada por flechas). Chanos y Megalops representan peces marinos que pueden alcanzar sobre 1 m de longitud. Escalas = 1 mm
+
+642 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+1999),  whereas  the  medial  or  posterior  position  of  the
+posterior opening is present in more basal teleosts. Cavin
+(2001) stated that in the elopomorph  Albula vulpes the
+posterior opening of the mandibular canal is placed laterally
+in the posterior part of the jaw. My observations based on
+cleared and stained specimens and dry skeletons do not
+support Cavin’s claim, because the opening has a posterior
+position  in  the  angular.  However,  if  this  character  was
+present  in  Albula,  it  would  not  be  invalidated  as  a
+synapomorphy of osteoglossomorphs plus clupeocephalans,
+because the position of the medial and/or posterior opening
+in fossil and recent elopiforms represents the primitive
+condition; albuliforms are not the most basal elopomorphs.
+In addition, the taxon sampling used by Cavin (2001) does
+not permit the variation of the character to be analyzed (e.g.,
+the  osteoglossomorphs  are  absent  in  his  phylogenetic
+analysis and the elopomorphs are not monophyletic in his
+analysis: Albula, †Paraelops and clupeocephalans have an
+unresolved position).
+
+In general, the modern teleostean lower jaw includes
+four main bones: the dermal dentary anteriorly, and the
+dermal  angular,  chondral  articular,  and  retroarticular
+forming the posterior region of the jaw. In amiiforms, some
+of the stem-group teleosts, and certain "pholidophoriforms",
+another dermal bone -the surangular- is the other main
+element forming the posterior part of the jaw (Fig. 6).
+
+The bones of the posterior part of the lower jaw (the
+angular,  articular,  and  retroarticular)  of  teleosts  show
+various  patterns  of  fusion  (Nelson  1973a,  1973b).
+According to Nelson (1973a), the angular fuses either with
+the articular or with the retroarticular in almost all teleosts,
+
+in  many  teleosts  all  three  bones  are  fused,  and  in
+osteoglossomorphs three patterns are found. Nelson (1973a)
+also posited that the different fusion patterns have developed
+at least twice in the evolution of teleosts.
+
+The presence of "angular and articular bones fused, and
+the retroarticular excluded from the articular surface for
+the quadrate" is one of the characters supporting the cohort
+Clupeocephala (Patterson & Rosen 1977). The character
+as defined is complex, because on one hand it concerns the
+relationships  (fusion  versus  non  fusion)  of  the  bones
+forming the posterior region of the lower jaw, and on the
+other hand it concerns the presence versus absence of the
+retroarticular bone in the articular facet of the quadrate.
+Consequently, most authors treat it as two independent
+characters: 1) "Angular and articular bones are fused". (2)
+"The retroarticular is excluded from the articular surface
+for the quadrate".
+
+1) [In adult individuals …] "Angular and articular bones
+
+are fused".
+
+The  dermal  angular  and  the  chondral  articular  and
+retroarticular bones develop from three independent centers
+of  ossification  that  appear  at  different  times  in  early
+ontogeny of extant teleosts. Commonly, the first bone to
+begin to ossify is the angular at the postero-lateral side of
+the jaw, followed simultaneously or slightly later by the
+retroarticular ossification at the ventro-posterior corner of
+Meckel’s  cartilage.  Later,  the  articular  develops  as  an
+ossification of Meckel’s cartilage, medial to the angular.
+During growth, both dermal and chondral ossifications fuse.
+For examples, see the description of the early ontogeny of
+
+Figure 6. Lower jaw in lateral view of the basal teleost †Pholidophorus latiusculus from the Upper
+Triassic of northern Italy (MCSNB 4302). Abbreviations: ang, angular; de, dentary; l.no, ’leptolepid’
+notch; rar, retroarticular; sang, surangular / Mandíbula inferior en vista lateral del teleósteo basal
+†Pholidophorus latiusculus del Triásico Superior del norte de Italia (MCSNB 4302). Abreviaturas: ang,
+angular;  de,  dentario;  l.no,  escotadura  ’leptolepídica’;  rar,  retroarticular;  sang,  surangular
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+643
+
+the posterior part of the jaw of Esox by Jollie (1984: 76-77)
+and of Chanos Arratia & Bagarinao (2009: 88, figs. 3.4,
+3.5). Unfortunately, some authors described, erroneously,
+the anguloarticular arising from one center of ossification
+that begins to ossify slightly after the retroarticular (e.g.,
+Langille & Hall [1987] for Oryzias; Cubbage & Mabee
+[1996] for Danio; Engenman et al. [2008] for Catostomus).
+The angular and articular bones (Fig. 7A, B) become
+fused through growth in clupeocephalans. However, these
+ossifications may be distinct even in large specimens, and
+it may take some time before a line of suture between the
+borders  of  the  chondral  ossification  (articular)  and  the
+dermal  angular  disappears  completely  (Fig.  8A,  B).  In
+contrast, in more basal forms two patterns are observed: (i)
+Angular and articular bones are independent throughout
+the life of the individual (e.g., Amia calva, the elopomorph
+Albula, and the osteoglossomorphs Hiodon and Heterotis.
+(ii) Angular, articular, and retroarticular are fused. This
+condition is observed in the Early Jurassic †Pholidophorus
+bechei  and  in  the  "true"  basal  teleost  †Leptolepis
+coryphaenoides. In the extant elopomorph Megalops, the
+angular, articular and retroarticular bones become fused
+during growth, so in large individuals only one ossification
+(Fig. 9) is observed at the posterior corner of the jaw. There
+is a fusion between the angular and retroarticular in Elops,
+and during growth the fusion also includes the articular
+(Arratia 1987: text-fig. 25A-F, 1997: fig. 85A). This is
+
+the condition in †Ph. bechei, †Leptolepis coryphaenoides,
+and in †Siemensichthys siemensi (Arratia 2000a: fig. 15E,
+F).  The  three  bones  are  also  fused  in  the  extant
+osteoglossomorphs  Petrocephalus  and  Gnathonemus
+(Hilton  2003),  and  also  in  siluriforms  among
+ostarioclupeomorphs  (e.g.,  Diplomystes, Arratia  2003:
+fig. 1.10).
+
+The presence of a fused angular and articular is accepted
+as a synapomorphy of the Clupeocephala. However, this is
+a homoplastic character among teleosts because the fusion
+between the angular and articular (Fig. 10) is also present
+in  numerous  osteoglossomorphs  more  advanced  than
+Hiodon,  such  as  Chitala,  Osteoglossum,  Pantodon,
+Papyrocromus, and Xenostomus (e.g., Taverne 1977, Hilton
+2003, pers. obser.). The fusion is also present in fossil basal
+teleosts such as the †crossognathiforms †Crossognathus
+saudianus (Taverne 1989: fig. 5), †Rhacolepis buccalis
+(Forey 1977: fig. 11C), and †Goulmimichthys arambourgi
+(Cavin 2001). Among members of the †Varasichthyidae,
+†Varasichthys ariasi has an anguloarticular bone (Arratia
+1981: text-fig. 8), but the condition in †Protoclupea and
+†Domeykos is unclear. Distinct ossifications of both bones
+are visible, but it remains unknown whether or not they are
+fused  at  their  confluent  medial  surfaces.  In  contrast  to
+†Varasichthys, a retroarticular bone has not been observed
+in any specimen of †Protoclupea or †Domeykos, nor an
+articulatory region for it. Therefore, Arratia & Schultze
+
+Figure  7.  Posterior  part  of  lower  jaw  in  medial  view  showing  the  fusion  between  the  dermal  angular  and  the  chondral  articular. A.
+Thymallus arcticus (KUMNH 15419; 155 mm SL). Scale = 3 mm. B. Esox lucius (KUMNH 19092; 120 mm length lower jaw). Scale = 1 cm.
+Arrow  points  to  the  articulatory  facet  for  quadrate. Abbreviations:  an-ar,  anguloarticular;  ang,  posterior  process  of  angular;  com,
+coronomeckelian or coronoid bone; de, dentary; qu, quadrate; rar, retroarticular /  Parte posterior de la mandíbula inferior en vista interna
+mostrando la fusión entre los huesos angular (dermal) y articular (condral). A. Thymallus arcticus (KUMNH 15419; 155 mm de LS). Escala = 3 mm.
+B.  Esox  lucius  (KUMNH  19092;  mandíbula  de  120  mm  de  longitud).  Escala  =  1  cm.  La  flecha  apunta  a  la  fosa  articular  para  el  cuadrado.
+Abreviaturas: an-ar, anguloarticular; ang, proceso posterior del angular; com, coronomeckeliano o coronoides; de, dentario; qu, cuadrado; rar,
+retroarticular
+
+644 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+Figure 8. Posterior part of lower jaw in medial view of Denticeps clupeoides (A); Scale = 0.5 mm and Strangomera benticki (B); Scale =
+2 mm (after Arratia 1997). Abbreviations: ang, angular; ar, articular; com, coronomeckelian or coronoid bone; de, dentary; qu, quadrate;
+rar,  retroarticular  /  Parte  posterior  de  la  mandíbula  inferior  en  vista  interna  de  Denticeps  clupeoides  (A);  Escala  =  0,5  mm  y  Strangomera
+benticki (B); Escala = 2 mm (según Arratia 1997). Abreviaturas: ang, angular; ar,  articular; com, coronomeckeliano o coronoides; de, dentario;
+qu,  cuadrado;  rar,  retroarticular
+
+(1985:  text-figs.  5,  10,  15B)  interpreted  the  jaws  of
+†Protoclupea and †Domeykos as lacking a retroarticular.
+However, comparing the jaws of the fossils with those in
+extant  Megalops  and 
+the  extinct  †Leptolepis
+coryphaenoides,  another  possibility  is  that  the  angular,
+articular and retroarticular are fused in †Protoclupea and
+†Domeykos.
+
+According to the present evidence (Fig. 10), and the
+results of the parsimony analysis, I interpret the presence
+of a fused anguloarticular in †crossognathiforms, numerous
+osteoglossomorphs more advanced than hiodontids, and
+clupeocephalans as independently acquired in these groups.
+Cavin (2001), cited in Cavin & Grigorescu (2005), reached
+a similar conclusion for the presence of an anguloarticular
+in the †Crossognathidae.
+
+2) [In adult individuals …]  "Retroarticular excluded
+
+from the articular facet for the quadrate".
+
+The main bone forming the facet for articulation with
+the quadrate is usually the articular; however, the lateral
+margin may include a small contribution of the angular and,
+in some fishes, the retroarticular may be part of the facet at
+the  medial  side  of  the  jaw.  The  retroarticular  bone  is
+included in the articular facet for the quadrate in teleosts
+such as elopomorphs and osteoglossomorphs among the
+crown group Teleostei. In contrast, the bone is restricted to
+the  ventro-posterior  corner  of  the  jaw  in  most
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+645
+
+Figure  9.  Posterior  part  of  lower  jaw  of  Megalops  atlanticus  in
+medial view showing the fusion between the dermal angular and
+the chondral articular and retroarticular bones (AMNH  211544;
+17.8-cm length lower jaw). Arrow points to the articulatory facet
+for quadrate. Scale = 1 cm / Parte posterior de la mandíbula inferior
+de Megalops atlanticus, en vista interna, mostrando la fusión entre
+los  huesos  angular  (dermal),  articular  y  retroarticular  (condral)
+(AMNH 211544; mandíbula de 17,8 cm de longitud). La flecha apunta
+a la fosa articular para el cuadrado. Escala = 1 cm
+
+Figure 10. Abbreviated phylogenetic hypothesis of relationships of main lineages of Teleostei (after Arratia 2001) showing
+the distribution of fusion (+) versus non fusion (/) between bones of the posterior part of the lower jaw. The fusion between
+angular and articular bones (A+Ar/R) that it is accepted as a clupeocephalan synapomorphy, is shown in bold and underlined.
+Abbreviations: A,  angular; Ar,  articular;  R,  retroarticular  /    Hipótesis  (abreviada)  de  relaciones  filogenéticas  de  los  linajes
+principales de Teleostei (según Arratia 2001) mostrando la distribución de la fusión (+)  versus no fusión (/) entre huesos de la
+parte posterior de la mandíbula inferior. La fusión entre angular y articular (A+Ar/R), la que es aceptada como una sinapomorfía
+de clupeocéfalos, se representa en negrita y subrayada. Abreviaturas: A, angular; Ar, articular; R, retroarticular
+
+ostarioclupeomorphs (Fig. 8A, B) and euteleosts (Fig. 7A,
+B).  In  the  gonorynchiform  Chanos,  however,  the
+retroarticular that is not included in the articular facet for
+the quadrate in young and juvenile specimens (Fig. 11A)
+becomes part of the facet (Fig. 11B) during growth. The
+retroarticular is tidily sutured with the anguloarticular in
+specimens over 330 mm SL.
+
+The  presence  of  a  retroarticular  excluded  from  the
+articular  facet  for  the  quadrate  is  interpreted  as  a
+synapomorphy of the Clupeocephala. However, this is a
+homoplastic character because the retroarticular is included
+in the articular facet for the quadrate in the clupeocephalan
+Chanos. Certain osteoglossomorphs such as Osteoglossum
+
+and Scleropages (Taverne 1977, Hilton 2003) also have the
+retroarticular excluded from the facet for the quadrate. In
+other non-clupeocephalans, such as the †crossognathiforms
+†Crossognathus  saudianus  (Taverne  1989:  fig.  5),
+†Rhacolepis  buccalis  (Forey  1977:  fig.  11C),  and
+†Varasichthys  ariasi  (Arratia  1981:  text-fig.  8)  the
+retroarticular is also excluded from the articular facet for
+the quadrate. Among †ichthyodectiforms, a retroarticular
+included  in  the  facet  for  the  quadrate  is  observed  in
+†Allothrissops and †Cladocyclus (Patterson & Rosen 1977:
+fig. 8A-C), but the bone is excluded from the articular facet
+in several genera such as †Ichthyodectes, †Xiphactinus,
+†Gillicus,  †Saurodon  (e.g.,  Nelson  1973a),  and
+†Prosaurodon (Stewart 1999).
+
+646 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+Figure  11.  Ontogenetic  changes  in  the  posterior  part  of  the  lower  jaw,  shown  in  medial  view,  of  the  gonorynchiform  Chanos  chanos. A.
+Retroarticular bone articulates with the anguloarticular (KUMNH 40365; 150 mm SL). Scale = 5 mm. B. The retroarticular becomes part of
+the articular facet for quadrate (CAS[SU] 35075, 58 mm length lower jaw); arrow points to the line of suture between the anguloarticular
+and  retroarticular.  Scale  =  1  cm. Abreviations:  an-are,  anguloarticular;  com,  coronomeckelian  or  coronoid  bone;  de,  dentary;  rar,
+retroarticular / Cambios ontogenéticos en la parte posterior de la mandíbula inferior (en vista interna) del gonorynchiforme Chanos chanos. A.
+Hueso  retroarticular  articula  con  el  anguloarticular  (KUMNH  40365;  150  mm  LS).  Escala  =  5  mm.  B.  El  retroarticular  forma  parte  de  la  faceta
+articular para el cuadrado (CAS[SU] 35075, mandíbula inferior de 58 mm de longitud); la flecha apunta a la sutura entre el anguloarticular y el
+retroarticular. Escala = 1 cm. Abreviaturas: an-are, anguloarticular; com, coronomeckeliano o coronoides; de, dentario; rar, retroarticular
+
+According to the current evidence and the results of the
+parsimony analyses (e.g., Arratia 1999, 2008a, Arratia &
+Tischlinger  2010),  the  presence  of  the  retroarticular
+excluded  from  the  articular  facet  for  the  quadrate  is  a
+homoplastic character for teleosts. Nevertheless, because
+of its distribution, I interpret the presence of this character
+in †crossognathiforms, †ichthyodectiforms more advanced
+than  †Allothrissops,  some  osteoglossomorphs  more
+advanced than the hiodontids, and clupeocephalans as a
+character  independently  acquired  in  these  groups.  The
+presence of the retroarticular as part of the articulatory facet
+for  quadrate  in  large  specimens  of  Chanos  opens  the
+question about whether this is an autapomorphy of Chanos
+or if we are missing information about late development of
+other gonorynchiforms and clupeocephalans that may show
+a condition similar to that in Chanos.
+
+HYOID ARCH
+
+"Hyoidean artery piercing ventral hypohyal"  (Arratia 1999)
+versus hyoidean artery piercing one or both dorsal and
+ventral hypohyals or not piercing the hypohyal(s) (Arratia
+& Schultze 1990, De Pinna 1996).
+
+This  character  stands  as  a  clupeocephalan  synapo-
+morphy  present  among  others  in  clupeomorphs,
+ostariophysans and protacanthopterygians. To the best of
+my  knowledge,  this  character  is  unknown  in  fossil
+clupeocephalans and in more advanced euteleosts where
+the trajectory of blood vessels is unknown or poorly known.
+
+BRANCHIAL ARCHES
+
+The diversity of the branchial arch elements among teleosts
+and their phylogenetic importance was first reported by
+Nelson (1969). During the last 30 years, the branchial arches
+have been a source of characters for numerous papers, which
+provide a variety of synapomorphies that identify groups
+within the clupeocephalans, such as the ostariophysans
+(Fink & Fink 1981, 1996), cypriniforms (Siebert 1987),
+salmoniforms (Rosen 1974), lower euteleosts (Johnson &
+Patterson 1996), and higher euteleosts (Rosen 1973).
+
+Most clupeocephalan branchial characters, like those of
+the caudal skeleton (see below), are problematic because
+of uncertain homologies. Additionally, the information is
+available mainly for the extant forms.
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+647
+
+The  following  characters  have  been  proposed  as
+
+clupeocephalan synapomorphies:
+
+1)  "Tooth plates primitively fused with the first three
+pharyngobranchials  and  fifth  ceratobranchial"  is  a
+complex  character  proposed  as  a  clupeocephalan
+synapomorphy by Patterson & Rosen (1977). Later, the
+character  was  modified  by  Lauder  &  Liem  (1983)  as
+"Toothplates fused with endoskeletal gill arch elements".
+In contrast, for Arratia (1999) the character was "Tooth
+plates not associated with pharyngobranchials 1-3".
+
+This character, independent of the three different versions
+presented above, faces two problems: (i) erroneous use of
+anatomical terms, and (ii) the three pharyngobranchials are
+considered jointly, so that the definition of the character
+implies that toothplates are consistently associated with all
+pharyngobranchials 1-3.
+
+Toothplates fused to the first three pharyngobranchials
+was interpreted as a character of basal clupeocephalans by
+Patterson & Rosen (1977). However, my survey of this
+character in basal and advanced clupeocephalans reveals
+that  the  toothplates  are  never  fused  with  the
+pharyngobranchial bones, but that when they are present
+they  overlay  the  bones  (e.g.,  Coilia,  Esox,  Umbra).
+Furthermore, most basal euteleosts do not have toothplates
+associated with pharyngobranchials 1-3. Consequently, this
+
+Figure  12.  Basibranchial  region  in  dorsal  view  of  the
+gonorynchiform Chanos chanos (KUMNH 39890; 83 mm SL; Scale
+= 0.5 mm). Note the absence of toothplates. Abbreviations: bb1-
+3,  basibranchials  1-3;  hb1-3,  hypobranchials  1-3  /    Región
+basibranquial  en  vista  dorsal  del  gonorynchiforme  Chanos  chanos
+(KUMNH 39890; 83 mm LS;  Escala = 0,5 mm). Note la ausencia de
+placas  dentarias. Abreviaturas:  bb1-3,  basibranquiales  1-3;  hb1-3,
+hipobranquiales  1-3
+
+648 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+character -which is based on incorrect observations- does
+not stand up for the Clupeocephala.
+
+According to Arratia (1999), "absence of tooth plates
+associated  with  pharyngobranchials  1-3" 
+is  a
+synapomorphy for basal clupeocephalans.  Although this
+character  is  based  on  accurate  observations,  it  faces  a
+problem of homology. The three pharyngobranchials are
+considered together, but the condition may vary among
+pharyngobranchials. For instance, no toothplates overly
+pharyngobranchials  1-3  in  most  basal  clupeomorphs;
+however, the clupeomorphs Coilia and Jenkinsia and  the
+esocoid  Esox  have  toothplates  associated  with
+pharyngobranchials 2-3, but the first pharyngobranchial
+does not bear a toothplate. Thus, to postulate hypotheses
+of homology, each pharyngobranchial should be treated
+independently. Consequently, I separate the character into
+three different ones with the following results:
+
+i) Toothplate(s) are absent from pharyngobranchial 1
+in lower clupeocephalans, so that this character appears to
+be  a  synapomorphy  supporting  the  Clupeocephala
+(however, toothplates are also absent in the basal extant
+osteoglossomorph Hiodon and in Heterotis).
+
+ii) Toothplates are absent from pharyngobranchial 2
+in most basal clupeocephalans, e.g., clupeomorphs (pers.
+obser.),  gonorynchiforms,  cypriniforms,  siluriforms,
+gymnotiforms (Fink & Fink 1996, Arratia pers. obser.), and
+salmoniforms (pers. obser.). They are also absent in the
+osteoglossomorph Heterotis. However, they are present in
+some clupeomorphs (e.g., Coilia and Jenkinsia) and some
+euteleosts (e.g., Esox) among clupeocephalans.
+
+iii) Toothplates are absent from pharyngobranchial 3
+in most basal clupeocephalans, e.g., clupeomorphs (pers.
+obser.),  gonorynchiforms,  cypriniforms,  siluriforms,
+gymnotiforms (Fink & Fink 1996, Arratia pers. obser.), and
+salmoniforms (pers. obser.). They are also absent in the
+osteoglossomorph Heterotis. However, they are present in
+some  clupeomorphs  (e.g.,  Coilia,  Jenkinsia)  and  some
+euteleots (e.g., Esox) among clupeocephalans.
+
+Toothplate(s) fused to ceratobranchial 5 is a condition
+found in clupeocephalans according to Patterson & Rosen
+(1977).  However,  a  toothplate  ankylosed  or  fused  to
+ceratobranchial 5 is a generalized condition among teleosts
+including  elopomorphs,  osteoglossomorphs,  and
+clupeocephalans.
+
+ 2) "Basibranchials 1-3 and basihyal cartilage are not
+overlain by median tooth plates" (Arratia 1999: 325) versus
+basibranchials and basihyal cartilages overlain by medial
+toothplates (Lauder & Liem 1983 based on Rosen 1982).
+
+The basibranchials 1-3 and basihyal (Fig. 12) are not
+overlain  by  median  toothplates  in  ostarioclupeomorphs
+among clupeocephalans, but toothplates associated with all
+these elements (e.g., Esox; Rosen 1974: fig. 1A; pers. obser.)
+or with one or another are variable present in euteleosts.
+The parsimony analysis interprets the absence of toothplates
+from  basibranchials  1-3  and  basihyal  cartilage  as  a
+clupeocephalan  synapomorphy,  but  to  understand  this
+character properly, I believe that it should be separated into
+several characters dealing with the presence or absence of
+toothplates associated with each branchial element, e.g.,
+basihyal, basibranchial 1, basibranchial 2, and basibranchial
+3, so that the homologies involved can be understood. I
+will deal with a detailed description of these characters
+elsewhere.
+
+3) "Tooth plate of last pharyngobranchial bone/cartilage
+
+formed by growth of one tooth plate" (Arratia 1999).
+
+Pharyngobranchial 4 (or infrapharyngobranchial 4) does
+not  ossify  in  teleosts,  so  the  fourth  pharyngo-branchial
+element is a cartilage that may bear several toothplates of
+different sizes and shapes or only one toothplate (see Arratia
+1999: figs. 9, 10).
+
+In extant clupeocephalans (including the basal lineages),
+the  toothplate  associated  with  the  cartilaginous
+pharyngobranchial  4  results  in  the  growth  of  only  one
+toothplate, which is present from early ontogeny on. In some
+clupeocephalans, e.g., gonorynchiforms, no toothplates are
+associated with pharyngobranchial 4 or any other branchial
+element. In contrast, several toothplates are associated with
+pharyngobranchial  4  in  elopiforms  (e.g.,  Elops  and
+Megalops) and basal osteoglossomorphs (e.g., Hiodon).
+
+CAUDAL  SKELETON
+
+The caudal skeleton, along with the cranium, is one of the
+most important sources of characters used in phylogenetic
+studies of teleosts (Arratia 2008b, 2009). The clarity and
+use of many of the characters from the caudal skeleton suffer
+from differences in homology assessments between studies
+regarding the formation of the centra involved in the caudal
+fin (preural and ural centra) to the origin and homology of
+elements  such  as  the  epurals,  uroneurals  and  hypurals
+(Schultze & Arratia 1989, Arratia & Schultze 1992, Arratia
+2008b).
+
+To  understand  the  homologization  of  the  caudal
+
+elements, two main conditions are required:
+
+i.
+
+Interpretation  of  the  ural  region  in  the  polyural
+fashion,  i.e.,  a  one-to-one  relationship  between  a  ural
+centrum and its epaxial and hypaxial elements (Nybelin
+
+1977,  Schultze  & Arratia  1989).  Only  in  this  way  it  is
+possible  to  understand  the  relationships  between  each
+centrum  and  its  epaxial  (e.g.,  epurals,  uroneurals)  and
+hypaxial elements (hypurals) that are usually lost as a result
+of  the  upturning  of  the  posteriormost  centra  and  the
+subsequent displacement of bones.
+
+ii. Study of the origin and development of the preural
+and ural centra in day-to-day ontogenetic series so that the
+relationships between the early caudal elements, the loss
+of some of them, or the fusion of others can be properly
+understood.
+
+The  following  caudal  skeletal  characters  have  been
+
+proposed as clupeocephalan synapomorphies:
+
+"Neural arch over ural centrum 1 reduced or absent,
+anteriorly directed membranous outgrowths developed from
+the anterodorsal margin of the first uroneural" (Patterson
+& Rosen 1977). Taverne (1989) separated this complex
+character into two independent ones that he defined as (i)
+"neural arch of ural centrum 1 reduced, fused with neural
+arch of preural centrum 1 or lost", and (ii) "enlargement
+more or less significant of the uroneurals with irregular
+bony  expansions  of  the  ventro-basal  side  of  the  first
+uroneural".  Each  of  these  characters  however,  requires
+further analysis, as there is variation in the structure of each
+among clupeocephalan taxa.
+
+1) "Neural arch of ural centrum 1 reduced or lost".
+The ural centrum 1 in the definition by Patterson &
+Rosen (1977) corresponds to the first independent centrum
+placed  posterior  to  preural  centrum  1  of  the  diural
+terminology (Nybelin 1977). This centrum may correspond
+to  only  ural  centrum  1,  or  only  ural  centrum  2  or  ural
+centrum 1+2 of the polyural terminology. The neural arch
+in question could be the neural arch of different centra.
+Consequently, as previously defined this character is not
+homologous among clupeocephalans.
+
+If we assume -based on topological arguments- that the
+atrophied or absent neural arch that is found posterior to
+preural centrum 1 correspond to ural centrum 1, then this
+character is also present outside the clupeocephalans. For
+instance, it is present in adult Elops (Schultze & Arratia
+1988: figs. 15, 17A, 22) with a small, ossified ural neural
+arch 1. It is variably present in adult Hiodon (e.g., Schultze
+& Arratia 1988: fig. 7), as well as in †ichthyodectiforms
+such as †Allothrissops (Patterson & Rosen 1977: figs. 17,
+18A, B) and †Eudiobectes (Patterson & Rosen 1977: fig.
+20). As far the preservation permits, a reduced ural neural
+arch 1 has been observed in †crossognathiforms such as
+†Crossognathus and †Domeykos (Arratia 2008a: fig. 4A,
+B), among others.
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+649
+
+Figure 13. Neural arches and spines of preural centrum 1 and of ural centrum 1 (polyural terminology). A. Chanos chanos (KUMNH 39873;
+9.5 mm SL). B. Chanos chanos (KUMNH 39886; 16 mm SL). C. Dorosoma cepedianum (KUMNH 21802; 16.6 mm SL). D. Dorosoma cepedianum
+(KUMNH  21802;  20.8  mm  SL).  Scale  =  0.5  mm. Abbreviations:  E,  epural;  H1-3,  hypurals  1-3;  naPU1,  neural  arch  of  preural  centrum  1;
+naU1-2, neural arch of ural centra 1-2 /  Arcos neurales y espinas del centro preural 1 y del centro ural 1 (terminología poliural). A.  Chanos
+chanos  (KUMNH  39873;  9,5  mm  LS).  B.  Chanos  chanos  (KUMNH  39886;  16  mm  LS).  C.  Dorosoma  cepedianum  (KUMNH  21802;  16,6  mm  LS).  D.
+Dorosoma cepedianum (KUMNH 21802; 20,8 mm LS). Escala = 0,5 mm. Abreviaturas: E, epural; H1-3, hipurales 1-3; naPU1, arco neural del centro
+preural 1; naU1-2, arco neurales de los centros urales 1-2
+
+Among extant clupeocephalans, it is assumed that ural
+neural  arch  1  is  absent  in  those  fishes  possessing  a
+compound  centrum  and  a  pleurostyle  (=  supposedly,
+modified uroneural 1), such as the ostariophysans. However,
+the study of early ontogenetic stages shows that the ural
+neural arches of one or more ural centra become included
+in  the  fusion  during  growth  as  for  example  in  the
+gonorynchiform Chanos (Fig. 13A, B) and cypriniforms
+such as catostomids and cyprinids. Thus, the only arch and
+spine present in adults is the result of the ontogenetic fusion
+of the neural arch of preural centrum 1 and that of ural
+centrum 1, at least. In clupeids the neural arch and spine
+observed in adults corresponds to the neural arch and spine
+
+of ural centrum 1 (Fig. 13C, D). The neural arch of preural
+centrum 1 (Fig. 13C, D) is atrophied and becomes enclosed
+by  the  autocentrum  during  growth.  In  other  extant
+clupeocephalans, ural neural arch 1 may be very small or
+even represented only by a small cartilage (e.g., Thymallus,
+Arratia & Schultze: fig. 22A; Fig. 14A herein) or absent
+(e.g., Oncorhynchus, Arratia & Schultze: figs. 3, 13, 14;
+Fujita 1990; Fig. 14B herein). The character is variable
+among the oldest fossil clupeocephalans. The Late Jurassic
+†Leptolepides sprattiformis (Fig. 15C) and †L. haerteisi
+have a short neural spine, and consequently a complete ural
+neural arch 1 (Arratia, 1997: figs. 44, 48), whereas the
+character is intraspecifically variable in the Late Jurassic
+
+650 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+Figure  14.  Preural  and  ural  region  (polyural  terminology)  and  associated  elements. A.  Thymallus  arcticus  (KUMNH  15419;  151  mm  SL)
+illustrating the rudimentary neural arch of ural centrum 1+2 partially hidden by the stegural. Scale = 3 mm. B. Oncorhynchus mykiss (KU
+12463; 28 mm SL). Scale = 0.5 mm. Abbreviations: cPU1, chordacentrum PU1; cU1-3, chordacentra of U1-3; E, epurals; H1-3, hypurals 1-
+3; naU1+2, rudimentary neural arch of ural centrum 1+2; PU1, preural centrum 1; U1-3, ural centra 1-3 / Regiones preural y ural (terminologia
+poliural) y elementos asociados. A.  Thymallus arcticus (KUMNH 15419; 151 mm LS) mostrando el arco neural rudimentario del centro ural 1+2
+parcialmente cubierto por el estegural. Escala = 3 mm. B.  Oncorhynchus mykiss (KU 12463; 28 mm LS). Escala = 0,5 mm. Abreviaturas: cPU1,
+cordacentro PU1; cU1-3, cordacentros de los U1-3; E, epurales; H1-3, hipurales 1-3; naU1+2, arco neural rudimentario del centro ural 1+2; PU1,
+centro preural 1; U1-3, centros urales 1-3
+
+†Orthogoniklethrus leichi and †O. hoelli, with a short ural
+neural spine 1 (Arratia 1997: fig. 61A) in a few specimens,
+and a lack of spine and presence of an atrophic ural neural
+arch 1 in most specimens (Arratia 1997: figs. 53, 60, 61B,
+C).
+
+Consequently,  as  new  ontogenetic  information
+demonstrates, the neural arch and spine present in extant
+ostarioclupeomorphs are not the neural arch and spine of
+preural centrum 1, but may be the result of the fusion of the
+neural arches of preural centrum 1 and ural centrum 1 or
+the  arch  of  ural  centrum  1  alone.  My  survey  of  basal
+euteleosts to date shows that a reduced or absent neural
+arch of ural centrum 1 is a feature consistently present in
+euteleosts.
+
+2)  "Neural  spine  of  ural  centra  1  and  2  (polyural
+terminology)" or "ural centrum 1 absent" versus presence
+of neural spine. This character was proposed by Arratia
+(1999)  to  test  the  position  of  †Leptolepides  and
+†Orthogonikleithrus (bearing a neural spine on ural centrum
+1; Fig. 15C) as basal clupeocephalans.
+
+However,  as  new information  on  early  development
+shows a neural spine of ural centrum 1 is present in extant
+clupeids and engraulids (Fig. 13C, D) and the spine found
+in ostariophysans may correspond to the ontogenetic fusion
+of the neural spines of preural centrum 1 and ural centrum
+1 (Fig. 13A, B). To the best of my knowledge, the absence
+
+of  the  ural  neural  spine  1  (Figs.  15D,  14A,  B)  occurs
+consistently in extant euteleosts among clupeocephalans
+(see  illustrations  in  Fujita  1990)  because  their  arch  is
+reduced  or  absent  (see  above). According  to  the  new
+information  this  character  could  be  a  euteleostean
+synapomorphy instead of a clupeocephalan synapo-morphy.
+3)  "Anteriorly  directed  membranous  outgrowths
+developed  from  the  anterodorsal  margin  of  the  first
+uroneural" (Patterson & Rosen 1977) or "enlargement more
+or less significant of the uroneurals with irregular bony
+expansions of the ventro-basal side of the first uroneural"
+(Taverne 1989).
+
+This character refers to the first uroneural based on the
+assumption that the first uroneural in all teleosts develops
+as a modification of the same ural neural arch. If we assume
+that  the  first  uroneural  in  basal  clupeocephalans  is
+homologous  among  groups,  then  we  conclude  that  the
+anteriorly directed membranous outgrowths are missing in
+many extant engrauloids (see for instance Fujita 1990: figs.
+17, 18, 26, 27, 28), and in most ostariophysans (see for
+instance Fujita 1990: figs. 32-51). Membranous outgrows
+developed from the anterodorsal margin of the so-called
+first uroneral are present in basal euteleosts such as the
+Late Jurassic genera †Leptolepides and †Orthogonikleithrus
+and the Cretaceous genera †Erichalcis, †Manchurichthys
+and †Humbertia (see Arratia & Schultze 1992: fig. 27A-
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+651
+
+Figure 15. Caudal skeletons illustrating the primitive alignment of the uroneural series (A, B) versus the clupeocephalan alignment (C, D).
+A.  †Allothrissops  sp.  from  the  Kimmeridgian  of  Schamhaupten,  Germany.  B,  †Allothrissops  mesogaster  from  the  Tithonian  of  Kelheim,
+Germany (modified from Arratia 2000c). Scale = 5 mm. C. †Leptolepides sprattiformis (SMNS 55928). Arrow points to the neural spine on
+ural centrum 1+2. Scale = 0.5 mm. D. Thymallus arcticus (KUMNH 15419; 151 mm SL; Scale = 1 mm). The arrow points to the ural centrum
+1+2. Abbreviations: dc.pl, cartilaginous distal plate; dp, dorsal processes of principal rays; E1-3, epurals 1-3; H1-8, hypurals 1-8; hsPU2,
+haemal  spine  of  PU2;  mc.pl,  cartilaginous  middle  distal  plate;  no,  notochord;  nsPU1-4,  neural  spine  of  PU1-4;  PH,  parhypural;  PU1-4,
+preural centra 1-4; U1+2+H2, ural centrum 1+2 plus hypural 2; ‘UD’, ’urodermal’; un, uroneural-like elements; UN1-7, uroneurals 1-7; ST,
+stegural; 1PR, first principal ray / Esqueletos caudales mostrando la disposición primitiva de los uroneurales (A, B) versus la disposición en los
+clupeocéfalos (C, D). A. †Allothrissops sp. del Kimmeridgiano de Schamhaupten, Alemania. B. †Allothrissops mesogaster del Titoniano de Kelheim,
+Alemania (modificado de Arratia 2000c). Escala = 5 mm. C. †Leptolepides sprattiformis  (SMNS 55928). La flecha apunta a la espina neural del
+centro  ural  1+2.  Escala  =  0,5  mm.  D.Thymallus  arcticus  (KUMNH  15419;  151  mm  LS;  Escala  =  1  mm).  La  flecha  apunta  al  centro  ural  1+2.
+Abreviaturas:  dc.  pl,  placa  cartilaginosa  distal;  dp,  procesos  dorsales  de  los  rayos  principales;  E1-3,  epurales  1-3;  H1-8,  hipurales  1-8;  hsPU2,
+espina hemal del PU2; mc. pl, placa cartilaginosa distal media; no, notocorda; nsPU1-4, espinas neurales de los PU1-4; PH, parahipural; PU1-4,
+centros  preurales  1-4;  U1+2+H2,  centro  ural  1+2  +  hipural  2;  ´UD`,  ´urodermal`;  un,  elementos  tipo  uroneural;  UN1-7,  uroneurales  1-7;  ST,
+estegural; 1PR, primer rayo principal
+
+652 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+D). In salmonids, where the origin and development of the
+so-called first uroneural (= stegural) has been investigated
+(Arratia  &  Schultze  1992),  the  first  uroneural  or
+anteriormost uroneural develops as a modification of the
+ural  neural  arch  of  ural  centrum  4  of  the  polyural
+terminology. Thus, the expanded membranous ourgrowth
+found in salmonids does not belong to uroneural 1, but to
+uroneural 4 of the polyural terminology.
+
+Studies based on early ongenetic stages are mandatory
+if we want to understand whether the so-called uroneural 1
+develops from the same ural neural arch among different
+teleostean subgroups, in other words, if the uroneural 1 is
+homologous among teleosts (Schultze & Arratia 1989). As
+the  stegural,  the  pleurostyle  of  ostarioclupeomorphs  is
+commonly interpreted as a modified uroneural 1; however,
+it is unknown if the pleurostyle develops as a modification
+of the neural arch of ural centrum 1 (polyural terminology)
+or if develops from the same ural neural arch (other than
+ural neural arch 1) in all ostariophysans and clupeomorphs.
+To the best of my knowledge, and independently of the
+ambiguous homology, the character discussed in this section
+has  not  been  considered  by  most  authors  dealing  with
+clupeocephalan or teleostean phylogenetic analyses.
+
+In the following section, I analize other two potential
+characters mentioned in the literature: "All uroneurals are
+not  inclined  toward  the  horizontal",  but  are  aligned  in
+different angles (Arratia 1999, 2008a), and "six hypurals
+present" (Patterson & Rosen 1977). This section ends with
+comments on a problematic character ("Stegural present").
+4)  "All  uroneurals  are  not  inclined  toward  the
+horizontal", but are aligned in different angles, in contrast
+to  the  situation  present  in  basal  teleosts  (Arratia  1999,
+2008a).
+
+In basal teleosts the uroneurals are aligned at similar
+angles  (Fig.  15A,  B).  This  condition  can  be  found  in
+†Leptolepis coryphaenoides (e.g., Arratia 1991: fig. 7),
+†ichthyodectiforms (e.g., Patterson & Rosen 1977: figs. 14,
+17-21, Arratia 1997: figs. 24-25), extant teleosts such as
+the basal elopiforms Elops and Megalops (e.g., Schultze &
+Arratia 1988: figs. 7, 17A), and the basal osteoglossomorph
+Hiodon (e.g., Schultze & Arratia 1988:  figs.  7,  11A-D,
+Hilton  2002:  figs.  74,  76A-F).  In  contrast,  in  basal
+clupeocephalans,  the  last  uroneurals  (Fig.  15C,  D)  are
+aligned at a different angle with respect to the anterior series
+of uroneurals. The alignment of the uroneurals at different
+angles is a character shared by fossil (e.g., †Leptolepides,
+Patterson & Rosen 1977: fig.  50, Arratia 1997: figs. 44,
+48; †Orthogonikleithrus, Arratia 1997: figs. 61A, B) and
+
+extant clupeocephalans (e.g., Fujita 1990: figs. 16, 17, 20,
+23, 25, 29, 35, 38, 44, 62, and many others). However, it is
+unclear  whether  the  last  uroneurals  are  homologous  in
+different  teleostean  subgroups  (see  above  and Arratia
+1996b: fig. 6, 1997).
+
+5) "Six hypurals present" (Patterson & Rosen 1977). The
+correct definition of the character should be: "Six or fewer
+hypurals present" (see explanation below).
+
+Six or fewer ossified hypurals (Fig. 14B) are present in
+extant clupeocephalans (e.g., see figs. 15-49, 54-73, and
+96-111 in Fujita 1990), in contrast to seven or more ossified
+hypurals  in  more  basal  forms  such  as  †Leptolepis
+coryphaenoides, †Tharsis, †Varasichthyidae (among the
+†crossognathiforms), †ichthyodectiforms, Elops, Megalops,
+†Lycoptera, and  Hiodon.  However, Late Jurassic basal
+euteleosts such as †Leptolepides and †Orthogonikleithrus
+retain the primitive condition of seven hypurals (Arratia
+1997: figs. 44, 48, 53, 61; Fig. 15C herein), but Cretaceous
+euteleosts  such  as  †Manchuricthys,  †Erichalcis  and
+†Humbertia, among others, present six or five hypurals
+(Arratia  &  Schultze  1992:  fig.  27B-D).  Occasionally,
+additional cartilaginous hypurals may be found in early
+ontogeny of extant clupeocephalans.
+
+The presence of six or fewer hypurals is not unique to
+clupeocephalans among teleosts because the character is
+also  present  in  non-clupeocephalans,  such  as  some
+†pachyrhyzodontoids  (among  †crossognathiforms),  the
+extant elopomorphs  Albula and  Pterothrissus  and more
+advanced forms such as notacanthids and anguilliforms
+(Schultze & Arratia 1988: figs. 25B, 26, Fujita 1990: figs.
+8,  9-14),  and  all  osteoglossomorphs  above  hiodontids
+(Hilton 2003: character 71).
+
+According to the evidence presented here and the results
+of recent parsimony analyses (e.g., Arratia 1999, 2008a),
+the presence of six or fewer hypurals is interpreted as a
+homoplastic character for teleosts. Nevertheless, because
+of its taxonomic distribution, I interpret the presence of
+this  character  in  some  †crossognathiforms,  some
+elopomorphs  more  advanced  than  the  basal  elopiforms
+Elops  and  Megalops,  some  osteoglossomorphs  more
+advanced than the hiodontids, and clupeocephalans as a
+character independently acquired in these groups.
+
+6)  "Stegural present" (Arratia 2008a).
+The  presence  of  a  stegural  has  been  suggested  as  a
+euteleostean character by Patterson & Rosen (1977) and
+Arratia (1999). However, in a recent phylogenetic analysis
+of basal teleosts (Arratia 2008a) with the †crossognathiforms
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+653
+
+included, the parsimony analysis places the groups with a
+stegural at the base of clupeocephalans (including fishes that
+previously were interpreted as “salmoniforms”). The stegural
+is lost in ostarioclupeomorphs, but present in basal clupeo-
+cephalans  †Erichalcis,  †Humbertia,  †Leptolepides,  and
+†Orthogonikleithrus (but see Arratia & Tischlinger 2010
+where  †Erichalcis,  †Humbertia,  †Leptolepides  and
+†Orthogonikleithrus are recovered as euteleosts).
+
+As mentioned above, it is unclear whether the so-called
+stegural  is  a  modification  of  the  same  uroneural  in
+clupeocephalans, making the homology of this structure
+unlikely. The origin and development of the stegural has
+only  been  described  and  illustrated  for  salmonids  (see
+Arratia  &  Schultze  1991).  Currently,  I  interpret  this
+character  as  doubtful,  either  for  clupeocephalans  or
+euteleosts, and the only way to solve the problem-in my
+opinion-is to study day-to-day ontogenetic series of fishes
+interpreted as possessing a stegural, so that the origin of
+the element can be known.
+
+DISCUSSION  AND  CONCLUSIONS
+The Osteoglossocephala, including the Clupeocephala is
+without doubt the largest formal clade among Teleostei. A
+great  morphological  diversification  and  consequently
+numerous evolutionary transformations through time and
+among and within subgroups is expected for such a large
+group. These properties, in addition to the high levels of
+homoplasies of numerous characters, complicate the study
+of this group and its phylogenetic relationships.
+
+One interesting result of this study and re-evaluation of
+clupeocephalan  characters  is  that  some  of  the
+synapomorphies  that  were  previously  proposed  to  be
+uniquely derived for clupeocephalans are interpreted as
+homoplastic  when  certain  fossils  are  included  in  the
+phylogenetic  analysis  (e.g., Arratia  2008a, Arratia  &
+Tischlinger 2010). This confirms again the importance of
+fossils in the understanding of the evolutionary history of
+certain characters, and obviously, of the evolutionary history
+of the group under study (see Arratia 2001, 2004 concerning
+the importance of fossils). Another interesting result is that
+this  study  demonstrates  the  importance  of  ontogenetic
+investigations  for  systematic  and  phylogenetic
+interpretations,  including  from  early    to  late  stages  of
+development. It shows, once more, that the understanding
+of  the  different  elements  of  the  caudal  skeleton,  their
+transformations,  their  variations,  and  consequently  the
+homologies involved, requires careful observations on the
+origin and formation of these structures from early stages
+
+654 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+of growth, which may vary among groups. Developmental
+investigations are not only a necessity for understanding
+the  caudal  skeleton,  but  as  it  is  shown  here,  these
+investigations are important for other characters as well.
+Other  interesting  result  is  the  discovery  that  several
+clupeocephalan synapomorphies are also present in recent
+osteoglossomorphs  more  advanced  than  the  primitive
+hiodontids, a fact that also changes the interpretation of
+some characters as homoplasies.
+
+In sum, re-evaluation of the characters demonstrate the
+existence of several problems: (i) several of these characters
+are not uniquely derived, but are homoplastic characters
+also  found  in  some  †crossognathiforms  among  basal
+teleosts  and  in  osteoglossomorphs  above  the  level  of
+hiodontids    (e.g.,  fused  anguloarticular,  retroarticular
+excluded from the articular surface for quadrate); (ii) others
+are absent in most basal forms (e.g., an atrophied or absent
+ural neural arch 1); (iii) others are variably present among
+basal  clupeocephalans  (e.g.,  toothplates  on  pharyngo-
+branchials 2 and 3); and (iv) others seem to be erroneous
+(e.g.,  toothplates  primitively  fused  with  the  first  three
+pharyngobranchials  and  fifth  ceratobranchial).  Some
+characters  as  defined  previously  represent  ambiguous
+homologies (e.g., basibranchials 1-3 and basihyal cartilage
+are not overlain by medial toothplates; neural arch of ural
+centrum 1 [diural terminology] reduced or lost; anteriorly
+directed  membranous  outgrowths  developed  from  the
+anterodorsal margin of the first uroneural; stegural present).
+According to the present evidence the monophyly of the
+Clupeocephala is supported by numerous, unambiguous
+characters. Several of them, listed below, are apparently
+uniquely derived:
+
+1. Autopalatine bone ossifies early in ontogeny.
+2. Hyoidean artery pierces ventral hypohyal.
+3. Toothplate of cartilaginous fourth pharyngobranchial
+element forms by growth of only one toothplate and not by
+fusion of several plates.
+
+According to the results presented here, the following
+characters are homoplastic because they are also found in
+other  groups  outside  the  Clupeocephala,  such  as
+in  some  †crossognathiforms  and/or  in  advanced
+osteoglossomorphs or because the basal gonorynchiform
+Chanos  presents  a  different  condition  in  adult  stage.
+Because  of  their  distribution  among  teleosts,  these
+characters are interpreted here as independently acquired
+in these lineages and, consequently, they may be considered
+as clupeocephalan synapomorphies:
+
+  4. Uroneurals are aligned at different angles, instead
+of all being inclined toward the horizontal.
+  5. Angular and articular bones are fused.
+  6. Retroarticular bone is excluded from the articular
+facet for the quadrate.
+  7. Toothplates on pharyngobranchial 1 are absent.
+  8. Toothplates on pharyngobranchial 2 are absent.
+  9. Toothplates on pharyngobranchial 3 are absent.
+10. Six or fewer hypurals are present.
+One  character  that  previously  was  interpreted  as  a
+clupeocephalan  synapomorphy  is  proposed  here  as  a
+euteleostean synapomorphy:
+
+Neural  arch  of  ural  centrum  1  (of  the  polyural
+
+terminology) is reduced or lost.
+
+The presence of a neural spine on ural centrum 1 may
+
+be a synapomorphy of some clupeomorph subgroups.
+
+Finally, the information provided in this study changes
+previous interpretations of certain characters and reveals
+the need for further morphological, developmental, and
+phylogenetic  studies  based  on  more  elopomorph,
+osteoglossomorph, and clupeocephalan taxa, including both
+basal and more advanced species. In this way, the meaning
+and distribution of the homoplastic characters may be better
+understood,  permitting  a  better  interpretation  of  these
+characters. A larger study will also facilitate testing which
+characters represent unique novelties at certain levels of
+Teleostei.
+
+ACKNOWLEDGMENTS
+Dedicated  to  the  memory  of  my  friend  and  colleague,
+Professor Ismael Kong Urbina.
+
+I thank G. Pequeño (Universidad Austral de Chile) for
+providing the information concerning this special volumen
+dedicated to the memory of Ismael Kong Urbina. Thanks
+are due to the following individuals and institutions for
+permission to study material under their care: A Bentley
+(KUMNH), H Bjerring (SMNH), R Böttcher (SMNS), D
+Butt (UCLA), CH von Daniels (BGHan), W Eschmeyer
+and D Catania (CAS), WL Fink and D Nelson (UMMZ), L
+Grande, M Westneat and MA Rogers (FMNH), H Jahnke
+(GOE), late K Liem and K Hartel (MCZ), M Koelb-Ebert
+and G Viohl (JME), M Louette and †G Teugels (MRAC),
+D Markle (OS), A Paganoni (MCSNB), J McEacharan and
+M Retzer (TCWC), L Parenti (USNM), N Rios (TU), T
+Robins  (UF),  R  Rosenblatt  (SIO),  W  Saul  (ANSP), A
+
+Simons  and  V  Hirt  (JFBM),  M  Stiassny  (AMNH),  P
+Wellnhofer and O Rauhut (BSPG). To the late M Coburn
+(John Carroll University), to the late I Kong U (Antofagasta,
+Chile), and Y-Y Chen (Academia Sinica, Hunan, China),
+Paula Mabee (University of South Dakota), K Matsuura
+(National History Museum, Tokyo), and S Poss (Gulf Coast
+Research  Laboratory),  for  the  gift  of  some  important
+specimens included in this study. To H-P Schultze and EO
+Wiley (University of Kansas) for comments and discussion
+on phylogenetic interpretations and methodologies, Sarah
+Rages for improving the style of the manuscript, and MP
+Davis and FR Abe (University of Kansas) for helping with
+the preparation of the illustrations for electronic submission.
+Special thanks to GD Johnson (US National Museum) and
+E  Hilton  (Virginia  Institute  of  Marine  Sciences)  for
+reviewing the manuscript. This is a contribution of grant
+NSF EF 0431326, Collaborative Research: Systematics of
+Cypriniformes, Earth’s Most Diverse Clade of Freshwater
+Fishes.
+
+LITERATURE  CITED
+Arratia G. 1981. Varasichthys ariasi n. gen. et sp. from the
+Upper Jurassic of Chile (Pisces, Teleostei, Varasichthyidae).
+Palaeontographica A 175: 107-139.
+
+Arratia  G.  1987.  Anaethalion  and  similar  teleosts
+(Actinopterygii, Pisces) from the Late Jurassic (Tithonian)
+of 
+relationships.
+Palaeontographica A 200: 1-44.
+
+southern  Germany  and 
+
+their 
+
+Arratia G. 1991. The caudal skeleton of Jurassic teleosts; a
+phylogenetic analysis. In: Chang M-M, Y-H Liu & G-R Zhang
+(eds). Early vertebrates and related problems in evolutionary
+biology, pp. 249-340. Science Press, Beijing.
+
+Arratia G. 1992. Development and variation of the suspensorium
+of  primitive  catfishes  (Teleostei:  Ostariophysi)  and  their
+phylogenetic 
+relationships.  Bonner  Zoologische
+Monographien 32: 1-149.
+
+Arratia G. 1996a. Basal teleosts and teleostean phylogeny. PhD
+
+Dissertation, University of Uppsala, Uppsala, 318 pp.
+
+Arratia G. 1996b.  The Jurassic and the life history of teleosts.
+In: Arratia G & G Viohl (eds). Mesozoic fishes -Systematics
+and paleoecology, pp. 219-242. Verlag Dr. F. Pfeil, München.
+Arratia G. 1997. Basal teleosts and teleostean phylogeny. Palaeo
+
+Ichthyologica 7: 1-168.
+
+Arratia  G.  1998.  Basal  teleosts  and  teleostean  phylogeny:
+
+response to C. Patterson. Copeia 1998(4): 1109-1113.
+
+Arratia G. 1999. The monophyly of Teleostei and stem-group
+teleosts. Consensus and disagreements. In: Arratia G & H-P
+Schultze (eds). Mesozoic fishes 2 -Systematics and fossil
+record, pp. 265-334. Verlag Dr. F. Pfeil, München.
+
+Arratia G. 2000a.  New teleostean fishes from southern Germany
+and 
+the
+"pholidophoriforms". Paläontologische Zeitschrift 74(1/2):
+113-143.
+
+systematic  problems  concerning 
+
+the 
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+655
+
+Arratia G. 2000b. Phylogenetic relationships of Teleostei. Past
+
+and present. Estudios Oceanológicos 19: 19-51.
+
+Arratia G. 2000c. Remarkable teleostean fishes from the Late
+Jurassic  of  southern  Germany  and  their  phylogenetic
+relationships. Mitteilungen aus dem Museum für Naturkunde,
+Berlin, Geowissenschaftliche, Reihe 3: 137-179.
+
+Arratia G. 2001. The sister-group of Teleostei: Consensus and
+disagreements. Journal of Vertebrate Paleontology 21(4): 767-
+773,
+
+Arratia G. 2003.  Catfish head skeleton. An overview.  In: Arratia
+G, BG Kapoor, M Chardon & R Diogo (eds). Catfishes, pp.
+3-46. Science Publishers, Enfield.
+
+Arratia G. 2004. Mesozoic halecostomes and the early radiation
+of teleosts. In: Arratia G & A Tintori (eds). Mesozoic fishes
+3 -Systematics, paleoenvironments and biodiversity, pp. 279-
+315. Verlag Dr. F. Pfeil, München.
+
+Arratia  G.  2008a.  The  varasichthyids  and  other
+crossognathiform fishes, and the break-up of Pangaea. In:
+Cavin L, A Longbottom & M Richter (eds). Fishes and the
+break-up  of  Pangaea.  Special  Publication  295:  71-92,
+Geological Society, London.
+
+Arratia G. 2008b. Actinopterygian postcranial skeleton with
+special reference to the diversity of fin ray elements, and the
+problem  of  identifying  homologies.  In:  Arratia  G,  H-P
+Schultze & MVH Wilson (eds). Mesozoic fishes 4 -Homology
+and phylogeny, pp. 49-101. Verlag Dr. F. Pfeil, München.
+
+Arratia G. 2009. Patterns of diversity of the actinopterygian
+fulcra. Acta Zoologica, Stockholm 90 (Suppl. 1): 220-235.
+Arratia  G  &  T  Bagarinao.  2009.  Early  ossification  and
+development of the cranium and paired girdles of Chanos
+chanos  (Teleostei,  Gonorynchiformes).  In:  Grande T,  FJ
+Poyato-Ariza & R Diogo (eds). A comprehensive review of
+Gonorynchiformes and of Ostariophysan relationships, pp.
+76-106. Scientific Publishers, Enfield.
+
+Arratia  G  &  H-P  Schultze.  1985.  Late  Jurassic  teleosts
+(Actinopterygii,  Pisces)  from  Northern  Chile  and  Cuba.
+Palaeontographica A 189: 29-61.
+
+Arratia G & H-P Schultze. 1990. The urohyal: development
+and homology within osteichthyans. Journal of Morphology
+203: 247-282.
+
+Arratia G & H-P Schultze. 1991. Development and homology
+of the palatoquadrate in osteichthyans. Journal of Morphology
+208: 1-81.
+
+Arratia G & H-P Schultze. 1992. Reevaluation of the caudal
+skeleton of certain actinopterygian fishes. III. Salmonidae.
+Homologization  of  caudal  skeletal  structures.  Journal  of
+Morphology 214: 187-249.
+
+Arratia G & H Tischlinger.  2010. The first record of Late
+Jurassic  crossognathiform  fishes  from  Europe  and  their
+phylogenetic importance for teleostean phylogeny. Fossil
+Record 13(2): 317-341.
+
+Cavin L. 2001. Osteology and phylogenetic relationships of
+the teleost Goulmimichthys arambourgi Cavin, 1995, from
+the  Upper  Cretaceous  of  Goulmima,  Morocco.  Eclogae
+Geologicae Helvetiae 94: 509-535.
+
+Cavin  L  &  D  Grigorescu.  2005. A  new  Crossognathus
+(Actinopterygii, Teleostei) from the Lower Cretaceous of
+Romania with comments on Crossognathidae relationships.
+Geodiversitas 27: 5-16.
+
+Cloutier  R  &  G Arratia.  2004.  Early  diversification  of
+actinopterygians. In: Arratia G, MVH Wilson & R Cloutier
+(eds). Recent advances in the origin and early radiation of
+vertebrates, pp. 217-270. Verlag Dr. F. Pfeil, München.
+
+Cubbage CC & PM Mabee. 1996. Development of the cranium
+and paired fins in the zebrafish Danio rerio (Ostariophysi,
+Cyprinidae). Journal of Morphology 229: 121-160.
+
+De Pinna MCC. 1996. Teleostean monophyly. In: Stiassny MLJ,
+LR Parenti & GD Johnson (eds). Interrelationships of fishes,
+pp.147-162. Academic Press, San Diego.
+
+Engenman JM, N Aspinwall & PM Mabee. 2009. Development
+of the pharyngeal arch skeleton in Catostomus commersonii
+(Teleostei: Cypriniformes). Journal of Morphology 270: 291-
+305.
+
+Faustino M & DM Power. 2001. Osteological development of
+the  viscerocranial  skeleton  in  sea  bream:  alternative
+ossification strategies in teleost fish. Journal of Fish Biology
+58: 537-572.
+
+Fink  SV  &  WL  Fink.  1981.  Interrelationships  of  the
+ostariophysan fishes (Teleostei). Zoological Journal of the
+Linnean Society 72(4): 297-353.
+
+Fink SV & WL Fink. 1996. Interrelationships of ostariophysan
+fishes  (Teleostei).  In:  Stiassny  MLJ,  LR  Parenti  &  GD
+Johnson  (eds).  Interrelationships  of  fishes,  pp.  209-249.
+Academic Press, San Diego,
+
+Forey  LP.  1977.  The  osteology  of  Notelops  Woodward,
+Rhacolepis Agassiz  and  Pachyrhizodus  Dixon  (Pisces:
+Teleostei). Bulletin of the British Museum of Natural History,
+Geology 28: 125-204.
+
+Fujita K. 1990. The caudal skeleton of teleostean fishes, 897
+
+pp. Tokai University Press, Tokyo.
+
+Grande L & W Bemis. 1998. A comprehensive phylogenetic
+study of amiid fishes (Amiidae) based on comparative skeletal
+anatomy. An empirical search for interconnected patterns of
+natural history. Journal of Vertebrate Paleontology 18 (Suppl
+1), Memoir 4: 1-609.
+
+Greenwood PH. 1973. Interrelationships of osteoglossomorphs.
+In:  Greenwood  PH,  RS  Miles  &  C  Patterson  (eds).
+Interrelationships of fishes, pp. 307-332. Academic Press,
+London.
+
+Hilton E. 2002. Osteology of the extant North American fishes
+the  genus  Hiodon  Lesueur,  1818  (Teleostei,
+of 
+Osteoglossomorpha: Hiodontiformes). Fieldiana, Zoology
+100: 1-142.
+
+Hilton  E.  2003.  Comparative  osteology  and  phylogenetic
+systematics  of  fossil  and  living  bony-tongue  fishes
+(Actinopterygii, Teleostei, Osteoglossomorpha). Zoological
+Journal of the Linnean Society, London 137: 1-100.
+
+Inoue GJ, M Miya, K Tsukamoto & M Nishida. 2001. A
+mitogenic perspective on the basal teleostean phylogeny:
+Resolving  higher-level  relationships  with  longer  DNA
+
+656 Arratia
+
+Clupeocephala  re-visited: Analysis  of  characters
+
+sequences. Molecular Phylogenetics and Evolution 20(2):
+275-285.
+
+Johnson GD & C Patterson. 1996. Relationships of lower
+euteleost fishes. In: Stiassny MLJ, LR Parenti & GD Johnson
+(eds). Interrelationships of fishes, pp. 251-332. Academic
+Press, San Diego.
+
+Jollie M. 1984. Development of the head skeleton and pectoral
+
+girdle in Esox. Journal of Morphology 147: 61-88.
+
+Kohno  H,  R  Ordonio-Aguilar, A  Ohno  & Y Taki.  1996.
+Osteological development of the feeding apparatus in early
+stage larvae of the seabass, Lates calcarifer. Ichthyological
+Research 43: 1-9.
+
+Koumoundouros  G,  P  Divanach  &  M  Kentouri.  2000.
+Development of the skull in Dentex dentex (Osteichthyes:
+Sparidae). Marine Biology 136: 175-184.
+
+Langille RM & BK Hall. 1987.  Development  of  the  head
+skeleton of the Japanese medaka Oryzias latipes (Teleostei).
+Journal of Morphology 193: 135-158.
+
+Lauder  GV  &  K  Liem.  1993.  The  evolution  and
+interrelationships of the actinopterygian fishes. Bulletin of
+the Museum of Comparative Zoology, Harvard University
+150: 95-197.
+
+Li C, G Lu & G Ortí. 2008. Optimal data portioning and a test
+case  for  ray-finned  fishes  (Actinopterygii)  based  on  ten
+nuclear loci. Systematic Biology 57(4): 519-539.
+
+Nelson G. 1969. Gill arches and the phylogeny of fishes, with
+notes on the classification of vertebrates. Bulletin of the
+American Museum of Natural History 141: 477-552.
+
+Nelson G. 1973a. Relationships of clupeomorphs, with remarks
+on the structure of the lower jaws in fishes. In: Greenwood
+PH,  RS  Miles  &  C  Patterson  (eds).  Interrelationships  of
+fishes, pp. 333-349. Academic Press, London.
+
+Nelson G. 1973b. Notes on the structure and relationships of
+certain Cretaceous and Eocene teleostean fishes. American
+Museum Novitates 2524: 1-31.
+
+Nelson JS. 2006. Fishes of the world, 601 pp. John Wiley &
+
+Sons, Hoboken.
+
+Nybelin O. 1977. The polyural skeleton of Lepisosteus and
+certain other actinopterygians. Zoologica Scripta 6: 233-244.
+Patterson C & DE Rosen. 1977. Review of the ichthyodectiform
+and other Mesozoic teleost fishes and the theory and practice
+of classifying fossils. Bulletin of the American Museum of
+Natural History 158: 83-172.
+
+Peng  Z,  S  He,  J  Wang,  W  Wang  &  R  Diogo.  2006.
+Mitochondrial molecular clocks and the origin of the major
+otocephalan clades (Pisces: Teleostei): A new insight. Gene
+370: 113-124.
+
+Ridewood WG. 1905. On the cranial osteology of the fishes of
+the  families  Osteoglossidae,  Pantodontidae,  and
+Phractolaemidae. Zoological Journal of the Linnean Society,
+London 29: 252-282.
+
+Rosen DE. 1973. Interrelationships of higher teleostean fishes.
+In:  Greenwood  PH,  RS  Miles  &  C  Patterson  (eds).
+Interrelationships of fishes, pp. 397-513. Academic Press,
+London.
+
+Rosen DE. 1974. Phylogeny and zoogeography of salmoniform
+fishes and relationships of Lepidogalaxias salamandroides.
+Bulletin of the American Museum of Natural History 153(2):
+267-325.
+
+Rosen DE. 1982. Teleostean interrelationships, morphological
+function and evolutionary inference. American Zoologist 22:
+261-273.
+
+Schultze  H-P.  2008.  Nomenclature  and  homologization  of
+cranial bones in actinopterygians. In: Arratia G, H-P Schultze
+& MVH Wilson (eds). Mesozoic fishes 4 -Homology and
+phylogeny, pp. 23-48. Verlag Dr. F. Pfeil, München.
+
+Schultze H-P & G Arratia. 1988.  Reevaluation of the caudal
+skeleton of actinopterygian fishes. II.  Hiodon, Elops and
+Albula. Journal of Morphology 195: 257-303.
+
+Schultze H-P & G Arratia. 1989.  Reevaluation of the caudal
+skeleton  of  teleosts  (Actinopterygii,  Osteichthyes).
+Zoological Journal of the Linnean Society 97: 189-231.
+
+Siebert DJ. 1987. Interrelationships among families of the order
+Cypriniformes (Teleostei). Unpublished PhD Dissertation,
+City University of New York, New York, 380 pp.
+
+Stewart JD. 1999. A new genus of Saurodontidae (Teleostei:
+Ichthyodectiformes) from the Upper Cretaceous rocks of the
+Western Interior of North America. In: Arratia G & H-P
+Schultze (eds). Mesozoic fishes  2 -Systematics and fossil
+record, pp. 335-360. Verlag Dr. F. Pfeil, München.
+
+Taverne L. 1977. Ostéologie, phylogénèse et systématique des
+Téléostéens  fossiles  et  actuels  du  super-ordre  des
+Ostéoglossomorphes. Académie  Royale  de  Belgique,
+Mémoires de la Classe des Sciences, Collection in-8°, 2e série,
+42(3): 1-234.
+
+Taverne  L.  1989.  Crossognathus  Pictet,  1858  du  Cretacé
+inférieur de l’Europe et systématique, paleozoogeographie
+et biologie des Crossognathiformes nov. ord. (Téléostéens)
+du Cretacé et du Tertiare. Palaeontographica A 207: 79-105.
+Taverne L. 1998. Les ostéoglossomorphes marine de l’Éocene
+du  Monte  Bolca  (Italie):  Monopteros  Volta,  1796,
+Thrissopterus Heckel, 1856 et Foreyichthys Taverne, 1979.
+Considérations  sur  la  phylogénie  des  téléostéens
+ostéoglossomorphes. Studie e Ricerce sui Giacimenti Terziari
+di Bolca 7: 67-158.
+
+Toombs  HA  & AR  Rixon.  1959.  The  use  of  acids  in  the
+
+preparation of vertebrate fossils. Curator 2: 304-312.
+
+Vandewalle P, B Focant, F Huriaux & M Chardon. 1992.
+Early development of the cephalic skeleton of Barbus barbus
+(Teleostei, Cyprinidae). Journal of Fish Biology 41: 43-62.
+Wiley EO. 2008. Homology, identity and transformation. In:
+Arratia G, H-P Schultze & MVH Wilson (eds). Mesozoic
+fishes 4 -Homology and phylogeny, pp. 9-21. Verlag Dr. F.
+Pfeil, München.
+
+Recibido el 11 de agosto de 2009 y aceptado el 29 de abril de 2010
+
+Vol. 45, S1, 2010
+Revista de Biología Marina y Oceanografía
+
+657
+
+

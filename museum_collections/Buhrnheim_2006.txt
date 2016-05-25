@@ -1,0 +1,3467 @@
+Neotrop.  Ichthyol.,  4(2):167-196,  2006
+Copyright  ©  2006  Sociedade  Brasileira  de  Ictiologia
+
+Redescription of the type species of Odontostilbe Cope, 1870
+
+(Teleostei: Characidae: Cheirodontinae), and description of
+
+three new species from the Amazon basin
+
+Cristina M. Bührnheim*,** and Luiz R. Malabarba*,***
+
+The widespread Neotropical cheirodontine Odontostilbe fugitiva is reviewed, and three new species of the genus are de-
+scribed from the Amazon basin. A neotype is designated for O. fugitiva, from the mouth of the río Mazán, upper río Amazonas
+basin, Peru. Three nominal species are herein considered as synonyms of O. fugitiva: O. madeirae, O. drepanon, and O.
+caquetae. The three new species are respectively O. ecuadorensis from the río Napo basin, O. nareuda from the rio Madeira
+basin, and O. parecis from the rio Guaporé basin (rio Madeira basin). Among other diagnostic characters, gill rakers are
+especially informative in distinguishing species. Description of gill raker denticulation is provided for the first time for species
+of the Cheirodontinae. Secondary sexually dimorphic characters are described for all species.
+
+O queirodontíneo neotropical Odontostilbe fugitiva, de ampla distribuição, é revisado e três espécies novas são descritas para
+o gênero na bacia Amazônica. Um neótipo é designado para O. fugitiva, da boca do rio Mazán, alto rio Amazonas, Peru. Três
+espécies nominais são consideradas sinônimas de O. fugitiva: O. madeirae, O. drepanon e O. caquetae. As três espécies
+novas são, respectivamente, O. ecuadorensis da bacia do rio Napo, O. nareuda da bacia do rio Madeira e O. parecis da bacia
+do rio Guaporé (bacia do rio Madeira). Entre outros caracteres diagnósticos, os rastros branquiais são especialmente informativos
+para  distinguir  as  espécies.  Uma  descrição  da  denticulação  dos  rastros  branquiais  é  apresentada  pela  primeira  vez  para
+espécies de Cheirodontinae. Caracteres de dimorfismo sexual secundário são descritos para todas as espécies.
+
+Key words: Neotropical, Neotype, Systematics, Odontostilbe madeirae, Odontostilbe drepanon, Odontostilbe caquetae.
+
+Introduction
+
+The Cheirodontinae contains about 15 genera and 47 spe-
+cies of small Neotropical characid fishes, usually attaining 30-
+40 mm in standard length (Malabarba, 2003; Malabarba et al.,
+2004). Odontostilbe Cope, 1870 was originally defined based
+on the presence of a complete lateral line, versus interrupted
+in Cheirodon Girard, 1855. The genus initially comprised only
+Odontostilbe  fugitiva  Cope,  1870  from  “Pebas,  Eastern
+Equador”. Currently, Pebas is a city in the Departamento de
+Loreto in Peru, not Ecuador. The taxonomic history of the
+discussion of the validity of Odontostilbe versus Cheirodon
+dates back to the work of the danish zoologist Christian F.
+Lütken. While redescribing Poecilurichthys pulcher Gill, 1858,
+Lütken (1875: 236-237) noted that “technically the species of
+Trinidad  is  properly  an  Odontostilbe  Cope,  but  this  genus
+
+only differs from the known [Chirodon] G. in the lateral line
+which is not complete …” [our translation], referring the spe-
+cies as Chirodon (Odontostilbe) pulcher (Gill, 1858). Subse-
+quently,  Steindachner  (1882a,  1882b)  described  Chirodon
+pequira, and designated the type species of Odontostilbe as
+Chirodon  (Odontostilbe)  fugitiva.  Subsequent  works  alter-
+nated usage of Odontostilbe as valid (e.g. Eigenmann & Eigen-
+mann, 1892, in a preliminary list of freshwater fish of South
+American  listed  Odontostilbe  fugitiva  and  recognized
+Odontostilbe pulcher), or as synonym of Cheirodon (e.g. Ulrey,
+1895, when examining “Characinidae” collected by Charles F.
+Hartt  in  Brazil  listed  Cheirodon  fugitiva  and Cheirodon
+pulcher, along with five other species of Cheirodon).
+
+Retaining the original diagnostic character of lateral line
+complete, Eigenmann (1915) recognized Odontostilbe with
+eight species, included in his new subfamily Cheirodontinae:
+
+*Museu de Ciências e Tecnologia, PUCRS, Av. Ipiranga, 6681, P. O. Box. 1429, 90619-900 Porto Alegre, RS, Brazil.
+**Universidade Federal do Amazonas, ICB, Lab. Zoologia, Av. Gen. Rodrigo Otávio Jordão Ramos, 3000, 69077-000 Manaus, AM, Brazil.
+e-mail: cmbuhrn@yahoo.com.br
+*** Departamento de Zoologia, Universidade Federal do Rio Grande do Sul, Av. Bento Gonçalves, 9500, bloco IV, prédio 43435, 91501-970
+Porto Alegre, RS, Brazil. e-mail: malabarb@ufrgs.br
+
+167
+
+168
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+O. fugitiva, O. drepanon Fowler 1913, O. madeirae Fowler
+1913, O. microcephala Eigenmann, 1907, O. paraguayensis
+Eigenmann & Kennedy, 1903, O. pulchra, O. hastata Eigen-
+mann, 1913, and O. melandeta Eigenmann, 1912. Eigenmann
+(1915), however, further indicated that  O.  hastata, and  O.
+melandeta would be probably moved to other genera. In fact,
+O. hastata was afterwards moved into the genus Saccoderma
+(Schultz,  1944),  and  O.  melandetum  into  the  genus
+Aphyocharacidium (Géry, 1960). Subsequent alternate views
+on the validity of Odontostilbe versus Cheirodon based on
+the completeness of lateral line were presented by Fink &
+Weitzman (1974), who considered Odontostilbe as a synonym
+of Cheirodon, and by Fowler (1913, 1940, 1943), Böhlke (1954),
+and  Géry  (1964,  1972a,  1972b,  1977),  who  considered
+Odontostilbe as valid. Uj (1987) proposed a new diagnosis
+for Odontostilbe versus Cheirodon  based  on  some  osteo-
+logical characters and included a rearrangement of some spe-
+cies of both genera, but his hypothesis was not accepted by
+subsequent studies (e.g. Malabarba, 1998, 2003).
+
+Since the establishment of the monophyly of Cheirodon-
+tinae and the proposal of a phylogenetic diagnosis of all in-
+cluded genera (Malabarba, 1998), Odontostilbe is considered
+valid  with  Holoshesthes  Eigenmann,  1903  as  a  synonym.
+Cheirodon Girard, 1855 was restricted to six species from
+southern  South  America,  and  included  in  the  tribe
+Cheirodontini. Six new genera were proposed, and a new tribe
+Compsurini was proposed. However, Odontostilbe and four
+other genera were left incertae sedis in Cheirodontinae. More
+recently, Malabarba (2003) refers ten species to Odontostilbe:
+O. dialeptura (Fink & Weitzman, 1974), O. fugitiva, O. graci-
+lis Géry, 1960, O. littoris Géry, 1960, O. microcephala, O.
+mitoptera (Fink & Weitzman, 1974), O. paraguayensis, O.
+pequira, and O. roloffi Géry, 1972. Two of them from Central
+America, O. mitoptera and O. dialeptura, were temporarily
+referred to Odontostilbe, because both were found to be in-
+seminators,  thus  belonging  to  the  tribe  Compsurini
+(Malabarba & Weitzman, 1999, 2000).
+
+Herein we provide a redescription of the type species of
+Odontostilbe, O. fugitiva, including the designation of a neo-
+type, a discussion of its synomyms, and morphological varia-
+tion  of  populations  across  the Amazon  basin.  In  order  to
+present a better diagnosis for the type-species of the genus,
+we also describe herein three new species putatively related
+to O. fugitiva from major tributaries of the Amazon basin, one
+from upper río Napo and río Putumayo, in Ecuador, and two
+from rio Madeira basin, in Brazil and Peru. This is part of a
+major systematic study of Odontostilbe.
+
+Material and Methods
+
+Counts and measurements follow Fink & Weitzman (1974),
+primarily on the left side of the specimen. Head length is the
+distance between the tip of the snout and the posterior end
+of subopercle, which is slight posterior to the margin of the
+opercle. Total vertebrae number includes the four vertebrae
+of the Webberian apparatus, and the terminal “half centrum”
+
+as outlined by Malabarba & Weitzman (1999). The gill raker at
+the junction of the ceratobranchial and the epibranchial is
+referred as the posteriormost gill raker of the lower branch of
+the arch, and counted jointly with the gill rakers on the lower
+branch. Specimens were cleared and stained according Tay-
+lor & Van Dyke (1985), and/or radiographs were used for
+counting vertebrae, teeth, and gill rakers. Scanning Electron
+Microscope (SEM) images were obtained from teeth and den-
+ticulation of gill rakers. Values of the holotypes and neotype
+of O. fugitiva are marked in bold in descriptions.
+
+The following institutions provided material for the study:
+AMNH - American Museum of Natural History, New York,
+USA; ANSP - Academy of Natural Sciences, Philadelphia,
+USA; CAS - California Academy of Sciences, San Francisco,
+USA; CBF - Colección Boliviana de Fauna, La Paz, Bolívia;
+FMNH - Field Museum of Natural History, Chicago, USA;
+INHS - Illinois Natural History Survey, Illinois, USA; INPA -
+Instituto Nacional de Pesquisas da Amazônia, Manaus, Bra-
+zil; KU - University of Kansas, Kansas, USA; MCP - Museu
+de Ciências e Tecnologia, Porto Alegre, Brazil; MCNG - Museo
+de Ciencias Naturales de Guanare, Guanare, Venezuela, MEPN
+- Museo de la Escuela Politénica Nacional, Quito, Ecuador;
+MHNG - Muséum d’histoire naturelle, Geneva, Switzerland,
+MNHN - Muséum d’historie naturelle, Paris, French; MPEG -
+Museu Paraense Emílio Goeldi, Belém, Brazil; MUSM - Museo
+de Historia Natural de la Universidad Nacional Mayor de San
+Marcus,  Lima,  Peru;  MZUSP  -  Museu  de  Zoologia  da
+Universidade  de  São  Paulo,  São  Paulo,  Brazil;  NRM  -
+(Naturhistoriska Riksmuseet) Swedish Museum of Natural
+History, Stockholm, Switzerland; ROM - Royal Ontario Mu-
+seum, Toronto, Canada; UF - University of Florida, Gainsville,
+USA; USNM - National Museum of Natural History, Smithso-
+nian Institution, Washington D.C., USA. Abbreviatures given
+along with the number of specimens are the following: m -
+morphometrics and meristics; c - only meristics; x - meristics
+taken from x-rays; c&s - cleared and stained specimens.
+
+As demonstrated by Gonçalves et al. (2005) in the characid
+Aphyocharax, sexual dimorphism may start development at
+different body sizes, according to gonadal maturation, and
+so, body size itself does not allow assuming a given speci-
+men lacking male sexually dimorphic features is a female. So,
+males and females are recognized only when dissected, or
+when showing sexual dimorphism in specimens of similar size
+in the same collecting lot. Specimens smaller than the small-
+est specimen showing sexual dimorphism in each lot are termed
+as unsexed. Specimens of any size belonging to lots where
+sexual dimorphism is absent are termed as unsexed.
+
+Statistical analyses. Principal component analysis (PCA) was
+used to check overall variation among samples, looking for
+differences in morphometrics among species or between sexes,
+being an input to multiple regressions (Johnson & Wichern,
+1998). PCA on covariances of logarithmically transformed mea-
+surements were obtained using Past version 1.28 2004, and
+Sigma Plot version 6.10 2000. The first principal component
+was partitioned out, considering that it mostly accounts for
+
+C. M. Bührnheim & L. R. Malabarba
+
+169
+
+size variation (Strauss, 1985).
+
+Multiple linear regressions were applied to describe mor-
+phometric differences among species or between sexes. An
+“overall test for coincidental regressions” as described by
+Zar (1996: 368,431), and Souza (1998:72-77) was used to deter-
+mine whether the regressions of two set of data are estimat-
+ing two species or sexes (H1) or the same population regres-
+sion (Ho). The test was applied when regression lines showed
+overlapping in confidence limits. The null hypothesis is that
+there is a single population underlying all k regressions. The
+following formulae were used: F= ((SSR1 - SSR2 / 2) / (SSR2 /
+n-4)), where n= number of x, y cases, and n-4 means the sum
+of the two residual degrees of freedom. The F value is ob-
+tained by calculating sum of squared residuals (SSR) of each
+linear regression of any two supposed different species (or
+between males and females) (SSRsp1+SSRsp2=SSR2), and
+the pooled sum of squared residuals (SSR1) obtained of a
+unique linear regression for the same data. The SSR2 < SSR1
+indicates two regression lines are better adjusted to the linear
+model.  Considering  two  separated  regression  lines  would
+better  describe  the  function  between  dependent  and  inde-
+pendent variables of two hypothesized different species than
+an unique regression line for the same data, the F statistic
+would be higher than Fisher’s F (alpha= 0.05), rejecting Ho.
+Associated p values were obtained using a F-table.
+
+Results
+
+Odontostilbe fugitiva Cope, 1870
+
+Fig. 1
+
+Odontostilbe fugitiva Cope, 1870: 566 [original description;
+dentition figured; type locality: “Pebas, Eastern Equador”,
+actually Pebas, Loreto, Peru, in the Ampiyacu-Amazonas
+drainage]. -Eigenmann & Eigenmann, 1891: 54 [listed,
+Pebas, Villa Bella, Santarém]. -Eigenmann, 1910: 429 [listed,
+habitat: Ecuador (following Cope, 1870; currently Peru)]. -
+Fowler, 1913: 529, 532 [comparison to O. madeirae and O.
+drepanon]. -Eigenmann, 1915: 90 [redescription based on
+specimens of San Antonio de rio Madeira, Amazon basin;
+erroneous distribution from Panama and Trinidad to La
+Plata and Peruvian Amazon; in key]. -Eigenmann & Allen,
+1942: 45, 265 [listed for the Amazon basin between lower
+Marañon, Pongo de Manseriche, to Tabatinga; annotated
+list in Pebas region, lower Marañon]. -Fowler, 1945a:134
+[listed,  Pebas,  Peru].  -Fowler,  1948:  195  [listed,  rio
+Amazonas, Brazil, Equador (following Cope, 1870; actu-
+ally Peru)]. -Böhlke, 1954: 137-139 [listed, Odontostilbe
+fugitiva as possible synonym of Odontostilbe pulchra]. -
+Géry, 1972a: 20-21 [O. caquetae Fowler, 1943, O. madeirae
+Fowler, 1914 and O. drepanon Fowler, 1914 as a probable
+
+Fig. 1. Neotype of Odontostilbe fugitiva, MUSM 27501, male 34.6 mm SL (top), and specimen NRM15719, female 35.2 mm SL
+(bottom).
+
+170
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+synonyms of O.  fugitiva, table with measurements and
+meristics of type material of O. madeirae Fowler and O.
+drepanon  Fowler].  -Géry,  1977:  555,  558  [in  key,  O.
+madeirae, O. drepanon and O. caquetae as synonyms of
+Odontostilbe fugitiva, compilation of Fowler’s drawings
+of O.  madeirae  and  O.  drepanon].  -Sánchez-Botero  &
+Araújo-Lima, 2001: 440 [listed] - Petry et al., 2003: 562,
+565, 575 [habitat, listed].
+
+Chirodon fugitivus. -Lütken, 1875: 237 [listed; Amazon ba-
+
+sin, Pebas].
+
+Chirodon  (Odontostilbe)  fugitiva.  -Steindachner,  1882:  39
+[redescription based on specimens from Amazon basin,
+Villa Bella, Santarém].
+
+Cheirodon fugitiva. -Ulrey, 1895: 288-290 [in key; erroneous
+compilation of distribution in Petras (= Pebas), and Bra-
+zil]. -Ortega & Vari, 1986: 8 [listed, Amazon basin, distribu-
+tion compiled from Géry (1964)].
+
+Odontostilbe madeirae Fowler, 1913: 527-529 [description,
+type locality: tributary of rio Madeira, near Porto Velho,
+Brazil; fig. 6, illustrated specimen; holotype ANSP 39193,
+16 paratypes ANSP 39194-209: 12 ANSP 39194, 1 ANSP
+39206, 1 c&s ANSP 39207, 1 ANSP 39208, now Géry col-
+lection, 1 missing ANSP 39209, same data as holotype]. -
+Fowler, 1948: [in list; 197-198, rio Madeira; compilation of
+drawing of original description]. -Böhlke, 1954: 138 [in list].
+Odontostilbe drepanon Fowler, 1913: 529-532 [description,
+type locality: tributary of rio Madeira, near Porto Velho,
+Brazil; fig. 7, illustrated specimen; holotype ANSP 39210,
+6 paratypes ANSP 39211-16, same data as holotype]. -
+Fowler, 1948:195-196 [in list; rio Madeira; compilation of
+drawing of original description]. -Böhlke, 1954: 138 [in list].
+Odontostilbe caquetae Fowler, 1943: 230-232 [description, type
+locality: Florencia, río Orteguasa, Colombia; fig. 13, illus-
+trated specimen; holotype ANSP 70495]. -Fowler, 1948: 194-
+195 [in list; Alto Amazonas, Colombia; compilation of draw-
+ing and original description]. -Böhlke, 1954: 138 [in list].
+
+? Odontostilbe fugitiva. -Géry, 1964:18-19 [incorrect date of
+Cope’s description 1871, description of one specimen near
+Iquitos].
+
+Neotype [by present designation]. MUSM 27501, 1 (male 34.6 mm
+SL), Peru, Loreto, Amazon basin, [lower] río Napo drainage, Yuto
+cocha on right bank of río Mazán, 3°30’53’’S 73°10’05’’W, S. O.
+Kullander, J. Cruz, N. Sarmiento & A. Hogeborn, 16 Aug 1984.
+Type material examined. Odontostilbe madeirae. Holotype ANSP
+39193, 1m, x (female 32.1 mm SL), Brazil, tributary of rio Madeira,
+near Porto Velho, E. A. Smith, Jan 1913. Paratypes: ANSP 39194,
+8x, c of 12 females (females 25.3-29.2 mm SL,), same data as ANSP
+39193; ANSP 39206, 1 (female 33.0 mm SL), same data as ANSP
+39193; ANSP 39207, 1 (female c&s), same data as ANSP 39193.
+Odontostilbe drepanon. Holotype ANSP 39210, 1m, x (male 30.5
+mm SL), Brazil, tributary of rio Madeira, near Porto Velho, E. A.
+Smith, Jan 1913. Paratypes: ANSP 39211, 6m, x (males 25.2-28.8
+mm SL), same data as ANSP 39210. Odontostilbe caquetae. Holo-
+type ANSP 70495, 1m, x (unsexed 28.0 mm SL). Colombia, Caquetá,
+Florencia, río Orteguasa Basin, Amazon watershed [rio Caquetá-
+Japurá ], N. Maria, 1932.
+
+Non-type material. Río Ucayali basin, PERU, UCAYALI: CAS
+70915, 8 (unsexed 23.8-27.5 mm SL), lago Cashiboya, cut off lake
+of  río  Ucayali  above  Contamana,  connected  to  river  by  narrow
+channel. MZUSP 26039, 1 (unsexed 23.8 mm SL), Coronel Portillo,
+Iamiricocha, Masisea, [near mouth of río Pachitea]. MZUSP 26066,
+1 (male 33.1 mm SL, 3 unsexed 31.2-34.9 mm SL), río Huacamayo,
+road Pucallpa-Huánuco. MZUSP 26145, 1 (female 34.7 mm SL),
+Coronel Portillo, Bagazán [Nuevo Bagazán, río Ucayali]. MZUSP
+26151, 16m (11 males, 32.7-37.8 mm SL, 5 females, 34.0-35.9 mm
+SL),  same  data  as  MZUSP  26151.  MZUSP  26389,  4  (unsexed
+28.8-33.0 mm SL), Pucallpa, Ucayali, río Ucayali. MZUSP 26473,
+6m  (females  32.1-40.5  mm  SL),  río  Neshuya,  road  Pucallpa-
+Huánucu. USNM 280627, 2 (unsexed 25.9-26.3 mm SL), Coronel
+Portillo, main channel and side pools of río Ucayali, approximately
+10 km upstream of Pucallpa, 08°31’S 74°22’W. USNM 324110, 2
+(unsexed  20.4-21.3  mm  SL),  same  locality  as  USNM  280627.
+PERU, LORETO: NRM 15720, 2m (unsexed 30.3-30.5 mm SL),
+quebrada Copal at km 15 on road Jenaro Herrera-Colonia Angamos,
+04°57’S 73°32’W. MCP 27380, 5m of 18 (unsexed, 28.3-37.1 mm
+SL), Maynas, Reserva Nacional Pacaya-Samiria, caño Yarina, Pacaya
+tributary, 5°20’34’’S 74°30’01’’W. MCP 35585, 1 (unsexed 27.1
+mm SL), río Pacaya, cocha Yanayacu, río Ucayali drainage. MCP
+35586, 5 (unsexed 24.5-27.4 mm SL), same locality as MCP 35585.
+MCP 27378, 4 (unsexed 26.5-29.9 mm SL), Maynas, río Pacaya,
+on the road of lagoons Shauinto and Yanayacu, Reserva Nacional
+Pacaya-Samiria, 5°16’59’’S 74°25’29’ ’W. MCP 35587, 1 (unsexed
+28.8 mm SL), río Pacaya, PV2, caño, lago Yarina, río Ucayali drain-
+age.  PERU,  JUNÍN: AMNH  20910,  1  (female  40.8  mm  SL),
+Osherato, either río Tambo, brook Osherato or brook Onkoneni,
+[río Tambo  basin  or  río  Ene-Tambo,  upper  río  Ucayali].  PERU,
+PASCO:  MCP  14974,  10  (4  males  25.3-27.4  mm  SL,  3  females
+35.8-38.7 mm SL, 3 unsexed 26.4-29.5 mm SL), Puerto Bermudez,
+upper  río  Pachitea.  Upper  río  Ucayali, río  Urubamba  basin,
+PERU,  CUSCO,  LA  CONVENCIÓN,  ECHARATE:  USNM
+362022, 8m of 34 (15 males 30.2-38.6 mm SL [4m males 32.0-38.6
+mm SL], 6 females 33.9-37.2 [4m females 33.9-36.8 mm SL], 13
+unsexed 26.1-36.6 mm SL), río Urubamba, quebrada Pakiria. USNM
+362027,  3  (females  35.9-38.3  mm  SL),  Segakiato,  quebrada
+Prokigiato. USNM 362028, 6 (2 males 36.9-38.0 mm SL, 4 unsexed
+28.8-35.9 mm SL), Segakiato, río Camisea. USNM 362029, 2 (fe-
+males 35.3-35.8 mm SL), Malvinas, Cocha Nueva. USNM 362034,
+4 (1 male 38.9 mm SL, 2 females 38.7-39.5 mm SL, 1 unsexed 28.9
+mm SL), Peruanita, cocha, Konkariari. USNM 362035, 1 (unsexed
+33.8 mm SL), Segakiato, quebrada Anuintoniato. PERU, UCAYALI,
+ATALAYA: USNM 362024, 6 (4 males 35.1-40.2 mm SL, 2 unsexed
+32.3-38.7mm SL), Sepahua, quebrada Shamboyacu. USNM 362031,
+8 (unsexed 26.1-34.2 mm SL), lower río Urubamba, Nueva Itália.
+USNM 362041, 9 (unsexed 27.9-37.8 mm SL), Sepahua, quebrada
+Pulija, lower río Urubamba. USNM 362043, 10 (2 males 29.7 mm
+SL  &  33.7  mm  SL,  7  females  31.9-38.5  mm  SL),  Sepahua,  río
+Urubamba, quebrada Shambuyacu. Rio Marañon basin, ECUA-
+DOR, PASTAZA: FMNH 113504, 2 (unsexed 35.9-36.2 mm SL),
+stream about 100 m from beach called Waama, río Pastaza drainage,
+02°16’56"S 77°11’05"W. MZUSP 87746, 11m (1 male 37.2 mm
+SL, 8 unsexed 33.4-43.1 mm SL, 2 females 36.2 -39.3 mm SL c&s),
+dead  arm  of  río  Pastaza,  02°17’75"S  77°10’13"W.  ECUADOR,
+MORONA-SANTIAGO:  FMNH  113515,  12m  of  26  (6  males
+36.4-45.1 mm, 6 unsexed 34.2-42.7 mm SL), tributary of río Pastaza
+at [Puerto] Pakintsa, 02°15’46"S 77 °14’17"W. PERU, LORETO:
+ASNP 150016, 14m of 24 (7 males 28.1-35.3 mm SL, 7 females
+28.8-33.1 mm SL), río Huallaga, Yurimaguas creek. FMNH 113503,
+11 (unsexed 24.0-34.2 mm SL), río Huitoyacu [río Pastaza drain-
+
+C. M. Bührnheim & L. R. Malabarba
+
+171
+
+age],  about  0.5  km  upstream  from  the  mouth,  04°11’54"S
+76°32’38"W. INHS 54760, 6 (unsexed 21.2-25.4 mm SL), flood-
+plain along south bank of south channel of río Marañon due south
+of Nauta, 04°30.6’S 73°34.1’W. MCP 14944, 5 (2 males 29.5-30.7
+mm SL, 3 females 30.6-33.6 mm SL), same data as ANSP 150016.
+MZUSP  77834,  5m  of  49  (28.1-31.3  mm  SL),  cocha  Huanayo,
+4°10’50’’S 76°33’5 ’’W. MZUSP 77843, 5m of 147 (23.0-26.1 mm
+SL), laguna Huayruri, 3°37’32 ’’S 76°24’48’’W. NRM 15756, 19
+unsexed of 100 (unsexed 14.3-22.7 mm SL), Teniente López, beach
+and meadows on left bank of río Corrientes, [río Tigre drainage].
+NRM 15653, 1 (female 32.5 mm SL), Nuevo Andoas, pools on Isla
+Yanayacu and right bank sandy beach in río Pastaza. NRM 50321,
+13m (3 males 31.4-34.8 mm SL, 4 females 34.2-39.1 mm SL, 6
+unsexed 32.3-34.6 mm SL), río Tigre drainage, San Jacinto, quebrada
+at km 45.5. PERU, MORONA: ANSP 150047, 4 (2 males 34.1-
+35.6 mm SL, 2 unsexed 21.9-27.7 mm SL), [río Morona basin],
+Gosulima Cocha. PERU, HUÁNUCO: ANSP 136951, 4 (females
+47.0-48.7 mm SL), Huánuco, vicinity of Tingo Maria, main stream
+of río Tullamayo, near Puerto Nuevo. Río Yanayacu basin, PERU,
+LORETO: ASNP 178383, 2m (unsexed 20.4-21.9 mm SL), Maynas,
+at mouth of caño Chincana & Emerald Forest Lodge, approximately
+25  miles  south  of  Iquitos.  Río  Itaya  basin,  PERU,  LORETO:
+ANSP 178908, 12m (5 males 31.7-35.5 mm SL, 1 female 36.9 mm
+SL, 1 female 35.5 mm SL c&s, 5 unsexed 29.8-34.7 mm), Maynas,
+[lower río Itaya] at bridge on Iquitos-Nauta highway, approximately
+25 miles SSW of Iquitos. INHS 40226, 1 (unsexed 22.5 mm SL),
+quebrada Mazana, around 1 km up from confluence with río Itaya,
+S of Belém, Iquitos. Lower río Napo basin, río Mazán, PERU,
+LORETO: NRM 15719, 6m (3 males 32.2-34.0 mm SL, 3 unsexed
+32.8-35.2 mm SL), same data as neotype. Río Ampiyacu basin,
+PERU, LORETO: ANSP 131535, 1m (unsexed 30.8 mm SL alizarin
+stained), near Pebas, Chancho caño. CAS 136607, 1m (unsexed
+32.8 mm SL), caño Chancho. CAS 136608, 1m (unsexed 35.2 mm
+SL), caño Chancho [lower río Ampiyacu basin, near Pebas]. USNM
+175990, 1m (unsexed 35.8 mm SL), caño [Chancho]. USNM 207666,
+1 (unsexed 21.1 mm SL), near [Pevas], río Ampiyacu drainage. Río
+Orosa  basin,  PERU,  LORETO:  INHS  39313, 2  (unsexed  20.0-
+20.7 mm SL), Mayuruna Cocha, around 30 minutes by boat down-
+stream  of  mouth  of  caño Tonche,  71.7  miles  east  Iquitos.  INHS
+39789, 1 (unsexed 23.8 mm SL), lago Pabellon, around 40 minutes
+upstream by boat from Paucarillo base camp 57.1 miles east Iquitos.
+Río Yavari / Javari basin, PERU, LORETO: NRM 15671, 3m of
+(unsexed 26.8-30.6 mm SL), Colonia Angamos, quebrada behind
+school building. Upper río Amazonas basin, PERU, LORETO:
+ANSP 136955, 6 (unsexed), vicinity Iquitos, río Nanay opposite
+naval  base,  backwater  pools  off  coche,  4  miles  above Amazon.
+ANSP 136958, 3 (unsexed), same data as ANSP 136955. ASNP
+178239, 1m (unsexed 35.5 mm SL), Maynas, río Amazonas main
+channel along W bank, ca. 30-45 min. upstream from inlet to Iquitos
+(=mouth río Itaya). CAS 70897, 1 (unsexed 26.6 mm SL), Iquitos,
+río Amazonas. INHS 39852, 1 (unsexed 21.2 mm SL), río Amazonas,
+across from Puebla Gallito, 7.68 miles SE Iquitos. INHS 540237, 1
+(unsexed 22.9 mm SL), río Amazonas,  ca. 10 & 40 minutes up-
+stream from mouth caño Zapatilla, near town of Yanashi. COLOM-
+BIA, AMAZONAS: FMNH 85346, 27 (unsexed 19.9-25.5 mm),
+black  water  river  at Yauacaca  and  first  tributary  upstream  from
+Leticia on the Colombian side. MCP 14949, 8m of 10 (1 male 33.4
+mm SL, 2 females 32.7-34.2mm SL, 5 unsexed 31.9-34.0mm SL),
+Leticia, backwater (the lakes) area cut off from río Amazonas, for-
+merly ANSP 135937. MCP 35263, 2 (males 32.4-34.0 mm SL),
+same data as MCP 14949, formerly ANSP 135975. ROM 56384, 6
+(unsexed 24.2-31.0 mm SL), 10-60 miles upstream from Letícia, río
+
+Amazonas, 4°09’S 69°57’W. ROM 56443, 42 (9 males 31.8-33.4
+mm SL, 33 unsexed 31.3-33.9 mm SL), same place as ROM 56384.
+Río Putumayo basin, PERU, LORETO: NRM 26365, 4m (unsexed
+21.8-24.4  mm  SL),  Estrecho,  río  Putumayo  right  bank,  02°28’S
+72°42’W. COLOMBIA, AMAZONAS: NRM 26430, 3m (unsexed
+29.5-32.1 mm SL), río Putumayo drainage, Buenaventura, flooded
+river margin. Rio Jutaí basin, BRAZIL, AMAZONAS: MZUSP
+17585, 8 (unsexed 21.4-28.1 mm SL), rio Içapó, mouth of rio Jutaí.
+Rio Juruá Basin, BRAZIL, ACRE: MPEG 1951, 3 (unsexed 21.0-
+23.8 mm SL), Marechal Taumaturgo, rio Juruá, Seringal do Oriente.
+MPEG 6790, 10m of 30 (unsexed 29.4-32.9 mm SL), Tarauacá, rio
+Tarauacá. MZUSP 30372, 4m (3 unsexed 20.0-24.7 mm SL, 1 fe-
+male 32.2 mm SL), same locality as MPEG 6790. MZUSP 31820,
+1 (unsexed 22.8 mm SL), same locality as MPEG 6790. MZUSP
+42842, 21 (unsexed 18.5-22.0 mm SL), same locality as MPEG
+6790. MZUSP 87749, 2m (unsexed 21.6-29.7 mm SL), same local-
+ity as MPEG 6790. Rio Japurá Basin, BRAZIL, AMAZONAS:
+MZUSP 27760, 13 (unsexed 17.9-28.0 mm SL), Tefé, Costa Japão,
+lower rio Japurá. MZUSP 74964, 22 (unsexed 22.0-31.6 mm SL),
+Serrinha, rio Japurá in Serrinha, right margin. MZUSP 77466, 2
+(unsexed 34.9-36.4 mm SL), Vila Bitencourt. MZUSP 77535, 9 of
+19 (unsexed 24.8-28.7 mm SL), rio Japurá in Serrinha. Rio Purus
+Basin, BRAZIL, ACRE: MCP 37473, 1 (unsexed 38.5 mm SL),
+small affluent of rio Iaco, road Sena Madureira-Rio Branco, about 8
+km of Sena Madureira. MCP 38106, 2 (unsexed 25.6-24.3 mm SL),
+rio Acre, Xapuri. MZUSP 49580, 3 (unsexed 20.8-22.4 mm SL), rio
+Acre. MZUSP 49669, 1 (unsexed 28.2 mm SL), Porto Acre, rio
+Acre, Seringal Bom Destino (1 hour upper Porto Acre), Instituto.
+MZUSP 49767, 2 (unsexed 23.0-27.3 mm SL), rio Acre, between
+Seringal Paraíso and lago Amapá. MZUSP 87754, 29 (unsexed 23.0-
+33.4 mm SL), Manoel Urbano, rio Purus. BRAZIL, AMAZONAS:
+MZUSP  49512,  11  of  22  (unsexed  21.4-27.2  mm  SL),  Boca  do
+Acre,  rio Acre.  Rio  Solimões  basin,  BRAZIL, AMAZONAS:
+MCP 38314, 20 (unsexed 22.5-30.9 mm SL), stream in Jacaré, near
+Fonte Boa. MZUSP 6315, 1 (unsexed 24.7 mm SL), lago Castro,
+mouth of rio Purus. MZUSP 9644, 2 (unsexed 23.4-26.6 mm SL),
+lago Supiá in front of Codajás. MZUSP 9647, 5 (unsexed 16.2-19.5
+mm SL), same data as MZUSP 9644. MZUSP 16690, 1 (unsexed
+23.8 mm SL), Benjamin Constant, [rio Solimões]. MZUSP 17344,
+8 (unsexed 18.8-25.3 mm SL), rio Solimões, Ilha Sorubim, above
+Coari. MZUSP 17415, 10 (unsexed), same data as MCP 38314.
+MZUSP  17421,  175  (unsexed  17.9-31.6  mm  SL),  same  data  as
+MCP 38314. MZUSP 17438, 3 (unsexed 18.1-24.9 mm SL), igarapé
+Manduaçú,  paraná  de  Iupiá,  NW  Fonte  Boa.  MZUSP  17498,  5
+(unsexed 18.0-37.9 mm SL), rio Solimões, near Ilha de Baruruá,
+above mouth of rio Jutaí. MZUSP 17395, 33 (unsexed 16.5-28.1
+mm SL), rio Solimões. MZUSP 17520, 2 (unsexed 22.1-30.5 mm
+SL),  Santo Antônio  do  Içá,  mouth  of  rio  Içá.  MZUSP  17632,  4
+(unsexed  28.7-31.0  mm  SL),  Fonte  Boa,  rio  Solimões.  MZUSP
+27751, 13 (unsexed 15.4-24.3 mm SL), Benjamin Constant, paraná
+do Capacete, rio Solimões. MZUSP 78108, 11 of 23 (unsexed 15.5-
+21.1 mm SL), Costa do Anori, pool, rio Solimões, near mouth of rio
+Purus. MZUSP 78109, 3 (unsexed 18.9-21.5 mm SL), same data as
+MZUSP 78108. USNM 310856, 3 (2 males 34.1-34.4 mm SL, 1
+unsexed 33.6 mm SL), muddy igarapé connecting rio Solimões and
+blackwater lake ca. 15 miles west of Coari. BRAZIL, AMAZONAS,
+municipality of Manaus and proximities (including municipalities
+of Iranduba or Careiro): INPA 18461, 9 (8 males 32.6 mm SL, 1
+female 35.1 mm SL), lago Janauacá, mouth of channel. INPA 18465,
+66m of 73 (34 males 33.0-36.5 mm SL, 2 males 34.9-37.2 mm SL
+c&s, 13 females 32.9-38.1 mm SL, 2 females 34.5-38.4 mm SL c&s,
+15 unsexed 29.7-35.9 mm SL), Ilha da Marchantaria. INPA 18467,
+
+172
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+25 (7 males 31.7-34.4 mm SL, 18 unsexed 22.5-36.3 mm SL), same
+locality as INPA 18465. INPA 18506, 10m of 50 (1 male 32.4 mm
+SL c&s, 1 female 33.9 mm SL c&s, 1 unsexed 23.7 mm SL c&s, 7
+unsexed 22.2-24.4 mm SL), paraná do Xiborena. INPA 18510, 132
+(unsexed 19.1-29.2 mm SL), lago Pirapora, Catalão. INPA 18512,
+1m (male 34.9 mm SL c&s), same locality as INPA 18510. MCP
+35775, 110 (61 males 30.0-36.2 mm SL, 45 females 30.9-36.9 mm
+SL, and 4 unsexed 28.8-30.0 mm SL), Janauari, lago Terra Preta.
+MCP 35777, 12m of 36 (6 males 30.6-36.6 mm SL, 6 females 34.5-
+37.2  mm  SL),  same  locality  as  MCP  35775.  MZUSP  6047,  1
+(unsexed 26.9 mm SL), lago do Rei, Ilha do Careiro. MZUSP 18736,
+2 (unsexed 26.3-33.7 mm SL), lago Janauacá, left margin of rio
+Solimões. MZUSP 18743, 1 (unsexed 33.0 mm SL), lagoon linked
+to channel of lago Janauacá, left margin of rio Solimões. USNM
+307448, 21 (14 males 32.5-36.7 mm SL, 7 females 37.9 mm SL),
+São José, lago do Castanho, Janauacá. USNM 308329, 20 (7 males
+31.2-34.4 mm SL, 13 unsexed 27.9-34.3 mm SL), lago Terra Preta,
+Janauari. USNM 310851, 2 (males 31.0-31.4 mm SL), lower rio
+Negro: igarapé Xiborena ca. 30 km east Manaus. USNM 315907,
+29 (unsexed 20.7-26.9 mm SL), lago Murumuru, cattle enclosure.
+USNM 332135, 1 (male 32.6 mm SL), near Manaus, lago Janauari,
+lago Terra Preta. USNM 323629, 3 (unsexed 27.0-29.9 mm SL),
+northwest shoreline of Ilha Paciência, rio Solimões, southeast of
+Manaus. Lower  rio Amazonas  basin,  BRAZIL, AMAZONAS:
+MZUSP 76436, 2 (unsexed 34.4-35.4 mm SL), Parintins, São José,
+rio Amazonas, left margin, stream mouth. MZUSP 76437, 1 (unsexed
+37.6 mm SL), same as MZUSP 76436. BRAZIL, PARÁ: ANSP
+150113, 5 (3 males 35.1-35.3 mm SL, 2 females 35.7-36.9 mm SL),
+paraná-Mirim,  lagoa  Grande,  east  of  Óbidos. ANSP  149979,  4
+(unsexed 34.6-35.6 mm SL), Centro Comercial, brook into lago
+Grande [near Santarém]. MCP 14959, 4 (3 males 32.6-36.2 mm SL,
+1 female 39.2 mm SL), same as ANSP 150113. MZUSP 9498, 7
+(unsexed 18.3-24.2 mm SL), Monte Alegre, rio Amazonas. MZUSP
+16565, 2 (unsexed 27.0-27.3 mm SL), Oriximiná, Paissandu, [mouth
+of rio Trombetas]. Rio Madeira Basin, BRAZIL, RONDÔNIA,
+CALAMA: MCP 38482, 12m (5 males 32.1-33.1 mm SL, 7 unsexed
+30.9-35.4 mm SL), paraná do Caraparú, rio Madeira. MPEG 3211,
+1 (female 38.6 mm SL), same locality as MCP 38482. MPEG 3213,
+1  (female  36.7  mm  SL),  paraná  do  Flechal.  MZUSP  30212,  1
+(unsexed 21.2 mm SL), beach of rio Madeira. MZUSP 30213, 1
+(unsexed  24.9  mm  SL),  same  locality  as  MCP  38482.  MZUSP
+30216, 1 (female 42.5 mm SL), same data as MPEG 3213. MZUSP
+30218, 37 (23 males 29.4-32.8 mm SL, 14 unsexed 29.7-34.3 m SL),
+same data as MCP 38482. MZUSP 30219, 1 (unsexed 29.2 mm
+SL), rio Madeira, mouth of rio Machado. MZUSP 30220, 1m (male
+33.0 mm SL). MZUSP 30221, 1 (unsexed 31.4mm SL), rio Madeira.
+MZUSP 31784, 1 unsexed 30.9 mm SL, same locality as MCP 38482.
+MZUSP 35600, 11 (unsexed 21.8-34.2 m SL). MZUSP 42838, 11
+(unsexed 15.1-27.6 mm SL), poço da Angélica, rio Madeira. BRA-
+ZIL, AMAZONAS: MZUSP 6961, 3 (unsexed 19.7-27.7 mm SL),
+25 km below Nova Olinda. MZUSP 18658, 20 (unsexed 19.1-27.2
+mm  SL),  igarapé  Xicanga,  5  km  from  Humaitá,  east  part  of
+Transamazônica.  MZUSP  35591,  3  (unsexed  27.3-29.1  mm  SL),
+mouth of igarapé Puruzinho, rio Madeira. MZUSP 35618, 20 (unsexed
+21.2-27.9 mm SL), ilha do Puruzinho, rio Madeira. MZUSP 55922,
+3 (unsexed 19.2-20.1 mm SL), rio Madeira, 17.3 km below paraná do
+Maracá,  3°40’48"S  59°5’30"W.  MZUSP  57082,  1  (unsexed  25.6
+mm SL), rio Madeira, 15.9 km below paraná do Maracá, 3°43’6"S
+59°5’56"W. USNM 310855, 19 (unsexed 18.6-25.2 mm SL), same
+data as MZUSP 18658. BRAZIL, RONDÔNIA: FMNH 57880, 3
+(unsexed 27.7-33.4 mm SL), Santo Antonio, rio Madeira. MZUSP
+31821, 1 (unsexed 19.0 mm SL), rio Madeira, cachoeira de Teotônio.
+
+MZUSP 35605, 2 (unsexed 26.7-31.4 mm SL), rio Madeira, cachoeira
+de Santo Antônio. MZUSP 35610, 2 (unsexed 23.4-27.7 mm SL),
+same data as MZUSP 35605. MZUSP 42840, 22 (unsexed 16.3-26.9
+mm SL), rio Madeira, cachoeira de Teotônio. MZUSP 74227, 30 of
+233 (unsexed 22.0-28.3 mm SL), rio Machado near mouth. MZUSP
+74321, 30 of 455 (unsexed 23.2-27.9 mm SL), same data as MZUSP
+74227. MZUSP 76551, 1 (unsexed 26.0 mm SL), Santo Antônio, rio
+Machado, beach. MZUSP 76829, 1 (unsexed 27.5 mm SL), Santo
+Antônio, rio Machado, beach. MZUSP 80041, 30 of 91 (unsexed
+22.6-28.6 mm) SL, same data as MZUSP 74227.
+
+Diagnosis. The combination of the following characters dis-
+tinguish Odontostilbe fugitiva from all the other species of the
+genus: (1) mouth terminal, mouth slit nearly at horizontal through
+middle of eye (vs. subterminal, mouth slit at horizontal near
+lower eye edge in O. euspilura and O. microcephala; or slightly
+subterminal, mouth slit at horizontal below middle of eye in O.
+dierythrura);  (2)  in  males  snout  not  very  protruding,  but
+slighthly pointed or blunt (vs. very protruded in O. euspilura,
+O.  microcephala,  and  O.  dierythrura);  (3)  usually  7  large
+dentary teeth, with seven cusps (vs. 4 large dentary teeth with
+3 large and compressed central cusps and 2, 3 lateral small
+cusps in O. pequira); (4) elongation of 2nd unbranched dorsal-
+fin ray (vs. no elongation in O. euspilura, or very short elonga-
+tion in O. pulchra); (5) pectoral-fin never extending beyond
+pelvic-fin origin (vs. extending beyond in males of O. pulchra);
+(6) branched anal-fin rays 19-24 (mostly 21-22) [vs. 16-20 (mostly
+17-18 in  O.  microcephala, and 17-20 (mostly 18-19) in  O.
+euspilura]; (7) 1st to 9th (mostly 6th-7th) anal-fin branched rays of
+males with hooks, positioned at distal half-length of fin rays,
+tiny  hooks  occasionally  present  distally  up  to  19th  anal-fin
+branched ray (vs. well-developed hooks on 1st to 22nd anal-fin
+branched rays at distal half length of fin rays in O. pulchra); (8)
+no hooks found on 1st unbranched pelvic-fin rays (vs. 1-2 un-
+paired hooks per segment on 1st unbranched pelvic-fin ray oc-
+casionally present in  O.  euspilura and  O.  pulchra); (9) gill
+rakers on upper branch usually 6-7, lower branch usually 12-13
+(vs. usually 10-12 on upper branch and 14-16 on lower branch
+in O. microcephala; 11-12 on lower branch in O. dierythrura
+and O. pulchra; 5-6 on upper branch and 9-10 on lower branch
+in O. euspilura; and 7-8 on upper branch and 13-15 on lower
+branch in O. pequira); and (10) 4 separate supraneurals (vs.
+supraneurals partially fused in O. paraguayensis). Upper gill
+raker counts differ O. fugitiva (5-6) from O. ecuadoriensis, O.
+nareuda, and O. parecis (6-7).
+
+Description. Morphometric data in Table 1. Largest male 45.1
+mm SL, female 48.7 mm SL. Body elongate and compressed.
+Males with more compressed bodies than females. Greatest
+body  depth  at  dorsal-fin  origin.  Snout  slightly  pointed  or
+blunt in males. Head profile gently convex from snout to pos-
+terior tip of supraoccipital bone. Predorsal profile slightly
+convex  to  straight  between  posterior  tip  of  supraoccipital
+bone and dorsal-fin origin, then straight from dorsal-fin ori-
+gin to caudal peduncle. Ventral profile convex from mouth tip
+to anal-fin origin. Anal-fin base straight. Caudal peduncle
+slightly longer than deep.
+
+C. M. Bührnheim & L. R. Malabarba
+
+173
+
+Head relatively small. Posterior margin of opercle sinusoi-
+dal with upper portion concave and lower portion convex.
+Mouth terminal, mouth slit nearly at horizontal through middle
+of eye. Obliquously positioned maxilla ending at vertical near
+or at anterior border of eye and at horizontal on inferior eye
+border, not crossing these limits. Dentition (based on 10 c&s
+specimens and 17 alcohol specimens). Premaxillary teeth 5-6,
+bearing 6-11 cusps (usually 8, 9, and 10); midcentral cusp
+longer than others; smaller lateral cusps of each tooth over-
+lap cusps of adjacent teeth, except anteriormost teeth (Fig. 2).
+Premaxillary teeth juxtaposed external to dentary teeth, leav-
+ing premaxillary tooth cusps exposed when mouth closed.
+Maxilla with 2-3 teeth bearing 1-9 cusps (mostly 7-9), decreas-
+ing cusp number toward posterior tip of maxilla. Dentary teeth
+8-10 bearing 1-9 cusps, gradually decreasing in size posteri-
+orly, first 6-7 teeth largest with 5-9 cusps (mostly 7), 1 me-
+dium-sized tooth with 4-7 cusps and last 1-3 teeth very small,
+conic  or  with  2-5  cusps.  Smaller  cusps  of  dentary  teeth
+overlaping adjacent tooth cusps, usually not in posteriormost
+teeth. All dentary tooth cusps upwardly pointed or slightly
+recurved towards interior of mouth.
+
+Dorsal-fin rays ii(259), 8(1), or 9(258). Dorsal-fin origin
+slightly posterior to midlength of body, and slightly posterior
+to pelvic-fin origin. First unbranched dorsal-fin ray in females
+and immature males about half length of second unbranched
+dorsal-fin ray. Second unbranched dorsal-fin ray slightly elon-
+gate in mature males, extending beyond dorsal-fin distal pro-
+file. Anal-fin rays iv(14), v(241) or vi(4), 19(14), 20(57), 21(103),
+22(57), 23(23), or 24(5). Anal-fin distal border concave, ante-
+rior 6-7 branched rays longest. Pectoral-fin rays i(259), 9(1),
+10(11), 11(135), 12(105), or 13(7). Unbranched pectoral-fin ray
+reaching or not pelvic-fin origin, never extending beyond that
+point. Pelvic-fin rays i(259), 6(4), 7(244), 7i(7), or 8(4). Un-
+branched pelvic-fin ray longest in mature males, extending
+beyond origin of anal fin. Lateral skin border of unbranched
+pectoral-fin ray and unbranched pelvic-fin ray thickened in
+mature males, bearing thin laterodorsal projection of hard tis-
+sue covered with soft tissue. Principal caudal-fin rays 19(254),
+rarely 16(1), 17(1), 18(7) or 20(2). Procurrent caudal-fin rays:
+dorsal 10(34), 11(113), 12(96), 13(9), or 14(4); ventral 7(1), 8(14),
+9(133), 10(94), or 11(14). Anterior 1 or 2 ventral procurrent
+caudal-fin rays sometimes laterally expanded, bifurcated, or
+S-shaped. Caudal-fin ray flaps ventrally on 2nd-8th (mostly 4th-
+7th) branched rays of upper lobe, and dorsally on 12th-16th
+(mostly 13th-15th) branched rays of lower lobe. Adipose-fin at
+vertical through last anal-fin ray insertion.
+
+Males with acute, elongate, retrorse hooks on posterior
+margin of pelvic- and anal-fin rays. One or two (rarely 3) paired
+and unpaired hooks per segment of lepidotrichia, on last un-
+branched anal-fin ray, and 1st to 8th (mostly 6th-7th) anal-fin
+branched rays, positioned at distal half-length and not ex-
+tending to ray tip; tiny hooks can be present distally up to
+19th anal-fin branched rays in very developed males (e.g. INPA
+18506, ANSP 178908, ANSP 15006, and neotype). One or two
+(rarely 3) unpaired and long hooks per segment of lepidotrichia
+along almost all length of 1st to 7th branched pelvic-fin rays,
+
+Fig. 2. Dentition of Odontostilbe fugitiva, ANSP 178908, fe-
+male 35.5 mm SL. SEM photograph of left side premaxilla (top),
+maxilla (middle), and dentary (bottom).
+
+reaching distal tip of fin ray (expect on 1st branched pelvic-fin
+ray, on midlength portion). No hooks found on 1st unbranched
+pelvic-fin ray. One to 3 unpaired hooks sometimes present on
+anterior border of anal- and pelvic-fin rays branches.
+
+Scales cycloid; lateral line complete 34(3), 35(21), 36(90),
+37(4), or 38(1); predorsal row 9(4), 10(98), 11(122), or 12(6);
+scale rows between lateral line and dorsal-fin origin 5(31),
+6(190), or 7(5); scale rows between lateral line and anal-fin
+origin 4(238)  or  5(5);  scale  rows  around  caudal  peduncle
+14(186). Triangular modified scale on pelvic fin base extends
+posteriorly covering 1-3 scales (mostly 2). Scales on anal-fin
+base 5, 6, or 7.
+
+Cleared and stained specimens (11): supraneurals 4-5(11);
+precaudal vertebrae 16(9) or 17(2); caudal vertebrae 18(3),
+19(7), or 20(1); gill rakers, upper 6(1) or 7(5), lower 12(6) (2-3
+on hypobranchial). Alcohol specimens (174): gill rakers, up-
+per 6(83), 7(89), or 8(2), lower 11(15), 12(119), 13(36), or 14(4).
+Upper gill rakers with 1-5 recurved denticles on anterolateral
+
+174
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Color in alcohol. General ground body color brownish or
+pale yellow. Dark dorsum pigmentation from head to caudal
+peduncle, dark chromatophores mostly on border of scales
+forming reticulated pattern. Pigmented scales extend laterally
+on body below longitudinal stripe, also on pseudotympanum
+area or not. Dorsal fin entirely scattered with dark chromato-
+phores along fin rays, densely along 1st-2nd unbranched dor-
+sal-fin rays. Dark chromatophores along 1st-9th dorsal branched
+fin rays, except almost hyaline 9th branched fin ray. Pectoral
+and  pelvic  fins  with  scattered  dark  chromatophores,  more
+numerous on anteriormost portions of fins. Fresh specimens
+only with 7th branched pelvic-fin ray hyaline. Neotype with 1-
+5th branched pelvic-fin rays pigmented. Pelvic fin mainly hya-
+line in old-preserved specimens. Anal fin with dark chromato-
+phores spread on all fin rays or on more central branched
+anal-fin rays, except at tips of last unbranched fin rays and 1st
+branched fin ray. Adipose fin not pigmented. Caudal fin al-
+most entirely covered with diffuse dark chromatophores along
+fin rays, except clear areas on base of caudal-fin lobes just
+behind caudal-fin spot. Rounded black to brown spot on base
+of caudal fin, reaching upper and lower border of peduncle,
+or upper border only, sometimes extending little onto proxi-
+mal portion of 7th to 12th central principal caudal-fin rays.
+
+Numerous dark chromatophores, somewhat contiguous,
+on snout, upper and lower lips, anteriormost portion of max-
+illa, and 1st, 2nd, and 6th infraorbitals. Top of head on frontals
+and  parietals  pigmented,  with  deep-lying  dark  chromato-
+phores over brain membranes below frontals and parietals,
+and fontanel. Body with faint dark and silver midlateral stripe,
+sometimes forming black line along middle longitudinal body
+axis, beginning behind or on pseudotympanum, above lateral
+line, and reaching caudal spot. Guanine on eye iris, opercle,
+isthmus, and most of 3rd infraorbital. Below lateral line, belly
+faint  almost  without  pigmentation,  chromatophores  above
+anal-fin base forming 12 to 15 chevron shaped markings.
+
+Color in life. Life color of specimen from lower Ucayali drain-
+age (Fig. 4). One red spot on base of each caudal fin lobe, just
+posterior to caudal fin black blotch. Red and yellow pigments
+most on dorsal and anal fins. White pigment on tips of last
+unbranched  and  1st-2nd branched  anal-fin  rays,  and  of  un-
+branched and first branched pelvic-fin rays.
+
+Sexual dimorphism. Males with hooks on anal- and pelvic-
+fin rays, and elongate dorsal- and pelvic-fin rays, in contrast
+to absence of these features in females. A gill gland (Burns &
+Weitzman, 1996) present in mature males on first gill arch,
+covering about 8 to 10 anterior branchial filaments (Fig. 3).
+Sexual dimorphism in general body shape is also recognized
+by principal component analysis performed on measurements
+of males and females (Fig. 5). Principal component 2 (PC2)
+grouped males and females separately. It was affected strongly
+and negatively by pelvic-fin length, snout length, and dor-
+sal-fin length; and positively by depth at dorsal-fin origin.
+Males are particularly distinct from females in all of these
+characters, having higher values of pelvic-fin length, snout
+
+Fig. 3. First gill arch of Odontostilbe fugitiva, MCP 35777,
+male 35.7 mm SL. SEM photographs of the first left side gill
+arch showing gill gland (top), in detail gill rakers on upper
+branchial branch (middle), and gill rakers on lower branchial
+branch (bottom). Lateral view.
+
+border, and anteriormost upper gill rakers with none or 1 simi-
+lar denticle on posterolateral border; lower gill rakers with 1-
+4 denticles on anterolateral border, and none or 1 on postero-
+lateral surface; and posteriormost lower gill raker with none
+or 1 recurved denticle on anterolateral border, and none, 1 or
+2 similar denticles on posterolateral border (Fig. 3). Denticu-
+lation mainly on basal portion of gill rakers.
+
+C. M. Bührnheim & L. R. Malabarba
+
+175
+
+Fig. 4. Odontostilbe fugitiva from lower río Ucayali drainage. Photo by William Crampton (Ucamara Project).
+
+length, and dorsal-fin length than females, while females have
+higher depth values at dorsal-fin origin than males (Table 1).
+Principal component 3 (PC3) was affected strongly and posi-
+tively by snout length and upper jaw length, and negatively
+by pelvic-fin length and dorsal-fin length. Variation on PC3
+seems to be related to the level of development of pelvic- and
+dorsal-fin rays, snout protusion (snout length, and upper jaw
+length) in males, because males with higher values for these
+features are located upper on PC3 axis (Fig. 5).
+
+Remarks on the holotype of Odontostilbe fugitiva. The short
+description of O. fugitiva by Cope (1870) makes no reference
+to type specimens. Most type-specimens of fishes described
+by Cope were deposited at ANSP, although some at USNM
+and some are missing (Böhlke, 1984; Vari & Howe, 1991).
+Henry W. Fowler was the first full-time curator of the fish
+collection at ANSP, and one of his first tasks was the catalog-
+ing of the extensive collection of Edward D. Cope (Böhlke,
+1984). During his stay at ANSP, Fowler (1913: 529, 532) de-
+scribed O. madeirae and O. drepanon and Fowler (1940) O.
+dierythrura and  O.  hasemani, but he did not mention any
+type specimens for O. fugitiva. Finally, when describing O.
+caquetae, Fowler (1943: 232) stated that the type of O. fugitiva
+was lost. Géry (1972a) also affirmed the holotype of O. fugitiva
+was lost after visiting ASNP to study Fowler’s type material.
+Vari & Howe (1991) did not list O. fugitiva among characiform
+type specimens at USNM.
+
+Böhlke (1984: 46) indicated ANSP 8059 as the holotype of
+O. fugitiva, and noticed that “original Cope label and catalog
+indicate this to be type of O. fugitiva”. However, in the same
+publication, Böhlke (1984: 46) remarked the same lot (ANSP
+8059)  was  listed  by  Fowler  (1906)  as  the  holotype  of
+Aphyocharax filigerus, valid as Prionobrama filigera (Cope,
+1870). Examination of ANSP 8059 confirmed this is a speci-
+men of P. filigera. Both authors have fruitlessly searched the
+ANSP and USNM fish collections after the type material of O.
+fugitiva [including the lot ANSP 8073 listed by Fowler (1906)
+as cotypes of Aphyocharax filigerus].
+
+Neotype designation. Odontostilbe fugitiva is the type spe-
+cies of  Odontostilbe, and the designation of a neotype, as
+well as establishment of the identity of the type species is
+essential  in  solving  nomenclatural  questions  among
+cheirodontines.  The  neotype  was  not  caught  at  Pebas,  the
+original type locality of O. fugitiva. Pebas is located at the
+confluence of río Ampyiacu with río Amazonas, Loreto, Peru.
+The neotype is a mature male from an affluent of lower río
+Napo basin, río Mazán, upper rio Amazonas, Loreto, Peru.
+Río Mazán is to the west of the type locality, being the near-
+est site (Fig. 6) with the best preserved mature male (Fig. 1)
+available, being in conformity with ICZN (1999). Since sec-
+ondary sexually dimorphic characters are important to distin-
+guish Odontostilbe and other Cheirodontinae genera, a ma-
+ture male is preferred as the neotype. The chosen male has
+entire elongate 2nd unbranched dorsal-fin ray and unbranched
+
+Fig. 5. Principal component analysis of the 18 morphometric
+data of males (M) and females (F) of Odontostilbe fugitiva.
+Stronger loadings on the second and third principal compo-
+nents (PC2, PC3).
+
+176
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Fig. 6. Distribution of Odontostilbe fugitiva in central and
+northen South America. Circles (material examined, symbols
+can represent more than one lot, and more than one locality),
+and stars (type locality of neotype on the rigth and of the lost
+holotype on the left).
+
+pelvic-fin rays, well-developed acute retrorse hooks on pel-
+vic- and anal-fin rays, preserved scales, and well-preserved
+color pattern (Fig. 1). Cope (1870: 566) referred to a “trans-
+verse line [of scales] at vent 11; at ventral fins 5-5”. Although
+distinct  from  the  counts  of  the  neotype,  these  counts  are
+included in the range found herein for the species (5-7 be-
+tween lateral line and dorsal-fin origin and 4-5 between lateral
+line and anal-fin origin).
+
+The  status  of  Odontostilbe  madeirae  and Odontostilbe
+drepanon. Both species were described in the same paper by
+Fowler (1913). The holotype (Fig. 7) and all paratypes but one
+of O. drepanon have the dimorphic characters unique to males
+of Odontostilbe: elongation of 2nd unbranched dorsal-fin ray
+and 1st unbranched pelvic-fin rays, and presence of hooks on
+pelvic-fin rays and anal-fin rays. On the other hand, the holo-
+type (Fig. 7) and all paratypes of O. madeirae lack these char-
+acters, and have higher body depth, the diagnostic features
+for females (see Table 1 and description under Sexual Dimor-
+phism above). The two species described by Fowler (1913)
+overall match the O. fugitiva diagnosis, and this is a case of
+misunderstanding dimorphic males and females as two differ-
+ent species. Fowler (1913: 529) remarked that the absence of
+“the dark-edged silver lateral band” in O. madeirae is a char-
+acter  to  distinguish  it  from  O.  fugitiva.  The  holotype  and
+paratypes of O. madeirae actually have a faded longitudinal
+line of chromatophores posterior to the pseudotympanum.
+The holotype of O. madeirae has few dentary teeth re-
+maining, but laterally 4 teeth remain, each with 7 cusps. Pre-
+maxillary teeth 5 with 7-8 cusps and maxillary teeth 2 with 7
+cusps. The holotype of O. drepanon also lacks most dentary
+teeth, but on the right side four teeth remain each with about
+7 cusps. Premaxillary teeth 5 with 7-9 cusps, and maxillary
+teeth 2 with 7 cusps. The 2nd unbranched dorsal-fin ray is
+broken.
+
+Fig. 7. Holotypes of Odontostilbe madeirae, ANSP 39193,
+female 32.1 mm SL (top), and Odontostilbe drepanon. ANSP
+39210, male 30.5 mm SL (bottom - The darkned area below
+dorsal fin is a preservation artifact).
+
+The status of Odontostilbe caquetae. Odontostilbe caquetae
+was described from a single immature specimen (28.0 mm SL).
+Fowler diagnosed O. caquetae comparing the holotype with
+data  available  in  the  short  redescription  of  O.  fugitiva  by
+Eigenmann (1915:93), which was based on four specimens
+examined from “San Antonio de Rio Madeira”, measuring
+“largest 41 mm”. Following Fowler’s diagnosis, O. caquetae
+would have a smaller head, smaller eye and larger snout than
+O. fugitiva. However, measurements and counts of the holo-
+type of O. caquetae overlap those of O. fugitiva (Table 1),
+not  supporting  any  of  Fowler’s  diagnostic  characters.  For
+that  reason,  we  consider  O.  caquetae  as  a  synonym  of  O.
+fugitiva.
+
+The holotype is now dark colored and damaged with most
+dorsal-fin rays and caudal-fin rays broken (Fig. 8). Infraorbitals
+2-5 are lacking on the left side. Premaxilla probably would
+have five teeth, but just two of them remain on each left and
+right sides, bearing 8-7 cusps. Right maxilla with 2 teeth bear-
+ing 8-9 cusps, and left maxilla with only one tooth with 8
+cusps. Four dentary teeth remain on each side bearing 5-6
+cusps. This dentition is similar to that found in smaller speci-
+mens of O. fugitiva, O. pulchra, O. euspilura or O. ecuador-
+ensis.  The  type  locality  of  O.  caquetae  is  Florencia,  río
+Portuguesa, río Caqueta drainage, where O. euspilura occurs
+(Fowler,  1945b).  The  main  reason  for  not  considering  O.
+
+Fig.  8.  Holotype  of  Odontostilbe caquetae, ANSP  70495,
+unsexed 28.0 mm SL.
+
+C. M. Bührnheim & L. R. Malabarba
+
+177
+
+caquetae as synonym of O. euspilura is the terminal mouth
+in the former, against the inferior mouth in the latter.
+
+The first right gill arch of the holotype was found cut off
+from  branchial  apparatus,  but  kept  under  the  operculum.
+Both first gill arches have 6 gill rakers on upper branch and
+11 on lower branch. Fowler (1943: 232) described 7+11 gill
+rakers and it is possible the first gill raker was lost in the
+damaged upper branches of both gill arches. Specimens of
+Odontostilbe examined from rio Japurá, the Brazilian name
+for mid and lower río Caqueta, match O. fugitiva in measure-
+ments and counts, including 6, 7 gill rakers on upper gill
+arch and 12 on lower (one among 10 examined specimens of
+rio Japurá has 6+11 gill rakers as the holotype of O. caquetae).
+Therefore  we  consider  O.  caquetae  as  synonym  of  O.
+fugitiva. However, we consider this synonym provisional
+since no mature males of Odontostilbe were available from
+upper río Caqueta or rio Japurá.
+
+Distribution  and  geographical  variation.  Odontostilbe
+fugitiva is the most widespred  Odontostilbe species in the
+Amazon basin, occurring from the major western tributaries
+to the lower rio Amazonas (Fig. 6). More extense records are
+from the río Ucayali, río Marañon, rio Amazonas and rio Ma-
+deira basins. Records from western major tributaries of the
+Amazon, Purus and Juruá systems, are relatively scarce. Pre-
+dominantly, the species occurs in major whitewater rivers of
+the Amazon basin, being not so far identified from the rio
+Negro, rio Trombetas, rio Tapajós, rio Xingu, rio Tocantins-
+Araguaia. The well-sampled fish fauna of the rio Negro did
+not reveal O. fugitiva (Goulding et al., 1988), though they
+listed 12 specimens of “Cheirodon sp.” (not found at INPA
+collection). Chao (2001) also did not include O. fugitiva in a
+list of fishes of rio Negro basin and lower rio Branco caught
+by Project Piaba. Personal searches [CMB] at INPA and Project
+Piaba fish collections failed in finding O. fugitiva in rio Negro
+
+material. Lowe McConnell (1991) listed O. cf. fugitiva from a
+tributary of the rio Araguaia, the rio das Mortes. However,
+the examination of material from the rio Araguaia basin failed
+to reveal any O. fugitiva.
+
+Specimens from upper río Marañon, upper río Ucayali
+drainages, and middle rio Amazonas (rio Solimões) showed
+some variation in morphometry. This seems to be related to
+some exceptionally developed males and females in samples
+from  upper  portions  of  Marañon  and  Ucayali.  Indeed,  the
+largest mature specimens of O. fugitiva come from upper río
+Pastaza, Ecuador (FMNH 113515), and upper río Huallaga,
+Peru (ANSP 136951), both upper affluents of Maranõn, with
+some comparable size specimens only from río Urubamba,
+upper Ucayali. Noteworthy, males from río Marañon basin
+(río Pastaza, río Tigre, and río Huallaga) show a tendency to
+have longer snout lengths and upper jaw lengths than males
+of  most  populations  of  upper  río Amazonas  basin  (río
+Putumayo, río Itaya, río Mazán, río Ampyiacu, río Yavari, and
+the río Amazonas). However, no additional differences were
+found to support the recognition of a separate species for río
+Marañon basin. Some specimens from the upper río Pastaza
+(FMNH 113515) show a somewhat subterminal mouth similar
+to O.  dierythrura  and  other  undescribed  species  from  río
+Madre  de  Dios,  upper  rio  Madeira  basin.  Odontostilbe
+dierythrura and this undescribed species, however, possess
+larger upper jaw length (Fig. 9), and more pronounced snouts
+than O. fugitiva, including the Marañon population.
+
+Males of río Ucayali basin also had differences in snout
+and upper jaw length when contrasted with males from the
+main rio Amazonas basin, having snout length difference sta-
+tistically significant in the coincidental regression test (F(2,
+74)= 11.8, p<0.00) (Fig. 10). When compared to O. fugitiva, O.
+dierythrura and Odontostilbe n. sp. from Madre de Dios, the
+upper jaw length of the population from río Urubamba, upper
+Ucayali, remains at an intermediate range between O. fugitiva
+and the other two species (Fig. 11). Again, considering there
+
+Fig 9. Upper jaw length as a function of head length for males of
+Odontostilbe  fugitiva,  specimens  widely  distributed  on  rio
+Amazonas, and upper and middle río Maranõn basin, against O.
+dierythrura and Odontostilbe sp. of río Madre de Dios basin.
+
+Fig 10. Snout length as a function of head length for males of
+Odontostilbe fugitiva, specimens widely distributed on rio
+Amazonas basin against specimens of río Ucayali basin.
+
+178
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Fig  11. Upper jaw length as a function of head length for
+males of Odontostilbe fugitiva, specimens widely distributed
+on río Amazonas basin, and specimens of río Ucayali basin,
+against O. dierythrura and Odontostilbe sp. of río Madre de
+Dios basin.
+
+were  no  additional  characters  differing  these  populations,
+and the overlaps in statistics for snout length and upper jaw
+length, the Ucayali population is considered to be O. fugitiva.
+A significant statistical difference in measurements was
+also found when comparing rio Solimões samplings from the
+region near Manaus to overall O. fugitiva material from upper
+rio Amazonas basin, including río Ucayali and río Marañon
+systems.  Not  only  males,  but  females  and  unsexed  speci-
+mens jointly, show differences in snout to pectoral-fin length
+(F(2, 200) = 85.6, p<0.00) (Fig. 12). This difference is also consid-
+ered a variation among O. fugitiva populations. However, there
+is a lack of mature males and females among specimens avail-
+able from an extensive portion of the rio Solimões between
+
+Fig. 12.. Snout to pectoral-fin length as a function of stan-
+dard length for males, females, and unsexed specimens of
+Odontostilbe  fugitiva,  specimens  widely  distributed  in  rio
+Amazonas  basin  against  specimens  of  rio  Solimões  basin
+(middle rio Amazonas).
+
+Fig. 13. Upper and lower gill rakers counts of Odontostilbe
+fugitiva  populations,  and  three  new  species  Odontostilbe
+ecuadorensis, Odontostilbe  nareuda,  and  Odontostilbe
+parecis.
+
+Letícia, Colombia, and Manaus, Brazil. Most samples from
+Solimões consisted of material caught near Manaus by Peter
+Bayley in 1970s or more recently by INPA researchers.
+
+Examined specimens from rio Juruá basin are unsexed,
+probably juveniles. Exceptionally, two specimens among 8,
+have 8 upper gill rakers, and 3 specimens have 14 lower gill
+rakers  (Fig.  13a).  Higher  gill  raker  counts  occur  in  O.
+dierythrura and in an undescribed species from Madre de
+Dios. However, the upper jaw lengths of the avaliable speci-
+mens  of  Juruá  fit  that  of  O.  fugitiva.  One  specimen  of  O.
+fugitiva from the rio Madeira also has 14 lower gill rakers
+(Fig. 13b). Similarly, specimens examined from rio Purus con-
+tain only unsexed specimens. In the lack of fully developed,
+mature  specimens,  we  tentatively  assign  Juruá  and  Purus
+specimens to O. fugitiva.
+
+Ecological notes. Recorded mainly from whitewaters; black-
+water as “black-muddy” is cited only for FMNH 85346, a
+stream near Leticia, Colombia. Sánchez-Botero & Araújo-Lima
+(2001) referred to Odontostilbe piaba, Odontostilbe sp. and
+Odontostilbe fugitiva in a list of species associated with roots
+of  aquatic  macrophytes  during  high  water  period  at  three
+floodplain lakes of rio Solimões. Sánchez-Botero et al. (2003)
+
+C. M. Bührnheim & L. R. Malabarba
+
+179
+
+Table 1. Morphometrics of Odontostilbe fugitiva, upper rio Amazonas basin (río Ucayali, río Marañon, río Putumayo, río Itaya,
+río Mazán, río Ampyiacu, río Amazonas, río Yavari, rio Juruá, rio Madeira, rio Solimões). Neotype MUSM 27501 of río Mazán,
+affluent of mouth of río Napo. Separately, the holotype ANSP 70495 of Odontostilbe caquetae syn. from the río Caquetá basin,
+the holotype ANSP 39193 of O. madeirae syn., and holotype ANSP 39210 of O. drepanon syn., plus six paratypes ANSP 39211
+from the rio Madeira basin.
+
+Males 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Females 
+
+ 
+
+Unsexed 
+
+ O. caquetae O. madeirae 
+
+O. drepanon  
+
+ 
+Neotype 
+
+34.6 
+
+ 
+ 
+Standard length 
+Percents of standard length 
+24.3 
+  head length  
+63.6 
+  snout-anal fin origin 
+48.0 
+  snout-dorsal fin origin 
+45.4 
+  snout-pelvic fin origin 
+13.6 
+  dorsal-fin base 
+27.5 
+  anal-fin base 
+13.6 
+  caudal peduncle length 
+  caudal peduncle depth 
+10.4 
+  depth at dorsal-fin origin  28.3 
+29.8 
+  dorsal-fin length 
+20.2 
+  pelvic-fin length 
+  pectoral-fin length 
+21.7 
+  snout-pectoral-fin origin 
+24.0 
+Percents of head length 
+  snout length 
+  upper jaw length  
+  horizontal eye diameter 
+  least interorbital width 
+
+22.6 
+26.2 
+36.9 
+32.1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+28.0 
+
+n  Low High Mean   n  Low High Mean   n  Low High Mean   Holotype 
+88  28.1 45.1  34.3   60 28.8 48.7  35.5   102 20.4 43.1  31.1   
+  
+88  23.1 27.5  25.8   60 22.1 27.2  25.0   101 22.7 30.1  25.6   
+88  60.6 66.9  63.8   60 62.9 70.2  66.2   102 60.9 68.1  64.8   
+88  47.1 51.4  49.0   60 47.4 52.8  50.7   102 48.3 53.6  50.4   
+88  43.7 49.6  46.3   60 45.3 51.3  48.0   102 44.4 49.3  47.1   
+88  13.2 15.7  14.2   60 13.1 15.4  14.5   102 12.9 16.6  14.4   
+88  23.5 28.9  26.7   60 24.3 28.9  26.6   101 24.0 29.4  26.7   
+88  11.3 15.3  13.3   60 10.9 13.9  12.4   102 10.8 14.4  12.5   
+88  9.0  12.5  11.1   60 10.1 13.0  11.5   102  9.0  12.7  10.9   
+88  26.6 35.5  31.7   60 29.6 41.3  35.9   102 28.6 37.6  32.2   
+71  27.6 37.1  31.5   50 27.4 32.3  30.0    91  27.7 32.8  30.0   
+88  16.9 26.8  21.2   60 16.9 19.5  18.2   102 15.4 23.4  17.9   
+88  19.3 24.2  22.2   60 18.8 22.8  21.2   102 19.3 24.3  21.1   
+88  23.1 27.1  25.6   60 22.1 26.8  24.8   102 23.0 30.6  25.6   
+  
+88  21.3 29.5  23.6   60 19.1 24.7  22.0   101 18.0 25.6  21.4   
+88  23.6 29.3  26.6   60 24.0 30.0  26.7   101 23.4 29.9  26.7   
+88  32.3 38.6  35.3   60 34.0 41.3  36.9   101 33.7 41.8  37.8   
+88  29.3 35.8  32.7   60 30.0 36.5  32.9   101 28.8 37.0  32.7   
+
+24.3 
+63.6 
+49.6 
+45.0 
+13.2 
+24.3 
+14.3 
+10.4 
+29.6 
+21.4 
+17.5 
+17.5 
+25.0 
+
+20.6 
+27.9 
+41.2 
+32.4 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+32.1 
+
+24.6 
+65.7 
+48.9 
+47.7 
+14.6 
+26.2 
+13.1 
+10.9 
+35.5 
+30.8 
+18.4 
+21.2 
+25.9 
+
+  Holotype 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+22.8 
+27.8 
+34.2 
+32.9 
+
+ 
+
+ 
+
+ 
+
+   
+
+  Holotype n Low High Mean 
+ 
+30.5  6 25.2 28.8  27.2 
+ 
+  25.6  6 25.9 28.4  27.0 
+  63.0  6 62.8 64.3  63.6 
+  46.6  6 47.2 50.7  49.2 
+  44.9  6 44.8 47.1  46.3 
+  13.8  6 13.5 15.9  14.5 
+  26.9  6 25.3 27.6  26.4 
+  12.5  6 13.1 14.0  13.6 
+  11.1  6  9.9  11.8  11.1 
+  30.8  6 29.0 33.1  30.1 
+  31.8  6 28.5 37.2  33.5 
+  24.3  6 18.2 25.7  22.6 
+  21.6  6 22.1 23.5  22.5 
+  24.6  6 25.0 27.9  26.1 
+ 
+  25.6  6 19.4 24.7  22.1 
+  28.2  6 25.3 28.2  26.5 
+  34.6  6 28.9 35.8  33.6 
+  32.1  6 29.8 32.0  30.8 
+
+   
+
+ 
+
+ 
+
+ 
+
+listed Odontostilbe  aff.  piaba  caught  under  macrophytes
+Eichhornia azurea and Eichhornia crassipes in lago Cama-
+leão, considering Odontostilbe among the typical fish gen-
+era associated to Eichhornia spp., along with Ctenobrycon,
+Synbranchus, Hemigrammus, Moenkhausia, Mylossoma, and
+Hoplias. Some of the fish collected by Sánchez-Botero &
+Araújo-Lima (2001) were examined at INPA. Three distinct
+species of Cheirodontinae were identified by those authors
+as “O. fugitiva”, including two Serrapinnus species, plus O.
+fugitiva.  That  is  not  surprising,  since  O.  piaba  [actually
+Serrapinnus piaba] for example is used in the literature as a
+misidentification  of  several  Serrapinnus  spp.  In  any  case,
+Sánchez-Botero & Araújo-Lima (2001) results pointed out a
+high abundance of the cheirodontine O. fugitiva and at least
+three Serrapinnus spp.  (Serrapinnus  micropterus,
+Serrapinnus gr. microdon, and Serrapinnus n. sp., our iden-
+tifications) in lakes from the rio Solimões floodplain. Peter
+Bayley fish collections undertaken during the late 1970’s from
+the same lakes were also extensively examined (material at
+ANSP, MCP, and USNM), confirming that O. fugitiva is very
+common  in  these  floodplain  lakes. At  the  same  localities,
+Marchantaria Isle (lago Camaleão), Janauacá, and Janauari,
+O.  fugitiva was caught associated with macrophytes  Echi-
+nochloa polystachya, E. crassipes, Paspalum repens, Pani-
+cum sp., or unvegetated places, and considered as omnivorous
+(Petry et al., 2003).
+
+Two new cheirodontine species provisionally treated as
+“Odontostilbe”, but not described herein, are sympatric and
+have been found mixed with O. fugitiva in some jars. One of
+these new species mostly occurs in the río Ucayali basin and
+the second in the río Marañon basin.
+
+Odontostilbe ecuadorensis, new species
+
+Fig. 14
+
+Holotype. ANSP 170608, 1 (male 45.7 mm SL), Ecuador, Napo,
+Santa Cecilia, río Aguarico, 00°06’N 76°51W; W. G. Saul & F. B.
+Cross, 14 Jun 1968.
+Paratypes.  ECUADOR,  SUCUMBÍOS: ANSP  130574,  12m  (1
+male 45.6 mm SL, 9 females 42.7-46.7 mm SL, 1 female 49.1 mm SL
+c&s, 1 unsexed 35.1 mm SL), backwater of río Aguarico at Santa
+Cecilia, 00°06’N 76°51’W, W. G. Saul, 30 Jun 1967. MCP 38419,
+12m (5 males 32.7-38.6 mm SL, 1 female 40.1 mm SL, 6 unsexed
+24.1-36.2  mm  SL),  río  Napo,  beach  on  south  bank,  2.7  km  up-
+stream  from  bridge  at  Coca,  00°29’S  77°24’W,  D.  Stewart,  M.
+Ibarra,  R.  Barriga  &  Uquillas,  2  Oct  1981.  FMNH  113512,  74
+unsexed (4 males 32.4-33.4 mm SL, 70 unsexed 28.6-35.0 mm SL),
+same data as MCP 38419. KU 13524, 15m of 32 (7 males 36.3-
+45.8mm SL, 2 males 43.3 mm SL and 43.5 mm SL c&s, 2 females
+41.7 mm SL and 45.2 mm SL, 1 female 45.2 mm SL c&s, 3 unsexed
+33.6-34.8  mm  SL), Aguarico,  isolated  pool  at  backwater  of  río
+Aguarico at Santa Cecilia, W. G. Saul, 27 Jun 1968. KU 13526, 3m
+(1 male 44.0 mm SL, 2 females, 47.7-50.2 mm SL), río Aguarico at
+Santa Cecilia, W. G. Saul, 13 Mar 1967. MEPN 1517, 2m (1 female
+45.2 mm SL, 1 female 43.6 mm SL c&s), Sucumbíos, río Duguno, 2
+km on south of indian group Cofán del Duguno, Aguarico [drain-
+age],  00°08’15"N  76°45’18"W,  R.  Barriga  &  S.  Criollo,  1  May
+1995.  ECUADOR,  NAPO:  FMNH  113511,  1m  (7  males,  38.2-
+45.5 mm SL), río Napo, cocha of mainstream, at and 1.2 km down-
+stream  from  mouth  of  río  Suyunoyacu  (ca.  16  km  from  Coca),
+00°32’36’’S  77°04’54’’W,  22  Sep  1981.  FMNH  113513,  11m
+(unsexed 29.6-32.5 mm SL), río San Miguel at Tipishca, km 54.5,
+[upper río Putumayo], 00°12’30’’S 76°13’ W, D. Stewart, M. Ibarra
+& R. Barriga., 4 Oct 1983. FMNH 113514, 5m (4 males 40.6-43.2
+mm, 1 male 43.5 mm SL c&s, 1 female 40.3 mm SL), Napo, quebrada
+Capihuara, distributary of río Payamino, [río Coca, río Napo drain-
+
+180
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+age], 00°30’S 76°14’30’’W, D. Stewart, M. Ibarra & R. Barriga., 13
+Nov 1983.
+Non-type material. Río Napo basin, ECUADOR, SUCUMBÍOS:
+ANSP  141496,  2m  (unsexed  27.8-28.8  mm  SL),  [río  Pañayacu],
+00°25’S 76°07’W. ANSP 141506, 12m (unsexed 27.0-31.2 mm SL),
+Napo, near mouth of río Cuyabeno, 00°16’S 75°53’W. ECUADOR,
+NAPO: ANSP 141508, 1m (female 36.0 mm SL), mouth of río Shushu
+Fundi, 00°18’S 76°21’W. PERU, LORETO, MAYNAS, ARCADIA:
+USNM 379440, 1 (unsexed 28.5 mm SL), middle río Napo, Padre
+Isla, cocha Chica. USNM 379469, 1 (unsexed 21.2 mm SL), middle
+río Napo quebrada Negra 1, en la quebrada Norte. USNM 384420, 1
+(unsexed 22.3 mm SL), same data as USNM 379440. USNM 384822,
+1  (unsexed  18.0  mm  SL),  río  Napo,  cocha  de  Conchas.  PERU,
+LORETO, MAYNAS, CASTANA: USNM 328553, 5 (unsexed 17.0-
+18.1 mm SL), middle río Aguarico, quebrada Castana Negra. Lower
+río Napo, PERU, LORETO: ANSP 178148, 2m (unsexed 33.7 -40.9
+mm SL), Maynas, beach & backwater along right bank just upstream
+from  mouth  río  Mazán,  near  town  of  Mazán,  03°29’10’’S
+73°06’24’’W. INHS 36600, 2m (unsexed 30.4-32.0 mm SL), mouth
+of río Mazán, near town of Mazán. INHS 36658, 1m (unsexed 37.6
+mm SL), 1 km upstream mouth of río Mazán, 3 km west town of
+Mazán. INHS 36668, 1m (unsexed 30.6 mm SL), 1 km upstream
+mouth of río Mazán, 3 km west town of Mazán.
+
+Diagnosis. Characters that diagnose Odontostilbe ecuador-
+ensis are: (1) upper gill rakers 5-6, lower 9-11, mostly 10-11 (vs.
+upper gill rakers 6-8, mostly 6-7, and lower 11-14, usually 12 in
+O. fugitiva (Fig. 13a-b); (2) denticulation of gill rakers more
+numerous in O. ecuadorensis than in O. fugitiva (in speci-
+mens larger than 32.5 mm SL), mainly on posteriormost gill
+raker of lower arch (5-6 denticles on basal portions of gill
+raker in O. ecuadorensis vs. 0-2 in O. fugitiva (Figs. 3, 16); (3)
+elongate 2nd unbranched dorsal-fin ray (vs. not elongate in O.
+euspilura and very short elongate in O. pulchra); (4) no hooks
+on unbranched pelvic-fin ray (vs. 1-2 unpaired hooks per seg-
+ment on 1st unbranched pelvic-fin ray occasionally present in
+O. euspilura and O. pulchra); (5) 1-3 paired or unpaired hooks
+per segment on last unbranched anal-fin ray, and 1st to 16th
+anal-fin branched rays (small hooks like knots on anal-fin ray
+branches, usually on 10th branched fin ray and following rays)
+(vs. well-developed hooks on 1st to 22nd anal-fin branched rays
+at distal half length of fin rays in O. pulchra); and (6) usually
+seven  large  dentary  teeth,  with  seven  cusps  (vs. 4  large
+dentary teeth with 3 large and compressed central cusps and
+2, 3 lateral small cusps in O. pequira). Odontostilbe ecuador-
+ensis differs from sympatric O. euspilura by its terminal mouth
+(vs. subterminal mouth).
+
+Description. Morphometric data given in Table 2. Slender
+and large Odontostilbe species, largest male (holotype) 45.7
+mm SL, largest female 47.7 mm SL. Body elongate and com-
+pressed, more compressed in males than females. Greatest
+body  depth  at  dorsal-fin  origin.  Snout  pointed  in  males,
+rounded in females. Head profile slightly convex from snout
+to dorsal-fin origin; profile descends from that point almost
+straight to caudal peduncle. Ventral profile convex from lower
+jaw to caudal peduncle. Anal-fin base straight. Caudal pe-
+duncle slightly longer than deep.
+
+Head relatively small. Posterior margin of opercle sinusoi-
+dal with upper portion concave and lower portion convex.
+Mouth terminal. Maxilla short terminates at vertical near or at
+anterior eye border, horizontal to lower eye border. Dentition
+(based on 6 c&s specimens and 28 alcohol specimens). Pre-
+maxillary teeth 4, 5, or 6, bearing 5-9 cusps (usually 7, 8, or 9);
+midcentral cusp longest, lateral cusps overlap cusps of adja-
+cent teeth (Fig. 15). Premaxillary teeth juxtaposed external to
+dentary teeth, leaving premaxillary tooth cusps exposed when
+mouth closed. Maxilla with 2 or 3 teeth bearing 1-9 (usually 7)
+cusps, decreasing cusp number toward posterior tip of max-
+illa. Dentary teeth 8-9 gradually decreasing in size posteri-
+orly, anterior 6 teeth large bearing 5-7 cusps (usually 7), and
+posterior teeth small, conic or with 2-5 cusps. Smaller cusps
+of dentary teeth overlap cusps of adjacent teeth, usually not
+in posteriormost teeth.
+
+Dorsal-fin rays ii(89), 9(89). Dorsal fin slightly posterior
+to mid body length, and slightly posterior to pelvic-fin origin.
+First unbranched dorsal-fin ray in females and immature males
+about half length of second unbranched dorsal-fin ray. Sec-
+ond unbranched dorsal-fin ray elongate in mature males, ex-
+tending beyond dorsal-fin distal profile. Anal-fin rays iii(1),
+iv(8), v(78), vi(2); 18(3), 19(15), 20(34), 21(31), or 22(6). Anal-
+fin distal border concave, anterior 6-7 branched rays longest.
+Pectoral-fin rays i(89), 10(8), 11(55), or 12(26). Unbranched
+pectoral-fin ray reaching or not pelvic-fin origin, never ex-
+tending beyond pelvic-fin origin. Pelvic-fin rays i(89), 6(1),
+7(87), or 8(1). Unbranched pelvic-fin rays longest in mature
+males, extending beyond origin of anal fin. Lateral skin bor-
+der of unbranched pectoral-fin rays and unbranched pelvic-
+fin rays thickened in mature males, bearing thin laterodorsal
+projection of hard tissue covered with soft tissue. Principal
+caudal-fin rays 19(89). Procurrent caudal-fin rays: dorsal 8(1),
+9(3), 10(5), 11(31), 12(44), or 13(5); ventral 8(5), 9(33), 10(41),
+11(9), or 12(1). Sometimes 1-2 anterior ventral procurrent cau-
+dal-fin rays laterally expanded, bifurcated, or S-shaped. Cau-
+dal-fin ray flaps ventrally on 3rd-8th rays of upper lobe, dor-
+sally on 12th-16th rays of lower lobe. Adipose-fin at vertical
+through to last anal-fin ray insertion.
+
+Males with robust, elongate, retrorse hooks on poste-
+rior border of pelvic- and anal-fin rays. One to 3 paired or
+unpaired  hooks  per  segment  on  last  unbranched  anal-fin
+ray, and 1st to 16th branched anal-fin rays, more developed
+from 1st to usually 7th rays and very small like knots usually
+on 10th branched fin ray and following rays. Hooks on middle
+portion  of  anterior  rays  and  on  distal  portion  after  3rd
+branched  anal-fin  ray.  One  to  3  unpaired  acute,  elongate
+hooks per segment of lepidotrichia along almost entire length
+of 1st to 7th branched pelvic-fin rays, and reaching tip of fin
+rays (except on 1st branched pelvic-fin ray, on midlenght
+portion). No hooks found on 1st unbranched pelvic-fin ray.
+One or two hooks on anterior border of branches of anal-fin
+rays. One or two hooks on anterior border of branches of
+pelvic-fin rays.
+
+Scales cycloid; lateral line complete 35(6), 36(42), 37(11),
+or 38(2); predorsal row 10(37), 11(48), or 12(2); upper trans-
+
+C. M. Bührnheim & L. R. Malabarba
+
+181
+
+Fig. 14. Holotype of Odontostilbe ecuadorensis, ANSP 170608, male 45.7 mm SL (top), and paratypes MEPN 1517, 1 female
+45.2 mm SL (middle) with exceptionally developed ovaries, ANSP 130574, female 46.6 mm SL (bottom).
+
+verse rows 5(9), 6(76), or 7(2); lower transverse rows 4(87) or
+5(1); scale rows around caudal peduncle 14(73). Triangular
+modified scale on pelvic fin base extends posteriorly cover-
+ing 2, 3 scales. Scales on anal-fin base 6-8.
+
+Cleared  and  stained  specimens  (5):  supraneurals  4;
+precaudal vertebrae, 16(4) or 17(1); caudal vertebrae 18(1),
+19(2), or 20(2); gill rakers, upper 5(2) or 6(3), lower 10(2) or
+11(3) (2 on hypobranchial). Alcohol specimens (58): gill rak-
+ers, upper 5(35), 6(22), or 7(1), lower 9(1), 10(36), or 11(21).
+
+Upper gill rakers with 1-6 recurved denticles on anterolateral
+border,  and  1-3  similar  denticles  on  posterolateral  border;
+lower gill rakers with 1-6 recurved denticles on anterolateral
+border (1-4 anteriormost lower gill rakers with opposing 1-3
+denticles); excepting posteriormost lower gill raker with 3-6
+recurved denticles irregularly placed on anterior border, and
+4-6 similar denticles on posterior border (Fig. 16a-d). Less
+numerous in small specimens (one specimen 27.1 mm SL, with
+none to 3 denticles on lateral border of upper gill rakers, and
+
+182
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+phores on unbranched pelvic-fin ray. Anal fin mostly clear
+with few dark chromatophores. Some specimens bearing dark
+chromatophores on distal portion of middle branched anal-
+fin rays. Adipose fin not pigmented. Caudal fin almost en-
+tirely covered with diffuse dark chromatophores along fin
+rays, except light areas on base of caudal-fin lobes just be-
+hind  caudal-fin  spot.  Somewhat  rounded  brownish  caudal
+spot on base of caudal fin, reaching upper border of peduncle,
+but  never  reaching  lower  border,  sometimes  extending  on
+proximal portion of 7th to 12th central caudal-fin rays (speci-
+mens from río Cuyabeno). Holotype is not well-pigmented,
+with pelvic and anal fins hyaline.
+
+Black chromatophores on snout, upper lip, sometimes on
+lower lip, anteriormost portion of maxilla, and 1st, 2nd, and 6th
+infraorbitals. Pigmentation on top of head on frontals, and
+parietals  with  deep-lying  dark  chromatophores  over  brain
+membranes below frontals and parietals, and fontanel. Body
+with faint dark and silver midlateral stripe, sometimes reduced
+to one or two parallel lines, along middle longitudinal body
+axis, beginning above pseudotympanum, above lateral line,
+and reaching caudal spot. Guanine on eye iris, opercle, isth-
+mus, and most of 3rd, 4th, and 5th infraorbitals. Below lateral
+line, belly faint, chromatophores just above anal fin-base form-
+ing 6 to 10 chevron shaped markings.
+
+Sexual dimorphism. Males with hooks on anal- and pelvic-
+fin rays, elongate dorsal- and pelvic-fin rays, in contrast to
+absence of these features in females (see description). Gill
+gland (Burns & Weitzman, 1996) presents on first gill arch in
+mature males, covering about 8 to 12 anterior branchial fila-
+ments (Fig. 16). Principal component analysis of morphomet-
+ric data of males and females denotes sexual dimorphism in
+general body shape (Fig. 17). Principal component 2 (PC2)
+grouped males and females separately, being affected strongly
+and negatively by snout length, pelvic-fin length, and caudal
+peduncle length; and positively by depth at dorsal-fin origin.
+Males are distinguished from females in all these characters,
+showing higher values of snout length, pelvic-fin length, and
+caudal  peduncle  length  than  females,  while  females  have
+higher values of body depth at dorsal-fin origin than males
+(Table 2). Principal component 3 (PC3) was affected strongly
+and  positively  by  snout  length  and  upper  jaw  length,  and
+negatively by pelvic-fin length and dorsal-fin length. Some
+males have well-developed dorsal and pelvic-fin rays, and
+protuding  snouts  (greater  snout  length,  and  upper  jaw
+length). This correlates with their heaviest loadings in PC3
+forming a group on upper left corner of the graph (Fig. 17).
+
+Distribution. Río Napo, río Putumayo, and río Pastaza basins
+(a single lot known for the latter) (Fig. 18). Nearly all material
+from Ecuador, and some lots from Peru on border with Ecua-
+dor. The species is also recorded on lower río Napo basin in
+sympatry with O. fugitiva.
+
+Etymology. The epithet ecuadorensis refers to the country
+where the species was first discovered.
+
+Fig. 15. Dentition of Odontostilbe ecuadorensis, KU 13524,
+male 43.5 mm SL. SEM photograph of left side premaxilla (top),
+maxilla (middle), and dentary (bottom).
+
+none to 3 on lateral border of lower gill rakers). All denticula-
+tion mostly on basal portion of gill rakers.
+
+Color in alcohol. General ground body color brownish yel-
+low. Dark dorsum pigmentation from head to caudal peduncle,
+chromatophores mostly on border of scales. Pigmented scales
+extend laterally on body above longitudinal stripe, sometimes
+on pseudotympanum area in well-pigmented specimens. Dark
+chromatophores on all dorsal-fin rays, along 1st and 2nd un-
+branched fin rays and faint on 1st-8th branched dorsal-fin rays,
+almost hyaline on 9th branched ray. Dark chromatophores on
+1st unbranched pectoral-fin ray, less numerous on 1st and 2nd
+branched fin rays, following branched rays practically hya-
+line. Pelvic fins usually hyaline, with some dark chromato-
+
+C. M. Bührnheim & L. R. Malabarba
+
+183
+
+Fig. 16. First gill arch of Odontostilbe ecuadorensis, FMNH 113514, male 40.6 mm SL (photos a, b, d). SEM photographs of the
+left side gill arch showing gill gland (a), in detail gill rakers on upper branchial branch (b), gill rakers on lower branchial branch
+(FMNH 113513, unsexed 32.5 mm SL) (c), and the posteriormost gill raker on the lower branch in detail (d). Lateral view.
+
+Ecological  notes.  Saul  (1975)  identified  Odontostilbe  cf.
+madeirae Fowler, 1913, and Holoshesthes heterodon Eigen-
+mann, 1915 as two cheirodontine species commonly taken
+together in the río Aguarico, the former primarily feeding on
+algae and plant material, and the latter on insects and insect
+larvae. However, examination of Saul’s (1975) material proved
+the species named O. cf. madeirae to be a mix of O. ecuador-
+ensis described herein and O. euspilura. The material he named
+H. heterodon consist of an undescribed cheirodontine. Part
+of the specimens caugth by W. Saul was selected herein as
+type material for O. ecuadorensis. These Ecuadorian species
+are reported to occur in clearwater, blackwater or turbid wa-
+ters, riverine sandy-beaches (Stewart et al., 2002), or lagoons
+and associated tributaries (Galacatos  et  al., 1996). All the
+material examined for this study came from altitudes between
+200-500 m. Galacatos et al. (1996) recognized two altitudinal
+regions in Ecuadorian Amazon, lowland between 200 m and
+220 m, and piedmont between 235 m and 295 m, where most
+Odontostilbe species were caught, preferentially in lagoons
+rather than streams.
+
+Fig. 17. Principal component analysis of the 18 morphometric
+data of males (M) and females (F) of Odontostilbe ecuador-
+ensis. Stronger loadings on the second and third principal
+components (PC2, PC3).
+
+184
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Table 2. Morphometrics of Odontostilbe ecuadorensis n. sp. (holotype ANSP 170608, 12 of ANSP 130574, 2 of MEPN 001517,
+15 of KU 13524, 3 of KU 13526, 7 of FMNH 113511, 11 of FMNH 113513, 5 of FMNH 113514).
+
+ 
+ 
+Standard length 
+Percents of standard length 
+  head length  
+  snout-anal fin origin 
+  snout-dorsal fin origin 
+  snout-pelvic fin origin 
+  dorsal-fin base 
+  anal-fin base 
+  caudal peduncle length 
+  caudal peduncle depth 
+  depth at dorsal-fin origin  
+  dorsal-fin length 
+  pelvic-fin length 
+  pectoral-fin length 
+  snout-pectoral-fin origin 
+Percents of head length 
+  snout length 
+  upper jaw length  
+  horizontal eye diameter 
+  least interorbital width 
+
+Males 
+
+Holotype 
+
+45.7 
+
+n  Low  High  Mean 
+27  32.7 
+41.4 
+
+45.8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23.9 
+63.2 
+47.3 
+45.7 
+14.0 
+26.7 
+14.2 
+11.8 
+30.6 
+32.8 
+23.0 
+21.7 
+23.2 
+
+25.7 
+24.8 
+32.1 
+33.9 
+
+27  23.2 
+27  62.0 
+27  46.9 
+27  44.2 
+27  13.2 
+27  23.4 
+27  12.3 
+27 
+9.6 
+27  27.0 
+23  27.7 
+27  17.1 
+27  20.1 
+27  23.0 
+
+ 
+
+ 
+
+ 
+
+27  22.8 
+27  23.1 
+27  33.3 
+27  30.6 
+
+26.0 
+67.1 
+50.5 
+49.0 
+14.5 
+27.1 
+14.8 
+12.5 
+34.1 
+34.9 
+24.8 
+23.5 
+25.7 
+
+28.6 
+28.3 
+38.1 
+35.6 
+
+ 
+
+24.3 
+64.7 
+48.6 
+46.5 
+13.9 
+25.6 
+13.6 
+11.0 
+29.7 
+30.3 
+19.9 
+21.7 
+24.2 
+
+25.0 
+26.4 
+35.6 
+32.9 
+
+ 
+
+ 
+
+ 
+
+50.2 
+
+Females 
+
+ 
+  n  Low  High  Mean 
+  18  31.2 
+43.8 
+   
+  18  22.2 
+  18  64.5 
+  18  48.9 
+  18  45.8 
+  18  13.2 
+  18  24.8 
+  18  11.4 
+  18  10.6 
+  18  32.1 
+  15  28.1 
+  18  17.0 
+  18  20.1 
+  18  22.1 
+   
+  18  19.0 
+  18  23.0 
+  18  33.9 
+  18  30.9 
+
+23.2 
+66.8 
+50.4 
+47.8 
+14.1 
+25.6 
+12.6 
+11.5 
+36.1 
+29.7 
+18.1 
+21.2 
+23.4 
+
+25.3 
+70.8 
+52.2 
+51.8 
+14.9 
+26.7 
+13.8 
+12.5 
+43.8 
+32.1 
+19.0 
+23.0 
+25.3 
+
+21.6 
+26.0 
+36.9 
+34.0 
+
+23.9 
+28.0 
+39.1 
+36.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46.6 
+
+Unsexed 
+
+ 
+  n  Low  High  Mean 
+  43  24.1 
+32.5 
+   
+  43  22.7 
+  43  62.9 
+  43  48.6 
+  43  46.0 
+  43  12.6 
+  43  23.4 
+  43  10.9 
+  43 
+9.7 
+  43  27.0 
+  40  27.6 
+  43  16.6 
+  43  19.1 
+  43  23.3 
+ 
+  43  19.4 
+  43  23.5 
+  43  35.8 
+  43  29.6 
+
+25.3 
+65.8 
+50.5 
+47.7 
+14.3 
+25.4 
+12.8 
+11.0 
+31.8 
+29.7 
+17.9 
+21.1 
+25.2 
+
+27.5 
+68.3 
+52.4 
+49.7 
+15.6 
+27.3 
+14.0 
+12.1 
+36.7 
+31.9 
+19.7 
+22.5 
+27.7 
+
+22.1 
+27.0 
+37.8 
+32.1 
+
+24.1 
+29.2 
+40.7 
+36.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1m (unsexed 38.0 mm SL), rio Madeira basin, lake on the right bank
+of río Nareuda, ca. 5 km from mouth of río Tahuamanu, J. Sarmiento
+& S. Barrera, 11 Sep 1996. BRAZIL, RONDÔNIA: MCP 38417,
+20 (1 male 28.8 mm SL, 19 unsexed 24.0-28.6 mm SL), [Calama],
+poço da Angélica, rio Madeira, M. Goulding, 12 Dec 1980, for-
+merly MZUSP 42837. MZUSP 87759, 1m (female 35.3 mm SL),
+Calama, M. Goulding, 2 Feb 1981. MZUSP 87760, 5m (4 unsexed
+27.0-34.5 mm SL, and 1 unsexed c&s 27.5 mm SL), same data as
+MCP  38417.
+
+Non-type material. Río Madeira basin, BRAZIL, AMAZONAS:
+MZUSP 42837, 200 (unsexed 21.5-28.3 mm SL), [Calama], poço
+da  Angélica,  rio  Madeira.  Río  Mamoré  basin,  BOLIVIA,
+MOTACUSAL: MNHN 1989-1465, 10 of 112 (7 unsexed 21.5-
+25.7 mm SL, 3m unsexed- 26.7-28.7 mm SL), río Isiboro, río Mamoré
+basin. Río  Purus  basin,  BRAZIL, ACRE:  MZUSP  87752,  2
+(unsexed 26.3-26.8 mm SL), rio Acre, between Seringal Paraíso and
+lago Amapá.  MZUSP  87753,  1  (unsexed  33.1 mm  SL),  Manoel
+Urbano,  rio  Purus.  Río  Orthon  -  lower  Río  Beni  basin,  BO-
+LIVIA, PANDO: FMNH 106429, 1 (unsexed 20.0 mm SL), lake on
+the right bank of río Nareuda, around 3-4 km above mouth of río
+Tahuamanu. FMNH 106432, 3 (unsexed 21.9-30.9 m SL), approx.
+2-3 km above mouth of río Muyumanu. FMNH 106434, 2 (unsexed
+29.2-29.2 mm SL), right bank of stream Filadelfia, approx. 10 km
+from mouth of río Nareuda. FMNH 106435, 2 (unsexed 21.0-21.5
+mm SL), hidden lake on right bank of río Tahuamanu, approx. 500 m
+from mouth of río Nareuda. FMNH 106436, 1 (unsexed 23.2 mm
+SL), río Tahuamanu at rocks and island archipelago and rapids, 68
+km below mouth of río Nareuda. FMNH 106462, 1m (unsexed 28.3
+mm SL), río Nareuda at camp, altitude 250 m.
+
+Diagnosis. Odontostilbe nareuda basically differs from all
+other species by larger anal-fin base length, 30.6-32.8% SL
+(e.g. vs. 23.5-29.4% SL in O. fugitiva, Fig. 20, or 23.1-28.5% SL
+in O. dierythrura), and higher anal-fin counts, 24-26 (vs.16-24
+
+Figs.  18.  Distribution  of  Odontostilbe  ecuadorensis  (tri-
+angles), Odontostilbe nareuda (squares), and Odontostilbe
+parecis (losangles). Symbols can represent more than one
+lot, and more than one locality.
+
+Odontostilbe nareuda, new species
+
+Fig. 19
+
+Holotype.  CBF  09621,  1  (male  33.1  mm),  Bolivia,  Pando,  [río
+Orthon  - rio Madeira basin], lake on right bank of  río Nareuda,
+around 3-4 km above mouth of río Tahuamanu, H. Ortega et al., 10
+Sep 1996.
+Paratypes. BOLIVIA, PANDO: FMNH 106433, 4m of 17 (2 males
+29.4-31.4 mm SL, 1 male 31.6 mm SL c&s, 1 female? 32.3 mm SL,
+13 unsexed 19.5-27.1 mm SL not measured), same data as holo-
+type. FMNH 106428, 1m (unsexed 30.9 mm SL), rio Madeira ba-
+sin, lake on the right bank of río Nareuda, ca. 3-4 km above mouth
+of río Tahuamanu, H. Ortega et al., 10 Sep 1996. FMNH 106430,
+
+C. M. Bührnheim & L. R. Malabarba
+
+185
+
+Fig. 19. Holotype of Odontostilbe nareuda, CBF 09621, male 33.1 mm (top), and paratype FMNH 106433, possibly a female
+32.3 mm SL, not showing dimorphic characters of males (bottom).
+
+for all other species). Adittionaly, gill raker counts on upper
+branch 5-6 and lower branch 11-12 of O. nareuda differ from
+sympatric species O. fugitiva with mostly 6-7 on upper and
+12-13 on lower (Figs. 13a-b).
+
+Description. Morphometric data given in Table 3. Largest
+male 33.1 mm SL; female 32.3 mm SL. Body elongate and com-
+pressed. Greatest body depth at dorsal-fin origin. Snout usu-
+ally pointed; not protuded in males. Dorsal profile ascends
+slightly convex from snout to dorsal-fin origin, and descends
+straight from that point to caudal peduncle. Ventral profile
+convex from lower jaw to anal-fin origin, and straight along
+anal-fin base. Caudal peduncle slightly longer than deep.
+
+Head relatively small. Posterior margin of opercle sinusoi-
+dal with upper portion concave and lower portion convex.
+Mouth terminal. Maxilla short, oblique; posterior tip reaching
+near or to vertical at anterior eye border, and ending at level
+of inferior eye border. Cleared and stained specimens (2). Pre-
+maxillary teeth 5, bearing 7-9 cusps; midcentral cusp longer
+than lateral cusps; smaller lateral cusps of each tooth overlap
+cusps of adjacent teeth, except anteriormost teeth (Fig. 21).
+
+Premaxillary teeth juxtaposed externally to dentary teeth, leav-
+ing premaxillary tooth cusps exposed when mouth closed.
+
+Fig. 20. Anal-fin base as a function of standard length for
+males,  females  and  unsexed  specimens  of  Odontostilbe
+fugitiva  against  Odontostilbe  nareuda.
+
+186
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Maxilla with 2 teeth bearing 2-8 cusps, usually decreasing
+cusp number to posterior tip of maxilla. Dentary teeth 8-11
+bearing 1-7 cusps, gradually decreasing in size posteriorly;
+anterior 6 teeth large with 5-7 cusps, and remainder small
+with 1-4 cusps. Smaller cusps of dentary teeth overlaping adja-
+cent tooth cusps, usually not in posteriormost teeth. All dentary
+tooth cusps slightly recurved towards interior of mouth.
+
+Dorsal-fin rays ii(17) or 9(17). Dorsal-fin origin slightly
+posterior to midlength of body, and slightly posterior to ver-
+tical through pelvic-fin origin. Anal-fin rays v(16), vi(1), 23(3),
+24(9), 25(4), or 26(1). Anal-fin distal border concave, about 7
+
+Fig 21. Dentition of Odontostilbe nareuda, FMNH 106433,
+male 31.6 mm SL. SEM photograph of left side premaxilla (top),
+maxilla (middle), and dentary (bottom).
+
+Fig. 22. First gill arch of Odontostilbe nareuda, FMNH 106433,
+unsexed 29.2 mm SL. SEM photographs of the left side gill
+arch  (top),  in  detail  gill  rakers  on  upper  branchial  branch
+(middle), and gill rakers on lower branchial branch (bottom).
+Lateral view.
+
+C. M. Bührnheim & L. R. Malabarba
+
+187
+
+Table 3. Morphometrics of Odontostilbe nareuda n. sp. (holotype CBF 09621, paratypes 5 of FMNH 106433, 1 of MZUSP
+87759, 5 of MZUSP 87760, non-paratypes 3 of MNHN 1989–1465, 1 of FMNH 106428, 1 of FMNH 106430, and 1 FMNH 116462).
+
+ 
+ 
+Standard length 
+Percents of standard length 
+  head length  
+  snout-anal fin origin 
+  snout-dorsal fin origin 
+  snout-pelvic fin origin 
+  dorsal-fin base 
+  anal-fin base 
+  caudal peduncle length 
+  caudal peduncle depth 
+  depth at dorsal-fin origin  
+  dorsal-fin length 
+  pelvic-fin length 
+  pectoral-fin length 
+  snout-pectoral-fin origin 
+Percents of head length 
+  snout length 
+  upper jaw length  
+  horizontal eye diameter 
+  least interorbital width 
+
+Holotype 
+
+33.1 
+
+25.1 
+59.5 
+49.5 
+43.5 
+13.6 
+31.1 
+13.0 
+11.2 
+30.5 
+30.8 
+18.1 
+22.1 
+25.1 
+
+ 
+
+22.9 
+27.7 
+38.6 
+31.3 
+
+Males 
+
+ 
+
+ 
+
+ 
+
+31.6 
+
+25.9 
+60.8 
+51.0 
+44.9 
+15.0 
+31.8 
+13.0 
+10.9 
+31.3 
+33.0 
+18.4 
+22.4 
+25.9 
+
+n  Low  High  Mean 
+3  29.4 
+30.8 
+ 
+3  25.0 
+3  58.9 
+3  50.0 
+3  43.9 
+3  13.6 
+3  31.3 
+3  12.4 
+3  10.2 
+3  30.4 
+2  30.9 
+3  17.8 
+3  21.3 
+3  25.3 
+ 
+3  22.8 
+3  27.8 
+3  40.5 
+3  31.6 
+
+25.3 
+60.0 
+50.5 
+44.3 
+14.2 
+31.6 
+12.7 
+10.6 
+31.0 
+31.9 
+18.1 
+22.0 
+25.5 
+
+23.7 
+29.1 
+42.1 
+31.6 
+
+23.1 
+28.6 
+41.0 
+31.6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+37.9 
+
+Unsexed 
+
+ 
+  n  Low  High  Mean 
+  13  26.7 
+30.3 
+ 
+  13  24.1 
+  13  59.9 
+  13  49.1 
+  13  42.8 
+  13  13.5 
+  13  30.6 
+  13  11.3 
+  13 
+9.4 
+  13  30.3 
+  7 
+30.4 
+  13  16.5 
+  13  18.7 
+  13  24.1 
+ 
+  13  19.8 
+  13  25.7 
+  13  37.6 
+  13  29.6 
+
+25.4 
+60.7 
+50.6 
+44.2 
+14.2 
+31.8 
+12.3 
+10.5 
+31.9 
+31.4 
+17.2 
+20.4 
+25.7 
+
+26.1 
+62.0 
+52.2 
+45.9 
+15.6 
+32.8 
+13.1 
+11.5 
+34.8 
+32.4 
+18.0 
+21.1 
+26.1 
+
+20.6 
+27.1 
+39.7 
+31.1 
+
+21.6 
+29.6 
+41.4 
+33.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anterior branched rays longer than posterior rays. Pectoral-
+fin rays i(17), 9(1), 10(9), or 11(7). Unbranched pectoral-fin
+ray reaching or not reaching pelvic-fin origin, extending be-
+yond pelvic-fin origin in mature males. Pelvic-fin rays i(20),
+6(1), or 7(19). No evident elongation of unbranched dorsal or
+pelvic-fin rays in males. Lateral skin border of unbranched
+pectoral-fin rays and unbranched pelvic-fin rays thickened in
+mature males, bearing thin laterodorsal projection of hard tis-
+sue covered with soft tissue. Principal caudal-fin rays 19(20).
+Procurrent caudal-fin rays: dorsal 11(7), 12(8), or 13(2); ven-
+tral 9(7) or 10(10). Sometimes anterior ventral procurrent cau-
+dal-fin rays modified, distally bifurcated. Caudal-fin ray flaps
+ventrally on 4th-7th rays of upper lobe, and dorsally on 14th-15th
+rays of lower lobe. Adipose-fin at vertical through last anal-
+fin ray insertion.
+
+Holotype and paratype males of FMNH 106433 are unique,
+all  having  not  totally  developed  hooks.  Males  with  acute,
+retrorse hooks on posterior margin of pelvic and anal-fin rays.
+One  or  two paired  or  unpaired  hooks  per  segment  of
+lepidotrichia on last unbranched anal-fin ray, and 1st to 9th
+anal-fin branched rays, positioned at middistal length of rays.
+One or two unpaired hooks per segment of lepidotrichia along
+almost entire length of 1st to 7th branched pelvic-fin rays, and
+reaching tip of fin rays (except on 1st branched pelvic-fin ray,
+on midlenght portion).
+
+Scales  cycloid;  lateral  line  complete  35(1)  or  36(6);
+predorsal row 10(6) or 11(10); scale rows between lateral line
+and dorsal-fin origin 5(7) or 6(6); scale rows between lateral
+line and anal-fin origin 4(15), scale near pelvic-fin origin usu-
+ally smaller than others); scale rows around caudal peduncle
+14(7). Triangular modified scale on pelvic-fin base extends
+posteriorly covering 1-3 scales. Scales on anal-fin base 6-7.
+Cleared and stained specimens (2): supraneurals 4(1) or
+
+5(1); precaudal vertebrae, 16(2); caudal vertebrae 19(2). Gill
+rakers (counted in 15 alcohol specimens, and 2 c&s), upper
+5(3) or 6(13); lower 10(3), 11(7), or 12(6) (1-2 on hypobran-
+chial). Upper gill rakers with 1-3 recurved denticles on antero-
+lateral border, and none or 1 similar denticle on posterolateral
+border; lower gill rakers with none to 3 recurved denticles on
+anterolateral border (1-4 anteriormost lower gill rakers with
+none or 1 denticle on posterolateral border); posteriormost
+lower gill raker with 3 denticles on anterolateral border, and 1-
+2 similar denticles on posterolateral border (Fig. 22). All den-
+ticulation mainly on basal portion of gill rakers.
+
+Color in alcohol. General ground body color brownish or
+pale yellow. Dorsal portion of body dark from head to caudal
+peduncle;  dark  chromatophores  mostly  on  scale  borders,
+forming reticulated pattern. Pigmented scales not extending
+laterally  on  body,  no  distinct  dark  chromatophores  on
+pseudotympanum area. Dorsal fin entirely with dark chro-
+matophores scattered along all fin rays, more densely along
+1st and 2nd unbranched dorsal-fin rays. Pectoral and pelvic
+fins with scattered dark chromatophores, more numerous on
+anteriormost portions of fins. Holotype with pelvic fins hya-
+line. Anal fin mostly pigmented, dark chromatophores spread
+on all fin rays, except at tips of last unbranched fin ray and 1st
+branched fin ray. Adipose fin hyaline. Caudal fin almost en-
+tirely covered with diffuse dark chromatophores along fin
+rays, clear areas on base of caudal-fin lobes just behind cau-
+dal-fin spot. Rounded black to brown spot on base of caudal
+fin, reaching upper and lower border of peduncle, usually
+lighter near ventral border, sometimes extending little on proxi-
+mal portion of 7th to 12th central caudal-fin rays.
+
+Numerous  chromatophores  on  snout,  as  well  as  upper
+and lower lips (on lower lip these almost form line). Numerous
+
+188
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+dark chromatophores on anteriormost portion of maxilla, and
+1st infraorbital. Pigmentation on top of head on frontals and
+parietals, and deep-lying dark chromatophores cover brain
+membranes below frontals, parietals, and fontanel. Body with
+faint dark midlateral stripe, sometimes reduced to line along
+longitudinal body axis, beginning below dorsal fin, above
+lateral line, and extending to caudal spot. Belly pale, almost
+without chromatophores below lateral line, except above anal-
+fin base with 7 to 12 chevron shaped markings. Guanine on
+eye iris, interopercle, opercle, subopercle, isthmus, 2nd to 4th
+infraorbitals, lateral portion of parietals just behind eye, and
+belly. Guanine more evident in MCP 38417, and MZUSP 87760
+specimens. Holotype with some guanine.
+
+Odontostilbe nareuda seems to have fewer dark chromato-
+phores than similar species such as O. fugitiva, O. dierythrura,
+and O. parecis, and another new species from río Madre de
+Dios (in manuscript), all of these occur in the rio Madeira ba-
+sin. Except for O. parecis from rio Guaporé basin, the other
+three species were found to be sympatric with O. nareuda.
+
+Sexual dimorphism. Only three males available, holotype and
+two paratypes, but these are not fully mature, without com-
+pletely developed hooks. These males have longer pectoral-
+fin rays in contrast with specimens with undetermined sex,
+statistically  significant  in  test  for  coincidental  regressions
+(F(2, 276) = 28.5, p<0.00) (Fig. 23). The snout profile of holotype
+is slightly protruded in comparison with the unsexed paratype
+FMNH 106433 (Fig. 19). Gill gland not found in males of O.
+nareuda. Absence of this gill gland probably explained by
+lack of mature males among examined specimens.
+
+Distribution. Odontostilbe nareuda is known from the lower
+río Beni basin, in the ríos Nareuda and Muyumanu, of the ríos
+Tahuamanu-Orthon drainage that runs parallel to the río Madre
+de Dios, and the middle rio Madeira (Fig. 18). However, it may
+be widespread in the rio Madeira basin. Some specimens from
+the upper rio Mamoré basin were tentatively identified as O.
+nareuda. Also, three specimens from the rio Purus match the
+
+Fig. 23. Pectoral-fin length as a function of standard length
+for males versus unsexed specimens of Odontostilbe nareuda.
+
+larger anal-fin base diagnostic of O. nareuda. A somewhat
+similar distribution was observed for Creagrutus occidaneus
+that occurs in río Madre de Dios and upper rio Purus (Vari &
+Harold, 2001). Further samples of these regions including
+mature males and females are needed to assure these distri-
+butions.
+
+Etymology. In allusion to the type-locality, in the río Nareuda.
+
+Ecological notes. FMNH field notes for O. nareuda indicate
+that it occurs in oxbow lakes, river or small river habitats in
+forest, having whitewater or turbid-white water. The bottom
+was sandy or muddy substrate with sticks, logs, and leaves.
+Nevertheless the río Nareuda is mostly a blackwater river as
+noted by Machado-Alllison et al. (1999a), all the locality notes
+of FMNH lots refer to whitewater, except FMNH 106430 which
+mentions clearwater of brown color. The lower río Nareuda
+seems to be influenced by whitewaters of the río Tahuamanu
+- río Orthon basin. The FMNH specimens all came from the
+AquaRAP expedition in the upper río Orthon basin, Bolívia.
+These  specimens  were  originally  identified  as  Cheirodon
+fugitiva, Odontostilbe fugitiva or Odontostilbe sp. (Chernoff
+et al., 1999; Sarmiento et al., 1999). Specimens identified for
+the AquaRAP expedition as O. paraguayensis, and listed as
+that species by Willink et al. (1999) as “believed to be” a new
+record for the Bolivian Amazon, actually are O. nareuda or an
+undescribed  species  of  cheirodontine.  Both  species  were
+collected  together,  being  probably  syntopic.  Machado-
+Allison et al. (1999b) detailed the abundance of species re-
+garding the field station that corresponds to FMNH lots of
+the holotype and some paratypes (FMNH 106433) and cited
+“O.  paraguayensis”  as  the  most  abundant  species,  and
+“Cheirodon fugitiva” the fifth ranked, being “typically from
+cochas or flooded lakes”.
+
+Odontostilbe parecis, new species
+
+Fig. 24
+
+Holotype. INPA 24885, 1 (male 33.0 mm SL), Brazil, Mato Grosso,
+BR 174, Corredeira Papagaio, [near BR 364, rio Galera, upper rio
+Guaporé basin], Equipe Rose, V. Py-Daniel et al., 3 Oct 1984.
+Paratypes. BRAZIL, MATO GROSSO: INPA 21424, 4m of 8 (1
+male 35.0 mm SL, 3 unsexed 29.8-36.2 mm SL), same data as holo-
+type. INPA 21425, 1m of 23 (male 30.6 mm SL), rio Novo, BR 174,
+[near  BR  364,  rio  Novo,  rio  Galera,  upper  rio  Guaporé  basin],
+Equipe Rose, V. Py-Daniel  et  al., 2 Oct 1984. MCP 37318, 129
+(unsexed 16.7-38.0 mm SL), Nova Lacerda, rio Galera, affluent of
+rio  Guaporé  in  Balneário  Galera,  V.  Bertaco  et  al.,  14°28’59’’S
+59°35’07’’W, 12 Jul 2004. MCP 37319, 14m of 82 (5 males 30.3-
+39.0 mm SL, 1 male 32.8 mm SL c&s, 4 females 33.6-41.6 mm SL,
+1 female 36.8 mm SL c&s, 3 unsexed 31.3-34.4 mm SL), Pontes e
+Lacerda, affluent of rio Galera about 71 km north of rio Guaporé,
+14°39’12’’S 59°26’46’’W, R. Reis et al., 12 Jul 2004.
+Non-type material. Rio Madeira - Rio Guaporé basin, BRASIL,
+MATO GROSSO: MCP 38493, 45 (2 males 31.8-32.3 mm SL, 43
+unsexed 15.6-38.7 mm SL), Comodoro, stream affluent of rio Novo
+on the road BR 174, 14°13’25’’S 59°41’27’’W.
+
+C. M. Bührnheim & L. R. Malabarba
+
+189
+
+Fig. 24. Holotype of Odontostilbe parecis, INPA 24885, male 33.0 mm SL (top), and paratypes MCP 37319, male 33.0 mm SL
+(middle), female 41.6 mm SL (bottom).
+
+Diagnosis. Differs from Amazonian species of Odontostilbe
+by:  (1)  number  of  lower  gill  rakers  9-10  (vs. 11-14  in
+Odontostilbe fugitiva and O. dierythrura, 10-11 in O. ecua-
+dorensis, and 10-12 in O. nareuda) (Fig. 13a-b); (2) number of
+branched anal-fin rays (20-21, vs. 23-26 in O. nareuda); (3)
+terminal  mouth  (vs. conspicuous  subterminal  mouth  in  O.
+euspilura); (4) longer upper jaw length 28.8-32.9% HL (vs.
+23.4-30.0% HL in O. fugitiva, Fig. 25, or vs. 23.0-29.2% HL in
+O. ecuadorensis); and (5) larger eye in males 38.9-40.8% HL
+
+diameter (vs. 28.9-38.6% HL in O. fugitiva, Fig. 26, or vs. 33.3-
+38.1% HL in O. ecuadorensis). The combination of the char-
+acters listed above distinguishes  O.  parecis from all other
+Odontostilbe species.
+
+Description. Morphometric data given in Table 4. Largest
+male reaching 35.0 mm SL, and female 41.6 mm SL. Body elon-
+gate and compressed. Males with more elongate and com-
+pressed bodies than females. Greatest body depth at dorsal-
+
+190
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Fig. 25. Upper jaw lenght as a function of head length for
+males,  females,  and  unsexed  specimens  of  Odontostilbe
+fugitiva and Odontostilbe parecis.
+
+Fig. 26. Eye diameter as a function of head length for males
+of Odontostilbe fugitiva and Odontostilbe parecis.
+
+fin origin. Snout blunt, larger in males. Head profile pointed,
+gently convex from snout to posterior tip of supraoccipital
+bone. Dorsal profile ascends almost straight from that point
+to dorsal-fin origin, sometimes with sligth depression at pos-
+terior tip of supraoccipital; from dorsal-fin origin descends
+almost straight to caudal peduncle. Ventral profile convex
+from lower jaw to anal-fin origin, and straight along anal-fin
+base. Caudal peduncle slightly longer than deep.
+
+Head relatively small. Posterior margin of opercle sinusoi-
+dal with upper portion concave and lower portion convex.
+Mouth terminal. Maxilla short, terminating posteriorly at ver-
+tical near anterior eye border, and ending at level equal to
+inferior eye border, positioned at 45 degrees angle relative to
+longitudinal body axis. Cleared and stained specimens (2).
+Premaxillary teeth 5, bearing 8-10 cusps; midcentral cusp
+longer than lateral cusps; smaller lateral cusps of each tooth
+overlap cusps of adjacent teeth (Fig. 27). Premaxillary teeth
+juxtaposed externally to dentary teeth, leaving premaxillary
+tooth cusps exposed when mouth closed. Maxilla with 2-3
+teeth bearing 7-9 cusps, usually decreasing cusp number to
+
+Fig. 27. Dentition of Odontostilbe parecis, MCP 37319, male
+32.8 mm SL. SEM photograph of left side premaxilla (top),
+maxilla (middle), and dentary (bottom).
+
+posterior tip of maxilla. Dentary teeth 8-9 bearing 2-7 cusps,
+gradually decreasing in size posteriorly, first 6-7 teeth large
+with 6-7 cusps, following 2 small teeth with 2-5 cusps. Smaller
+cusps of all dentary teeth overlaping adjacent teeth cusps,
+usually not in posteriormost teeth. All dentary tooth cusps
+slightly recurved towards interior of mouth.
+
+Dorsal-fin rays ii(20) or 9(20). Dorsal-fin origin slightly
+posterior to midlength of body, and slightly posterior to ver-
+tical through pelvic-fin origin. Anal-fin rays v(20), 19(5), 20(8),
+or 21(7). Anal-fin distal border concave, anterior 6-7 branched
+rays longest. Pectoral-fin rays: i(20), 9(1), 10(7), 11(10), or
+12(2). Unbranched pectoral-fin ray short of reaching or reach-
+
+C. M. Bührnheim & L. R. Malabarba
+
+191
+
+ing pelvic-fin origin, slightly extending beyond pelvic-fin ori-
+gin in males. Pelvic-fin rays i(20), 6(1), or 7(19). Unbranched
+dorsal or pelvic-fin rays not elongate in males. Lateral skin
+border of unbranched pectoral-fin rays and unbranched pel-
+vic-fin  rays  thickened  in  mature  males,  bearing  thin
+laterodorsal projection of hard tissue covered with soft tis-
+sue. Principal caudal-fin rays 19(20). Procurrent caudal-fin
+rays: dorsal 10(2), 11(9), or 12(9); ventral 8(3), 9(15), or 10(2).
+Anterior ventral procurrent caudal-fin rays distally bifurcated
+or not. Caudal-fin ray flaps ventrally on 2nd -8th (mostly 4th-7th)
+
+Fig. 28. First gill arch of Odontostilbe parecis, INPA 21425,
+male 30.6 mm SL. SEM photographs of the left side gill arch
+(top), in detail gill rakers on upper branchial branch (middle),
+and gill raker on lower branchial branch (bottom). Lateral view.
+
+rays of upper lobe, and dorsally on 12th-16th (mostly 13th-15th)
+rays of lower lobe. Adipose fin at vertical through last anal-
+fin ray insertion.
+
+Males with acute, retrorse hooks on posterior margin of
+pelvic and anal-fin rays. One or two paired and unpaired hooks
+per segment of lepidotrichia, on last unbranched anal-fin ray,
+and 1st to 8th branched anal-fin rays, positioned at middistal
+length of rays and usually not extending to ray tip; tiny hooks
+can  be  present  up  to  16th  anal-fin  branched  ray,  occurring
+distally on branches (up to 17th anal-fin branched ray in holo-
+type). One or two unpaired hooks per segment of lepidotrichia
+on 1st to 7th branched pelvic-fin rays, extending almost en-
+tirely to distal ray tip (along midlenght of 1st branched pelvic-
+fin ray). Few mature males available for description of hooks.
+Type material from INPA contains males with more developed
+hooks. Holotype with hooks on 2nd to 5th branched pelvic-fin
+rays. Because available males are not fully mature, this spe-
+cies could have typical elongation of unbranched dorsal and
+pelvic-fin rays present in of Odontostilbe species.
+
+Scales  cycloid;  lateral  line  complete  35(7)  or  37(1);
+predorsal row 9(2), 10(12), or 11(3); scale rows between lat-
+eral line and dorsal-fin origin 5(10) or 6(8); scale rows be-
+tween lateral line and anal-fin origin 4(18); scale rows around
+caudal peduncle 14(10). Triangular modified scale on pelvic
+fin base extends posteriorly covering 1-2 scales (mostly 2).
+Scales on anal-fin base 5-7 (partially missing in holotype).
+
+Cleared  and  stained  specimens  (2):  supraneurals  4(2);
+precaudal vertebrae, 15(1) or 16(1); caudal vertebrae 19(2).
+Gill rakers (18 in alcohol, 2 c&s), upper 5(17) or 6(3), lower
+9(12) or 10(8) (2 on hypobranchial). Upper gill rakers with
+none or 1-3 recurved denticles along anterolateral border, and
+none to 2 similar denticles on posterolateral border; lower gill
+rakers with none to 5 recurved denticles on anterolateral bor-
+der (1-4 anteriormost lower gill rakers with none to 2 denticles
+on posterolateral border); excepting posteriormost lower gill
+raker with 4 recurved denticles irregularly placed on lateral
+surface (Fig. 28). All denticulation mostly on basal portion of
+gill rakers.
+
+Color in alcohol. General ground body color brownish or pale
+yellow. Dorsum dark from head to caudal peduncle, chromato-
+phores mostly on scale borders forming reticulated pattern.
+Pigmented scales extend laterally on body below longitudinal
+stripe, also on pseudotympanum area. Dorsal fin with scat-
+tered chromatophores along all fin rays, more densely pigmented
+along 1st and 2nd unbranched dorsal-fin rays. Pectoral and pel-
+vic fins with scattered dark chromatophores, more numerous
+on anteriormost portions of fins. Holotype with pelvic fin hya-
+line. Anal fin mostly pigmented with chromatophores spread
+on all fin rays, except at distal tips of last unbranched fin ray
+and 1st branched fin ray. Adipose fin hyaline. Caudal fin al-
+most entirely covered with diffuse chromatophores along fin
+rays, clear areas on base of caudal-fin lobes just posterior to
+caudal-fin spot. Rounded black to brown spot on base of cau-
+dal fin, usually light near lower border, sometimes extending
+little onto proximal portion of 7th to 12th central caudal-fin rays.
+
+192
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Numerous  chromatophores  on  snout,  upper  and  lower
+lips, anteriormost portion of maxilla and lower jaw, and 1st-2nd
+infraorbitals.  Pigmentation  on  dorsal  surface  of  head  on
+frontals and parietals, and deep-lying dark chromatophores
+over brain membranes below frontals and parietals, and fon-
+tanel. Body with faint dark midlateral stripe, sometimes re-
+duced to line, along midlongitudinal body axis, beginning
+posterior to or on pseudotympanum, above lateral line, reach-
+ing caudal spot. Below lateral line, ventral body faint almost
+without chromatophores. Pigmented area above anal-fin base
+forming  10  to  11  chevron-shaped  markings.  Guanine  sur-
+rounds eye iris, interopercle, opercle, ishtmus, and most 3rd
+infraorbital.  Holotype  with  some  remaining  guanine,  but
+fresher specimens of MCP without any guanine.
+
+Sexual dimorphism. Males with anal- and pelvic-fin hooks
+on  rays  as  previously  described,  such  hooks  absent  in  fe-
+males. Gill gland (Burns & Weitzman, 1996) present in three
+mature  males  of  Odontostilbe  parecis,  holotype,  and  two
+paratypes (Fig. 28). Holotype of O. parecis with gill gland
+present on first gill arch, covering about 9 anterior branchial
+filaments. Paratype INPA 21425, a male 30.6 mm SL with a
+gland  including  about  7  anterior  branchial  filaments  and
+paratype MCP 37319, 39.0 mm SL with gland including about
+6 anterior branchial filaments. Principal component analysis
+of  morphometric  data  of  males  and  females  plus  unsexed
+specimens shows sexual dimorphism in general body shape
+(Fig. 29). Principal component 2 (PC2) grouped males and
+females separately. This affected strongly and negatively by
+caudal peduncle length, pectoral-fin length, pelvic-fin length,
+and snout length; and positively by depth at dorsal-fin ori-
+gin. Principal component 3 (PC3) affected strongly and posi-
+tively  by  snout  length  and  caudal  peduncle  length,  nega-
+tively by anal-fin base and pectoral-fin length. Males differed
+
+Fig. 29. Principal component analysis of the 18 morphometric
+data of males (M), females (F), and unsexed specimens (U) of
+Odontostilbe parecis. Stronger loadings on the second and
+third principal components (PC2, PC3).
+
+from females in all of these characters. Usually males with
+higher mean values for peduncle length, pectoral-fin length,
+pelvic-fin length, and snout length, while females and unsexed
+specimens have higher depth at dorsal-fin origin than males
+(Table 3). Unsexed specimens were not assumed to be fe-
+males, because they probably also include immature males.
+All examined males are probably not fully mature as men-
+tioned in description. Additional material may reinforce sexual
+morphometric characters described here.
+
+Table 4. Morphometrics of Odontostilbe parecis n. sp. (holotype INPA 24885, paratypes INPA 21424, and MCP 37319).
+
+ 
+ 
+Standard length 
+Percents of standard length 
+  head length  
+  snout-anal fin origin 
+  snout-dorsal fin origin 
+  snout-pelvic fin origin 
+  dorsal-fin base 
+  anal-fin base 
+  caudal peduncle length 
+  caudal peduncle depth 
+  depth at dorsal-fin origin  
+  dorsal-fin length 
+  pelvic-fin length 
+  pectoral-fin length 
+  snout-pectoral-fin origin 
+Percents of head length 
+  snout length 
+  upper jaw length  
+  horizontal eye diameter 
+  least interorbital width 
+
+Holotype 
+
+33.0 
+
+23.9 
+64.5 
+47.9 
+45.8 
+15.2 
+28.2 
+13.0 
+10.9 
+31.2 
+32.7 
+19.4 
+23.0 
+24.2 
+
+26.6 
+30.4 
+39.2 
+35.4 
+
+Males 
+
+ 
+
+ 
+
+ 
+
+39.0 
+
+24.9 
+66.3 
+48.9 
+48.0 
+15.2 
+29.0 
+14.9 
+11.2 
+33.3 
+33.1 
+20.6 
+23.8 
+25.5 
+
+n  Low  High  Mean 
+8  30.3 
+32.8 
+ 
+8  23.1 
+8  60.4 
+8  46.4 
+8  43.3 
+8  13.7 
+8  25.9 
+8  12.8 
+8  10.1 
+8  29.5 
+8  31.0 
+8  18.0 
+8  20.3 
+8  23.5 
+ 
+8  22.1 
+8  29.1 
+8  38.9 
+8  31.6 
+
+24.2 
+63.0 
+47.7 
+45.0 
+14.6 
+27.2 
+13.8 
+10.5 
+31.3 
+31.8 
+19.4 
+22.3 
+24.5 
+
+26.0 
+32.9 
+40.8 
+34.4 
+
+24.4 
+30.3 
+40.0 
+33.4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+41.6 
+
+Females 
+
+ 
+  n  Low  High  Mean 
+  3  36.8 
+38.9 
+ 
+  3  23.4 
+  3  63.0 
+  3  46.9 
+  3  44.2 
+  3  14.7 
+  3  27.7 
+  3  12.5 
+  3  10.9 
+  3  31.5 
+  3  30.5 
+  3  17.7 
+  3  20.3 
+  3  23.7 
+ 
+  3  21.4 
+  3  29.6 
+  3  39.8 
+  3  31.4 
+
+23.5 
+63.7 
+47.9 
+44.6 
+15.2 
+28.1 
+13.3 
+11.2 
+33.8 
+31.0 
+18.1 
+20.7 
+23.8 
+
+23.6 
+64.3 
+49.0 
+45.3 
+16.1 
+28.6 
+13.9 
+11.5 
+35.7 
+31.3 
+18.3 
+21.5 
+23.9 
+
+22.7 
+31.1 
+40.5 
+33.2 
+
+23.3 
+32.6 
+41.1 
+34.4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.2 
+
+Unsexed 
+
+ 
+  n  Low  High  Mean 
+  8  29.8 
+33.3 
+ 
+  8  23.3 
+  8  63.1 
+  8  47.8 
+  8  45.1 
+  8  14.1 
+  8  25.5 
+  8  12.5 
+  8  9.9 
+  8  29.9 
+  8  29.8 
+  8  18.0 
+  8  20.1 
+  8  23.5 
+ 
+  8  22.5 
+  8  28.8 
+  8  40.0 
+  8  31.7 
+
+24.0 
+64.7 
+49.3 
+46.0 
+14.7 
+26.8 
+13.0 
+10.7 
+33.1 
+31.2 
+18.5 
+21.0 
+24.5 
+
+24.8 
+66.1 
+50.7 
+47.7 
+15.1 
+28.6 
+14.1 
+11.3 
+37.1 
+33.6 
+19.8 
+21.5 
+25.5 
+
+23.9 
+30.8 
+41.2 
+33.7 
+
+25.9 
+32.5 
+42.5 
+35.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C. M. Bührnheim & L. R. Malabarba
+
+193
+
+Distribution. Upper rio Guaporé drainage, rio Galera and rio
+Novo.
+
+Etymology. The epithet parecis refers to the Chapada dos
+Parecis, a plateau situated on the east of Guaporé tributaries
+where the species was discovered.
+
+Ecological notes. The Guaporé-Iténez is a clearwater right-
+bank tributary of the major rio Madeira (Goulding et al., 2003).
+Field notes record of MCP material: translucent water of quiet
+to medium flow, sandy bottom with pebbles, and a depth of 1-
+1.2 m. This was species collected along with Serrapinnus sp.
+
+Discussion
+
+Previous  phylogenetic  diagnosis  for  the  genus
+Odontostilbe among cheirodontines was based on two sy-
+napomorphies described in Malabarba (1998), and related to
+the elongation of the second unbranched dorsal-fin ray and
+the unbranched pelvic-fin ray of males. These characters were
+found  homoplastic  in  “Odontostilbe” mitoptera  of  the
+Compsurini.  Recognition  of  Odontostilbe separately  from
+genera assigned to the tribes Cheirodontini and Compsurini
+was also supported by the lack in  Odontostilbe species of
+the several synapomorphies dignosing those tribes and their
+included genera. These synapomorphies consist of primary
+and  secondary  sexual  characters.  The  genera
+Pseudocheirodon, Prodontocharax, Aphyocheirodon,  and
+Cheirodontops also lack specialized sexually dimorphic fea-
+tures present in the Compsurini and Cheirodontini and were
+diagnosed based on jaws and teeth modifications, absent in
+Odontostilbe.
+
+The diagnosis of  Odontostilbe in  the  present  contribu-
+tion follows that of Malabarba (1998), based on the analysis
+of two Odontostilbe species only, O. fugitiva and O. pequira,
+respectively the type species of the genera Odontostilbe and
+Holoshesthes. Holoshesthes was placed in the synonym of
+Odontostilbe.  We  found  morphological  diversity  in
+Odontostilbe much larger than previously known. We recog-
+nize in Odontostilbe six species of the ten species referred to
+the genus by Malabarba (2003): O. fugitiva, O. dierythrura
+Fowler,  1940,  O.  microcephala  Eigenmann,  1907,  O.
+paraguayensis  Eigenmann  &  Kennedy,  1903,  O.  pequira
+(Steindachner, 1882), and O. roloffi Géry, 1972 (actually a syn-
+onym of O. euspilura, see below). This excludes the two spe-
+cies of Central American compsurins provisionally kept in
+Odontostilbe: “O.” dialeptura and “O.” mitoptera. Also, the
+generic assignment of the two nominal species described by
+Géry (1960) as Cheirodon (C. gracilis and C. gracilis littoris)
+and latter transferred to  Odontostilbe by Planquette  et.  al.
+(1996), deserve a separate revision and are not included in
+Odontostilbe.
+
+In a comprehensive taxonomic revision of Odontostilbe
+in  progress  by  the  first  author,  10  additional  species  of
+cheirodontines were found related to this genus, in addition
+to the six species listed above and the three new species
+
+described  herein. Among  these  10  species,  8  are  unde-
+scribed, one is Odontostilbe pulchra (Gill, 1858) [left as spe-
+cies  inquirenda  among  Cheirodontinae  by  Malabarba
+(2003)], and the last one is Cheirodontops geayi Schultz,
+1944, type species of Cheirodontops. Cheirodontops geayi
+was not previously hypothesized as related to Odontostilbe,
+although  Böhlke  (1954)  pointed  out  that  Cheirodontops
+Schultz, 1944 was solely distinguished from Holoshesthes
+Eigenmann, 1903 by the absence of teeth on the maxillary.
+The examination of type material of C. geayi, and an exten-
+sive  revision  of  the  species,  showed  that  the  teeth  are
+present on the maxilla. Also it was found that the elongation
+of dorsal- and pelvic-fin rays in mature males that diagnoses
+Odontostilbe is present in Cheirodontops. Schultz (1944)
+observed the resemblance of teeth between Cheirodontops
+and Holoshesthes. Malabarba (1998) based on the phyloge-
+netic  analysis  of  Cheirodontinae  placed  Holoshesthes  in
+synonym of Odontostilbe, arguing that the character of the
+presence of dentary teeth with at least five cusps, with the
+three central cusps larger, compressed and in a row forming
+a sharp cutting edge, was found to be ambiguous, and inde-
+pendently acquired in four cheirodontine lineages. Eigen-
+mann (1915), and Géry (1977) used this character alone to
+distinguish Holoshesthes of Odontostilbe. Additional phy-
+logenetic analysis of Odontostilbe is needed to clarify the
+relationships  and  taxonomic  status  of  Holoshesthes  and
+Cheirodontops.
+
+Malabarba (2003) listed Deuterodon (Lobodeuterodon)
+euspilurus Fowler, 1945, described from upper río Caquetá
+basin, Colombia, as a junior synonym of O. fugitiva. Accord-
+ing to work in progress by the senior author,  O. euspilura
+(Fowler, 1945) is a valid species, and a senior synonym of O.
+roloffi Géry, 1972 described from upper río Napo, Ecuador. A
+full redescription of this species will be provided in a forth-
+coming paper.
+
+Almost all the mature males of the examined Odontostilbe
+related  species  share  both  elongations  of  the  unbranched
+dorsal- and pelvic-fin rays, excepting Odontostilbe euspilura
+and an undescribed species from rio Uruguay basin that lack
+the elongation of the second unbranched dorsal-fin ray. Two
+other undescribed species from upper rio Paraná basin lack
+both elongations, of unbranched dorsal- and pelvic-fin rays,
+but there are few mature males available of them. Odontostilbe
+pulchra  has  a  slight  elongation  of  the  second  unbranched
+dorsal-fin ray only in some specimens, but has the unbranched
+pelvic-fin ray elongate.
+
+A reevaluation of the diagnosis of  Odontostilbe is still
+needed  because  the  discovery  of  several  new  species  not
+previously used in a phylogenetic analysis of the genus by
+Malabarba  (1998).  The  discovery  of  new  data  regarding
+Cheirodontops geayi indicating that it shares characters di-
+agnosing Odontostilbe (elongation of the dorsal- and pelvic-
+fin rays) requires a reanalysis of the phylogeny of these gen-
+era of the Cheirodontinae. Also, such an analysis should in-
+clude Lobodeuterodon (its type species) and Holoshesthes,
+apparent junior synonyms of Odontostilbe.
+
+194
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Acknowledgements
+
+We  thank  the  following  persons  for  the  loan  of  speci-
+mens: S. Schaefer (AMNH), J. Lundberg, M. Sabaj, and M.
+Littmann (ANSP), Soraya Barrera (CBF), J. Fong, D. Catania,
+T.  Iwamoto  (CAS),  M. Westneat,  M.  Rogers,  B.  Chernoff
+(FMNH), M. Retzer (INHS), L. R. Py-Daniel, L. M. Souza, M.
+Brasil, L. T. C. Serrão (INPA), A. Bentley (KU), R. E. Reis, C. A.
+S. Lucena, M. S. Lucena (MCP), R. Barriga, (MEPN), Hernán
+Ortega (MUSM 27501), S. Müller, C. Weber (MHNG), P. Pruvot
+(MNHN); W. B. Wosiacki, H. Higuchi (MPEG), J. L. Figueiredo,
+M.  de  Pinna,  O.  Oyakawa  (MZUSP);  S.  O.  Kullander,  E.
+Åhlander,  (NRM);  R. Winterbottom,  E.  Holm  (ROM); W.
+Crampton,  J. Albert  (UF);  R.  Souza-Lima,  P. A.  Buckup
+(MNRJ); S. H. Weitzman, R. P. Vari, L. Palmer, S. Raredon (O.
+caquetae photo) (USNM). Special thanks to C. Cox Fernandes,
+J. Lundberg during a visit to ANSP, and S. H. Weitzman for a
+visit to Smithsonian Institution (Tropical Fish Hobbyist fund)
+and for the helpful review of manuscript. We also are greatful
+to an anonymous reviewer. D. Stewart and R. Barriga pro-
+vided invaluable specimens from Ecuador. W. Crampton and
+R. Reis provided the color photo of O. fugitiva of Ucamara
+project. F. Carvajal and F. Tejerina-Garro loaned material that
+helped with distribution. M. S. Lucena helped with MNHN
+loan, and V. Bertaco with MHNG loan. Thanks to J. Wingert,
+T. Carvalho, and T. Salatino for MCP cataloguing, and A.
+Charcansky for histological analysis. R. L. Pijnenburg checked
+the  danish  translation.  Some  the  O.  parecis  material  was
+caught during Transcontinental Expedition, supported by the
+All Catfish Species Inventory project. SEM photographs were
+taken at “Centro de Microscopia e Microanálises” - PUCRS
+and “Centro de Microscopia Eletrônica” - UFRGS.
+
+Literature Cited
+
+Böhlke,  E.  B.  1984.  Catalog  of  the  type  specimens  in  the
+ichthyological collection of the Academy of Natural Sciences of
+Philadelphia. Philadelphia. Academy of the Natural Sciences of
+Philadelphia. 246p. Special Publication, 14.
+
+Böhlke, J. E. 1954. Studies on the phylogeny and systematics of
+fishes  of  the  family  Characidae.  Ph.D.  Dissertation  Series
+Publication  no.  9477.  Stanford  University.  University
+Microfilms, Ann Arbor, Michigan, 209p.
+
+Burns, J. R. & S. H. Weitzman. 1996. Novel gill-derived gland in the
+male  swordtail  characin,  Corynopoma  riisei  (Teleostei:
+Characidae: Glandulocaudinae). Copeia, 1996(3): 627-633.
+
+Chao, N. L. 2001. The fishery, diversity, and conservation of orna-
+mental fishes in the Rio Negro Basin, Brazil - a review of the
+Project Piaba (1989-99). Pp. 161-204. In: Chao N. L., P. Petry,
+G.  Prang,  L.  Sonneschien  &  M.  Tlusty  (Eds.).  Conservation
+and management of ornamental fish resources of the Rio Negro
+Basin, Amazonia, Brazil - Project Piaba. EDUA, Manaus, 310p.
+Chernoff, B., P. W. Willink, J. Sarmiento, A. Machado-Allison, N.
+Menezes  &  H.  Ortega.  1999.  Geographic  and  macrohabitat
+partitioning of fishes in hte Tahuamanu-Manuripi region, Upper
+Río Orthon Basin, Bolivia. Pp. 51-67. In: Chernoff, B. & P. W.
+Willink (Eds.). A biological assessment of the aquatic ecosystems
+
+of the Upper Río Orthon basin, Pando, Bolivia. Bulletin of the
+Biological Assessment 15. Conservation International, Washing-
+ton, DC, 145p.
+
+Cope, E. D. 1870. Contribution to the ichthyology of the Marañon.
+Proceedings of the American Philosophical Society, 11: 559-570.
+Eigenmann, C. H. 1910. Catalog of the freshwater fishes of Tropi-
+cal  south-temperate  America.  Reports  of  the  Princeton
+University  Expeditions  to  Patagonia,  1896-1899.  Princeton
+University & Stuttgart, 3(4): 375-511.
+
+Eigenmann, C. H. 1915. The Cheirodontinae, a subfamily of minute
+characid  fishes  of  South America.  Memoirs  of  the  Carnegie
+Museum, 7(1): 1-99, pls. 1-17.
+
+Eigenmann, C. H. & W. R. Allen. 1942. Fishes of Western South
+America. I. The Intercordilleran and Amazonian lowlands of
+Peru. II. The high pampas of Peru, Bolivia and northern Chile.
+With a revision of the Peruvian Gymnotidae and of the genus
+Orestias. University of Kentucky, Lexington: I-XVI + 494p.
+Eigenmann, C. H. & R. S. Eigenmann, 1892. A catalogue of the
+fresh-water fishes of South America. Proceedings of the United
+States National Museum, 14: 1-81.
+
+Eigenmann, C. H. & C. H. Kennedy. 1903. On a collection of fishes
+from  Paraguay,  with  a  synopsis  of  the American  genera  of
+Cichlids. Proceedings of the Academy of Natural Sciences of
+Philadelphia, 55(2): 497-537.
+
+Eigenmann, C. H. & F. Ogle. 1907. An annotated list of Characin
+fishes in the United States National Museum and the Museum
+of  Indiana  University,  with  descriptions  of  new  species.
+Proceedings of the United States National Museum, 33(1558):
+1-36.
+
+Fink, W. L. & S. H. Weitzman. 1974. The so-called Cheirodontin
+fishes of Central America with descriptions of two new species
+(Pisces: Characidae). Smithsonian Contributions to Zoology,
+172: 1-46.
+
+Fowler, H. W. 1906. Further knowledge of some heterognathous
+fishes. Part. I. Proceedings of the Academy of Natural Sciences.
+Philadelphia: 293-351.
+
+Fowler,  H.  W.  1913.  Fishes  from  the  Madeira  river,  Brazil.
+Proceedings of the Academy of Natural Sciences of Philadelphia,
+65(3): 517-579.
+
+Fowler,  H.  W.  1940.  Zoological  results  of  the  second  Bolivian
+Expedition for the Academy of Natural Sciences of Philadelphia,
+1936-1937. Part. 1 - The fishes. Proceedings of the Academy of
+Natural Sciences of Philadelphia, 92(3): 43-103.
+
+Fowler,  H.  W.  1943. A  collection  of  fresh-water  fishes  from
+Colombia,  obtained  chiefly  by  brother  Nicéforo  Maria.
+Proceedings of the Academy of Natural Sciences of Philadelphia,
+95: 223-266.
+
+Fowler, H. W. 1945a. Los Peces del Peru: Catálogo Sistemático de
+los peces que habitam en aguas peruanas. Museo de Historia
+Natural  Javier  Prado/Universidade  Nacional  Mayor  de  San
+Marcos, Lima, 298p.
+
+Fowler, H. W. 1945b. Colombian zoological survey. Pt. I. The fresh-
+water fishes obtained in 1945. Proceedings of the Academy of
+Natural Sciences of Philadelphia, 97: 93-135.
+
+Fowler, H. W. 1948. Os peixes de água doce do Brasil. Arquivos de
+
+Zoologia do Estado de São Paulo, São Paulo, 6: 1-204.
+
+Galacatos, K., D. J. Stewart & M. Ibarra. 1996. Fish community
+patterns of lagoons and associated tributaries in the Ecuadorian
+Amazon. Copeia, 1996(4): 875-894.
+
+Géry, J. 1960. Contributions to the study of the characoid fishes
+no.6. New Cheirodontinae from French Guiana. Senckenbergiana
+Biologica, 41(1/2): 15-39.
+
+C. M. Bührnheim & L. R. Malabarba
+
+195
+
+Géry,  J.  1964.  Poissons  characoïdes  de  l’Amazonie  péruvienne
+(Résultats scientifiques de l’expédition Amazone-Ucayali du
+Dr. K. H. Lüling 1959/1960). Beitrage Zur Neotropischen Fauna,
+4(1): 1-44.
+
+Géry, J. 1972a. Corrected and supplemented descriptions of certain
+Characoid fishes described by Henry W. Fowler, with revisions of
+several of their genera. Studies on the Neotropical Fauna, 7: 1-35.
+Géry, J. 1972b. Contribution à l’étude de poissons characoïdes de
+l’Équateur. Avec une révision du genre Pseudochalceus et la
+descrition  d’un  nouveau  genre  endémique  du  Rio  Cauca  in
+Colombie. Acta Humboldtiana, Serie Geologica, Paleontologica
+et Biologica, 2: 1-110.
+
+Géry, J. 1977. Characoids of the world. T.F.H. Publications, Neptune
+
+City,  672p.
+
+Gill, T.  1858.  Synopsis  of  the  fresh  water  fishes  of  the  western
+portion of the Island of Trinidad, W. I. Annals of Lyceum of
+Natural History of New York, 6: 363-430.
+
+Gonçalves, T. K., M. A. Azevedo, L. R. Malabarba & C. B. Fialho.
+2005.  Reproductive  biology  and  development  of  sexually
+dimorphic  structures  in  Aphyocharax  anisitsi  (Ostariophysi:
+Characidae). Neotropical Ichthyology, 3(3): 433-438.
+
+Goulding, M., M. L. Carvalho & E. G. Ferreira. 1988. Rio Negro,
+rich  life  in  poor  water: Amazonian  diversity  and  foodchain
+ecology  as  seen  through  fish  communities,  SPB Academic
+Publishing, The Hague, 200p.
+
+Goulding, M., R. Barthem & E. Ferreira. 2003. The Smithsonian Atlas
+of the Amazon. Smithsonian Institution, Washington D.C., 255p.
+International  Comission  on  Zoological  Nomenclature.  1999.
+International Code of Zoological Nomenclature. The Natural
+History Museum, fourth edition, London, 306p.
+
+Johnson,  R. A.  &  D.  W.  Wichern.  1998. Applied  multivariate
+
+statistical analysis. 4th ed. Prentice-Hall, New Jersey, 816p.
+
+Lowe-McConnell, 1991. Natural history of fishes in Araguaia and
+Xingu Amazonian tributaries, Serra do Roncador, Mato Grosso,
+Brazil. Ichthyological Exploration of Freshwaters, 2(1): 63-82.
+Lütken, C. 1875. Ichthyolographiske Bidrag. III. Nogle nye eller
+mindre  fuldstændigt  kjendte,  mellem-  eller  sydamerikanske
+Karpelax  (Characiner).  Videnskabelige  Meddelelsel  fra  den
+naturhistoriske Forening i Kjöbenhavn 1874, (12-16): 220-240.
+Machado-Allison, A., J. Sarmiento, P. W. Willink, N. Menezes, H.
+Ortega & S. Barrera. 1999a. Diversity and abundance of fishes
+and habitats in the Río Tahuamanu and Río Manuripi Basins.
+Pp. 47-50. In: Chernoff, B. & P. W. Willink (Eds.). A biological
+assessment of the aquatic ecosystems of the Upper Río Orthon
+basin, Pando, Bolivia. Bulletin of the Biological Assessment 15.
+Conservation International, Washington, DC, 145p.
+
+Machado-Allison, A.,  J.  Sarmiento  ,  N.  Menezes,  H.  Ortega,  S.
+Barrera,  T.  M.  Bert,  B.  Chernoff  &  P.  W.  Willink.  1999b.
+Description of ichthyological field stations sampled during the
+AquaRAP  expedition  to  Pando,  Bolivia  in  September  1996.
+Pp. 114-145. In: Chernoff, B. & P. W. Willink (Eds.). A biological
+assessment of the aquatic ecosystems of the Upper Río Orthon
+basin, Pando, Bolivia. Bulletin of the Biological Assessment 15.
+Conservation International, Washington, DC, 145p.
+
+Malabarba,  L.  R.  1998.  Monophyly  of  the  Cheirodontinae,
+characters and majors clades (Ostariophysi: Characidae). Pp.
+193-233. In: Malabarba, L. R, R. E. Reis, R. P. Vari, Z. M. S.
+Lucena & C. A. S. Lucena (Eds.). Phylogeny and Classification
+of Neotropical Fishes. Edipucrs, Porto Alegre, 603p.
+
+Malabarba,  L.  R.  2003.  Subfamily  Cheirodontinae  (Characins,
+tetras). Pp. 215-221. In: R. E. Reis; S. O. Kullander & C. J.
+Ferraris (Eds.). Check list of the freshwater fishes of South and
+
+Central America. Edipucrs, Porto Alegre, 729p.
+
+Malabarba, L. R. & F. C. T., Lima & S. H. Weitzman. 2004. A new
+species  of  Kolpotocheirodon  (Teleostei:  Characidae:
+Cheirodontinae: Compsurini) from Bahia, northeastern Brazil,
+with a new diagnosis of the genus. Proceedings of the Biological
+Society of Washington, 117(3): 317-329.
+
+Malabarba, L. R. & S. H. Weitzman. 1999. A new genus and species
+of South American fishes (Teleostei: Characidae: Cheirodontinae)
+with a derived caudal fin, including comments about inseminating
+cheirodontines. Proceedings of the Biological Society of Wa-
+shington, 112(2): 410-432.
+
+Malabarba, L. R. & S. H. Weitzman. 2000. A new genus and species
+of  inseminating  (Teleostei:  Characidae:  Cheirodontinae:
+Compsurini) from South America with uniquely derived cau-
+dal-fin dermal papillae. Proceedings of the Biological Society of
+Washington, 113(1): 269-283.
+
+Ortega, H. & R. P. Vari. 1986. Annotated checkist of the freshwater
+fishes of Peru. Smithsonian Contributions of Zoololy, 437: 1-25.
+Pearson, N. E. 1924. The fishes of the eastern slope of the Andes. I.
+The fishes of the rio Beni basin, Bolivia, collected by the Mulford
+expedition. Indiana University Studies, 11(64): 1-58, pls. 1-12.
+Petry, P., P. B. Bayley & D. F. Markle. 2003. Relationships between
+fish assemblages, macrophytes and environmental gradients in the
+Amazon River floodplain. Journal of Fish Biology, 63: 547-579.
+Planquette, P., P. Keith & P.-Y. Le Bail. 1996. Atlas des poissons
+d’eau  douce  de  Guyane  (Tome  1).  Collection  du  Patrimoine
+Naturel, vol. 22. IEGB - MNHN, INRA, CSP, Muséum National
+d’Historie Naturelle, Ministère de l’Environnement, Paris, 429p.
+Sánchez-Botero, J. I. & C. A. R. M. Araújo-Lima. 2001. As macró-
+fitas aquáticas como berçário para a ictiofauna da várzea do rio
+Amazonas. Acta Amazônica, 31(3): 437-447.
+
+Sánchez-Botero, J. I., M. L. Farias, M. T. Piedade & D. S. Garcez.
+2003. Ictiofauna associada às macrófitas aquáticas Eichhornia
+azurea (SW.) Kunth. e Eichhornia crassipes (Mart.) Solms. no
+lago Camaleão, Amazônia Central, Brasil. Acta Scientiarum.
+Biological Sciences, 25(2): 369-375.
+
+Sarmiento  J.,  B.  Chernoff,  S.  Barrera, A.  Machado-Allison,  N.
+Menezes & H. Ortega. 1999. Fishes collected during AquaRAP
+expedition to Pando, Bolivia in September 1996. Pp. 87-95. In:
+Chernoff, B. & P. W. Willink (Eds.). A biological assessment of
+the aquatic ecosystems of the Upper Río Orthon basin, Pando,
+Bolivia. Bulletin of the Biological Assessment 15. Conservation
+International, Washington, DC, 145p.
+
+Saul, W. G. 1975. An ecological study of fishes at a site in upper
+Amazonian Ecuador. Proceedings of the Academy of Sciences
+of Philadelphia, 127(12): 93-134.
+
+Schultz,  L.  P.  1944.  The  fishes  of  the  family  Characinidae  from
+Venezuela, with descriptions of seventeen new forms. Proceedings
+of the United States National Museum, 95(3181): 235-267.
+
+Souza, G. S. 1998. Introdução aos modelos de regressão linear e
+
+não-linear. Embrapa-SPI Embrapa-SEA, Brasília, 505p.
+
+Steindachner, F. 1882a. Anzeiger der Kaiserlichen Akademie der
+Wissenschaften. Mathematisch - Naturwissenschaftliche Clas-
+se, 19: 175-180.
+
+Steindachner,  F.  1882b.  Beitrage  zur  Kenntniss  der  flussfische
+Sudamerika’s (IV). I. Bericht über eine Sammlung von Fischen
+aus dem Huallaga in dem Besitze des k. zoologischen Museums
+in Dresden (p. 1-16). Denkschriften der Kaiserlichen Akademie
+der Wissenchalften, 46: 1-44.
+
+Stewart, D. J., M. Ibarra & R. Barriga-Salazar. 2002. Comparison
+of deep-river and adjacent sandy-beach fish assemblages in the
+Napo River Basin, eastern Ecuador. Copeia, 2002(2): 333-343.
+
+196
+
+Redescription of the type species and description of three new species of Odontostilbe
+
+Willink, P. W., J. Sarmiento & B. Chernoff. 1999. Comparative list
+of fishes reported from the Bolivian Amazon. Pp. 96-113. In:
+Chernoff, B. & P. W. Willink (eds). A biological assessment of
+the aquatic ecosystems of the Upper Río Orthon basin, Pando,
+Bolivia. Bulletin of the Biological Assessment 15. Conservation
+International, Washington, DC, 145p.
+
+Zar, J. 1996. Biostatistical analysis. 3rd edition. Prentice-Hall, New
+
+Jersey,  121p.
+
+Received September 2005
+Accepted  May  2006
+
+Strauss, R. E. 1985. Evolutionary allometry and variation in body
+form  in  the  South  American  catfish  genus  Corydoras
+(Callichthyidae). Systematic Zoology, 34: 381-396
+
+Taylor, W.  R.  &  G.  C. Van  Dyke.  1985.  Revised  procedures  for
+staining and clearing small fishes and other vertebrates for bone
+and cartilage study. Cybium, 9(2): 107-119.
+
+Ulrey, A. B. 1895. The South American Characinidae collected by
+Charles Frederick Hartt. Annals of the New York Academy of
+Sciences, 8: 258-300.
+
+Uj, A.  1987.  Les  Cheirodontinae  (Characidae,  Ostariophysi)  du
+
+Paraguai. Revue Suisse de Zoologie, 94(1): 9-175.
+
+Vari, R. P. & J. C. Howe. 1991. Catalog of type specimens of recent
+fishes in the National Museum of Natural History, Smithsonian
+Institution,  1:  Characiformes  (Teleostei:  Ostariophysi).
+Smithsonian Contributions to Zoology, 517: 1-52.
+
+Vari,  R.  P.  & A.  S.  Harold.  2001.  Phylogenetic  study  of  the
+Neotropical  fish  genera  Creagrutus  Günther  and  Piabina
+Reinhardt  (Teleostei:  Ostariophysi:  Characiformes),  with  a
+revision of the Cis-Andean species. Smithsonian Contributions
+to Zoology, 613: 1-239.
+
+
