@@ -13,11 +13,12 @@
 import os, sys, re, StringIO
 import fnmatch
 import unicodecsv, csv
+
 from decimal import Decimal, setcontext, ExtendedContext
 from datetime import datetime
 from bs4 import BeautifulSoup
 sys.path.append('/Users/Jason/Dropbox/JournalMap/scripts/GeoParsers')
-from jmap_geoparser_re import *
+
 
 startDir = '/Users/jason/Google Drive/JournalMap/PLOSxml'
 #startDir = '/Volumes/XML Storage/TandF/new_content'
@@ -26,6 +27,12 @@ locationsFile = startDir + '/locations.csv'
 logFile = startDir + '/jmap_parse.log'
 collectionKeyword = "" # Add special keyword for organizing into a collection
 allArticles = False  # Include only articles that have parsed locations in the output?
+geoparser = "pyparsing" # Which geoparser to use: "re" (Regular Expression) or "pyparsing"
+
+if geoparser == "re":
+    from jmap_geoparser_re import *  # Regular Expression Parser Version
+else:
+    from jmap_geoparser import *  # PyParsing version    
 
 class UnicodeWriter(object):
     """
@@ -267,20 +274,35 @@ with open(articlesFile, 'wb') as articlesCSV:
                 ###############################
                 try:
                     text = " ".join(tree.find('body').stripped_strings)
-                    matches = parser_re.finditer(text)
-                    if len(parser_re.findall(text))>0: log.countGeoTagged += 1
-                    for match in matches:
-                        t=match.group()
-                        t2 = GeoCleanup(match.groupdict())
-                        if not t2: break
-                        geodd = GeoConvert(t2[0], t2[1], t2[2], t2[3], t2[4], t2[5], t2[6], t2[7])
-                        print "Found coordinate in " + article.doi + ": " + t + ", " + geodd[0] + ", " + geodd[1]
-                        log.add_msg("Found coordinate in " + article.doi + ": " + t + ", " + geodd[0] + ", " + geodd[1])
-                        loc = Location(t,geodd[0],geodd[1])
-                        
-                        locationLine = [[article.doi,article.title,loc.longitude,loc.latitude,loc.place,loc.no_recorded_place,loc.coordinates,loc.coordinate_type,loc.no_recorded_coordinate,loc.location_type,loc.location_scale,loc.location_reliability,loc.location_conformance,loc.error_type,loc.error_description]]
-                        locationWriter.writerows(locationLine)
-                        log.locations += 1
+                    initlocs = log.locations
+                    if geoparser == "re":
+                        matches = parser_re.finditer(text)
+                        if len(parser_re.findall(text))>0: log.countGeoTagged += 1
+                        for match in matches:
+                            t=match.group()
+                            t2 = GeoCleanup(match.groupdict())
+                            if not t2: break
+                            geodd = GeoConvert(t2[0], t2[1], t2[2], t2[3], t2[4], t2[5], t2[6], t2[7])
+                            print "Found coordinate in " + article.doi + ": " + t + ", " + geodd[0] + ", " + geodd[1]
+                            log.add_msg("Found coordinate in " + article.doi + ": " + t + ", " + geodd[0] + ", " + geodd[1])
+                            loc = Location(t,geodd[0],geodd[1])                        
+                            locationLine = [[article.doi,article.title,loc.longitude,loc.latitude,loc.place,loc.no_recorded_place,loc.coordinates,loc.coordinate_type,loc.no_recorded_coordinate,loc.location_type,loc.location_scale,loc.location_reliability,loc.location_conformance,loc.error_type,loc.error_description]]
+                            locationWriter.writerows(locationLine)
+                            log.locations += 1
+                    else:
+                        ## PyParsing geoparser
+                        coords = coordinateParser.searchString(text.encode('utf-8'))
+                        if coords: log.countGeoTagged += 1
+                        for coord in coords:        
+                            coordDD = coordinate(coord).calcDD
+                            print "Found coordinate in " + article.doi + ": " + str(coordDD()) + ", " + str(coordDD()['latitude']) + ", " + str(coordDD()['longitude'])
+                            log.add_msg("Found coordinate in " + article.doi + ": " + str(coordDD()) + ", " + str(coordDD()['latitude']) + ", " + str(coordDD()['longitude']))   
+                            loc = Location(str(coordDD()),coordDD()['latitude'],coordDD()['longitude'])                        
+                            locationLine = [[article.doi,article.title,loc.longitude,loc.latitude,loc.place,loc.no_recorded_place,loc.coordinates,loc.coordinate_type,loc.no_recorded_coordinate,loc.location_type,loc.location_scale,loc.location_reliability,loc.location_conformance,loc.error_type,loc.error_description]]
+                            locationWriter.writerows(locationLine)
+                            log.locations += 1
+                            
+                    articlelocs = log.locations-initlocs
                 except:
                     print "No article text found to parse in " + xmlFile
                     log.add_msg("No article text found to parse in " + xmlFile)
@@ -290,7 +312,7 @@ with open(articlesFile, 'wb') as articlesCSV:
                 ###############################
                 ## Write article to output   ##
                 ###############################
-                if (allArticles or len(parser_re.findall(text))>0):
+                if (allArticles or articlelocs>0):
                     try:
                         articleLine = [[article.doi,article.publisher_name,'',article.build_citation(),article.title,str(article.year),article.authors[0],article.format_authors(),article.format_volisspg(),article.volume,article.issue,article.start_page,article.end_page,article.format_keywords(),article.no_keywords,article.abstract,article.no_abstract,article.url]]
                         articleWriter.writerows(articleLine)            
