@@ -11,9 +11,9 @@ import fnmatch
 import unicodecsv, csv
 from bs4 import BeautifulSoup
 
-startDir = '/Volumes/XML Storage/AOU'
-#startDir = '/Users/jason/Google Drive/JournalMap/PLOSxml'
-outfile = startDir + '/manfest.20160516.csv'
+#startDir = '/Volumes/XML Storage/AOU'
+startDir = '/Users/jason/Google Drive/JournalMap/GeoParser_Paper/TandF'
+outfile = startDir + '/TandF_manfest.20160606.csv'
 
 with open(outfile, 'wb') as csvFile:
     csvWriter = unicodecsv.writer(csvFile)

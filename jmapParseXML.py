@@ -17,17 +17,18 @@ import unicodecsv, csv
 from decimal import Decimal, setcontext, ExtendedContext
 from datetime import datetime
 from bs4 import BeautifulSoup
+from bs4 import UnicodeDammit
 sys.path.append('/Users/Jason/Dropbox/JournalMap/scripts/GeoParsers')
 
 
-startDir = '/Users/jason/Google Drive/JournalMap/PLOSxml'
+startDir = '/Users/jason/Google Drive/JournalMap/GeoParser_Paper/TandF/2015/tjps20.v032.i03'
 #startDir = '/Volumes/XML Storage/TandF/new_content'
-articlesFile = startDir + '/articles.csv'
-locationsFile = startDir + '/locations.csv'
-logFile = startDir + '/jmap_parse.log'
+articlesFile = startDir + '/articles_re.csv'
+locationsFile = startDir + '/locations_re.csv'
+logFile = startDir + '/jmap_parse_re.log'
 collectionKeyword = "" # Add special keyword for organizing into a collection
 allArticles = False  # Include only articles that have parsed locations in the output?
-geoparser = "pyparsing" # Which geoparser to use: "re" (Regular Expression) or "pyparsing"
+geoparser = "re" # Which geoparser to use: "re" (Regular Expression) or "pyparsing"
 
 if geoparser == "re":
     from jmap_geoparser_re import *  # Regular Expression Parser Version
@@ -203,69 +204,95 @@ with open(articlesFile, 'wb') as articlesCSV:
                 ###############################        
     
                 # Read the XML
-                tree = BeautifulSoup(open(xmlFile),"lxml")
-    
-                # Read the first three elements and create the article object
-                try: doi = tree.front.find('article-id', {'pub-id-type':'doi'}).text 
-                except: doi=''
-                try: title = tree.front.find('article-title').text
-                except: title=''
-                try: year = tree.front.find('pub-date').year.text
-                except: year = ''
-    
-                article = Article(doi, title, year)
-    
-                # Add the other single item attributes
-                try: article.publisher_name = tree.front.find('journal-title').text
-                except: article.publisher_name = ''            
-                
-                try: article.volume = tree.front.find('volume').text
-                except: article.volume = ''
-                
-                try: article.issue = tree.front.find('issue').text
-                except: article.issue = ''
-                
-                try: article.start_page = tree.front.find('fpage').text
-                except:
-                    try: article.start_page = tree.front.find('elocation-id').text
-                    except: article.start_page = ''
+                f = open(xmlFile)
+                xmlStr = UnicodeDammit(f.read())
+                tree = BeautifulSoup(xmlStr.unicode_markup,"lxml")
+                f.close()
+                print tree.prettify()
+
+                #############################################
+                ## Process NLM or JATS-formatted XML files ##
+                #############################################                
+                if tree.find('front'):  # NLM or JATS formatted XML
+                    # Read the first three elements and create the article object
+                    try: doi = tree.front.find('article-id', {'pub-id-type':'doi'}).text 
+                    except: doi=''
+                    try: title = tree.front.find('article-title').text
+                    except: title=''
+                    try: year = tree.front.find('pub-date').year.text
+                    except: year = ''
+        
+                    article = Article(doi, title, year)
+        
+                    # Add the other single item attributes
+                    try: article.publisher_name = tree.front.find('journal-title').text
+                    except: article.publisher_name = ''            
                     
-                try: article.end_page = tree.front.find('lpage').text
-                except: article.end_page = ''
-                
-                try:
-                    for a in tree.find_all('abstract'):
-                        if not a.get('abstract-type')=='precis':
-                            article.abstract = a.text
-                        else:
-                            article.abstract = ''
-                    if not article.abstract: article.no_abstract = True
-                except: 
-                    article.abstract = ''
-                    article.no_abstract = True
-                
-                
-                ###############################
-                ## Build authors list        ##
-                ############################### 
-                try:
-                    for author in tree.find_all('contrib'):
-                        article.add_author(author.find('surname').text + ", " + author.find('given-names').text)
-                    if len(article.authors)==0: raise
-                except:
-                    print "No authors found for " + xmlFile + ". Skipping this article."
-                    log.add_msg("No authors found for " + xmlFile + ". Skipping this article.")
-                    log.countNoAuthors += 1
-                    continue
-                
-                ###############################
-                ## Build keywords list       ##
-                ############################### 
-                if tree.find('kwd'):
-                    for kw in tree.find_all('kwd'):
-                        article.add_keyword(kw.text)
-                if collectionKeyword: article.add_keyword(collectionKeyword)    
-                if not article.keywords: no_keywords = True
+                    try: article.volume = tree.front.find('volume').text
+                    except: article.volume = ''
+                    
+                    try: article.issue = tree.front.find('issue').text
+                    except: article.issue = ''
+                    
+                    try: article.start_page = tree.front.find('fpage').text
+                    except:
+                        try: article.start_page = tree.front.find('elocation-id').text
+                        except: article.start_page = ''
+                        
+                    try: article.end_page = tree.front.find('lpage').text
+                    except: article.end_page = ''
+                    
+                    try:
+                        for a in tree.find_all('abstract'):
+                            if not a.get('abstract-type')=='precis':
+                                article.abstract = a.text
+                            else:
+                                article.abstract = ''
+                        if not article.abstract: article.no_abstract = True
+                    except: 
+                        article.abstract = ''
+                        article.no_abstract = True
+                    
+                    
+                    ###############################
+                    ## Build authors list        ##
+                    ############################### 
+                    try:
+                        for author in tree.find_all('contrib'):
+                            article.add_author(author.find('surname').text + ", " + author.find('given-names').text)
+                        if len(article.authors)==0: raise
+                    except:
+                        print "No authors found for " + xmlFile + ". Skipping this article."
+                        log.add_msg("No authors found for " + xmlFile + ". Skipping this article.")
+                        log.countNoAuthors += 1
+                        continue
+                    
+                    ###############################
+                    ## Build keywords list       ##
+                    ############################### 
+                    if tree.find('kwd'):
+                        for kw in tree.find_all('kwd'):
+                            article.add_keyword(kw.text)
+                    if collectionKeyword: article.add_keyword(collectionKeyword)    
+                    if not article.keywords: no_keywords = True
+
+                ########################################
+                ## Process Elsevier XML files         ##
+                ########################################                
+                elif tree.find('coredata'):
+                    print 'Elsevier formatted XML for' + xmlFile
+                    # Read the first three elements and create the article object
+                    try: doi = tree.coredata.find('dc:identifier').text 
+                    except: doi=''
+                    try: title = tree.coredata.find('dc:title').text
+                    except: title=''
+                    try: year = tree.coredata.find('prism:coverdate').text[:4]
+                    except: year = ''
+        
+                    article = Article(doi, title, year)
+                    
+                else:
+                    print 'Unknown XML format...'
                     
                 
                 ###############################
