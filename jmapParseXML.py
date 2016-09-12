@@ -21,11 +21,11 @@ from bs4 import UnicodeDammit
 sys.path.append('/Users/Jason/Dropbox/JournalMap/scripts/GeoParsers')
 
 
-startDir = '/Users/jason/Google Drive/JournalMap/GeoParser_Paper/TandF/2015/tjps20.v032.i03'
-#startDir = '/Volumes/XML Storage/TandF/new_content'
-articlesFile = startDir + '/articles_re.csv'
-locationsFile = startDir + '/locations_re.csv'
-logFile = startDir + '/jmap_parse_re.log'
+#startDir = '/Users/jason/Google Drive/JournalMap/TandF/Planning_Perspectives'
+startDir = '/Volumes/XML Storage/TandF/journal_of_natural_history/processed'
+articlesFile = startDir + '/articles.csv'
+locationsFile = startDir + '/locations.csv'
+logFile = startDir + '/jmap_parse.log'
 collectionKeyword = "" # Add special keyword for organizing into a collection
 allArticles = False  # Include only articles that have parsed locations in the output?
 geoparser = "re" # Which geoparser to use: "re" (Regular Expression) or "pyparsing"
@@ -205,8 +205,9 @@ with open(articlesFile, 'wb') as articlesCSV:
     
                 # Read the XML
                 f = open(xmlFile)
-                xmlStr = UnicodeDammit(f.read())
-                tree = BeautifulSoup(xmlStr.unicode_markup,"lxml")
+                #xmlStr = UnicodeDammit(f.read())
+                #tree = BeautifulSoup(xmlStr.unicode_markup,"lxml")
+                tree = BeautifulSoup(f.read(),"lxml")
                 f.close()
                 print tree.prettify()
 
@@ -280,13 +281,14 @@ with open(articlesFile, 'wb') as articlesCSV:
                 ## Process Elsevier XML files         ##
                 ########################################                
                 elif tree.find('coredata'):
+                    meta = tree.find('coredata')
                     print 'Elsevier formatted XML for' + xmlFile
                     # Read the first three elements and create the article object
-                    try: doi = tree.coredata.find('dc:identifier').text 
+                    try: doi = tree.coredata.find('identifier').text 
                     except: doi=''
-                    try: title = tree.coredata.find('dc:title').text
+                    try: title = tree.coredata.find('title').text
                     except: title=''
-                    try: year = tree.coredata.find('prism:coverdate').text[:4]
+                    try: year = tree.coredata.find('coverDate').text[:4]
                     except: year = ''
         
                     article = Article(doi, title, year)

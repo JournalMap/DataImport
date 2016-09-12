@@ -21,8 +21,8 @@ def customizations(record):
     
     return record
 
-infile = '/Users/jason/Google Drive/JournalMap/Toolik_FS/bibtex_export.bib'  #Dropbox/JournalMap/scripts/bibtex_parser/bibtex_test_set.txt'
-outfile = '/Users/jason/Google Drive/JournalMap/Toolik_FS/articles.csv'  #JournalMap/scripts/bibtex_parser/test.csv'
+infile = '/Users/jason/Dropbox/JournalMap/SampleMarsPapers/bibtex-records_first100MarsExamples.txt'  #Dropbox/JournalMap/scripts/bibtex_parser/bibtex_test_set.txt'
+outfile = '/Users/jason/Dropbox/JournalMap/SampleMarsPapers/articles100.csv'  #JournalMap/scripts/bibtex_parser/test.csv'
 
 
 ## open BibTex file
@@ -60,7 +60,8 @@ with open(outfile, 'wb') as outcsv:
 
     article_list = bp.get_entry_list()
     for article in article_list:    
-        typ = article['type']
+        #typ = article['type']
+        typ = 'article'
         if typ=='article':
             if 'author' in article.keys():
                 authors = ', '.join(article['author'])
